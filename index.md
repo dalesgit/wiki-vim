@@ -1,4 +1,4 @@
-*Contents*
+*[Contents](Contents.md)*
 * [Root index](#Root index)
 [initial testing](initial testing.md) :technical:
 
