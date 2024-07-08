@@ -48,3 +48,16 @@
   `n`     <leader>wu          |<plug>(wiki-journal-toweek)|        [JOURNAL] \
   `n`     <leader>wm          |<plug>(wiki-journal-tomonth)|       [JOURNAL] \
 
+  ---
+
+wiki-pages   | <C-g>
+Ctrlsf ==>   | <C-M-f> (folder)
+gm ==> LivedownToggle
+Zotero:
+    "@" part of auth/title then <C-x> <C-o>
+    (leader) zi = info
+    (leader) za = all fields
+
+---
+
+<C-M- +/-> size terminal font
