@@ -8,9 +8,10 @@
 [current-beelink-vimrc](current-beelink-vimrc.md)
 
 ## For beelink where tab doesn't work
-`n`     <tab>               |<plug>(wiki-link-prev)|
-n`     <tab>               |<plug>(wiki-link-next)|
+n     <tab>               |<plug>(wiki-link-prev)|
+n     <tab>               |<plug>(wiki-link-next)|
 
-[[vim tabular.md]]
 
-[[https://github.com/dhruvasagar/vim-table-mode.md|https://github.com/dhruvasagar/vim-table-mode]] This was edited using this plugin.
+
+
+
