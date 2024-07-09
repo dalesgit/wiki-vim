@@ -11,5 +11,4 @@
 `n`     <tab>               |<plug>(wiki-link-prev)|
 n`     <tab>               |<plug>(wiki-link-next)|
 
-## [[vim tabular.md|vim tabular]]
-
+[[vim tabular.md]]
