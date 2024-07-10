@@ -36,6 +36,7 @@ tags:
   `n`     <leader>wu          |<plug>(wiki-journal-toweek)|        [JOURNAL] \
   `n`     <leader>wm          |<plug>(wiki-journal-tomonth)|       [JOURNAL] \
 
+  <leader>wf       | transform link to another type
 ---
 
 wiki-pages   | <C-g>
