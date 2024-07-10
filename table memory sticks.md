@@ -29,8 +29,11 @@ tags:
 | Sandisk         | 16   | Mom & other data               |                      |
 | Infinitive      | 16   | Mom Photo                      |                      |
 | Blue            | 32   | St. Mary's files               |                      |
+| Adapta          |      | Sam / Matt's wedding           |                      |
+| Data covered    |      | Math                           |                      |
+| Pny covered     | 8    | Tenure                         |                      |
 |-----------------|------|--------------------------------|----------------------|
-| Infinitive (Bl) | 128  | Asus container; Toshiba backup |                      |
+| Infinitive (Bl) | 128  | Asus container; Toshiba backup | yellow lanyard       |
 |-----------------|------|--------------------------------|----------------------|
 
 Small "Android" and "iOS" clicker. CR2032. This might be handy if it still works. With Data files
