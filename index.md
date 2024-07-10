@@ -12,6 +12,6 @@ n     <tab>               |<plug>(wiki-link-prev)|
 n     <tab>               |<plug>(wiki-link-next)|
 
 
-
+[table memory sticks](table memory sticks.md)
 
 
