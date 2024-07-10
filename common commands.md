@@ -67,3 +67,16 @@ nmap gm :LivedownToggle<CR>
 map <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
 set foldlevelstart=99
 "
+---
+The mappings that act on links are listed in |wiki-mappings-default|. The most
+notable default mappings are:
+- A link may be followed with `<cr>`.
+- `<cr>` used on normal text (not on a link) will transform the text into
+  a link of the type specified by |g:wiki_link_creation|. This also works in
+  visual mode.
+- Similarly, `gl` may be used to turn operated text into a link.
+- One may use `<bs>` to navigate back after following a link.
+- `<leader>wf` can be used to transform a link between different types (see
+  |g:wiki_link_transforms|).
+
+---
