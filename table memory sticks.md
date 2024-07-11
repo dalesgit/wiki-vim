@@ -3,6 +3,8 @@ title: table memory sticks
 date: 2024-07-10
 tags: 
 ---
+:memory:
+
 # table memory sticks
  | stick           | Size | data                           | Note                 |
  |-----------------|------|--------------------------------|----------------------|

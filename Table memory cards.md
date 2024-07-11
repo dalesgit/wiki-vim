@@ -1,9 +1,11 @@
 ---
 title: Table memory cards
 date: 2024-07-09
-tags: 
----
+tags: :dale:
+--
 # Table memory cards
+
+:memory:
 
 | card            | contents                                                        | note                                |
 |-----------------|-----------------------------------------------------------------|-------------------------------------|
