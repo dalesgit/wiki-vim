@@ -35,17 +35,20 @@ tags:
   `n`     <leader><c-n>       |<plug>(wiki-journal-copy-tonext)|   [JOURNAL] \
   `n`     <leader>wu          |<plug>(wiki-journal-toweek)|        [JOURNAL] \
   `n`     <leader>wm          |<plug>(wiki-journal-tomonth)|       [JOURNAL] \
+---
 
+---
   <leader>wf       | transform link to another type
 ---
 
-wiki-pages   | <C-g>
-Ctrlsf ==>   | <C-M-f> (folder)
-gm ==> LivedownToggle
-Zotero:
-    "@" part of auth/title then <C-x> <C-o>
-    (leader) zi = info
-    (leader) za = all fields
+wiki-pages   | <C-g> \
+Ctrlsf ==>   | <C-M-f> (folder) \
+gm ==> LivedownToggle \
+
+Zotero: \
+    "@" part of auth/title then <C-x> <C-o>  \
+    (leader) zi = info \
+    (leader) za = all fields \
 
 ---
 
@@ -53,24 +56,27 @@ Zotero:
 
 ---
 
-nmap     <C-S>f <Plug>CtrlSFPrompt
-vmap     <C-S>f <Plug>CtrlSFVwordPath
-vmap     <C-S>F <Plug>CtrlSFVwordExec
-nmap     <C-S>n <Plug>CtrlSFCwordPath
-nmap     <C-S>p <Plug>CtrlSFPwordPath
-nnoremap <C-S>o :CtrlSFOpen<CR>
-nnoremap <C-S>t :CtrlSFToggle<CR>
-inoremap <C-S>t <Esc>:CtrlSFToggle<CR>
+- nmap     <C-S>f <Plug>CtrlSFPrompt
+- vmap     <C-S>f <Plug>CtrlSFVwordPath
+- vmap     <C-S>F <Plug>CtrlSFVwordExec
+- nmap     <C-S>n <Plug>CtrlSFCwordPath
+- nmap     <C-S>p <Plug>CtrlSFPwordPath
+- nnoremap <C-S>o :CtrlSFOpen<CR>
+- nnoremap <C-S>t :CtrlSFToggle<CR>
+- inoremap <C-S>t <Esc>:CtrlSFToggle<CR>
+
 "
 nmap gm :LivedownToggle<CR>
+
 "---
 " insert date/time
-map <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
+map <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>  \
 set foldlevelstart=99
 "
 ---
 The mappings that act on links are listed in |wiki-mappings-default|. The most
 notable default mappings are:
+
 - A link may be followed with `<cr>`.
 - `<cr>` used on normal text (not on a link) will transform the text into
   a link of the type specified by |g:wiki_link_creation|. This also works in
