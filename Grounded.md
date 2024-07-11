@@ -4,6 +4,7 @@ date: 2024-07-06
 tags: 
 ---
 
+
 # Grounded
 ## Introduction
 - "divine nearness" she refers to her *A People's History of Christianity*.
@@ -30,3 +31,5 @@ Within a century in which the Christian Churches had to face and adapt to an unp
 - The discussion was energized around the "scientific" aspect of soil, her unpacking so much. The subheading "Where is God in soil"  is the big question for  me. 
 - difference between urban country living.
 - Steve kind of gets it: getting grounded is more than the plans, cf. isolation of iphones, etc.
+
+
