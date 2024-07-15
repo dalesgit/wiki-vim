@@ -6,6 +6,7 @@ tags:
 # apply spiritual direction
 
 [Charlotte Spirituality Center — Accelerated Clergy Program](https://www.charlottespiritualitycenter.org/)
+
 # Account of my life
 
 # Development of my religious life
