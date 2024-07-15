@@ -49,10 +49,31 @@ I told my (Bishop) that I had a vision of doing ministry where nobody else wante
 Finally I retired from my career as a parish priest and had a short career as an adjunct professor at several universities. Now, I am retired from all of it, ie. I'm not being paid to do it, but I still preach and celebrate, and I recognize that in many ways I'm a teacher at heart. 
 # A time when I accompanied someone on their faith journey
 
-There are so many stories I could tell, particularly because in many ways "accompanying people on their faith journey" is what I lived for these past 40+ years. One, perhaps stands out as particularly gentle and sustained.
+There are so many stories I could tell, particularly because in many ways "accompanying people on their faith journey" is what I lived for these past 40+ years. One, perhaps stands out as particularly gentle and sustained. 
 
+The church I served was located on the shore of Lake Michigan. I met early on a couple from Memphis. He was a church organist and a professor in the music department of Memphis University. She was a faithful and active Episcopalian. They owned a cottage beside the lake and would spend summers there. In time I hired a music minister at the church, but one of his requirements was that he would have the summers off. My friend, I'll call him Warren, was glad to be a regular replacement on the organ. 
+
+We talked frequently. At first mostly about church music, but along the way about our lives. We became friends. Eventually I asked him to be a godparent for my youngest daughter when she was baptized. As we talked, he trusted me more and more that I accepted him, that I loved him, without conditions. He shared more about the deep sadness that was injected into his life when his beloved youngest daughter had died in a climbing accident while traveling in Europe. This had happened some 25 years earlier. He had never really believed in God ever since. 
+
+Still, I accepted him, and since I represented that God he didn't trust, he was surprised that I still accepting him. 100% accepted him. And so it was until one summer when he was on a tour of 16th c. organs Mexican organs. He fell gravely ill and was hospitalized for many weeks in Mexico. He seemed to be near death several times.
+
+When he returned to Michigan City he was a changed person. He couldn't wait to tell me his story. Sitting there, on the organ bench, he told me of how he now believed. He described the passion with which he had argued with God over many years, and of how he had found many and sophisticated reasons to disbelieve. But then, as if in a sudden burst of light, lying in a foreign hospital bed, he found that there was one thing in the world that he could not argue with. He had experienced one thing that seemed to make the whole universe real for him in a new way. He said, "I cannot deny love."
+
+I know that it was this newfound trust in a loving God that supported him through his remaining 10 years or so of struggle with multiple myloma. Journeying with him, as a loving friend, is one of the great privileges of my life. I am grateful.
 
 
 # My impression of Spiritual Direction
 
+I first became aware of what I regard as spiritual direction during my seminary years. We had the good fortune to host Kenneth Leech for several months on 2 successive years. He, of course, was the author of *Soul Friend; spiritual direction in the modern world*.  He spiritedly merged a passionate longing for social justice, a background in Anglo-Catholic spirituality, and an awareness of the Celtic tradition that others like John O'Donohue have written about in the years since.
 
+I understand spiritual direction to be a journey that two people agree to take, a kind of pilgrimage. It may be shorter or longer, but it is a journey not a weekend getaway. Chief among the requirements I understand to be:
+
+1. love and acceptance
+2. listening with care and attention
+3. questioning with a concern for the other person's life trajectory
+
+I accepted for myself long ago that I needed a spiritual director in order to find my way in the mysteries that sang to me:
+
+- Why am here?
+- Where am I going?
+- How do I respond to the unfathomable richness of the creation that surrounds me?
