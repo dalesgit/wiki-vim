@@ -38,8 +38,20 @@ My parents were divorced in my early adolescence. I know that in both straightfo
 I experienced my divorces as a kind of death, and from them I experienced a wide range of grieving responses. The alienations engendered in all of that have led to one difficult relationship with a daughter and one broken relationship with a daughter, both of them with my 2nd wife. I have experienced that as a death of sorts, and my reactions and responses continue, even though in many ways I have found ways to go on with my life. 
 # Development of my religious life
 
+I have already given some clear indications about how one might begin to understand the development of my religious life. From a young age I have felt a kinship with Jesus and God and all that might go hand-in-hand with that. In some ways a place that on the lap of my grandmother who was devoted to her Methodist church and happily shared stories and prayers with us. Around the time of my parents divorce I had a keen sense that those stories and and the ways that had been taught me in the church of my youth were not sufficient to sustain me. My mother was looking for a church that could support her during the time of separation and divorce from my father. She found her way to the episcopal church. I remember to this day what I felt as I was introduced to a more sacramentally oriented church than I had known. The words that I used to describe my experience had to do with a shared common cup and the candles that were lit with actual flames. I said that it felt like "real church". I rather think that I've been looking for the real church ever since.
 
+Like countless others, my 20s were spent searching for who I was and what I was sent for, how to make a living, how to find some satisfaction in the life I was seeking. I found my way back to the church through the friendship of a retired priest who is doing research at the library I worked out. Over many hours and days and lunches we became friends. He was comfortable with all my talk about God and prayer and how it all fit together. It felt safe to go where he had gone before.
+
+During this time I crave the community like I had read had developed around Little Gidding through the guidance of Nicholas Ferrar. I learned about communities of different kinds being developed by people of faith: Sojourners in Washington D.C., Catholic Worker houses, charismatic retreat centers. One thing and another and I found myself in seminary, preparing for parish ministry. Looking back, I didn't have a clue what I was doing.
+
+I told my (Bishop) that I had a vision of doing ministry where nobody else wanted to go. Hospice chaplaincy perhaps? Small church ministry based on the working priest model? Mixing teaching and pastoral care? Ultimately my ministry has combined elements of all these things. I graduated cum laude from seminary, but halted for the time being the ordination to ministry in order to attend graduate school at Notre Dame. I felt called to both, and I have found creative ways through the decades to do both.
+
+Finally I retired from my career as a parish priest and had a short career as an adjunct professor at several universities. Now, I am retired from all of it, ie. I'm not being paid to do it, but I still preach and celebrate, and I recognize that in many ways I'm a teacher at heart. 
 # A time when I accompanied someone on their faith journey
+
+There are so many stories I could tell, particularly because in many ways "accompanying people on their faith journey" is what I lived for these past 40+ years. One, perhaps stands out as particularly gentle and sustained.
+
+
 
 # My impression of Spiritual Direction
 
