@@ -73,7 +73,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "c6bd4b6edab0f4b6",
@@ -117,9 +118,18 @@
             "file": "journal/2024-07-14.md"
           }
         }
+      },
+      {
+        "id": "19d948932675fc26",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,12 +143,14 @@
   },
   "active": "453e3d94c1431bc9",
   "lastOpenFiles": [
-    "simple-voice.md",
+    "sample.md",
     "journal/2024-07-14.md",
+    "default-keystrokes.md",
+    "journal/2024-07-08.md",
+    "simple-voice.md",
     "simple-sample-voice.md",
     "journal/2024-07-04.md",
     "Preaching.md",
-    "Guide.md",
-    "sample.md"
+    "Guide.md"
   ]
 }
