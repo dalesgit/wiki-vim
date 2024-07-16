@@ -5,10 +5,12 @@
 **Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or even one word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
 
 We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
+
 ## Recent 
 
-[-](-.md) Current
+- Current
 	- ~~Peg RIP 6/1/24 in hospice~~
+    - The violence attacking the election
 	- waiting for God to show me my calling now in Florida. (git-journal, wiki.vim) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~, Scott and Loa
 	- Cynthia Marie
