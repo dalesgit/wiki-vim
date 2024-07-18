@@ -87,4 +87,3 @@ notable default mappings are:
 - `[leader]wf` can be used to transform a link between different types (see
   |g:wiki_link_transforms|).
 
----
