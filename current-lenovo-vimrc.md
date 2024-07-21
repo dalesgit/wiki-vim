@@ -12,7 +12,8 @@ filetype plugin indent on   " For plugins to load correctly
 " let mapleader = ","
 "
 set modelines=0     " Security
-set number    " Show line numbers
+" set number    " Show line numbers
+set nonumber    " Hide line numbers
 set ruler  " Show file stats
 set visualbell   " Blink cursor on error instead of beeping (grr)
 set encoding=utf-8  " Encoding
@@ -100,7 +101,24 @@ let g:vim_markdown_edit_url_in = 'vsplit'
 " ----------------------------
 " cf. https://github.com/junegunn/vim-plug
 call plug#begin()
-
+"
+" to add wiki highlighting?
+Plug 'lervag/wiki-ft.vim'
+"
+" Plug 'bpstahlman/txtfmt'
+Plug 'tpope/vim-surround'
+"
+" footnotes in markdown
+"
+" vim-plug
+Plug 'vim-pandoc/vim-markdownfootnotes'
+"
+" for aligning tables
+" [Align GitHub-Flavored Markdown Tables in Vim](https://thoughtbot.com/blog/align-github-flavored-markdown-tables-in-vim "Align GitHub-Flavored Markdown Tables in Vim")
+" see leader bslash setup below
+" Plug 'junegunn/vim-easy-align'
+Plug 'dhruvasagar/vim-table-mode'
+"
 Plug 'francoiscabrol/ranger.vim'   " ranger integration
 "
 Plug 'lervag/wiki.vim'
@@ -130,7 +148,7 @@ Plug 'jalvesaq/zotcite'
 "Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 
 " On-demand loading
-Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' }
+" Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' }
 "Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
 
 " Using a non-default branch
@@ -150,7 +168,30 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 
 " Initialize plugin system
 " - Automatically executes `filetype plugin indent on` and `syntax enable`.
+"
 call plug#end()
+"
+" -------
+" easy align
+" Align GitHub-flavored Markdown tables
+" au FileType markdown vmap <Leader><Bslash> :EasyAlign*<Bar><Enter>
+" below is for ease of use https://github.com/dhruvasagar/vim-table-mode
+"
+function! s:isAtStartOfLine(mapping)
+  let text_before_cursor = getline('.')[0 : col('.')-1]
+  let mapping_pattern = '\V' . escape(a:mapping, '\')
+  let comment_pattern = '\V' . escape(substitute(&l:commentstring, '%s.*$', '', ''), '\')
+  return (text_before_cursor =~? '^' . ('\v(' . comment_pattern . '\v)?') . '\s*\v' . mapping_pattern . '\v$')
+endfunction
+
+inoreabbrev <expr> <bar><bar>
+          \ <SID>isAtStartOfLine('\|\|') ?
+          \ '<c-o>:TableModeEnable<cr><bar><space><bar><left><left>' : '<bar><bar>'
+inoreabbrev <expr> __
+          \ <SID>isAtStartOfLine('__') ?
+          \ '<c-o>:silent! TableModeDisable<cr>' : '__'
+" -----
+"
 " You can revert the settings after the call like so:
 "   filetype indent off   " Disable file-type-specific indentation
 "   syntax off            " Disable syntax highlighting
@@ -186,11 +227,11 @@ endfunction
 "
     let g:wiki_templates = [
           \ { 'match_re': 'index',
-          \   'source_filename': '/home/dale/templates/template.md'},
+          \   'source_filename': '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/templates/template.md'},
           \ { 'match_re': 'blog',
-          \   'source_filename': '/home/dale/templates/blogtemplate.md'},
+          \   'source_filename': '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/templates/blogtemplate.md'},
           \ { 'match_re': '2024',
-          \   'source_filename': '/home/dale/templates/journaltemplate.md'},
+          \   'source_filename': '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/templates/journaltemplate.md'},
           \ { 'match_func': {x -> v:true},
           \   'source_func': function('TemplateFallback')},
           \]
@@ -243,29 +284,12 @@ map <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
 set foldlevelstart=99
 "
 " set wiki.vim link types
-        let g:wiki_link_creation = {
-              \ 'wiki': {
-              \   'link_type': 'md',
-              \   'url_extension': '.md',
-              \   'url_transform': { x ->
-              \     substitute(tolower(x), '\s\+', '-', 'g') },
-              \ },
-              \}
-    let g:wiki_link_creation = {
-          \ 'md': {
-          \   'link_type': 'wiki',
-          \   'url_extension': '.md',
-          \ },
-          \ 'org': {
-          \   'link_type': 'org',
-          \   'url_extension': '.org',
-          \ },
-          \ 'adoc': {
-          \   'link_type': 'adoc_xref_bracket',
-          \   'url_extension': '',
-          \ },
-          \ '_': {
-          \   'link_type': 'wiki',
-          \   'url_extension': '',
-          \ },
-          \}
+"
+" let g:wiki_link_creation = {
+"          \ 'md': {
+"          \   'link_type': 'wiki',
+"          \   'url_extension': '.md',
+"          \ },
+"          \}
+" per https://github.com/lervag/wiki-ft.vim/blob/master/doc/wiki-ft.txt
+"let g:wiki_loaded = 0
