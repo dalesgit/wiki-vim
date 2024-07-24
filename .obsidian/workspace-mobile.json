@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-07-14.md",
+                "file": "prayer.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +44,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
-            "matchingCase": false,
+            "query": "cup",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 1,
     "pinned": true
   },
   "right": {
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2024-07-14.md",
+            "file": "prayer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2024-07-14.md",
+            "file": "prayer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2024-07-14.md"
+            "file": "prayer.md"
           }
         }
       },
@@ -128,7 +128,7 @@
         }
       }
     ],
-    "currentTab": 3,
+    "currentTab": 0,
     "pinned": true
   },
   "left-ribbon": {
@@ -143,8 +143,14 @@
   },
   "active": "453e3d94c1431bc9",
   "lastOpenFiles": [
-    "sample.md",
+    "journal/2024-07-23.md",
+    "journal/2024-07-24.md",
+    "Linda.md",
+    "journal/2024-07-21.md",
+    "journal/2024-07-22.md",
+    "prayer.md",
     "journal/2024-07-14.md",
+    "sample.md",
     "default-keystrokes.md",
     "journal/2024-07-08.md",
     "simple-voice.md",

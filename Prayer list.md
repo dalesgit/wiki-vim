@@ -2,7 +2,7 @@
 
 ## After lectio
 
-**Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or even one word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
+**Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
 
 We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
@@ -77,7 +77,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
     - Howie's sister, Joye, diabetes?
 - Katy: new home, b/day **Dec. 11, 1959**
 - Jane Jackson, Raymond
-- Frannie & Joe Heider Fran b/day June **12, 1963**
+- Frannie & Joe Heider Fran b/day **June 12, 1963**
 	- Valerie & John,  Val b/day **Aug 29, 1982**. John **Oct. 24, 1982**
 	    - Lily, Garret, Pierce, Zellie
 	- Kevin & Kristin, Kevin b/day **Apr 11, 1984**. Kristin b/day **June 3, 1985**
