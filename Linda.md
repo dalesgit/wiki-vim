@@ -7,8 +7,12 @@ tags:
 ## Reading
 
 - @U5UTBL84#Rupp_2012, p. 12
+
 - @TN73JIT9#Guenther_1992
-- @3UEJYQFR#Rolheiser_2014
+
+- @UEJYQFR#Rolheiser_2014
+
+@3UEJYQFR#Rolheiser_2014
 
 ## re. zotero and pandoc
 
