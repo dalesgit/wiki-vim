@@ -1,6 +1,4 @@
-[[Prayers]]
-
-## After lectio
+[[Prayers]] ## After lectio
 
 **Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
 
@@ -110,6 +108,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
     - Katrina (spouse? daughter?)
 - Carolyn (write letter)
 
+ 
 ### Children
 - Julian: (Health ins., new home, hiking) **2/21/80**
 - Sean: bday **1/4/78** recovery;  Jolene. Grace/Raven (bday **10/10**). Jane Jackson:  CA returned
