@@ -111,3 +111,8 @@ inoreabbrev <expr> __
           \ <SID>isAtStartOfLine('__') ?
           \ '<c-o>:silent! TableModeDisable<cr>' : '__'
 Enter the first line, delimiting columns by the | symbol. The plugin reacts by inserting spaces between the text and the separator if you omit them:?
+
+## surround.vim
+c+s key key = change surround
+d+s key = delete surround
+y+s (e.g. 2w) key = insert
