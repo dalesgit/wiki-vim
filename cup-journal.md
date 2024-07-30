@@ -4,6 +4,10 @@ date: 2024-07-26
 tags: 
 ---
 # journaling the cup
+## Thursday 7-25
+
+1. My cup is chosen for the turtles that remind me of the **honu** in Hawai'i. It is mellow in color, brownish, I felt its color. And now, after many washings, the illustration is slowly pealing off. I didn't recognize this at first, many months ago, when I thought it was part of the design. Honu, fleeting, racing across the sand to survive. Twice I have swum with them.
+
 
 ## Fri 2024-07-26 07:40:23-0400
 - *John 15:1-11* or 
@@ -25,3 +29,5 @@ I haven't written for several days. It is my discipline that has been a lifelong
 I remember still some of the feeling of those fleeting moments when I was on a surfboard. So out of my water. So disoriented by my eyesight. But it was enough to know that the main thing to grasp was the sense of the waves, the power of the ocean. God the ocean.
 
 Remember I am a vessel holding God's love, the **stream**.
+
+The movie tonight came with some built-in alienation impulses. MP and I didn't hit it off. Mis-firing. Going in different directions. But I ended up thinking particularly about the **flautist**  at Lakewood High (the name of the school in the film, byw). She gave me T.S Eliot, in the form of the *Hollow Men.* It wasn't as eye-popping to me at the time as it has subsequently become. I don't even know her name. But I think she was my first love. The woman I should have pursued but didn't for all the wrong male adolescent reasons. 
