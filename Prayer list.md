@@ -1,5 +1,7 @@
 [[Prayers]] ## After lectio
 
+Using *Joplin* as of Tue 2024-07-30 08:53:21-0400
+
 **Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
 
 We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
