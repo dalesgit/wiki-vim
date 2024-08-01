@@ -31,3 +31,12 @@ I remember still some of the feeling of those fleeting moments when I was on a s
 Remember I am a vessel holding God's love, the **stream**.
 
 The movie tonight came with some built-in alienation impulses. MP and I didn't hit it off. Mis-firing. Going in different directions. But I ended up thinking particularly about the **flautist**  at Lakewood High (the name of the school in the film, byw). She gave me T.S Eliot, in the form of the *Hollow Men.* It wasn't as eye-popping to me at the time as it has subsequently become. I don't even know her name. But I think she was my first love. The woman I should have pursued but didn't for all the wrong male adolescent reasons. 
+
+
+## Wed 2024-07-31 23:37:11-0400
+
+Today's meditation focuses on the need for discipline. My reflections focus on my failure in that regard. For several days I've kept the discipline of reflecting (for a sentence or 2) on my reading. For a day or 2 I keep the discipline of playing piano. I feel hopeful after these couple of days -- then the remorse of my failure. 
+
+The cup and its boundaries, its disciplines, are what makes it possible to hold the substance intended for it.
+
+This morning I had thought that perhaps my **boundary** needed to be to write and reflect in the quiet of the time just before I got to bed. Tonight I'm trying that. Perhaps so.
