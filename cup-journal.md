@@ -40,3 +40,5 @@ Today's meditation focuses on the need for discipline. My reflections focus on m
 The cup and its boundaries, its disciplines, are what makes it possible to hold the substance intended for it.
 
 This morning I had thought that perhaps my **boundary** needed to be to write and reflect in the quiet of the time just before I got to bed. Tonight I'm trying that. Perhaps so.
+
+The circularity of the cup. The cylindrical shape. How does that fit my life? "Close your eyes and imagine your spiritual boundaries." the text prompts. 
