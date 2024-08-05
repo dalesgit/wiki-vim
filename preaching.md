@@ -13,7 +13,7 @@ tags:
 
 ## What I know
 
-- Paradox
+- [paradox.md](paradox.md)
 - Surprise
 - aim for gratitude
 - Dorothy Day's phrase "The duty of delight" (wonder & awe), like children
