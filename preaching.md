@@ -14,7 +14,9 @@ tags:
 ## What I know
 
 - [paradox.md](paradox.md)
-- Surprise
-- aim for gratitude
-- Dorothy Day's phrase "The duty of delight" (wonder & awe), like children
-- "It's all Grace"
+- [surprise](surprise.md)
+- aim for [gratitude](gratitude.md)
+- Dorothy Day's phrase "[The duty of delight](The duty of delight.md)" (wonder & awe), like children
+- "[It's all Grace](It's all Grace.md)"
+
+## Spell it out
