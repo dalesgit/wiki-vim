@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "066b29a862eacb70",
+        "id": "42db7e95595113a4",
         "type": "tabs",
         "children": [
           {
-            "id": "453e3d94c1431bc9",
+            "id": "426e65cc70c29990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-07-11.md",
+                "file": "journal/2024-08-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "cup",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2024-07-11.md",
+            "file": "journal/2024-08-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2024-07-11.md",
+            "file": "journal/2024-08-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2024-07-11.md"
+            "file": "journal/2024-08-07.md"
           }
         }
       },
@@ -128,8 +128,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,8 +140,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "453e3d94c1431bc9",
+  "active": "bb8b3a05e38b59d7",
   "lastOpenFiles": [
+    "journal/2024-07-11.md",
     "journal/2024-07-12.md",
     "journal/2024-07-13.md",
     "journal/2024-07-14.md",
