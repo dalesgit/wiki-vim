@@ -122,3 +122,6 @@ y+s (e.g. 2w) key = insert
 <C-k> ., = ellipsis
 <C-k> 12 = one half (14 = fourth)
 
+---
+
+[Vim Cheat Sheet](https://vim.rtorr.com/ "Vim Cheat Sheet")
