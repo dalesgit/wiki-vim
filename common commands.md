@@ -124,4 +124,4 @@ y+s (e.g. 2w) key = insert
 
 ---
 
-[Vim Cheat Sheet](https://vim.rtorr.com/ "Vim Cheat Sheet")
+[Vim Cheat Sheet](https://vim.rtorr.com/)
