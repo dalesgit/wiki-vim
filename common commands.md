@@ -176,7 +176,7 @@ c+s key key = change surround
 d+s key = delete surround
 y+s (e.g. 2w) key = insert
 
-# digraphs https://vimhelp.org/digraph.txt.html
+## digraphs https://vimhelp.org/digraph.txt.html
 
 <C-k> ., = ellipsis
 <C-k> 12 = one half (14 = fourth)
