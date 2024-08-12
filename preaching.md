@@ -7,7 +7,11 @@ tags:
 
 ## Schedule
 
+[journal/2024-08-15.md](journal/2024-08-15.md.md) The first Thursday mass.
+
 [journal/2024-08-25.md](journal/2024-08-25.md)
+
+[journal/2024-08-29](journal/2024-08-29.md) 2nd healing mass
 
 [journal/2024-10-27](journal/2024-10-27.md) Sunday before **All Saints**. I have preached these propers twice: St. Paul's & Our Saviour
 

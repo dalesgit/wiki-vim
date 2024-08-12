@@ -5,6 +5,7 @@ tags:
 ---
 # Mary Pat
 
+## Home health recovery
 - She asked if she was a wimp about the pain. I responded that everybody has different tolerances for pain. 
 
 Brian the Home health nurse says that various things could cause leg edema. He used to get it from working long hours. Heart, vascular, etc. The pain she used to experience could have been caused by the edema itself pressing against nerves etc. [e.g. that's why diabetics get into trouble because they don't feel the pain and then that leads to problems.]
@@ -27,4 +28,5 @@ He told us about "boots" that can be purchased for home that facilitate circulat
 - Maybe get a power recliner
 - also some kind of riser, like at the gym. Something that would slide.
 
--
+## [Birthday-75](Birthday-75.md)
+

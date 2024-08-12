@@ -147,6 +147,7 @@ notable default mappings are:
 
 ---
 
+
 # table creation:
 
 Creating table on-the-fly
