@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-07-24.md",
+                "file": "healing-mass.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-07-24.md",
+                "file": "healing-mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-07-24.md",
+                "file": "healing-mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-07-24.md"
+                "file": "healing-mass.md"
               }
             }
           },
@@ -156,8 +157,10 @@
   },
   "active": "5f4f338f7ed4635e",
   "lastOpenFiles": [
-    "journal/2024-07-11.md",
+    "rite-1-healing.md",
+    "journal/2024-08-14.md",
     "journal/2024-07-24.md",
+    "journal/2024-07-11.md",
     "apply spiritual direction.md",
     "journal/2024-07-15.md",
     "apply.md"
