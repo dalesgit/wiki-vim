@@ -56,6 +56,14 @@ Throughout my ministry I have prayed the Hail Mary especially at times when I di
 
 All this is figurative, of course. As with much else in the church, we are invited into a rich tapestry of stories and metaphors, parables and paradoxes. Mary is comfortable with paradoxes. Mary is with us in such times. In the presence of the **Communion of the Saints**, Mary has a place of prominence. 
 
+## From *Lesser Feasts*
+
+The honor paid to Mary, the Mother of Jesus Christ, goes back to the earliest days of the church. Two Gospels tell of the manner of Christ’s birth, and the familiar Christmas story testifies to the church’s conviction that he was born of a virgin. In Luke’s Gospel, we catch a brief glimpse of Jesus’ upbringing at Nazareth, when the child was in the care of his mother and her husband Joseph.  During Jesus’ ministry in Galilee, we learn that Mary was often with the other women who followed Jesus and ministered to his needs.  At Calvary, she was among the little band of disciples who kept watch at the cross. After the resurrection, she was to be found with the Twelve in the upper room, watching and praying until the coming of the Spirit at Pentecost.
+
+Mary was the person closest to Jesus in his most impressionable years, and the words of the Magnificat, as well as her courageous acceptance of God’s will, bear more than an accidental resemblance to the Lord’s Prayer and the Beatitudes of the Sermon on the Mount.  Later devotion has claimed many things for Mary beyond the brief description that is given in Holy Scripture. What we can believe is that one who stood in so intimate a relationship with the incarnate Son of God on earth must, of all human beings, have the place of highest honor in the eternal life of God. A paraphrase of an ancient Greek hymn expresses this belief in very familiar words: “O higher than the cherubim, more glorious than the seraphim, lead their praises, alleluia.”
+
+---
 
 [^1]: @8BWNNYVW#Cloisters_  [Metropolitan Mus](https://www.metmuseum.org/toah/hd/virg/hd_virg.htm)
+
 

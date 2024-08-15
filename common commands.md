@@ -183,5 +183,13 @@ y+s (e.g. 2w) key = insert
 
 ---
 
+## word count
+press g then Ctrl-g
+
+## add a word to spelling list
+To add words to Vim's spell file, you can use the following commands:
+zg: Adds the word under the cursor to the spell file
+zw: Marks the word under the cursor as a misspelled word
+
 ## [Vim Cheat Sheet](https://vim.rtorr.com/)
 
