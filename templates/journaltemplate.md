@@ -3,8 +3,5 @@ Created: {date} {time}
 
 # Gratitude Journal 
 
-- 
-
 # Diary 
 
-- 
