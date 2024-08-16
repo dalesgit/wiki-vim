@@ -28,5 +28,6 @@ Two texts came to her as she was kind of thinking out loud.
 2. *The Cup of Our Life: A Guide to Spiritual Growth* by Joyce Rupp
 
 As for myself I know the work of both authors, but not these particular books. I'm going to buy both of them.
+
 ## [healing prayer](healing prayer.md)
 
