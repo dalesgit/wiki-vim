@@ -181,7 +181,7 @@ y+s (e.g. 2w) key = insert
 <C-k> ., = ellipsis
 <C-k> 12 = one half (14 = fourth)
 
----
+
 
 ## word count
 press g then Ctrl-g
