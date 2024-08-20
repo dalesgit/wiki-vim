@@ -10,7 +10,6 @@ tags: []
 source: https://www.usccb.org/prayers/angelus
 author: 
 ---
-https://www.usccb.org/prayers/angelus
 
 # Angelus | USCCB 
 
