@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-08-07.md",
+                "file": "Proper-16b-sermon-draft-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "c6bd4b6edab0f4b6",
@@ -86,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2024-08-07.md",
+            "file": "Proper-16b-sermon-draft-2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2024-08-07.md",
+            "file": "Proper-16b-sermon-draft-2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2024-08-07.md"
+            "file": "Proper-16b-sermon-draft-2.md"
           }
         }
       },
@@ -128,7 +127,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb8b3a05e38b59d7",
+  "active": "426e65cc70c29990",
   "lastOpenFiles": [
+    "journal/2024-08-19.md",
+    "journal/2024-08-07.md",
     "journal/2024-07-11.md",
     "journal/2024-07-12.md",
     "journal/2024-07-13.md",
@@ -165,7 +166,6 @@
     "simple-voice.md",
     "simple-sample-voice.md",
     "journal/2024-07-04.md",
-    "Preaching.md",
-    "Guide.md"
+    "Preaching.md"
   ]
 }
