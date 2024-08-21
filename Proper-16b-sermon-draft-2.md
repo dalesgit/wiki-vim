@@ -50,7 +50,7 @@ It was the latter piece that drew me to pay attention to the ark of the covenant
 
 It turns out that the sacred is at heart paradoxical. It is made out of ordinary things but somehow set apart from ordinary things. The sacred is somehow available to us. We can see it feel it and touch it. But what makes it sacred we have no control over at all. God is in charge of that. God cannot be contained.
 
-How might things be different if learned to live more comfortably in a world of "Already/but not yet"? It is so often among us **black and white**, either/or. What if we lived as if God cannot be contained by "us/them"?
+How might things be different if we learned to live more comfortably in a world of "**Already/but not yet**"? It is so often among us **black and white**, either/or. What if we lived as if God cannot be contained by "us/them"?
 
 In our prayer last week, Mary Pat and I read of a little piece about liturgy that resonated with both of us. It was in *Common Prayer; a liturgy for ordinary radicals.*
 
