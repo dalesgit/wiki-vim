@@ -1,3 +1,4 @@
 {
-  "folder": "journal"
+  "folder": "journal",
+  "template": "templates/journaltemplate"
 }
