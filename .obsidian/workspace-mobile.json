@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-08-22.md",
+                "file": "grounded-ch-neighborhood.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2024-08-22.md",
+            "file": "grounded-ch-neighborhood.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2024-08-22.md",
+            "file": "grounded-ch-neighborhood.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2024-08-22.md"
+            "file": "grounded-ch-neighborhood.md"
           }
         }
       },
@@ -150,12 +150,16 @@
   },
   "active": "c4e558d41447371c",
   "lastOpenFiles": [
-    "journal/2024-08-23.md",
+    "preaching.md",
+    "journal/2024-08-25.md",
     "journal/2024-08-24.md",
+    "journal/2024-08-17.md",
+    "journal/2024-08-22.md",
+    "journal/2024-08-21.md",
+    "journal/2024-08-23.md",
     "proper-16b.md",
     "grounded-ch-neighborhood.md",
     "test-obsidian.md",
-    "journal/2024-08-22.md",
     "assets/Paris Agent.jpg",
     "Proper-16b-sermon-draft-2.md",
     "journal/2024-08-19.md",
@@ -172,10 +176,6 @@
     "journal/2024-07-20.md",
     "journal/2024-07-21.md",
     "journal/2024-07-22.md",
-    "journal/2024-07-23.md",
-    "journal/2024-07-24.md",
-    "journal/2024-07-25.md",
-    "prayer.md",
-    "Linda.md"
+    "journal/2024-07-23.md"
   ]
 }
