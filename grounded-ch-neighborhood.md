@@ -11,14 +11,14 @@ Neighborhood
 |        | All of the world’s religions make neighbors the central concern of spirituality and ethics. | 196    |
 | Ethics | Howe to get along with neighbors                                                            | 198    |
 |        | Golden rule                                                                                 | 199    |
-|        | Modern transformation of who is neighbor                                                    | 202    |
+| contemporary       | Modern transformation of who is neighbor                                                    | 202    |
 |        | Age of isolation                                                                            | 203    |
 |        | Technology stretching what it means                                                         | 205    |
-|        | Samaritan and Jews                                                                          | 207    |
+| parable       | Samaritan and Jews                                                                          | 207    |
 |        | Hospitality                                                                                 | 209    |
 |        | Tribes                                                                                      | 210 ff |
-|        | Fences and boundaries                                                                       |        |
-|        | Universal God requires hospitality. Strangers ànd Abraham                                   | 215    |
+| "hedge"       | Fences and boundaries                                                                       |        |
+|        | Universal God requires hospitality. Strangers and Abraham                                   | 215    |
 |        | Convert hostility into hospitality                                                          | 218    |
 |        | Buber I/Thou: treating people as objects                                                    | 222    |
 |        | Farmers market as empathy, interconnect threads                                             | 225    |
