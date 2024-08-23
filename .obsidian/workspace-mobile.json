@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grounded-ch-neighborhood.md",
+                "file": "journal/2024-08-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "grounded-ch-neighborhood.md",
+            "file": "journal/2024-08-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "grounded-ch-neighborhood.md",
+            "file": "journal/2024-08-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "grounded-ch-neighborhood.md"
+            "file": "journal/2024-08-22.md"
           }
         }
       },
@@ -151,6 +151,9 @@
   "active": "c4e558d41447371c",
   "lastOpenFiles": [
     "journal/2024-08-23.md",
+    "journal/2024-08-24.md",
+    "proper-16b.md",
+    "grounded-ch-neighborhood.md",
     "test-obsidian.md",
     "journal/2024-08-22.md",
     "assets/Paris Agent.jpg",
@@ -173,9 +176,6 @@
     "journal/2024-07-24.md",
     "journal/2024-07-25.md",
     "prayer.md",
-    "Linda.md",
-    "sample.md",
-    "default-keystrokes.md",
-    "journal/2024-07-08.md"
+    "Linda.md"
   ]
 }
