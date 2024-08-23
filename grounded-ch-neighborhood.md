@@ -6,21 +6,21 @@ Neighborhood
 4. “The world can no longer afford tribes intent on purity who believe God blesses only them” (p. 220). How does Butler Bass distinguish among tribes, clans, and open tribes? Who might disagree with this statement? 
 
 
-| What   | Note                                                                                        | Page   |
-| ------ | ------------------------------------------------------------------------------------------- | ------ |
-|        | All of the world’s religions make neighbors the central concern of spirituality and ethics. | 196    |
-| Ethics | Howe to get along with neighbors                                                            | 198    |
-|        | Golden rule                                                                                 | 199    |
-| contemporary       | Modern transformation of who is neighbor                                                    | 202    |
-|        | Age of isolation                                                                            | 203    |
-|        | Technology stretching what it means                                                         | 205    |
-| parable       | Samaritan and Jews                                                                          | 207    |
-|        | Hospitality                                                                                 | 209    |
-|        | Tribes                                                                                      | 210 ff |
-| "hedge"       | Fences and boundaries                                                                       |        |
-|        | Universal God requires hospitality. Strangers and Abraham                                   | 215    |
-|        | Convert hostility into hospitality                                                          | 218    |
-|        | Buber I/Thou: treating people as objects                                                    | 222    |
-|        | Farmers market as empathy, interconnect threads                                             | 225    |
-|        | meaningful local community                                                                  |        |
-|        | Norris: The Quotidian Mysteries.                                                            | 227    |
+| What         | Note                                                                                        | Page   |
+| ------       | ------------------------------------------------------------------------------------------- | ------ |
+|              | All of the world’s religions make neighbors the central concern of spirituality and ethics. | 196    |
+| Ethics       | Howe to get along with neighbors                                                            | 198    |
+|              | Golden rule                                                                                 | 199    |
+| contemporary | Modern transformation of who is neighbor                                                    | 202    |
+|              | Age of isolation                                                                            | 203    |
+|              | Technology stretching what it means                                                         | 205    |
+| parable      | Samaritan and Jews                                                                          | 207    |
+|              | Hospitality                                                                                 | 209    |
+|              | Tribes                                                                                      | 210 ff |
+| "hedge"      | Fences and boundaries                                                                       |        |
+|              | Universal God requires hospitality. Strangers and Abraham                                   | 215    |
+|              | Convert hostility into hospitality                                                          | 218    |
+|              | Buber I/Thou: treating people as objects                                                    | 222    |
+|              | Farmers market as empathy, interconnect threads                                             | 225    |
+|              | meaningful local community                                                                  |        |
+|              | Norris: The Quotidian Mysteries.                                                            | 227    |
