@@ -13,9 +13,12 @@
 |                | Her husband Giles taken from her, plane shot down. Sons with gramma.                      | 91       |
 | Charlotte      | Noah's daughter. 1970.                                                                    | ch 4     |
 |                | She's a teacher                                                                           | 97       |
-| Eloise         |                                                                                           | ch. 5    |
+| Eloise         | ?Felice Leroy 184                                                                         | ch. 5    |
 | Josie          |                                                                                           | ch. 6    |
 |                | confirm that retooling for V1 bombs at factory                                            | 157      |
 |                | growing affection for Noah                                                                | 161      |
 |                | relationship with mother "complicated". Mother called her Jocelyn, in France a boy's name | 171      |
-|                |                                                                                           |          |
+|                | reference to she and Chloe training together                                              | 177      |
+|                | ref. to the signal location technique that we saw in the other novel                      | 187      |
+|                | "Fleur did not survive the war" Remy is alive, but name classified                        | 213      |
+|                | Remy agrees to a meeting                                                                  | 232      |
