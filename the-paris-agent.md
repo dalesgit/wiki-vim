@@ -27,5 +27,20 @@
 | Eloise         | eloise Rouen 1944                                                                         | Ch. 10   |
 |                | She's interrogated, remembering Chloe & training                                          | 283      |
 |                | Noah & Josie make love first time                                                         | 305      |
+| Eloise         | chapt 12: tracking the rate of arrest of resistance figures                               | 219      |
+| Charlotte      | ch. 13 1970: Remy is really (Jean)                                                        | 225      |
+|                | Noah married Geraldine after the war                                                      | 229      |
+|                | Fleur captured after gunfight                                                             | 237      |
+|                | Noah suspected of being the double agent                                                  | 239      |
+| Eloise         | Ch. 14: meeting back with Chloe in Paris during escape                                    | 246      |
+|                | pages about the romance with GIles (RIP)                                                  |          |
+|                | Turner a handler in England, knows of the double agent                                    | 275      |
+|                | Baker Street is where the SOE is headquartered?                                           |          |
+| Josie          | March '44                                                                                 | ch. 15   |
+|                | list of the top people back at SOE                                                        | 339      |
+|                | Turner comes to Paris -- Shocking Chloe                                                   | 348      |
+|                | description of SOE program (for women)                                                    | 368      |
+|                | Is Theo the son of Eloise, Hugh, to be adopted in case of her death                       | 380      |
 |                |                                                                                           |          |
 
+	
