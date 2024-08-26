@@ -24,3 +24,17 @@ Neighborhood
 |              | Farmers market as empathy, interconnect threads                                             | 225    |
 |              | meaningful local community                                                                  |        |
 |              | Norris: The Quotidian Mysteries.                                                            | 227    |
+# Discussion
+- Al 2 different experiences: party central vs. FL alone
+- Barbara country folk vs. city folk -- Guarded, closed doors
+	- need to put yourself out there
+- Roxanne moved 62 times. Mobile homes more friendly. Among the friendly are **mean**, or annoying.
+- **People resonate with different experiences**, we bring expectations to what is neighbor
+- Rensselaer, "do you like your new Bible?" vs. in Chicago people helped
+- Connie husband died 16 years ago
+- Jim 2016 didn't know anybody at St. Alfred's. 120+ at funeral. Dog does a lot to "getting out there"
+- in moving, making connections with people -- married student housing, common goals, experiences (young children), 
+- Korean church, chuukese, neighborhood from where they're from
+- neighborhood Church is social as well as churchy, theology. Holding ethnic groups together.
+- MP has maintained neighborhood through Facebook, ease of phone communication.
+- 
