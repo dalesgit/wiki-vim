@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "db059038ad8f86e1",
+        "id": "49c8613a1ee18e77",
         "type": "tabs",
         "children": [
           {
-            "id": "99465708e4b7772d",
+            "id": "1cdcc40668cd3fc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "12 key decisions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "12 key decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "12 key decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "12 key decisions.md"
+              }
             }
           },
           {
@@ -134,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,14 +155,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99465708e4b7772d",
+  "active": "1cdcc40668cd3fc3",
   "lastOpenFiles": [
-    "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
+    "journal/2024-08-18.md",
+    "journal/2024_m08.md",
+    "12 key decisions.md",
+    "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages/\"Warren.md",
+    "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
+    "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
+    "journal/2024-08-04.md",
+    "art-of-spiritual-direction.md",
+    "defining-spiritual-direction.md",
     "Spiritual Direction Training.md",
     "journal/2024-08-26.md",
-    "Spiritual.md",
     "journal/2024-08-27.md",
-    "art-of-spiritual-direction.md",
+    "journal/2024-08-19.md",
+    "journal/2024-08-20.md",
+    "Spiritual.md",
+    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
+    "assets/Dale Hathaway Acceptance letter.docx.pdf",
+    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
+    "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "annotate art of spiritual direction.md",
     "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "journal/2024-08-22.md",
@@ -167,23 +187,12 @@
     "mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/assets",
     "mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim",
     "mnt/chromeos/MyFiles/Downloads/Markdown",
-    "mnt/chromeos/MyFiles/Downloads",
-    "mnt/chromeos/MyFiles",
-    "mnt/chromeos",
-    "mnt",
     "\"Spiritual.md",
     "test-obsidian.md",
     "grounded-ch-neighborhood.md",
-    "journal/2024-08-20.md",
-    "journal/2024-08-19.md",
-    "journal/2024-08-18.md",
     "journal/2024-08-17.md",
     "journal/2024-08-16.md",
     "journal/2024-08-15.md",
-    "journal/2024-08-21.md",
-    "healing-mass.md",
-    "rite-1-healing.md",
-    "journal/2024-08-14.md",
-    "journal/2024-07-24.md"
+    "journal/2024-08-21.md"
   ]
 }
