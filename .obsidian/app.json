@@ -1,5 +1,5 @@
 {
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "fileSortOrder": "byModifiedTime",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",

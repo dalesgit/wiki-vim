@@ -12,9 +12,9 @@ tags:
 [[Spiritual directors meet spiritually curious people where they are]] Sent by Linda (about her)
 
 2. acceptance letter : [acceptance letter](/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/assets/Dale Hathaway Acceptance letter.docx) [Obsidian link](Dale%20Hathaway%20Acceptance%20letter.docx.pdf)
-3. Art of spiritual direction  [Art of spiritual direction](Art%20Of%20Spiritual%20Direction%20-%20Aug%2015%202024%20-%209-42%20PM.pdf)
+3. Art of spiritual direction  [Art of spiritual direction](Art%20Of%20Spiritual%20Direction%20-%20Aug%2015%202024%20-%209-42%20PM.pdf) annotation:  [[art-of-spiritual-direction]] 
 4. defining spiritual direction [Defining spiritual direction](Defining%20Spiritual%20Direction%20-%20Aug%2025%202024%20-%205-30%20PM.pdf)
 Guidelines for ethical conduct https://www.sdicompanions.org/docs/guidelines/Flip/guidelines_ethical_conduct.html
 
 Sample engagement agreement
-[Sample engagement agreement](sample_engagement_agreement.pdf)
+[Sample engagement agreement](assets/sample_engagement_agreement.pdf)
