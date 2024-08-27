@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81f3b41a8c197565",
+        "id": "d714b10ceea3d0c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4f338f7ed4635e",
+            "id": "c56fae828edb7c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-08-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b5689b7bad9fd84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2024-08-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fede42545158aff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-obsidian.md",
+                "file": "Spiritual Direction Training.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-obsidian.md",
+                "file": "Spiritual Direction Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test-obsidian.md",
+                "file": "Spiritual Direction Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-obsidian.md"
+                "file": "Spiritual Direction Training.md"
               }
             }
           },
@@ -171,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,8 +155,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fede42545158aff5",
+  "active": "c56fae828edb7c36",
   "lastOpenFiles": [
+    "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
+    "assets/Paris Agent.jpg",
+    "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
+    "Spiritual Direction Training.md",
+    "journal/2024-08-26.md",
+    "Spiritual.md",
+    "journal/2024-08-27.md",
+    "mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/assets/Dale.md",
+    "mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/assets",
+    "mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim",
+    "mnt/chromeos/MyFiles/Downloads/Markdown",
+    "mnt/chromeos/MyFiles/Downloads",
+    "mnt/chromeos/MyFiles",
+    "mnt/chromeos",
+    "mnt",
+    "\"Spiritual.md",
     "journal/2024-08-23.md",
     "test-obsidian.md",
     "grounded-ch-neighborhood.md",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "959d561662a7bb38",
+        "id": "e13bb5a4f619fbbc",
         "type": "tabs",
         "children": [
           {
-            "id": "a64c72b3b36e17ae",
+            "id": "4af4150a7f352a59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-paris-agent.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "the-paris-agent.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "the-paris-agent.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "the-paris-agent.md"
-          }
+          "state": {}
         }
       },
       {
@@ -148,10 +140,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a64c72b3b36e17ae",
+  "active": "4af4150a7f352a59",
   "lastOpenFiles": [
-    "grounded-ch-neighborhood.md",
+    "Spiritual Direction Training.md",
+    "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
+    "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
+    "Spiritual directors meet spiritually curious people where they are.md",
+    "journal/2024-08-26.md",
+    "journal/2024-08-27.md",
+    "Spiritual.md",
     "the-paris-agent.md",
+    "grounded-ch-neighborhood.md",
     "journal/2024-08-22.md",
     "journal/2024-08-23.md",
     "assets/Paris Agent.jpg",
@@ -170,12 +169,6 @@
     "journal/2024-07-13.md",
     "journal/2024-07-14.md",
     "journal/2024-07-15.md",
-    "journal/2024-07-16.md",
-    "journal/2024-07-17.md",
-    "journal/2024-07-18.md",
-    "journal/2024-07-19.md",
-    "journal/2024-07-20.md",
-    "journal/2024-07-21.md",
-    "journal/2024-07-22.md"
+    "journal/2024-07-16.md"
   ]
 }
