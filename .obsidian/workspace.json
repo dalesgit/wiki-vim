@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 key decisions.md",
+                "file": "journal/2024-08-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf97432ed88b37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 key decisions.md",
+                "file": "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 key decisions.md",
+                "file": "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 key decisions.md"
+                "file": "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md"
               }
             }
           },
@@ -155,11 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cdcc40668cd3fc3",
+  "active": "6bf97432ed88b37f",
   "lastOpenFiles": [
+    "journal/2024-08-27.md",
+    "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
+    "12 key decisions.md",
     "journal/2024-08-18.md",
     "journal/2024_m08.md",
-    "12 key decisions.md",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages/\"Warren.md",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
@@ -168,7 +183,6 @@
     "defining-spiritual-direction.md",
     "Spiritual Direction Training.md",
     "journal/2024-08-26.md",
-    "journal/2024-08-27.md",
     "journal/2024-08-19.md",
     "journal/2024-08-20.md",
     "Spiritual.md",
@@ -192,7 +206,6 @@
     "grounded-ch-neighborhood.md",
     "journal/2024-08-17.md",
     "journal/2024-08-16.md",
-    "journal/2024-08-15.md",
-    "journal/2024-08-21.md"
+    "journal/2024-08-15.md"
   ]
 }
