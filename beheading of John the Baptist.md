@@ -1,9 +1,11 @@
 ---
 title: beheading of John the Baptist
 date: 2024-08-28
-tags: 
+tags: preaching,
 ---
 # beheading of John the Baptist
+
+[John the Baptist homily](/John the Baptist homily.md) :preaching:
 
 All four Gospels give an account of John the Baptist as a prophet and preacher whose ministry created expectation and awakened a wave of repentance leading to baptism among many different groups of people.  Two Sundays in Advent focus on that preaching and the First Sunday after the Epiphany celebrates Jesus’ baptism by John as a central moment where the fullness of Christ’s humanity and divinity are revealed. In Mark’s Gospel, John’s arrest is the moment when Jesus begins his public ministry. John’s death likewise has a profound impact on the narrative in the Gospels.
 
