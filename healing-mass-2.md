@@ -1,27 +1,18 @@
 ---
-title: healing-mass
-date: 2024-08-14
-tags: 
+title: The Holy Eucharist -- Rite Two
+subtitle: Healing Eucharist
+author: St. Alfred's
+date: August 29
 ---
-# The Holy Eucharist: Rite Two
 
 ## The Word of God -- (p. 355)
 
-*Celebran*t: Blessed be God: Father, Son, and Holy Spirit. 
-_People_   And blessed be his kingdom, now and for ever. _Amen._
+## Trisagion  -- (p.324)
+*Together (3x's*)
 
-*Celebrant*: O God of peace, _who hast_ taught us that in returning and rest we shall be saved, in quietness and confidence shall be our strength: By the might of _thy_ Spirit lift us, we pray _thee_, to _thy_ presence, where we may be still and know that _thou art_ God; through Jesus Christ our Lord. _Amen._
+## The Collect of the Day
 
-*Together (3x's*) -- (p.324)
-
-Holy God, 
-Holy and Mighty, 
-Holy Immortal One, 
-_Have mercy upon us._
-
-**The Collect of the Day**
-
-**The Lessons**
+## The Lessons
 
 ### Psalm 71:1-14
 *In te, Domine, speravi*
@@ -50,9 +41,7 @@ my praise shall be always of you.
 7 I have become a portent to many; *\
 but you are my refuge and my strength.
 
-
-
-**The Beatitudes**
+## The Beatitudes
 
 Blessed are the poor,  
 **for theirs is the Kingdom of God.**  
@@ -71,18 +60,14 @@ Blessed are the peacemakers,
 Blessed are those who are persecuted for righteousness and justice,  
 **for great is their reward.**
 
-**The Prayers of the People**
+## The Prayers of the People
 *(handout)*
 
-**Confession of Sin** -- *(p. 360)*
+## Confession of Sin -- *(p. 360)*
 
-**The Peace** 
+## The Great Thanksgiving
 
-## The Holy Communion
-
-**The Great Thanksgiving**
-
-_Eucharistic Prayer B_ -- *(p. 367)*
+**Eucharistic Prayer B** -- *(p. 367)*
 
 **The Lord's Prayer (Contemporary)** -- (p. 364)
 
