@@ -11,8 +11,12 @@
             "id": "4af4150a7f352a59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "journal/2024-08-31.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "journal/2024-08-31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "journal/2024-08-31.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "journal/2024-08-31.md"
+          }
         }
       },
       {
@@ -142,6 +150,8 @@
   },
   "active": "4af4150a7f352a59",
   "lastOpenFiles": [
+    "Guenther-notes.md",
+    "journal/2024-08-31.md",
     "Spiritual Direction Training.md",
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
@@ -168,7 +178,6 @@
     "journal/2024-07-12.md",
     "journal/2024-07-13.md",
     "journal/2024-07-14.md",
-    "journal/2024-07-15.md",
-    "journal/2024-07-16.md"
+    "journal/2024-07-15.md"
   ]
 }
