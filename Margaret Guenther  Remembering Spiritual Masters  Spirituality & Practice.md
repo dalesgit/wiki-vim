@@ -4,6 +4,8 @@ tags: [listening,bible,conscious aging,contemplation,prayers,rule of life,spirit
 source: https://www.spiritualityandpractice.com/explorations/teachers/view/53/margaret-guenther
 author: 
 ---
+- 
+@Guen cf. 
 
 # Margaret Guenther | Remembering Spiritual Masters | Spirituality & Practice
 
