@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-08-29.md",
+                "file": "common commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-08-29.md",
+                "file": "common commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-08-29.md",
+                "file": "common commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-08-29.md"
+                "file": "common commands.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "6bf97432ed88b37f",
   "lastOpenFiles": [
+    "common commands.md",
+    "journal/2024-08-29.md",
     "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
     "journal/2024-08-27.md",
     "12 key decisions.md",
@@ -204,8 +206,6 @@
     "\"Spiritual.md",
     "test-obsidian.md",
     "grounded-ch-neighborhood.md",
-    "journal/2024-08-17.md",
-    "journal/2024-08-16.md",
-    "journal/2024-08-15.md"
+    "journal/2024-08-17.md"
   ]
 }
