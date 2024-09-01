@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-08-31.md",
+                "file": "grounded-commons.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "alphabetical"
           }
         }
       },
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2024-08-31.md",
+            "file": "grounded-commons.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2024-08-31.md",
+            "file": "grounded-commons.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2024-08-31.md"
+            "file": "grounded-commons.md"
           }
         }
       },
@@ -150,8 +150,12 @@
   },
   "active": "4af4150a7f352a59",
   "lastOpenFiles": [
-    "Guenther-notes.md",
+    "journal/2024-09-01.md",
+    "grounded-commons.md",
+    "grounded-ch-neighborhood.md",
+    "Grounded.md",
     "journal/2024-08-31.md",
+    "Guenther-notes.md",
     "Spiritual Direction Training.md",
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
@@ -160,7 +164,6 @@
     "journal/2024-08-27.md",
     "Spiritual.md",
     "the-paris-agent.md",
-    "grounded-ch-neighborhood.md",
     "journal/2024-08-22.md",
     "journal/2024-08-23.md",
     "assets/Paris Agent.jpg",
@@ -175,9 +178,6 @@
     "journal/2024-08-19.md",
     "journal/2024-08-07.md",
     "journal/2024-07-11.md",
-    "journal/2024-07-12.md",
-    "journal/2024-07-13.md",
-    "journal/2024-07-14.md",
-    "journal/2024-07-15.md"
+    "journal/2024-07-12.md"
   ]
 }
