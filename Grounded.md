@@ -33,4 +33,6 @@ Within a century in which the Christian Churches had to face and adapt to an unp
 - difference between urban country living.
 - Steve kind of gets it: getting grounded is more than the plans, cf. isolation of iphones, etc.
 
+##  [grounded-commons.md](grounded-commons.md)
+##  [grounded-ch-neighborhood.md](grounded-ch-neighborhood.md)
 

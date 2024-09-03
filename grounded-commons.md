@@ -1,4 +1,4 @@
-
+# Tue 03 Sep 2024 
 | point | note                                                           | page |
 | ----- | -------------------------------------------------------------- | ---- |
 | Jim   | Religion has been reduced me rather than us                    | 237  |
@@ -18,7 +18,7 @@ Both. Hyper connected and hyper alienated.
 
 ---
 
-Bookmark - CHAPTER 7: Commons > Page 234
+# Bookmark - CHAPTER 7: Commons > Page 234
 
 Highlight (yellow) - CHAPTER 7: Commons > Page 234
 
