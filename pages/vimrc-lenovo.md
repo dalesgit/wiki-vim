@@ -45,12 +45,21 @@ set incsearch
 set ignorecase
 set smartcase
 set showmatch
-map <leader><space> :let @/=''<cr> " clear search
+" for remapping esc key to "jk"
+" [set timeoutlen=500 inoremap jj
+" &lt;Esc&gt;](https://www.baeldung.com/linux/vim-switch-back-normal-mode-options#:~:text=The%20Ctrl%2D%5B%20combination%20is,far%20from%20the%20home%20row.
+" "Other Ways to Exit Insert Mode Besides Escape in Vim | Baeldung on Linux")
+set timeoutlen=500
+" nmap jk <Esc>
+inoremap jk <Esc>
+
+
+" map <leader><space> :let @/=''<cr> " clear search
 
 " Remap help key.
-inoremap <F1> <ESC>:set invfullscreen<CR>a
-nnoremap <F1> :set invfullscreen<CR>
-vnoremap <F1> :set invfullscreen<CR>
+"inoremap <F1> <ESC>:set invfullscreen<CR>a
+"nnoremap <F1> :set invfullscreen<CR>
+"vnoremap <F1> :set invfullscreen<CR>
 
 " Textmate holdouts
 
@@ -60,14 +69,14 @@ vnoremap <F1> :set invfullscreen<CR>
 " in which case it covers everything between the initial and final cursor 
 " positions, or a "text object".
 "
-map <leader>q gqip
+" map <leader>q gqip
 
 
-set listchars=tab:▸\ ,eol:¬   " Visualize tabs and newlines
+" set listchars=tab:▸\ ,eol:¬   " Visualize tabs and newlines
 
 " set list " To enable by default  " Uncomment this to enable by default:
 " Or use your leader key + l to toggle on/off
-map <leader>l :set list!<CR> " Toggle tabs and EOL
+" map <leader>1 :set list!<CR> " Toggle tabs and EOL
 
 " Color scheme (terminal)
 set t_Co=256
@@ -96,6 +105,13 @@ let g:vim_markdown_edit_url_in = 'vsplit'
 " cf. https://github.com/junegunn/vim-plug
 call plug#begin()
 "
+"
+" auto pairs https://github.com/tmsvg/pear-tree/blob/master/plugin/pear-tree.vim
+"
+Plug 'tmsvg/pear-tree'
+" is below better? see below for effort to customize
+"Plug 'jiangmiao/auto-pairs'
+"Plug 'LunarWatcher/auto-pairs'
 "
 " to add wiki highlighting?
 Plug 'lervag/wiki-ft.vim'
@@ -281,7 +297,12 @@ inoremap <C-S>t <Esc>:CtrlSFToggle<CR>
 nmap gm :LivedownToggle<CR>
 "---
 " insert date/time
-map <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
+"
+" nnoremap <F5> "=strftime("%c")<CR>P
+nnoremap <F5> "=strftime("%a %d %b %Y")<CR>P
+"inoremap <F5> <C-R>=strftime("%c")<CR>
+"inoremap <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
+"
 "set foldlevelstart=99
 set foldlevelstart=1	
 
@@ -313,3 +334,35 @@ let zotcite_conceallevel = 3
 inoreabbrev ... <C-K>.,
 	
 " cf. https://www.reddit.com/r/vim/comments/krotbt/how_can_i_combine_vimwiki_and_calendarvim_to/
+"
+" https://stackoverflow.com/questions/66348543/vim-set-custom-editors-to-open-md-pdf-files/66353725#66353725
+" get markdown link to open outside
+" make sure that viewer is selected according to the suffix.
+"let g:netrw_browsex_viewer="-"
+
+" functions for file extension '.pdf'.
+function! NFH_pdf(f)
+    execute '!zathura' a:f
+endfunction
+"
+"
+" the workaround that allowed for customization
+"let g:AutoPairs={'(':')', '[':']', '{':'}',"'":"'",'"':'"', '':'', '<':'>','**':'**','*':'*'}
+"let g:AutoPairs={'(':')', '[':']', '{':'}',"'":"'",'"':'"', '':'', '<':'>'}
+"let g:autopairs['<'] = '>'
+"let g:AutoPairs['**']='**'
+" for pear-tree
+let g:pear_tree_pairs = {
+            \ '(': {'closer': ')'},
+            \ '[': {'closer': ']'},
+            \ '{': {'closer': '}'},
+            \ "'": {'closer': "'"},
+            \ '"': {'closer': '"'},
+            \ '_': {'closer': '_'},
+            \ '__': {'closer': '__'} 	
+            \ }
+"
+" for moving lines up or down with ctrl and cursor key up/down
+" https://stackoverflow.com/questions/741814/move-entire-line-up-and-down-in-vim
+nmap <C-UP> :m-2<CR>  
+nmap <C-DOWN> :m+1<CR>
