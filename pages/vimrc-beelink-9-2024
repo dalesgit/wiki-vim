@@ -6,8 +6,7 @@ filetype plugin indent on   " For plugins to load correctly
 " let mapleader = ","
 "
 set modelines=0     " Security
-" set number    " Show line numbers
-set nonumber    " Hide line numbers
+set number    " Show line numbers
 set ruler  " Show file stats
 set visualbell   " Blink cursor on error instead of beeping (grr)
 set encoding=utf-8  " Encoding
@@ -45,21 +44,12 @@ set incsearch
 set ignorecase
 set smartcase
 set showmatch
-" for remapping esc key to "jk"
-" [set timeoutlen=500 inoremap jj
-" &lt;Esc&gt;](https://www.baeldung.com/linux/vim-switch-back-normal-mode-options#:~:text=The%20Ctrl%2D%5B%20combination%20is,far%20from%20the%20home%20row.
-" "Other Ways to Exit Insert Mode Besides Escape in Vim | Baeldung on Linux")
-set timeoutlen=500
-" nmap jk <Esc>
-inoremap jk <Esc>
-
-
-" map <leader><space> :let @/=''<cr> " clear search
+map <leader><space> :let @/=''<cr> " clear search
 
 " Remap help key.
-"inoremap <F1> <ESC>:set invfullscreen<CR>a
-"nnoremap <F1> :set invfullscreen<CR>
-"vnoremap <F1> :set invfullscreen<CR>
+inoremap <F1> <ESC>:set invfullscreen<CR>a
+nnoremap <F1> :set invfullscreen<CR>
+vnoremap <F1> :set invfullscreen<CR>
 
 " Textmate holdouts
 
@@ -69,25 +59,26 @@ inoremap jk <Esc>
 " in which case it covers everything between the initial and final cursor 
 " positions, or a "text object".
 "
-" map <leader>q gqip
+map <leader>q gqip
 
 
-" set listchars=tab:▸\ ,eol:¬   " Visualize tabs and newlines
+set listchars=tab:▸\ ,eol:¬   " Visualize tabs and newlines
 
 " set list " To enable by default  " Uncomment this to enable by default:
 " Or use your leader key + l to toggle on/off
-" map <leader>1 :set list!<CR> " Toggle tabs and EOL
+map <leader>l :set list!<CR> " Toggle tabs and EOL
 
 " Color scheme (terminal)
-set t_Co=256
-set background=dark
-let g:solarized_termcolors=256
-let g:solarized_termtrans=1
+"set t_Co=256
+"set background=dark
+"let g:solarized_termcolors=256
+"let g:solarized_termtrans=1
 " put https://raw.github.com/altercation/vim-colors-solarized/master/colors/solarized.vim
 " in ~/.vim/colors/ and uncomment:
 " colorscheme solarized
-colorscheme default
 
+"colorscheme default
+"colorscheme pablo 
 "
 " shortcut to Nerdtree
 map <C-n> :NERDTreeToggle<CR>
@@ -184,12 +175,10 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 "
 call plug#end()
 "
-" -------
-" easy align
-" Align GitHub-flavored Markdown tables
-" au FileType markdown vmap <Leader><Bslash> :EasyAlign*<Bar><Enter>
-" below is for ease of use https://github.com/dhruvasagar/vim-table-mode
+" for vim-easy-align
+"au FileType markdown vmap <Leader><Bslash> :EasyAlign*<Bar><Enter>
 "
+" for tabular -- start with <leader> t m
 function! s:isAtStartOfLine(mapping)
   let text_before_cursor = getline('.')[0 : col('.')-1]
   let mapping_pattern = '\V' . escape(a:mapping, '\')
@@ -203,7 +192,6 @@ inoreabbrev <expr> <bar><bar>
 inoreabbrev <expr> __
           \ <SID>isAtStartOfLine('__') ?
           \ '<c-o>:silent! TableModeDisable<cr>' : '__'
-" -----
 "
 " You can revert the settings after the call like so:
 "   filetype indent off   " Disable file-type-specific indentation
@@ -216,17 +204,13 @@ vnoremap <C-v> "+p
 " -------------------------
 "
 " lervag/wiki.vim section
-let g:wiki_root = '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim'
-"
-" calendar inegration doesn't seem to work
-let g:calendar_diary=$HOME.'/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/journal'
+let g:wiki_root = '~/Documents/wiki-vim'
   augroup init_calendar
     autocmd!
     autocmd FileType calendar
           \ nnoremap <silent><buffer> <cr>
           \ :<c-u>call wiki#journal#open()<cr>
   augroup END
-	  augroup END
 "
 " ------------------------------------
 function! CustomUserFunc(ctx, text) abort
@@ -244,11 +228,11 @@ endfunction
 "
     let g:wiki_templates = [
           \ { 'match_re': 'index',
-          \   'source_filename': '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/templates/template.md'},
+          \   'source_filename': '/home/dale/templates/template.md'},
           \ { 'match_re': 'blog',
-          \   'source_filename': '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/templates/blogtemplate.md'},
+          \   'source_filename': '/home/dale/templates/blogtemplate.md'},
           \ { 'match_re': '2024',
-          \   'source_filename': '/mnt/chromeos/MyFiles/Downloads/Markdown/wiki-vim/templates/journaltemplate.md'},
+          \   'source_filename': '/home/dale/templates/journaltemplate.md'},
           \ { 'match_func': {x -> v:true},
           \   'source_func': function('TemplateFallback')},
           \]
@@ -278,10 +262,10 @@ endfunction
 "
 " for Ctrlsf
 " or 'cwd' (current working directory) or 'project'
-map <C-M-f> :CtrlSF
+"map <C-M-f> :CtrlSF
 let g:ctrlsf_default_root = ''
 let g:ctrlsf_default_view_mode = 'compact'
-    let g:ctrlsf_backend = 'ag'
+    let g:ctrlsf_backend = 'rg'
 "
 " as suggested in the repository
 " for info re. mapping https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
@@ -295,16 +279,29 @@ nnoremap <C-S>t :CtrlSFToggle<CR>
 inoremap <C-S>t <Esc>:CtrlSFToggle<CR>
 "
 nmap gm :LivedownToggle<CR>
-"---
+
+" config for Livedown
+" should markdown preview get shown automatically upon opening markdown buffer
+let g:livedown_autorun = 0
+
+" should the browser window pop-up upon previewing
+let g:livedown_open = 1
+
+" the port on which Livedown server will run
+let g:livedown_port = 1337
+
+" the browser to use, can also be firefox, chrome or other, depending on your executable
+let g:livedown_browser = "firefox"
+"
+" 
 " insert date/time
+map <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
+set foldlevelstart=99
 "
-" nnoremap <F5> "=strftime("%c")<CR>P
-nnoremap <F5> "=strftime("%a %d %b %Y")<CR>P
-"inoremap <F5> <C-R>=strftime("%c")<CR>
-"inoremap <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
-"
-"set foldlevelstart=99
-set foldlevelstart=1	
+" set wiki.vim link types
+" remap escape key
+inoremap jk <Esc>
+"set foldlevelstart=1
 
 "
 " set wiki.vim link types
@@ -322,11 +319,6 @@ set foldlevelstart=1
 "
 " for zotcite highlighting
 " https://raw.githubusercontent.com/jalvesaq/zotcite/master/doc/zotcite.txt
-" To insert citation keys, in Insert mode, type the `@` letter and one or more
-"letters of either the last name of the first author or the reference title and
-"press <C-X><C-O>.
-" "(leader)zi", "...za" ...
-"
 "autocmd FileType wiki.vim source /path/to/zotcite/after/syntax/markdown.vim
 " also: https://www.google.com/search?q=how+tell+what+syntax+vim+is+using&rlz=1CAVKUG_enUS1102US1102&oq=how+tell+what+syntax+vim+is+using&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExMTUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
 "
@@ -337,7 +329,7 @@ let zotcite_conceallevel = 3
 " vim to turn 3 periods into ellipsis:
 " https://www.reddit.com/r/vim/comments/sub2y8/using_imap_to_replace_three_periods_with_ellipsis/ (digraphs cf. :h :digraphs
 inoreabbrev ... <C-K>.,
-	
+
 " cf. https://www.reddit.com/r/vim/comments/krotbt/how_can_i_combine_vimwiki_and_calendarvim_to/
 "
 " https://stackoverflow.com/questions/66348543/vim-set-custom-editors-to-open-md-pdf-files/66353725#66353725
@@ -364,10 +356,5 @@ let g:pear_tree_pairs = {
             \ "'": {'closer': "'"},
             \ '"': {'closer': '"'},
             \ '_': {'closer': '_'},
-            \ '__': {'closer': '__'} 	
+            \ '__': {'closer': '__'}
             \ }
-"
-" for moving lines up or down with ctrl and cursor key up/down
-" https://stackoverflow.com/questions/741814/move-entire-line-up-and-down-in-vim
-nmap <C-UP> :m-2<CR>  
-nmap <C-DOWN> :m+1<CR>
