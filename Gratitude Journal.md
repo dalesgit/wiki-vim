@@ -6,6 +6,7 @@ tags:
 # Gratitude Journal
 ## Thu 05 Sep 2024 
 - that EJI reminds me of the injustices perpetrated in my "west" e.g. against Chinese
+- at the gym I did Spinning with my hand slung off of the machine. Kalani's guess about what caused the **spikes** is **not** correct.
 ##  Wed 04 Sep 2024 
 - It feels like lots of normal results from the cardiac testing.
 - writing notes on Guenther (SD)
