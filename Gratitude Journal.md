@@ -4,6 +4,9 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Sat 07 Sep 2024 
+- fresh coffee in the morning
+- wordle seemed challenging the last 2 days, but I got them
 ## Fri 06 Sep 2024 
 - Moving forward with [MP.md](MP.md) going to gym (or back into therapy)
 ## Thu 05 Sep 2024 
