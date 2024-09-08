@@ -52,3 +52,4 @@ community?
 |      |                | DH: Is it possible to move past God as **transcendent**?                                                                                           |
 | 313  |                | Process theology                                                                                                                                   |
 
+**cf. video about St. Stephen's Celtic service** (vimeo)
