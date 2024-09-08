@@ -4,9 +4,13 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Sun 08 Sep 2024 
+I was sleeping so soundly when I woke up and then I felt weary. I don't look forward to celebrating and then facilitating discussion. But grateful that I have a place and a role that contributes in some ways to people's lives. I felt energized last night. I recognized that when I celebrate I give it my all, even for fewer than 20.
 ## Sat 07 Sep 2024 
 - fresh coffee in the morning
 - wordle seemed challenging the last 2 days, but I got them
+- celebrated Mass. Connected with Richard (of Carol) in the back.
+- Tricia is going to study the liturgy. I recommended that she google "instructed Eucharist".
 ## Fri 06 Sep 2024 
 - Moving forward with [MP.md](MP.md) going to gym (or back into therapy)
 ## Thu 05 Sep 2024 

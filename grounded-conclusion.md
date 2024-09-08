@@ -26,3 +26,29 @@ tags:
 community?
 3. How does a church move from the past to the future while living in a constantly changing present?
 4. Did the author accomplish her goals for you as a reader?  How have you become more grounded by reading this book? What, if anything, **surprised** you in these pages?  Was anything worrisome? Did anything **delight** you or give you **hope**? Explain.
+
+---
+
+# Notes
+
+| page | Point          | Note                                                                                                                                               |
+|------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 267  | each of us     | To look at all that has gone before us, and to recognize that each one of us, however small,                                                       |
+|      |                | has a unique task in co-creation—a unique contribution to make in the world and to humanity. —Edwina Gateley                                       |
+| 269  | the end        | The end of history is not destruction; rather, its end is sacred restoration. When sin and evil pass away, a holy city descends to us:             |
+|      |                | we dwell between the paradisial garden and the holy city. We live in the world as it is. And earth is, of course, not as it used to be.            |
+|      | ethics         | in a global world                                                                                                                                  |
+|      | in it together | Recognition, in turn, gives birth to empathy and the profound realization that we really, truly are in this together.                              |
+|      |                | Sacred cosmopolitanism                                                                                                                             |
+| 271  |                | diversity, not all sameness                                                                                                                        |
+|      |                | image of God at center of sacred feast                                                                                                             |
+|      | awe            | experience of awe that actually brings us together -- not into ourselves                                                                           |
+| 273  | co-creation    | Matthew Fox                                                                                                                                        |
+| 277  | conversion     | I have had three conversions in my life, each time seeking a deeper awareness of God.                                                              |
+|      |                | I recognize her transition from parochial faith to a global …                                                                                      |
+| 281  | Celtic service | with 850 people!                                                                                                                                   |
+|      |                | Rather, the Celtic evening service is a sacred experiment in creating community on the horizon of faith.                                           |
+|      |                | Is it possible to be a different sort of church, one not on the mountain of privilege but one that celebrates the living web of God and the world? |
+|      |                | DH: Is it possible to move past God as **transcendent**?                                                                                           |
+| 313  |                | Process theology                                                                                                                                   |
+
