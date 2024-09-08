@@ -40,7 +40,7 @@ community?
 |      | ethics         | in a global world                                                                                                                                  |
 |      | in it together | Recognition, in turn, gives birth to empathy and the profound realization that we really, truly are in this together.                              |
 |      |                | Sacred cosmopolitanism                                                                                                                             |
-| 271  |                | diversity, not all sameness                                                                                                                        |
+| 271  |                | diversity, not all sameness. (Summary of the book?) From vertical axis to horizontal                                                               |
 |      |                | image of God at center of sacred feast                                                                                                             |
 |      | awe            | experience of awe that actually brings us together -- not into ourselves                                                                           |
 | 273  | co-creation    | Matthew Fox                                                                                                                                        |
