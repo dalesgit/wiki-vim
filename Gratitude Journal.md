@@ -5,7 +5,8 @@ tags:
 ---
 # Gratitude Journal
 ## Mon 09 Sep 2024 
-For today's lectio. For the mp3 player I may start working with.
+- For today's lectio. For the mp3 player I may start working with.
+- *Peace like a River*, Leif Enger. novel recommended by Peter. MP read it. She loved its writing, including a vision of near death experience. Sounded like first time I read *Perelandra*.
 ## Sun 08 Sep 2024 
 I was sleeping so soundly when I woke up and then I felt weary. I don't look forward to celebrating and then facilitating discussion. But grateful that I have a place and a role that contributes in some ways to people's lives. I felt energized last night. I recognized that when I celebrate I give it my all, even for fewer than 20.
 ## Sat 07 Sep 2024 
