@@ -4,6 +4,10 @@ date: 2024-07-10
 tags: 
 ---
 # Lectio
+## Tue 10 Sep 2024 
+Hope … "put your hope in the Lord". Like a bucket that you put water in. What is the source of the Hope? Psalm 130:7
+
+Lord, teach us the distinction between the brokenness that leads us to squander our gifts and the brokenness that leads us to seek and find you, even in the most desolate places. Amen. (Common Prayer)
 ## Mon 09 Sep 2024 
 Today was from Psalm 23: … thy rod and thy staff they comfort me. I reflected that the notion so pervades all religious responses that we expect God to do be doing something. I asked today, "What if God isn't doing anything. What if it's all about us." Keating wrote that without the trials and tribulations we would remain as we were -- unchanged. 
 

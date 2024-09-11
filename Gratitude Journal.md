@@ -4,6 +4,11 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Tue 10 Sep 2024  
+- Nothing on the calendar.
+- the ease with which my slicer cut through celery (and others)
+- note-taking on Guenther [spiritual direction.md](spiritual direction.md)
+-
 ## Mon 09 Sep 2024 
 - For today's lectio. For the mp3 player I may start working with.
 - *Peace like a River*, Leif Enger. novel recommended by Peter. MP read it. She loved its writing, including a vision of near death experience. Sounded like first time I read *Perelandra*.

@@ -12,7 +12,7 @@ tags:
 * [digraphs https://vimhelp.org/digraph.txt.html](#digraphs https://vimhelp.org/digraph.txt.html)
 * [[Vim Cheat Sheet](https://vim.rtorr.com/)](#digraphs https://vimhelp.org/digraph.txt.html#[Vim Cheat Sheet](https://vim.rtorr.com/))
 
-# common commands
+## common commands
 `n`     <leader>ww          |<plug>(wiki-index)|                 [GLOBAL] \
   `n`     <leader>wn          |<plug>(wiki-open)|                  [GLOBAL] \
   `n`     <leader>w<leader>w  |<plug>(wiki-journal)|               [GLOBAL] \
@@ -97,24 +97,12 @@ tags:
 ---
 
 ---
-  [leader]wf       | transform link to another type
----
 
-wiki-pages   | [C-g] \
-Ctrlsf ==]   | [C-M-f] (folder) \
-gm ==] LivedownToggle \
-
-Zotero: \
-    "@" part of auth/title then [C-x] [C-o]  \
-    (leader) zi = info \
-    (leader) za = all fields \
-
----
-
+## size terminal font
 [C-M- +/-] size terminal font
 
 ---
-
+## CtrlSF
 - nmap     [C-S]f [Plug]CtrlSFPrompt
 - vmap     [C-S]f [Plug]CtrlSFVwordPath
 - vmap     [C-S]F [Plug]CtrlSFVwordExec
@@ -125,14 +113,17 @@ Zotero: \
 - inoremap [C-S]t [Esc]:CtrlSFToggle[CR]
 
 "
+## Livedown
 nmap gm :LivedownToggle[CR]
 
 "---
-" insert date/time
+
+## insert date/time
 map [leader]D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')[CR]  \
 set foldlevelstart=99
 "
 ---
+## some notable default mappings
 The mappings that act on links are listed in |wiki-mappings-default|. The most
 notable default mappings are:
 
@@ -148,7 +139,7 @@ notable default mappings are:
 ---
 
 
-# table creation:
+## table creation:
 
 Creating table on-the-fly
 
@@ -192,4 +183,21 @@ zg: Adds the word under the cursor to the spell file
 zw: Marks the word under the cursor as a misspelled word
 
 ## [Vim Cheat Sheet](https://vim.rtorr.com/)
+
+## move lines
+nmap <C-UP> :m-2<CR>  
+nmap <C-DOWN> :m+1<CR>
+
+## zotcite 
+
+If you have installed `cmp-zotcite`, then, in Insert mode, type the `@` letter and one or more letters of either the last name of the first author or the reference title. The matching of citation keys is case-insensitive.
+
+In Vim's Normal mode, put the cursor over a citation key and press:
+
+- <Leader>zo to open the reference's attachment as registered in Zotero's database.
+- <Leader>zi to see in the status bar the last name of all authors, the year, and the title of the reference.
+- <Leader>za to see all fields of a reference as stored by Zotcite.
+- <leader>zb to insert the abstract (if available) into the current buffer.
+- <Leader>zy to see how the reference will be converted into YAML.
+- <Leader>zv to view the (pdf or html) document generated from the current (Markdown, Rmd, or Quarto) document.
 
