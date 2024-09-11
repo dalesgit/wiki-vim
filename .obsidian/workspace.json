@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -158,6 +159,8 @@
   },
   "active": "ce3b5bf4bd137425",
   "lastOpenFiles": [
+    "journal/2024-09-11.md",
+    "Spiritual Direction 101.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "assets/oneil-proposal-2.pdf",
     "assets/Paris Agent.jpg",
@@ -166,7 +169,6 @@
     "assets/Mission+and+the+Art+of+Spiritual+Direction.pdf",
     "defining-spiritual-direction.md",
     "mission of spiritual direction notes.md",
-    "Spiritual Direction 101.md",
     "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "cd-rippers.md",
     "journal/2024-09-08.md",
@@ -190,7 +192,6 @@
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "annotate art of spiritual direction.md",
-    "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "journal/2024-08-22.md",
     "journal/2024-08-23.md",
     "journal/2024-08-24.md",
