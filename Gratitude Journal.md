@@ -4,6 +4,11 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Wed 11 Sep 2024 
+- Again I got up only once in the night. 
+- The 30 minutes at the pool yesterday
+- The notes and reading I accomplished re. [spiritual direction.md](spiritual direction.md)
+- delicious salmon dinner
 ## Tue 10 Sep 2024  
 - Nothing on the calendar.
 - the ease with which my slicer cut through celery (and others)
