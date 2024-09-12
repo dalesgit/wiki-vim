@@ -4,6 +4,10 @@ date: 2024-07-10
 tags: 
 ---
 # Lectio
+## Thu 12 Sep 2024 
+Ephesians 1:7
+
+Wisdom and perception of revelation to allow for deepening of knowledge (as relationship) with "him" -- namely "father of glory"
 ## Tue 10 Sep 2024 
 Hope … "put your hope in the Lord". Like a bucket that you put water in. What is the source of the Hope? Psalm 130:7
 
