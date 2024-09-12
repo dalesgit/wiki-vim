@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5869e6a764ea814d",
+        "id": "8348eb677d2d34f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5376a30f3221eed4",
+            "id": "796771b0c0b72a5e",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "defining-spiritual-direction.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f9414421d0c8d851",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee6a488dfd6d222e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SD Session Thu 12 Sep 2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -54,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -102,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SD Session Thu 12 Sep 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SD Session Thu 12 Sep 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SD Session Thu 12 Sep 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee6a488dfd6d222e",
+  "active": "796771b0c0b72a5e",
   "lastOpenFiles": [
     "defining-spiritual-direction.md",
     "art-of-spiritual-direction.md",
-    "Spiritual Direction Training.md",
     "SD Session Thu 12 Sep 2024.md",
+    "journal Wed 11 Sep 2024.md",
+    "SD Certification Wed 11 Sep 2024.md",
+    "Spiritual Direction Training.md",
     "journal/2024-09-12.md",
     "SD Syllabus.md",
     "apply spiritual direction-2.md",
@@ -209,8 +186,6 @@
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages/\"Warren.md",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
-    "journal/2024-08-04.md",
-    "journal/2024-08-26.md",
     "assets/Dale Hathaway Acceptance letter.docx.pdf"
   ]
 }
