@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "de0a0939957f3f96",
+        "id": "4767bee40ab29f51",
         "type": "tabs",
         "children": [
           {
-            "id": "0eee447e1a7785cf",
+            "id": "013e16ebafaa7a41",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "art-of-spiritual-direction.md"
+                "file": "Spiritual Direction Training.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "art-of-spiritual-direction.md",
+                "file": "Spiritual Direction Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "art-of-spiritual-direction.md",
+                "file": "Spiritual Direction Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "art-of-spiritual-direction.md"
+                "file": "Spiritual Direction Training.md"
               }
             }
           },
@@ -154,10 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eee447e1a7785cf",
+  "active": "013e16ebafaa7a41",
   "lastOpenFiles": [
-    "templates/diarytemplate.md",
+    "SD Session Thu 12 Sep 2024.md",
+    "Spiritual Direction Training.md",
     "journal/2024-09-12.md",
+    "\"Spiritual.md",
+    "Spiritual.md",
+    "art-of-spiritual-direction.md",
+    "templates/diarytemplate.md",
     "Spiritual Direction 101.md",
     "journal/2024-09-11.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
@@ -182,16 +189,11 @@
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
     "journal/2024-08-04.md",
-    "art-of-spiritual-direction.md",
-    "Spiritual Direction Training.md",
     "journal/2024-08-26.md",
     "journal/2024-08-19.md",
     "journal/2024-08-20.md",
-    "Spiritual.md",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
-    "annotate art of spiritual direction.md",
-    "journal/2024-08-22.md",
-    "journal/2024-08-23.md"
+    "annotate art of spiritual direction.md"
   ]
 }
