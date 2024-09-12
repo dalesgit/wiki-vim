@@ -1,14 +1,16 @@
-[[Prayers]]
+[[Prayers]] ## After lectio
 
-## After lectio
+Using *Joplin* as of Tue 2024-07-30 08:53:21-0400
 
-**Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or even one word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
+**Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
 
 We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
+
 ## Recent 
 
-[-](-.md) Current
+- Current
 	- ~~Peg RIP 6/1/24 in hospice~~
+    - The violence attacking the election
 	- waiting for God to show me my calling now in Florida. (git-journal, wiki.vim) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~, Scott and Loa
 	- Cynthia Marie
@@ -75,7 +77,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
     - Howie's sister, Joye, diabetes?
 - Katy: new home, b/day **Dec. 11, 1959**
 - Jane Jackson, Raymond
-- Frannie & Joe Heider Fran b/day June **12, 1963**
+- Frannie & Joe Heider Fran b/day **June 12, 1963**
 	- Valerie & John,  Val b/day **Aug 29, 1982**. John **Oct. 24, 1982**
 	    - Lily, Garret, Pierce, Zellie
 	- Kevin & Kristin, Kevin b/day **Apr 11, 1984**. Kristin b/day **June 3, 1985**
@@ -108,6 +110,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
     - Katrina (spouse? daughter?)
 - Carolyn (write letter)
 
+ 
 ### Children
 - Julian: (Health ins., new home, hiking) **2/21/80**
 - Sean: bday **1/4/78** recovery;  Jolene. Grace/Raven (bday **10/10**). Jane Jackson:  CA returned

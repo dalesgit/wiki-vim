@@ -4,6 +4,7 @@
 [[Prayer list]]
 
 [[Wesley prayer]] 
+
 ## Benedictus Dominic
 
 Praise the Lord, the **God** of Israel,  
@@ -53,6 +54,7 @@ and will be for ev**er**. Amen
 
 
 ## New Zealand Lord's Prayer
+
 Eternal Spirit,  
 Earth-maker, Pain-bearer, Life-giver,  
 Source of all that is and that shall be,  
