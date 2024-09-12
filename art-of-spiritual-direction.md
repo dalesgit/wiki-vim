@@ -1,7 +1,7 @@
 ---
 annotation-target: assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf
 ---
-
+Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json

@@ -1,6 +1,9 @@
 {{wiki#template#case_title {name}}}
 Created: {date} {time}
 
-[/Gratitude Journal.md](/Gratitude Journal.md)
+*Reflection for Spiritual Direction Course*
 
-Diary 
+1. I notice…(awareness) 
+2. I’m curious about…
+(attentive exploration) 
+3. I wonder how I can… (active response)
