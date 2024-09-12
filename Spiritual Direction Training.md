@@ -22,7 +22,7 @@ Guidelines for ethical conduct https://www.sdicompanions.org/docs/guidelines/Fli
 Sample engagement agreement
 [Sample engagement agreement](assets/sample_engagement_agreement.pdf)
 
-[SD Syllabus](SD Syllabus.md)
+[assets/CAP-module-one-syllabus.md](assets/CAP-module-one-syllabus.md)
 
 ## [[SD Session Thu 12 Sep 2024.md|SD Session Thu 12 Sep 2024]] 
 - The difference between religion & spirituality

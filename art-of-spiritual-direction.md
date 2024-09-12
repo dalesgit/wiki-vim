@@ -134,13 +134,13 @@ Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json
->{"created":"2024-08-27T14:47:22.497Z","updated":"2024-08-27T14:47:22.497Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":37084,"end":37109},{"type":"TextQuoteSelector","exact":"Sometimes  a  person  can","prefix":"it?  What  do  you  mean? ack:  ","suffix":"  doubt  that  h  reall had  the"}]}]}
+>{"text":"Doubting that God is behind the experience","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":37084,"end":37109},{"type":"TextQuoteSelector","exact":"Sometimes  a  person  can","prefix":"it?  What  do  you  mean? ack:","suffix":"doubt  that  h  reall had  the"}]}],"created":"2024-08-27T14:47:22.497Z","updated":"2024-08-27T14:47:22.497Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}
 >```
 >%%
 >*%%PREFIX%%it?  What  do  you  mean? ack:%%HIGHLIGHT%% ==Sometimes  a  person  can== %%POSTFIX%%doubt  that  h  reall had  the*
 >%%LINK%%[[#^bewp67rsu34|show annotation]]
 >%%COMMENT%%
->
+>Doubting that God is behind the experience
 >%%TAGS%%
 >
 ^bewp67rsu34
