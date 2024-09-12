@@ -4,6 +4,8 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Thu 12 Sep 2024  
+Food to eat. Expectation of seeing Julian soon.
 ## Wed 11 Sep 2024 
 - Again I got up only once in the night. 
 - The 30 minutes at the pool yesterday

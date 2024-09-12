@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f1e1c645bf2e68",
+        "id": "de0a0939957f3f96",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3b5bf4bd137425",
+            "id": "0eee447e1a7785cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Spiritual Direction 101.md",
-                "mode": "source",
-                "source": false
+                "file": "art-of-spiritual-direction.md"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiritual Direction 101.md",
+                "file": "art-of-spiritual-direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spiritual Direction 101.md",
+                "file": "art-of-spiritual-direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spiritual Direction 101.md"
+                "file": "art-of-spiritual-direction.md"
               }
             }
           },
@@ -157,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce3b5bf4bd137425",
+  "active": "0eee447e1a7785cf",
   "lastOpenFiles": [
-    "journal/2024-09-11.md",
+    "templates/diarytemplate.md",
+    "journal/2024-09-12.md",
     "Spiritual Direction 101.md",
+    "journal/2024-09-11.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "assets/oneil-proposal-2.pdf",
     "assets/Paris Agent.jpg",
@@ -193,8 +192,6 @@
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "annotate art of spiritual direction.md",
     "journal/2024-08-22.md",
-    "journal/2024-08-23.md",
-    "journal/2024-08-24.md",
-    "journal/2024-08-25.md"
+    "journal/2024-08-23.md"
   ]
 }
