@@ -27,7 +27,11 @@ Created: 2024-09-12 07:35
 
 ## Notes
 - Be still and know that I am ... Trust Simon de voil
-- Prayer from SD 101
+- Prayer from SD 101i
+  
+@GRP3AWG8#Blythe_2018
+-
+## Introductions
 - Cherie- 
 	- has a certify from Columbia spiritual formation vs. spiritual direction
 	- 37 years of pastoral ministry
