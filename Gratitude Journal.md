@@ -4,7 +4,12 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Fri 13 Sep 2024 
+
+- The opportunity to be a part of the SD class. 
+- The cartoon to send to Owen about sons doing the opposite of their fathers.
 ## Thu 12 Sep 2024  
+
 Food to eat. Expectation of seeing Julian soon.
 ## Wed 11 Sep 2024 
 - Again I got up only once in the night. 
