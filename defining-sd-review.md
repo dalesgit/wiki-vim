@@ -1,0 +1,11 @@
+- Eph 3:16-17
+- "An interpersonal **relationship** in which one person assists others to **reflect** on their own experience in the light of who they ave called ta become in fidelity to the Gospel"
+- Neither **spiritual** nor **direction**
+- **Metaphor**: "beggars going out together, helping each other search for food"
+- nothing more important than listening
+- Needing Clarification
+	- Use of the word **Gospel**. Needs clarification and broadening.
+	- "Judaeo-Christian truth" "Exodus event"
+	- Scripture
+	- aim of SD is "charity and mission"
+- www.sdiworld.org

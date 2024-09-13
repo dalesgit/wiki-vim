@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55c08c12fa9f0838",
+        "id": "d4697c90d942c90a",
         "type": "tabs",
         "children": [
           {
-            "id": "48af504038bc079d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "art-of-spiritual-direction.md"
-              }
-            }
-          },
-          {
-            "id": "3b1c32b9ae1ea141",
+            "id": "0d09ea4e0cd4d04c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "review-art-spiritual-direction.md",
+                "file": "defining-sd-review.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "art-of-spiritual-direction.md",
+                "file": "defining-sd-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "art-of-spiritual-direction.md",
+                "file": "defining-sd-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "art-of-spiritual-direction.md"
+                "file": "defining-sd-review.md"
               }
             }
           },
@@ -167,14 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48af504038bc079d",
+  "active": "0d09ea4e0cd4d04c",
   "lastOpenFiles": [
-    "review-art-spiritual-direction.md",
+    "defining-spiritual-direction.md",
+    "defining-sd-review.md",
+    "art-spiritual-direction-review.md",
     "art-of-spiritual-direction.md",
     "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Spiritual Direction Training.md",
-    "defining-spiritual-direction.md",
     "SD Session Thu 12 Sep 2024.md",
     "journal Wed 11 Sep 2024.md",
     "SD Certification Wed 11 Sep 2024.md",
@@ -202,7 +193,6 @@
     "journal/2024-08-29.md",
     "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
     "12 key decisions.md",
-    "journal/2024-08-18.md",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
     "assets/Dale Hathaway Acceptance letter.docx.pdf"

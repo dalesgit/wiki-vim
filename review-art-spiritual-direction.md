@@ -1,1 +1,0 @@
-I'm not sure what to think about dictation in the Chromebook. The article is poignant in saying thatSpiritual direction is neither spiritual nor direction.
