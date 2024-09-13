@@ -3,4 +3,7 @@ Created: {date} {time}
 
 [/Gratitude Journal.md](/Gratitude Journal.md)
 
+Journal
+
 Diary 
+- 

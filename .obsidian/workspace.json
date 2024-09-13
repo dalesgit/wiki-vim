@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8348eb677d2d34f3",
+        "id": "2db92f5429a4d245",
         "type": "tabs",
         "children": [
           {
-            "id": "796771b0c0b72a5e",
+            "id": "599c610396fb6337",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,14 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "796771b0c0b72a5e",
+  "active": "599c610396fb6337",
   "lastOpenFiles": [
-    "defining-spiritual-direction.md",
     "art-of-spiritual-direction.md",
+    "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
+    "Spiritual Direction Training.md",
+    "defining-spiritual-direction.md",
     "SD Session Thu 12 Sep 2024.md",
     "journal Wed 11 Sep 2024.md",
     "SD Certification Wed 11 Sep 2024.md",
-    "Spiritual Direction Training.md",
     "journal/2024-09-12.md",
     "SD Syllabus.md",
     "apply spiritual direction-2.md",
@@ -183,7 +184,6 @@
     "12 key decisions.md",
     "journal/2024-08-18.md",
     "journal/2024_m08.md",
-    "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages/\"Warren.md",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
     "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
     "assets/Dale Hathaway Acceptance letter.docx.pdf"

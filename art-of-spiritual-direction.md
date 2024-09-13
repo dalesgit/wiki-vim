@@ -106,13 +106,13 @@ Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json
->{"created":"2024-08-27T14:44:24.368Z","updated":"2024-08-27T14:44:24.368Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":27330,"end":27628},{"type":"TextQuoteSelector","exact":"A  director  will  not,  therefore,  view  a  directee's  ex- perience  of  God  as  he  would  a  sighting  of  Halley’s comet  or a  first  glimpse  of  the  Grand  Canyon.  What the  directee  perceives  is  important.  Also  important, however,  is  the  directee's  feeling-reaction  to  what ","prefix":"TTENDING  TO  FEELING-REACTIONS ","suffix":"he  or  she  has  perceived. In "}]}]}
+>{"text":"What the directee perceives is important. Also important, ... is the directee's feeling-reaction to what he or she has perceived.","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":27330,"end":27628},{"type":"TextQuoteSelector","exact":"A  director  will  not,  therefore,  view  a  directee's  ex- perience  of  God  as  he  would  a  sighting  of  Halley’s comet  or a  first  glimpse  of  the  Grand  Canyon.  What the  directee  perceives  is  important.  Also  important, however,  is  the  directee's  feeling-reaction  to  what ","prefix":"TTENDING  TO  FEELING-REACTIONS","suffix":"he  or  she  has  perceived. In"}]}],"created":"2024-08-27T14:44:24.368Z","updated":"2024-08-27T14:44:24.368Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}
 >```
 >%%
 >*%%PREFIX%%TTENDING  TO  FEELING-REACTIONS%%HIGHLIGHT%% ==A  director  will  not,  therefore,  view  a  directee's  ex- perience  of  God  as  he  would  a  sighting  of  Halley’s comet  or a  first  glimpse  of  the  Grand  Canyon.  What the  directee  perceives  is  important.  Also  important, however,  is  the  directee's  feeling-reaction  to  what== %%POSTFIX%%he  or  she  has  perceived. In*
 >%%LINK%%[[#^8i028cmpl0k|show annotation]]
 >%%COMMENT%%
->
+>What the directee perceives is important. Also important, ... is the directee's feeling-reaction to what he or she has perceived.
 >%%TAGS%%
 >
 ^8i028cmpl0k
@@ -120,13 +120,13 @@ Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json
->{"created":"2024-08-27T14:44:49.330Z","updated":"2024-08-27T14:44:49.330Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":32758,"end":32866},{"type":"TextQuoteSelector","exact":"e  cannot,  however,  force  ourselves  to  trust Tightening  jaw  muscles  and  gritting  teeth  will  not ","prefix":" they  have  experienced  him. W","suffix":"HUMAN  DEVELOPMENT  e  19(@     "}]}]}
+>{"text":"To trust in God is a subtle move.","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":32758,"end":32866},{"type":"TextQuoteSelector","exact":"e  cannot,  however,  force  ourselves  to  trust Tightening  jaw  muscles  and  gritting  teeth  will  not ","prefix":"they  have  experienced  him. W","suffix":"HUMAN  DEVELOPMENT  e  19(@"}]}],"created":"2024-08-27T14:44:49.330Z","updated":"2024-08-27T14:44:49.330Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}
 >```
 >%%
 >*%%PREFIX%%they  have  experienced  him. W%%HIGHLIGHT%% ==e  cannot,  however,  force  ourselves  to  trust Tightening  jaw  muscles  and  gritting  teeth  will  not== %%POSTFIX%%HUMAN  DEVELOPMENT  e  19(@*
 >%%LINK%%[[#^rfys75k5j7|show annotation]]
 >%%COMMENT%%
->
+>To trust in God is a subtle move.
 >%%TAGS%%
 >
 ^rfys75k5j7
@@ -176,13 +176,13 @@ Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json
->{"created":"2024-08-27T14:49:33.051Z","updated":"2024-08-27T14:49:33.051Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":43477,"end":44005},{"type":"TextQuoteSelector","exact":"It  is  easy  for  a  director  to  neglect  his  facilitati task  at  a  time  like  this  and  take  on  the  role  of teacher, “You  have  to  remember  the  experience  you  de- scribed  to  me  a  few  weeks  ago,  and  what  it taught you”  can  come  readily  to  his  ips  when  the  directee is  strongly  and  intransigently  expressing  her  dis- couragement,  Only  if  he  is  doggedly  convinced  that he  can  best  serve  the  directee  b  encoureging  her to  pay  attention  to  God  as  God  himself  chooses ","prefix":"erent. DIRECTOR  A  FACILITATOR ","suffix":" to show  himself  can  the  dir"}]}]}
+>{"text":"The facilitative task of the director","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":43477,"end":44005},{"type":"TextQuoteSelector","exact":"It  is  easy  for  a  director  to  neglect  his  facilitati task  at  a  time  like  this  and  take  on  the  role  of teacher, “You  have  to  remember  the  experience  you  de- scribed  to  me  a  few  weeks  ago,  and  what  it taught you”  can  come  readily  to  his  ips  when  the  directee is  strongly  and  intransigently  expressing  her  dis- couragement,  Only  if  he  is  doggedly  convinced  that he  can  best  serve  the  directee  b  encoureging  her to  pay  attention  to  God  as  God  himself  chooses ","prefix":"erent. DIRECTOR  A  FACILITATOR","suffix":"to show  himself  can  the  dir"}]}],"created":"2024-08-27T14:49:33.051Z","updated":"2024-08-27T14:49:33.051Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}
 >```
 >%%
 >*%%PREFIX%%erent. DIRECTOR  A  FACILITATOR%%HIGHLIGHT%% ==It  is  easy  for  a  director  to  neglect  his  facilitati task  at  a  time  like  this  and  take  on  the  role  of teacher, “You  have  to  remember  the  experience  you  de- scribed  to  me  a  few  weeks  ago,  and  what  it taught you”  can  come  readily  to  his  ips  when  the  directee is  strongly  and  intransigently  expressing  her  dis- couragement,  Only  if  he  is  doggedly  convinced  that he  can  best  serve  the  directee  b  encoureging  her to  pay  attention  to  God  as  God  himself  chooses== %%POSTFIX%%to show  himself  can  the  dir*
 >%%LINK%%[[#^pw80r63tr5a|show annotation]]
 >%%COMMENT%%
->
+>The facilitative task of the director
 >%%TAGS%%
 >
 ^pw80r63tr5a
@@ -232,13 +232,13 @@ Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json
->{"created":"2024-08-27T14:54:01.928Z","updated":"2024-08-27T14:54:01.928Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":58290,"end":58646},{"type":"TextQuoteSelector","exact":"One  way  to  look  at  the  ongoing  relationship  with God,  the  struggle  between  God  and  the  directee  to continue  meeting  each  other,  is  to  compare  it  to  a dance.  A  man  reading  these  pages  may  easily  recall the  anxiety  he  felt  the  first  time  he  searched  a  dance floor  for  the  person  he  most  wanted  to  approach. ","prefix":"irectee? RELATIONSHIP  A  DANCE ","suffix":" He may  also  remember  the  sw"}]}]}
+>{"text":"Compare to a dance. Can we continue to dance together?","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":58290,"end":58646},{"type":"TextQuoteSelector","exact":"One  way  to  look  at  the  ongoing  relationship  with God,  the  struggle  between  God  and  the  directee  to continue  meeting  each  other,  is  to  compare  it  to  a dance.  A  man  reading  these  pages  may  easily  recall the  anxiety  he  felt  the  first  time  he  searched  a  dance floor  for  the  person  he  most  wanted  to  approach. ","prefix":"irectee? RELATIONSHIP  A  DANCE","suffix":"He may  also  remember  the  sw"}]}],"created":"2024-08-27T14:54:01.928Z","updated":"2024-08-27T14:54:01.928Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}
 >```
 >%%
 >*%%PREFIX%%irectee? RELATIONSHIP  A  DANCE%%HIGHLIGHT%% ==One  way  to  look  at  the  ongoing  relationship  with God,  the  struggle  between  God  and  the  directee  to continue  meeting  each  other,  is  to  compare  it  to  a dance.  A  man  reading  these  pages  may  easily  recall the  anxiety  he  felt  the  first  time  he  searched  a  dance floor  for  the  person  he  most  wanted  to  approach.== %%POSTFIX%%He may  also  remember  the  sw*
 >%%LINK%%[[#^tufh93shkr|show annotation]]
 >%%COMMENT%%
->
+>Compare to a dance. Can we continue to dance together?
 >%%TAGS%%
 >
 ^tufh93shkr
@@ -246,13 +246,13 @@ Can I put a text here? And still get the Obsidian interface to work?
 
 >%%
 >```annotation-json
->{"created":"2024-08-27T14:55:13.111Z","updated":"2024-08-27T14:55:13.111Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":63012,"end":63592},{"type":"TextQuoteSelector","exact":"nd  heard  him  ourselves,” In  the  ongoing  relationship,  we  rely  on  this  first experience  of  dancing  with  God,  but  we  cannot  re- main  there.  God  is  constantly  calling  on  us  to  learn new  moods,  new  rhythms,  new  steps.  If  we  wish  to become  proficient,  we  set  ourselves  to  the  task.  The struggle,  the  exercise,  the  practice  may  be  somewhat daunting  at  times,  but  each  new  dance  will  find  u ; more  flexible,  more  supple,  more  filled  with  grace Spiritual  direction  can  improve  our  dancing. f  fe  ie  Om  mee Ce  oc","prefix":"  but  because  we  have  seen a","suffix":" More Information Less Informati"}]}]}
+>{"text":"The dance","target":[{"source":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf","selector":[{"type":"TextPositionSelector","start":63012,"end":63592},{"type":"TextQuoteSelector","exact":"nd  heard  him  ourselves,” In  the  ongoing  relationship,  we  rely  on  this  first experience  of  dancing  with  God,  but  we  cannot  re- main  there.  God  is  constantly  calling  on  us  to  learn new  moods,  new  rhythms,  new  steps.  If  we  wish  to become  proficient,  we  set  ourselves  to  the  task.  The struggle,  the  exercise,  the  practice  may  be  somewhat daunting  at  times,  but  each  new  dance  will  find  u ; more  flexible,  more  supple,  more  filled  with  grace Spiritual  direction  can  improve  our  dancing. f  fe  ie  Om  mee Ce  oc","prefix":"but  because  we  have  seen a","suffix":"More Information Less Informati"}]}],"created":"2024-08-27T14:55:13.111Z","updated":"2024-08-27T14:55:13.111Z","document":{"title":"Untitled","link":[{"href":"urn:x-pdf:acf080c8f47b63545e93c38ecf7216b9"},{"href":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}],"documentFingerprint":"acf080c8f47b63545e93c38ecf7216b9"},"uri":"vault:/assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"}
 >```
 >%%
 >*%%PREFIX%%but  because  we  have  seen a%%HIGHLIGHT%% ==nd  heard  him  ourselves,” In  the  ongoing  relationship,  we  rely  on  this  first experience  of  dancing  with  God,  but  we  cannot  re- main  there.  God  is  constantly  calling  on  us  to  learn new  moods,  new  rhythms,  new  steps.  If  we  wish  to become  proficient,  we  set  ourselves  to  the  task.  The struggle,  the  exercise,  the  practice  may  be  somewhat daunting  at  times,  but  each  new  dance  will  find  u ; more  flexible,  more  supple,  more  filled  with  grace Spiritual  direction  can  improve  our  dancing. f  fe  ie  Om  mee Ce  oc== %%POSTFIX%%More Information Less Informati*
 >%%LINK%%[[#^s58tj5lzmln|show annotation]]
 >%%COMMENT%%
->
+>The dance
 >%%TAGS%%
 >
 ^s58tj5lzmln
