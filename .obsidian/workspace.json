@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d4697c90d942c90a",
+        "id": "bfc3a90e69ddbcec",
         "type": "tabs",
         "children": [
           {
-            "id": "0d09ea4e0cd4d04c",
+            "id": "4840b938e36573f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "defining-sd-review.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "defining-sd-review.md",
+                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "defining-sd-review.md",
+                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "defining-sd-review.md"
+                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf"
               }
             }
           },
@@ -154,13 +151,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "0d09ea4e0cd4d04c",
+  "active": "4840b938e36573f6",
   "lastOpenFiles": [
-    "defining-spiritual-direction.md",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
+    "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
+    "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.pdf",
+    "Untitled.md",
+    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
+    "Highlights for Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.md",
+    "assets/Contemplative and Evocative Presence Skills - Sep 13 2024 - 12-07 PM.pdf",
+    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
+    "assets/Mission+and+the+Art+of+Spiritual+Direction.pdf",
+    "assets/rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "defining-sd-review.md",
+    "defining-spiritual-direction.md",
     "art-spiritual-direction-review.md",
     "art-of-spiritual-direction.md",
     "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
@@ -181,20 +191,8 @@
     "journal/2024-09-11.md",
     "assets/oneil-proposal-2.pdf",
     "assets/Paris Agent.jpg",
-    "assets/rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
-    "assets/Mission+and+the+Art+of+Spiritual+Direction.pdf",
     "mission of spiritual direction notes.md",
-    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "cd-rippers.md",
-    "journal/2024-09-08.md",
-    "journal/2024-08-27.md",
-    "common commands.md",
-    "journal/2024-08-29.md",
-    "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
-    "12 key decisions.md",
-    "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library/pages",
-    "mnt/chromeos/MyFiles/Downloads/Markdown/Obsidian-library",
-    "assets/Dale Hathaway Acceptance letter.docx.pdf"
+    "journal/2024-09-08.md"
   ]
 }
