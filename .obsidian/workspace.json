@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfc3a90e69ddbcec",
+        "id": "acf60d02425305c2",
         "type": "tabs",
         "children": [
           {
-            "id": "4840b938e36573f6",
+            "id": "bff5a7e8a3277365",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +149,9 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "4840b938e36573f6",
+  "active": "bff5a7e8a3277365",
   "lastOpenFiles": [
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
     "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
@@ -189,7 +184,6 @@
     "Spiritual.md",
     "templates/diarytemplate.md",
     "journal/2024-09-11.md",
-    "assets/oneil-proposal-2.pdf",
     "assets/Paris Agent.jpg",
     "mission of spiritual direction notes.md",
     "cd-rippers.md",
