@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bec79d1b35cd29c1",
+        "id": "de2bade9deb0258d",
         "type": "tabs",
         "children": [
           {
-            "id": "37ab3d652aa0cc01",
+            "id": "125d5f0c7a749af8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,13 +149,14 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "37ab3d652aa0cc01",
+  "active": "125d5f0c7a749af8",
   "lastOpenFiles": [
-    "Fostering the contemplative attitude 1.md",
     "Fostering the contemplative attitude.md",
+    "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.md",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
+    "Fostering the contemplative attitude 1.md",
     "art-of-spiritual-direction.md",
     "art-spiritual-direction-review.md",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
     "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
@@ -185,8 +186,6 @@
     "templates/diarytemplate.md",
     "journal/2024-09-11.md",
     "assets/Paris Agent.jpg",
-    "mission of spiritual direction notes.md",
-    "cd-rippers.md",
-    "journal/2024-09-08.md"
+    "mission of spiritual direction notes.md"
   ]
 }
