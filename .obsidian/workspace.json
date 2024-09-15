@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acf60d02425305c2",
+        "id": "bec79d1b35cd29c1",
         "type": "tabs",
         "children": [
           {
-            "id": "bff5a7e8a3277365",
+            "id": "37ab3d652aa0cc01",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,15 +149,18 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "bff5a7e8a3277365",
+  "active": "37ab3d652aa0cc01",
   "lastOpenFiles": [
+    "Fostering the contemplative attitude 1.md",
+    "Fostering the contemplative attitude.md",
+    "art-of-spiritual-direction.md",
+    "art-spiritual-direction-review.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
     "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
     "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.pdf",
-    "Untitled.md",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "Highlights for Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.md",
     "assets/Contemplative and Evocative Presence Skills - Sep 13 2024 - 12-07 PM.pdf",
@@ -166,8 +169,6 @@
     "assets/rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "defining-sd-review.md",
     "defining-spiritual-direction.md",
-    "art-spiritual-direction-review.md",
-    "art-of-spiritual-direction.md",
     "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Spiritual Direction Training.md",
@@ -179,7 +180,6 @@
     "apply spiritual direction-2.md",
     "Spiritual Direction 101.md",
     "assets/CAP-module-one-syllabus.md",
-    "4913",
     "\"Spiritual.md",
     "Spiritual.md",
     "templates/diarytemplate.md",
