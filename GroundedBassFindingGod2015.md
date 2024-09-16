@@ -1,0 +1,1 @@
+Genesis -- Natural habitat -- Dirt -- Water -- Sky -- Human geography -- Roots -- Home -- Neighborhood -- Commons -- Revelation

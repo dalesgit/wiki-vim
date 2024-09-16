@@ -4,6 +4,8 @@ date: 2024-07-10
 tags: 
 ---
 # Lectio
+## Mon 16 Sep 2024 
+Gal. 4:6 … Abba. Need to just change the word (e.g. Lord's prayer)
 ## Thu 12 Sep 2024 
 Ephesians 1:7
 
