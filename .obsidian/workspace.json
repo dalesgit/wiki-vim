@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de2bade9deb0258d",
+        "id": "b6876916aadc1d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "125d5f0c7a749af8",
+            "id": "ad0a97daea88d062",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,14 +149,16 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "125d5f0c7a749af8",
+  "active": "ad0a97daea88d062",
   "lastOpenFiles": [
-    "Fostering the contemplative attitude.md",
-    "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.md",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
-    "Fostering the contemplative attitude 1.md",
     "art-of-spiritual-direction.md",
     "art-spiritual-direction-review.md",
+    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
+    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
+    "Fostering the contemplative attitude.md",
+    "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.md",
+    "Fostering the contemplative attitude 1.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
     "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
@@ -165,13 +167,11 @@
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "Highlights for Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.md",
     "assets/Contemplative and Evocative Presence Skills - Sep 13 2024 - 12-07 PM.pdf",
-    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "assets/Mission+and+the+Art+of+Spiritual+Direction.pdf",
     "assets/rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "defining-sd-review.md",
     "defining-spiritual-direction.md",
     "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
-    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Spiritual Direction Training.md",
     "SD Session Thu 12 Sep 2024.md",
     "journal Wed 11 Sep 2024.md",
