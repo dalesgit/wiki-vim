@@ -4,6 +4,8 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Tue 17 Sep 2024 
+For the lectio reading last night -- the paraphrase of Psalm 137. Cf. notes in Joplin
 ## Fri 13 Sep 2024 
 
 - The opportunity to be a part of the SD class. 

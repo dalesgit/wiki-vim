@@ -4,6 +4,32 @@ date: 2024-07-10
 tags: 
 ---
 # Lectio
+## Tue 17 Sep 2024 
+## psalm 137
+
+- Hokuleia
+-   Lydia listening to the dolphins
+-   Jerry a song with 3 movements: moving from morning to mixture
+-   Balm of gilead
+-   Open the eyes of my heart Lord.
+
+---
+
+  **The Promised Shore**
+
+Plunge into the Ocean of Love where heart meets Heart.
+Where sorrows are comforted, and wounds are mended.
+There melodies of sadness mingle with dolphin songs of joy;
+Past fears dissolve in deep harmonic tones,
+The future -- pure mystery
+For eternal moments lived in total surrender, glide smoothly
+Over troubled waters.
+Hide not from Love, O friend sink not into the sea of despair,
+The mire of hatred.
+Awaken, O my heart, that I drown not in fear.
+Too long have I sailed where ever the winds have blown!
+Drop anchor! O heart of all hearts, set a clear course,
+That I might follow! Guide me to the Promised Shore!
 ## Mon 16 Sep 2024 
 Gal. 4:6 … Abba. Need to just change the word (e.g. Lord's prayer)
 ## Thu 12 Sep 2024 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6876916aadc1d5c",
+        "id": "f9efe5da0fc00385",
         "type": "tabs",
         "children": [
           {
-            "id": "ad0a97daea88d062",
+            "id": "08ace9c5a9443d77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,10 +146,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "ad0a97daea88d062",
+  "active": "08ace9c5a9443d77",
   "lastOpenFiles": [
     "art-of-spiritual-direction.md",
     "art-spiritual-direction-review.md",
