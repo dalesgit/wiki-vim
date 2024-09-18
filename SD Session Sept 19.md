@@ -7,8 +7,9 @@ tags:
 - # SD Session Sept 19
 - ## Notes
 	- [[defining-sd-review]]
-		-
+		- ![Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf](assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr_1726694506203_0.pdf)
 	- [[art-spiritual-direction-review]]
+		- ![Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf](assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr_1726694560219_0.pdf)
 	- [[notes2-Fostering the contemplative attitude]] receptive to new approach
 	- [[notes1-Fostering the contemplative attitude 1]] the old pdf annotations file
 	- [[contemplative-and-evocative-skills-notes]]
