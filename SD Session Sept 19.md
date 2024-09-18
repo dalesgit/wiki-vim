@@ -7,6 +7,7 @@ tags:
 - # SD Session Sept 19
 - ## Notes
 	- [[defining-sd-review]]
+		-
 	- [[art-spiritual-direction-review]]
 	- [[notes2-Fostering the contemplative attitude]] receptive to new approach
 	- [[notes1-Fostering the contemplative attitude 1]] the old pdf annotations file
