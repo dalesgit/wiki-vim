@@ -5,7 +5,8 @@ tags:
 ---
 # Gratitude Journal
 ## Tue 17 Sep 2024 
-For the lectio reading last night -- the paraphrase of Psalm 137. Cf. notes in Joplin
+- For the lectio reading last night -- the paraphrase of Psalm 137. Cf. notes in Joplin
+- Giant tree is gone. All that's left is the stump. That stump is reminiscent of *The Giving Tree*. Also **Elijah's chair**. Musical chairs. 
 ## Fri 13 Sep 2024 
 
 - The opportunity to be a part of the SD class. 

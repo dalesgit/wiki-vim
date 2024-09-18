@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f9efe5da0fc00385",
+        "id": "2bad50feba6ea278",
         "type": "tabs",
         "children": [
           {
-            "id": "08ace9c5a9443d77",
+            "id": "4692ab47b13731dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcoming the stranger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e51d227ffcd42d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4e14011d6a788e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes2-Fostering the contemplative attitude.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcoming the stranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcoming the stranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcoming the stranger.md"
+              }
             }
           },
           {
@@ -150,43 +176,44 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "08ace9c5a9443d77",
+  "active": "4692ab47b13731dd",
   "lastOpenFiles": [
-    "art-of-spiritual-direction.md",
+    "Guenther-notes.md",
+    "Welcoming.md",
+    "SD Session Sept 19.md",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
+    "notes2-Fostering the contemplative attitude.md",
     "art-spiritual-direction-review.md",
+    "defining-sd-review.md",
+    "Spiritual Direction Training.md",
+    "SD.md",
+    "journal/2024-09-17.md",
+    "Spiritual.md",
+    "notes1-Fostering the contemplative attitude 1.md",
+    "art-of-spiritual-direction.md",
+    "mission of spiritual direction notes.md",
+    "contemplative-and-evocative-skills-notes.md",
+    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
+    "Spiritual Direction 101-notes.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
-    "Fostering the contemplative attitude.md",
     "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.md",
-    "Fostering the contemplative attitude 1.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
     "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
     "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.pdf",
-    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "Highlights for Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.md",
     "assets/Contemplative and Evocative Presence Skills - Sep 13 2024 - 12-07 PM.pdf",
     "assets/Mission+and+the+Art+of+Spiritual+Direction.pdf",
     "assets/rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "defining-sd-review.md",
     "defining-spiritual-direction.md",
     "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
-    "Spiritual Direction Training.md",
     "SD Session Thu 12 Sep 2024.md",
     "journal Wed 11 Sep 2024.md",
     "SD Certification Wed 11 Sep 2024.md",
     "journal/2024-09-12.md",
     "SD Syllabus.md",
-    "apply spiritual direction-2.md",
-    "Spiritual Direction 101.md",
-    "assets/CAP-module-one-syllabus.md",
-    "\"Spiritual.md",
-    "Spiritual.md",
-    "templates/diarytemplate.md",
-    "journal/2024-09-11.md",
-    "assets/Paris Agent.jpg",
-    "mission of spiritual direction notes.md"
+    "assets/Paris Agent.jpg"
   ]
 }

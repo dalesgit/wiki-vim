@@ -1,4 +1,7 @@
+
 I'm not sure what to think about dictation in the Chromebook. The article is poignant in saying that Spiritual direction is neither spiritual nor direction. Which is to say it is not **self explanatory**.
+
+[[art-of-spiritual-direction]] with notes
 
 - Role of prayer
 - Listening is primary "mode"

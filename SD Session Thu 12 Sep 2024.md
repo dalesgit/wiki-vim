@@ -23,7 +23,7 @@ Created: 2024-09-12 07:35
 - "beggars going out together"
 - interpreting experience
 ## [[Holy Listening notes]]
-## [[Spiritual Direction 101]]
+## [[Spiritual Direction 101-notes]]
 
 ## Notes
 - Be still and know that I am ... Trust Simon de voil
