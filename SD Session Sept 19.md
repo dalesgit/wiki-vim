@@ -15,9 +15,9 @@ tags:
 	- [[contemplative-and-evocative-skills-notes]]
 - ## pdfs
 	- -- (pdf) [[Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf]]
-		- (for logseq) [Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf](assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf)
+		- (for logseq) ![Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf](assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf)
 	- [[Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf]] The modified pdf
-		- -- Logseq link [Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf](assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined_1726666962404_0.pdf)
+		- -- Logseq link ![Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf](assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined_1726666962404_0.pdf)
 - ## Larger text notes
 	- [[Guenther-notes]]
 	- [[Spiritual Direction 101-notes]]
