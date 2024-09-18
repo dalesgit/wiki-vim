@@ -4,6 +4,10 @@ date: 2024-09-02
 tags: 
 ---
 # Gratitude Journal
+## Wed 18 Sep 2024 
+I feel a relief with the stump of the tree ground up. One giant step taken.
+
+My colonoscopy upcoming. Then the trip to Colorado.
 ## Tue 17 Sep 2024 
 - For the lectio reading last night -- the paraphrase of Psalm 137. Cf. notes in Joplin
 - Giant tree is gone. All that's left is the stump. That stump is reminiscent of *The Giving Tree*. Also **Elijah's chair**. Musical chairs. 
