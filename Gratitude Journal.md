@@ -8,7 +8,7 @@ tags:
 - ## Thu 19 Sep 2024 
   I had forgot Mary Pat's Boston Cream Pie. It came up again at the dinner with Fran and Joey when I commented that the dinner was kind of like a birthday dinner for [MP](MP.md). It was a month anniversary of her birth anniversary.
   
-  [dream](dream.md) They seem closer to fulfillment
+  [dream](dream.md) They seem closer to **fulfillment** than they used to be when they were more **frustration**.
 - ## Wed 18 Sep 2024
 - I feel a relief with the stump of the tree ground up. One giant step taken.
 - My colonoscopy upcoming. Then the trip to Colorado.
