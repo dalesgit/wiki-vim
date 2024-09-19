@@ -8,7 +8,7 @@ tags:
 - ## Wed 18 Sep 2024
 - I feel a relief with the stump of the tree ground up. One giant step taken.
 - My colonoscopy upcoming. Then the trip to Colorado.
-- A wonderful meal in St. Petersburg, Treasure Island, with Joe and Fran. We didn't talk much about: Sex, Po
+- A wonderful meal in St. Petersburg, Treasure Island, with Joe and Fran. We didn't talk much about: Sex, Politics, and Religion. But it was a time for Mary Pat to be with her sister.
 - ## Tue 17 Sep 2024
 - For the lectio reading last night -- the paraphrase of Psalm 137. Cf. notes in Joplin
 - Giant tree is gone. All that's left is the stump. That stump is reminiscent of *The Giving Tree*. Also **Elijah's chair**. Musical chairs.
