@@ -62,4 +62,4 @@ tags:
 - Shared screen: SDI definition from various perspectives
 - SDI: "Directee" better something like "Companion" [directing is directing someone's attention]
 - LS: remarked re. she is guiding a death row inmate. "God" is very problematic for him. But he is very keen on "virtues". We focus on his passion to be the best person he can be.
-- LS: she lights a candle to reflect the "3rd candle" which is a basic image for SDI
+- LS: she lights a candle to reflect the "3rd candle" which is a basic image for SDI.
