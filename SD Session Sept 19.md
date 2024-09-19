@@ -23,6 +23,18 @@ tags:
 	- [[Spiritual Direction 101-notes]]
 	- [[mission of spiritual direction notes]] a thesis paper on Barry and Connolly. Not part of assignments
 - ## Discussion
-| Member | Note | check |
-|--------|------|-------|
+| Member | Note                      | check |
+|--------|---------------------------|-------|
+| Cherie |                           |       |
+| Alison |                           |       |
+| Craig  | get permission to just be |       |
+| Nina   |                           |       |
+| Carol  |                           |       |
+| Esther |                           |       |
+| Shea   |                           |       |
+|--------|---------------------------|-------|
 
+- difference between Sp. Formation and Sp Direction
+- Of my sharing she observed that I was mostly asking questions
+- Practice she uses often in a session. Get in contemplative mode. She needs to be connected.
+    - close eyes. Gently become aware of breath. Feet flat on ground, feet are tree trunks. ROoted in the ground.  Imagine roots going down.  Deep and further still. Rooted in lie source. Nourishment from the source. Clear crystal water.  Water is cleansing and refreshing. Out the top of head comes the nourishment. Sit with the flow. 
