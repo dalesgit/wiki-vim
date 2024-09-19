@@ -23,16 +23,16 @@ tags:
 	- [[Spiritual Direction 101-notes]]
 	- [[mission of spiritual direction notes]] a thesis paper on Barry and Connolly. Not part of assignments
 - ## Discussion
-  | Member | Note                      | check |
-  |--------|---------------------------|-------|
-  | Cherie |                           |       |
-  | Alison |                           |       |
-  | Craig  | get permission to just be |       |
-  | Nina   |                           |       |
-  | Carol  |          colleague                 |       |
-  | Esther |                           |       |
-  | Shea   |                           |       |
-  |--------|---------------------------|-------|
+  | Member | Note                                             | check |
+  |--------|--------------------------------------------------|-------|
+  | Cherie |                                                  |       |
+  | Alison |                                                  |       |
+  | Craig  | get permission to just be. practicing formation. |       |
+  | Nina   | need for analytical taking notes                 |       |
+  | Carol  | colleague                                        |       |
+  | Esther |                                                  |       |
+  | Shea   | the musician                                     |       |
+  |--------|--------------------------------------------------|-------|
 - difference between Sp. Formation and Sp Direction
 - LS shared that (Friends of) Taize coming to Catholic Worker in NY when she will be there.
 - Of my sharing she observed that I was mostly asking questions
@@ -41,3 +41,23 @@ tags:
 - opening with David Whyte. poem "Self Portrait" (LS) a type 4 in Enneagram. God speaking through media. <https://high-road-artist.com/9574/wisdom-wednesdays/self-portrait-a-poem-by-david-whyte/>
 	- Linda modeled responding with insight as each of us shared.
 - LS: shared a song. (the contemplative song) (our walk, with selves and others) Genesis -- "Follow you follow me".
+- CS: SD is a subset of Spiritual Formation. 3rd Chair in the room. poem: letter to Spiritual Director. Helping people to open hearts and souls to the divine.
+- SF vs. SD: powerpoint.
+-
+| SF                            | SD                                                                 | Both                 |
+|-------------------------------|--------------------------------------------------------------------|----------------------|
+| what is being formed in you   | exploring reality of that formation, growth and resistance/ blocks | are guided by spirit |
+| you are the passenger         | you are the guide in the backseat                                  |                      |
+| birthing something new        | midwife                                                            |                      |
+| turning over stones           | cutting an dpolishing the stone                                    |                      |
+| What we see                   | how we see                                                         |                      |
+| is contemplative              | contemplative **and** evocative: long loving look at the real …    |                      |
+| exterior exp lead to interior | helps one become aware of interior movements via reflection        |                      |
+| learning new things           | witness the new things                                             |                      |
+| espoused theology/orthodoxy   | matches espoused theology with operative theology (orthopraxy)     |                      |
+|-------------------------------|--------------------------------------------------------------------|----------------------|
+
+- assumptions: we may not all be religious, but all spiritual beings. Acknowledge of power greater than ourselves.
+- 3-legs: noticing, curiosity, wonder (attention, exploring, response)
+- SD: Most people are accustomed to being told who God is.
+- Nina: glad to read that SD are not gurus.
