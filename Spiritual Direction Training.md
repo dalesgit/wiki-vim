@@ -20,4 +20,6 @@ tags:
 - The difference between religion & spirituality
 - article discussion (2)
 - ## [[SD Session Sept 19.md|SD Session Sept 19]]
+	- difference between Spiritual Formation and Spiritual Direction (dinner last night)
+	- Friends of Taize at Catholic
 	-

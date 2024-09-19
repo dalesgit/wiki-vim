@@ -23,4 +23,6 @@ tags:
 	- [[Spiritual Direction 101-notes]]
 	- [[mission of spiritual direction notes]] a thesis paper on Barry and Connolly. Not part of assignments
 - ## Discussion
--
+| Member | Note | check |
+|--------|------|-------|
+
