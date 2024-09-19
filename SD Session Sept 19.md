@@ -61,3 +61,4 @@ tags:
 - Nina: glad to read that SD are not gurus.
 - Shared screen: SDI definition from various perspectives
 - SDI: "Directee" better something like "Companion" [directing is directing someone's attention]
+- LS: remarked re. she is guiding a death row inmate.
