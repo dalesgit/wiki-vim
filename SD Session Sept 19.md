@@ -34,7 +34,7 @@ tags:
   | Shea   |                           |       |
   |--------|---------------------------|-------|
 - difference between Sp. Formation and Sp Direction
-- LS shared that Friends of Taize coming to Catholic Worker
+- LS shared that Friends of Taize coming to Catholic Worker in NY when she will be there.
 - Of my sharing she observed that I was mostly asking questions
 - Practice she uses often in a session. Get in contemplative mode. She needs to be connected.
 	- close eyes. Gently become aware of breath. Feet flat on ground, feet are tree trunks. ROoted in the ground.  Imagine roots going down.  Deep and further still. Rooted in lie source. Nourishment from the source. Clear crystal water.  Water is cleansing and refreshing. Out the top of head comes the nourishment. Sit with the flow.
