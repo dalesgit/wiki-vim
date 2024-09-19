@@ -26,7 +26,7 @@ tags:
   | Member | Note                                             | check |
   |--------|--------------------------------------------------|-------|
   | Cherie |                                                  |       |
-  | Alison |                                                  |       |
+  | Alison | reform tradition                                                 |       |
   | Craig  | get permission to just be. practicing formation. |       |
   | Nina   | need for analytical taking notes                 |       |
   | Carol  | colleague                                        |       |
@@ -43,20 +43,18 @@ tags:
 - LS: shared a song. (the contemplative song) (our walk, with selves and others) Genesis -- "Follow you follow me".
 - CS: SD is a subset of Spiritual Formation. 3rd Chair in the room. poem: letter to Spiritual Director. Helping people to open hearts and souls to the divine.
 - SF vs. SD: powerpoint.
--
-| SF                            | SD                                                                 | Both                 |
-|-------------------------------|--------------------------------------------------------------------|----------------------|
-| what is being formed in you   | exploring reality of that formation, growth and resistance/ blocks | are guided by spirit |
-| you are the passenger         | you are the guide in the backseat                                  |                      |
-| birthing something new        | midwife                                                            |                      |
-| turning over stones           | cutting an dpolishing the stone                                    |                      |
-| What we see                   | how we see                                                         |                      |
-| is contemplative              | contemplative **and** evocative: long loving look at the real …    |                      |
-| exterior exp lead to interior | helps one become aware of interior movements via reflection        |                      |
-| learning new things           | witness the new things                                             |                      |
-| espoused theology/orthodoxy   | matches espoused theology with operative theology (orthopraxy)     |                      |
-|-------------------------------|--------------------------------------------------------------------|----------------------|
-
+- | SF                            | SD                                                                 | Both                 |
+  |-------------------------------|--------------------------------------------------------------------|----------------------|
+  | what is being formed in you   | exploring reality of that formation, growth and resistance/ blocks | are guided by spirit |
+  | you are the passenger         | you are the guide in the backseat                                  |                      |
+  | birthing something new        | midwife                                                            |                      |
+  | turning over stones           | cutting an dpolishing the stone                                    |                      |
+  | What we see                   | how we see                                                         |                      |
+  | is contemplative              | contemplative **and** evocative: long loving look at the real …    |                      |
+  | exterior exp lead to interior | helps one become aware of interior movements via reflection        |                      |
+  | learning new things           | witness the new things                                             |                      |
+  | espoused theology/orthodoxy   | matches espoused theology with operative theology (orthopraxy)     |                      |
+  |-------------------------------|--------------------------------------------------------------------|----------------------|
 - assumptions: we may not all be religious, but all spiritual beings. Acknowledge of power greater than ourselves.
 - 3-legs: noticing, curiosity, wonder (attention, exploring, response)
 - SD: Most people are accustomed to being told who God is.
