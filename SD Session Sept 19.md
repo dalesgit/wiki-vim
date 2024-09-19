@@ -29,7 +29,7 @@ tags:
   | Alison |                           |       |
   | Craig  | get permission to just be |       |
   | Nina   |                           |       |
-  | Carol  |                           |       |
+  | Carol  |          colleague                 |       |
   | Esther |                           |       |
   | Shea   |                           |       |
   |--------|---------------------------|-------|
