@@ -61,4 +61,4 @@ tags:
 - Nina: glad to read that SD are not gurus.
 - Shared screen: SDI definition from various perspectives
 - SDI: "Directee" better something like "Companion" [directing is directing someone's attention]
-- LS: remarked re. she is guiding a death row inmate.
+- LS: remarked re. she is guiding a death row inmate. "God" is very problematic for him. But he is very keen on "virtues". We focus on his passion to be the best person he can be.
