@@ -17,15 +17,15 @@
 - opening with David Whyte. poem "Self Portrait" (LS) a type 4 in Enneagram. God speaking through media. <https://high-road-artist.com/9574/wisdom-wednesdays/self-portrait-a-poem-by-david-whyte/>
 	- Linda modeled responding with insight as each of us shared.
 - LS: shared a song. (the contemplative song) (our walk, with selves and others) Genesis -- "Follow you follow me".
-- CS: SD is a subset of Spiritual Formation. 3rd Chair in the room. poem: letter to Spiritual Director. Helping people to open hearts and souls to the divine.
-- SF vs. SD: powerpoint.
+- CS: SD is a subset of Spiritual Formation. 3rd Chair in the room. Poem: letter to Spiritual Director. Helping people to open hearts and souls to the divine.
+- SF vs. SD: PowerPoint.
     
 | SF                            | SD                                                                 | Both                 |
 | ----------------------------- | ------------------------------------------------------------------ | -------------------- |
 | what is being formed in you   | exploring reality of that formation, growth and resistance/ blocks | are guided by spirit |
 | you are the passenger         | you are the guide in the backseat                                  |                      |
 | birthing something new        | midwife                                                            |                      |
-| turning over stones           | cutting an dpolishing the stone                                    |                      |
+| turning over stones           | cutting and polishing the stone                                    |                      |
 | What we see                   | how we see                                                         |                      |
 | is contemplative              | contemplative **and** evocative: long loving look at the real …    |                      |
 | exterior exp lead to interior | helps one become aware of interior movements via reflection        |                      |
