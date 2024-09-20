@@ -4,22 +4,13 @@ date: 2024-09-20
 tags: 
 ---
 # mary-jean-commital
--   [Prayers](#prayers){#toc-prayers}
+
+-   [Various Prayers](#various prayers){#toc-prayers}
 -   [Commital](#commital){#toc-commital}
--   [The Lord's Prayer](#the-lords-prayer){#toc-the-lords-prayer}
 -   [The Prayers](#the-prayers){#toc-the-prayers}
 
-::: center
-Helen Marie (Swanson) Detwiler
 
-January 16, 1925 -- April 26, 2018\
-Myrtle Beach, South Carolina\
-November 29, 2023\
-:::
-
-::: {#prayers}
-## Prayers
-:::
+## Various Prayers
 
 > *Adapted from the **New Zealand Prayer Book***
 
@@ -53,12 +44,7 @@ The Lord's face shine upon you;\
 the light of God's countenance lift you up\
 and give you peace. **Amen.**
 
-::: center
-:::
-
-::: {#commital}
 ## Commital
-:::
 
 *When all are gathered together, the minister shall say one or more of
 the following sentences.*
@@ -86,9 +72,7 @@ with her, the good we saw in her, the love we received from her. We
 thank you that she is in your care and trust in your promise of eternal
 life through Jesus Christ our Lord. **Amen**.
 
-::: {#the-lords-prayer}
-## The Lord's Prayer
-:::
+## The Lord's Prayer{#the-lords-prayer}
 
 Eternal Spirit, Earth-maker, Pain-bearer, Life-giver,\
 Source of all that is and that shall be,\
@@ -119,9 +103,7 @@ resting-place in the deep. Amen.
 
 *The ashes are placed in their resting place.*
 
-::: {#the-prayers}
 ## The Prayers
-:::
 
 *The minister says the following prayer.*
 
@@ -144,15 +126,10 @@ ever. **Amen.**
 **The grace of our Lord Jesus Christ, and the love of God, and the
 fellowship of the Holy Spirit be with us all. Amen.**
 
-mm
 
-::: center
 **Present**\
 Dale Hathaway & Mary Pat Sjostrom\
 William Hathaway & Karla Hackstaff\
 David Hathaway & Laura Guttierez-Spencer\
 Julian Hathaway
-
-![image](mom-walking-on3.jpg){width="4.5cm"}
-:::
 
