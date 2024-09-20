@@ -171,7 +171,12 @@ y+s (e.g. 2w) key = insert
 
 <C-k> ., = ellipsis
 <C-k> 12 = one half (14 = fourth)
-
+Rg = registered sign
+Co = copyright
+/- = dagger
+/= = double dagger
+co = care of sign
+[all kinds of fractions]
 
 
 ## word count

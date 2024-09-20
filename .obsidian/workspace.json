@@ -149,16 +149,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,7 +168,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "c62d82b670a5b902",
+  "active": "800bb0a7543ae4bd",
   "lastOpenFiles": [
     "SD Session Sept 19.md",
     "contemplative-and-evocative-skills-notes.md",

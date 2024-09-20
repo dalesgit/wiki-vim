@@ -5,6 +5,9 @@ tags:
 ---
 
 - # Gratitude Journal
+- ## Fri 20 Sep 2024 
+- The McDonald's breakfast tasted **so** good. This morning I began my regimen for the colonoscopy on Monday. 
+- Grateful for figuring out the Iphone / Logseq / Github issue last night. It took ca. 2 hours total fiddling, but I figured out that I was inadvertently creating the folder in **Icloud** rather than on the phone. I missed it because the option wasn't visible -- I had to guess where to toggle the option. The symptom was that I was able to "pull" the repository with "Working Copy" but not commit or push.
 - ## Thu 19 Sep 2024 
   I had forgot Mary Pat's Boston Cream Pie. It came up again at the dinner with Fran and Joey when I commented that the dinner was kind of like a birthday dinner for [MP](MP.md). It was a month anniversary of her birth anniversary.
   
