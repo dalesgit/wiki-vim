@@ -1,5 +1,5 @@
 ---
-title: Proper-16b-sermon-draft
+title: Proper-16b-sermon-draft-2
 date: 2024-08-02
 tags: 
 ---
