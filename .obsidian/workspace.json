@@ -4,30 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "79dae8102ce9c6e5",
+        "id": "9871f49f919c5428",
         "type": "tabs",
+        "dimension": 41.25722543352601,
         "children": [
           {
-            "id": "c62d82b670a5b902",
+            "id": "25510c25b6e2d06d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SD Sept 19 - Discussion.md",
+                "file": "facilitating adult relationship - notes.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5e9f8671ee69292f",
+        "type": "tabs",
+        "dimension": 58.74277456647399,
+        "children": [
           {
-            "id": "beb1fe18e6c04d85",
+            "id": "03ae1dc73c720bd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "contemplative-and-evocative-skills-notes.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf"
               }
             }
           }
@@ -81,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -97,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SD Sept 19 - Discussion.md",
+                "file": "facilitating adult relationship - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SD Sept 19 - Discussion.md",
+                "file": "facilitating adult relationship - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SD Sept 19 - Discussion.md"
+                "file": "facilitating adult relationship - notes.md"
               }
             }
           },
@@ -153,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +176,16 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "800bb0a7543ae4bd",
+  "active": "25510c25b6e2d06d",
   "lastOpenFiles": [
-    "SD Session Sept 19.md",
+    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
+    "facilitating adult relationship - notes.md",
+    "journal/2024-09-21.md",
     "contemplative-and-evocative-skills-notes.md",
+    "SD Sept 19 - Discussion.md",
+    "SD Session Sept 19.md",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
-    "SD Sept 19 - Discussion.md",
     "Spiritual Direction Training.md",
     "listening skills.md",
     "defining-sd-review.md",
@@ -202,9 +213,6 @@
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.pdf",
     "Highlights for Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.md",
     "assets/Contemplative and Evocative Presence Skills - Sep 13 2024 - 12-07 PM.pdf",
-    "assets/Mission+and+the+Art+of+Spiritual+Direction.pdf",
-    "defining-spiritual-direction.md",
-    "Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf.md",
     "assets/Paris Agent.jpg"
   ]
 }
