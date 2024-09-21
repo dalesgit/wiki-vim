@@ -1,83 +1,21 @@
 ---
-title: mary-jean-commital
-date: 2024-09-20
-tags: 
+title: The Commital of Ashes
+subtitle: Mary Jean Kennedy Hathaway
+author: Crown Hill Cemetery, Wheatridge, Colorado
+date: Oct. 5, 2024
 ---
-*Contents*
-* [mary-jean-commital](#mary-jean-commital)
-    * [Various Prayers](#mary-jean-commital#Various Prayers)
-    * [Commital](#mary-jean-commital#Commital)
-    * [The Lord's Prayer](#mary-jean-commital#The Lord's Prayer)
-    * [The Prayers](#mary-jean-commital#The Prayers)
 
-# mary-jean-commital
+## Welcoming
 
--   [Various Prayers](#various prayers){#toc-prayers}
--   [Commital](#commital){#toc-commital}
--   [The Prayers](#the-prayers){#toc-the-prayers}
+> Various prayers adapted from the **New Zealand Prayer Book** and __The Book of Common Prayer__
 
+*When all are gathered together, the Officiant shall say*
 
-## Various Prayers
+God our Father we thank you for Mary Jean, the years we shared with her, the good we saw in her, the love we received from her. We thank you that she is in your care and trust in your promise of eternal life through Jesus Christ our Lord. **Amen**.
 
-> *Adapted from the **New Zealand Prayer Book***
+Saint Paul said, 'I am convinced that there is nothing in death or life, in the realm of spirits or superhuman powers, in the world as it is or the world as it shall be, in the forces of the universe, in the heights or depths -- nothing in all creation that can separate us from the love of God in Christ Jesus, our Lord. *Romans 8:38*
 
-Father of all,\
-we pray to you for those we love but see no longer.\
-We thank you for the peace and light you bestow upon them;\
-in your loving wisdom and almighty power\
-continue to work in them\
-the good purpose of your perfect will,\
-through Jesus Christ our Lord.\
-**Amen.**
-
-God of heaven and earth,\
-help us to entrust our loved ones to your care.\
-When sorrow darkens our lives, teach us to look to you.\
-May we on earth always rejoice in your presence,\
-and share with them the rest and peace you give,\
-in Jesus Christ our Lord. **Amen.**
-
-God grant to the living, grace;\
-to the departed, rest;\
-to all the world, peace and concord;\
-and to us and to every faithful servant, life everlasting:\
-and the blessing of God almighty,\
-Father, Son, and Holy Spirit,\
-be with you and remain with you for ever. **Amen.**
-
-To God's gracious mercy and protection we commit you;\
-God bless you, keep you and be gracious to you;\
-The Lord's face shine upon you;\
-the light of God's countenance lift you up\
-and give you peace. **Amen.**
-
-## Commital
-
-*When all are gathered together, the minister shall say one or more of
-the following sentences.*
-
-Jesus said, 'I am the resurrection and the life; even in death, anyone
-who believes in me, will live. *John 11:25*
-
-'Set your troubled hearts at rest. Trust in God always, trust also in
-me. There are many dwelling places in my Father's house; if it were not
-so, I should have told you; for I am going there on purpose to prepare a
-place for you. And if I go to prepare a place for you, I shall come
-again and receive you to myself, so that where I am, you may be also.
-*John 14:1--3*
-
-Saint Paul said, 'I am convinced that there is nothing in death or life,
-in the realm of spirits or superhuman powers, in the world as it is or
-the world as it shall be, in the forces of the universe, in the heights
-or depths -- nothing in all creation that can separate us from the love
-of God in Christ Jesus, our Lord. *Romans 8:38*
-
-*The following may be said*
-
-God our Father we thank you for Helen Marie Swanson, the years we shared
-with her, the good we saw in her, the love we received from her. We
-thank you that she is in your care and trust in your promise of eternal
-life through Jesus Christ our Lord. **Amen**.
+> *All join in say the following*
 
 ## The Lord's Prayer
 
@@ -89,8 +27,8 @@ Loving God, in whom is heaven:
 The hallowing of your name echo through the universe!\
 The way of your justice be followed by the peoples of the world!\
 Your heavenly will be done by all created beings!\
-Your commonwealth of peace and freedom sustain our hope and come on
-earth.
+Your commonwealth of peace and freedom\
+sustain our hope and come on earth.
 
 With the bread we need for today, feed us.\
 In the hurts we absorb from one another, forgive us.\
@@ -99,44 +37,53 @@ From trials too great to endure, spare us.\
 From the grip of all that is evil, free us.
 
 For you reign in the glory of the power that is love,\
-now and for ever. Amen
+now and for ever. **Amen**
 
 *The Officiant prays*
 
-We thank you, loving Creator, that we have been able to entrust Helen
-Marie into your keeping. Through Christ's victory we have hope in life
-eternal. So now, we commit the ashes of her mortal body to their
-resting-place in the deep. Amen.
+We thank you, loving Creator, that we have been able to entrust Mary Jean into your keeping. Through Christ's victory we have hope in life
+eternal. So now, we commit the ashes of her mortal body to their resting-place. **Amen**.
+
+In sure and certain hope of the resurrection to eternal life through our Lord Jesus Christ, we commend to Almighty God our sister Mary Jean, and we commit her body to the ground; earth to earth, ashes to ashes, dust to dust. The Lord bless her and keep her, the Lord make his face to shine upon her and be gracious to her, the Lord lift up his countenance upon her and give her peace. **Amen**.
 
 *The ashes are placed in their resting place.*
 
 ## The Prayers
 
-*The minister says the following prayer.*
+*The Officiant says the following prayer.*
 
-Father, accept our praise and thanksgiving for the lives of all your
-faithful people who have served you on earth and are now at rest. Grant
-that we too may dedicate ourselves to your service, following their good
-examples, and share with them your heavenly kingdom; through Jesus
-Christ our Lord. **Amen.**
+Father of all, we pray to you for those we love but see no longer.  We thank you for the peace and light you bestow upon them; in your loving wisdom and almighty power continue to work in them the good purpose of your perfect will, through Jesus Christ our Lord.  **Amen.**
 
-*A priest says*
+God of heaven and earth, help us to entrust our loved ones to your care.  When sorrow darkens our lives, teach us to look to you.  May we on earth always rejoice in your presence, and share with them the rest and peace you give, in Jesus Christ our Lord. **Amen.**
 
-The God of peace, who by the blood of the eternal covenant brought again
-from the dead our Lord Jesus Christ, that great shepherd of the sheep,
-make you perfect in every good work, working in you that which is
-pleasing and good, through Jesus Christ, to whom be glory for ever and
-ever. **Amen.**
+Father, accept our praise and thanksgiving for the lives of all your faithful people who have served you on earth and are now at rest. Grant that we too may dedicate ourselves to your service, following their good examples, and share with them your heavenly kingdom; through Jesus Christ our Lord. **Amen.**
 
-*The minister and people say together*
+_The Officiant says_
 
-**The grace of our Lord Jesus Christ, and the love of God, and the
-fellowship of the Holy Spirit be with us all. Amen.**
+The God of peace, who by the blood of the eternal covenant brought again from the dead our Lord Jesus Christ, that great shepherd of the sheep, make you perfect in every good work, working in you that which is pleasing and good, through Jesus Christ, to whom be glory for ever and ever. **Amen.**
 
+*The people say together*
 
-**Present**\
-Dale Hathaway & Mary Pat Sjostrom\
-William Hathaway & Karla Hackstaff\
-David Hathaway & Laura Guttierez-Spencer\
-Julian Hathaway
+**The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with us all. Amen.**
 
+---
+---
+
+__Celestial Music__
+
+[…]
+
+In reality, we sit by the side of the road, watching the sun set;\
+from time to time, the silence pierced by a birdcall.\
+It’s this moment we’re both trying to explain, the fact\
+that we’re at ease with death, with solitude.\
+My friend draws a circle in the dirt; inside, the caterpillar doesn’t move.\
+She’s always trying to make something whole, something beautiful, an image\
+capable of life apart from her.\
+We’re very quiet. It’s peaceful sitting here, not speaking, the composition\
+fixed, the road turning suddenly dark, the air\
+going cool, here and there the rocks shining and glittering–\
+it’s this stillness that we both love.\
+The love of form is a love of endings.
+
+(*from*) Louise Gluck, *Poems 1962-2012*. New York: Farrar, Straus and Giroux, 2013, p. 240.
