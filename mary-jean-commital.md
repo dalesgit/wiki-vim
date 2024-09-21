@@ -3,6 +3,13 @@ title: mary-jean-commital
 date: 2024-09-20
 tags: 
 ---
+*Contents*
+* [mary-jean-commital](#mary-jean-commital)
+    * [Various Prayers](#mary-jean-commital#Various Prayers)
+    * [Commital](#mary-jean-commital#Commital)
+    * [The Lord's Prayer](#mary-jean-commital#The Lord's Prayer)
+    * [The Prayers](#mary-jean-commital#The Prayers)
+
 # mary-jean-commital
 
 -   [Various Prayers](#various prayers){#toc-prayers}
@@ -72,7 +79,7 @@ with her, the good we saw in her, the love we received from her. We
 thank you that she is in your care and trust in your promise of eternal
 life through Jesus Christ our Lord. **Amen**.
 
-## The Lord's Prayer{#the-lords-prayer}
+## The Lord's Prayer
 
 Eternal Spirit, Earth-maker, Pain-bearer, Life-giver,\
 Source of all that is and that shall be,\
