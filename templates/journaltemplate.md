@@ -1,4 +1,4 @@
-{{wiki#template#case_title {name}}}
+# {{wiki#template#case_title {name}}}
 Created: {date} {time}
 
 *Reflection for Spiritual Direction Course*
