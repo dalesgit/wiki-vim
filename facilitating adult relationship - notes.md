@@ -1,10 +1,10 @@
-- > Allmy life as a spiritualdirector  and as a writer has beenpreoccupied with the kind of relationship God wantswith us human beings.
+- > All my life as a spiritual director  and as a writer has been preoccupied with the kind of relationship God wants with us human beings.
 
 [[Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf#page=1&annotation=40R|Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0, page 1]]
 
-- > Rece ntlyIhave come to believechat whac God wantswich adults is arelation- shipchat matches their maturity. That is,God wants a friendshipthat accords with what everlevel of friendship aperson is capable of.
-- > Firstof all,something attracted  you tothese  friend s,andsome- thingin you attracted them.
-- > You spend time with the potential friend in orderhuman, frail,andfearful. Bucifitdoes, itcanlastalife- to get to know one another.
+- > Rece ntly I have come to believe chat whac God wants wich adults is a relation- shipchat matches their maturity. That is, God wants a friendship that accords with what ever level of friendship a person is capable of.
+- > First of all, something attracted  you to these  friends, and something in you attracted them.
+- > You spend time with the potential friend in order human, frail, and fearful. Buc if it does, it can last a life- to get to know one another.
 	- [[Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf#page=2&annotation=44R|Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0, page 2]]
 - Spending time in order to get to know one another.
 - No friendship, ... remains in this **honeymoon** period forever.
