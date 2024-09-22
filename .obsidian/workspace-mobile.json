@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10abdc8c71c9f6c4",
+        "id": "18b4dc4ffd2b3006",
         "type": "tabs",
         "children": [
           {
-            "id": "1428b864a72b8e2d",
+            "id": "a4707d8b07bf615d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-09-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f67b568f81fa9b17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a3e73032faf794d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SD Session Sept 19.md",
+                "file": "journal/2024-09-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "c6bd4b6edab0f4b6",
@@ -104,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SD Session Sept 19.md",
+            "file": "journal/2024-09-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SD Session Sept 19.md",
+            "file": "journal/2024-09-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SD Session Sept 19.md"
+            "file": "journal/2024-09-22.md"
           }
         }
       },
@@ -169,8 +150,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a3e73032faf794d",
+  "active": "a4707d8b07bf615d",
   "lastOpenFiles": [
+    "Sacred Fire discussion.md",
+    "journal/2024-09-22.md",
+    "Sacred Fire discussio.md",
+    "Sacred.md",
     "journal/2024-09-19.md",
     "SD Session Sept 19.md",
     "art-spiritual-direction-review.md",
@@ -195,10 +180,6 @@
     "journal/2024-08-22.md",
     "journal/2024-08-23.md",
     "assets/Paris Agent.jpg",
-    "preaching.md",
-    "journal/2024-08-25.md",
-    "journal/2024-08-24.md",
-    "journal/2024-08-17.md",
-    "journal/2024-08-21.md"
+    "preaching.md"
   ]
 }

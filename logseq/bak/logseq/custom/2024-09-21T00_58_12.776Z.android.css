@@ -1,0 +1,21 @@
+:root {
+  --ls-font-family: "serif";
+  --ls-font-weight: 200;
+  --ls-font-style: normal;
+  --ls-page-text-size: .9em; /* page font size */
+  --ls-page-title-size: 1.1em; /* page title font size */
+  --ct-line-height: 1.4 /* set line height */
+  --ct-code-font-family: var(--ls-font-family); /* use the same font for codeblocks */
+  --ct-inline-code-font-weight: 200;
+  --ct-text-size: var(--ls-page-text-size);
+}
+
+html,
+body {
+  font-size: var(--ct-text-size);
+  font-family: var(--ls-font-family);
+  overscroll-behavior-y: none;
+  -webkit-font-smoothing: auto;
+  line-height: var(--ct-line-height);
+  font-weight: var(ls-font-weight)
+}
