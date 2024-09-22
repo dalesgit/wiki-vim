@@ -9,17 +9,18 @@ tags:
 
 | location | Key             | Note                                                   |
 | -------- | --------------- | ------------------------------------------------------ |
-| 14       | stages          | 3 stages of life would have helped years ago           |
-|          | aging           |                                                        |
-| 24       | initiation      | liminal                                                |
-|          | Seasons of life | And interface with spirituality                        |
 | 5        | struggle        | With different forces at various times in our lives    |
 | 6        |                 | From falling apart ... To anger                        |
 |          |                 | Success has little to teach us during 2nd half of life |
 | 12       | stages          | Of discipleship                                        |
 |          | 1st             | Get our  life together                                 |
+| 14       | stages          | 3 stages of life would have helped years ago           |
+|          | aging           |                                                        |
+|          | Seasons of life | And interface with spirituality                        |
 | 18       |                 | We have to die, give ourselves away                    |
 |          |                 | Give our death away                                    |
+| 24       | initiation      | liminal experience. Even life and death at stake       |
+|----------|-----------------|--------------------------------------------------------|
 
 ## Notes
 - help us to do it gallantly, p. 461. Peter  prays it ea. Day, focusing on a phrase.
@@ -30,4 +31,7 @@ forth, but make me ready, Lord, for whatever it may be. If I  am to stand up, he
 - Tricia doesn't think there's that much different men and women
 - Dora Lee was a Rockette. Spritely in spirit. 
 - Tara calls makeup "war paint"
-- Carol Gilligan (Jim also new her in NY)
+- Carol Gilligan (Jim also new her in NY) cf. @UVLINVSV#Bass_2015 chapter on Women in Ministry [Women and spiritual direction.md](Women and spiritual direction.md)
+- 
+-
+- 
