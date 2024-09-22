@@ -5,6 +5,8 @@ tags:
 ---
 
 # Gratitude Journal
+## Sun 22 Sep 2024 
+There is slightly less apprehension about "my last meal". My day of clear liquids has begun and I'm kind of slowly sailing into myself.
 ## Sat 21 Sep 2024 
 Elaine's comment to MP that my thank you note had been "over the top".
 my system for note taking is getting more natural and I'm smoothing over the hiccoughs. 
