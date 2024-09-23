@@ -5,6 +5,8 @@ tags:
 ---
 
 # Gratitude Journal
+## Mon 23 Sep 2024 
+Colonoscopy in a few hours. Life may return.
 ## Sun 22 Sep 2024 
 There is slightly less apprehension about "my last meal". My day of clear liquids has begun and I'm kind of slowly sailing into myself.
 ## Sat 21 Sep 2024 
