@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "61b8b8db0577113c",
+        "id": "88eec24b9819729c",
         "type": "tabs",
         "children": [
           {
-            "id": "38342a0d826baec2",
+            "id": "60b7b826bd06f636",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sacred Fire discussion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 526.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sacred Fire discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sacred Fire discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sacred Fire discussion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,22 +148,30 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "38342a0d826baec2",
+  "active": "60b7b826bd06f636",
   "lastOpenFiles": [
-    "journal/2024-09-22.md",
-    "Women and spiritual direction.md",
+    "beheading of John the Baptist.md",
+    "spiritual-direction/mission of spiritual direction notes.md",
+    "spiritual-direction/spiritual direction.md",
+    "spiritual-direction/Spiritual Direction Training.md",
+    "spiritual-direction/SD Session Sept 19.md",
+    "spiritual-direction/SD Sept 19 - Discussion.md",
+    "spiritual-direction/facilitating adult relationship - notes.md",
+    "spiritual-direction/Women and spiritual direction.md",
+    "church/proper-25b-sermon-draft.md",
+    "spiritual-direction",
+    "Reading Soul of America.md",
+    "Proper-16b-sermon-draft-2.md",
+    "church",
     "Sacred Fire discussion.md",
+    "journal/2024-09-22.md",
     "Women.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
-    "facilitating adult relationship - notes.md",
     "journal/2024-09-21.md",
     "contemplative-and-evocative-skills-notes.md",
-    "SD Sept 19 - Discussion.md",
-    "SD Session Sept 19.md",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
-    "Spiritual Direction Training.md",
     "listening skills.md",
     "defining-sd-review.md",
     "art-spiritual-direction-review.md",
@@ -184,18 +182,10 @@
     "Spiritual.md",
     "Welcoming the stranger.md",
     "Guenther-notes.md",
-    "Welcoming.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
-    "SD.md",
-    "notes1-Fostering the contemplative attitude 1.md",
-    "art-of-spiritual-direction.md",
-    "mission of spiritual direction notes.md",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
-    "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.pdf",
     "assets/Paris Agent.jpg"
   ]
 }

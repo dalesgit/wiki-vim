@@ -31,5 +31,5 @@ tags:
 
 ### Tue 03 Sep 2024
 - [/proper-25b.md](/proper-25b.md) 
-- [proper-25b-sermon-draft](/proper-25b-sermon-draft.md)
+- [proper-25b-sermon-draft](proper-25b-sermon-draft.md)
 

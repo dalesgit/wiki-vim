@@ -32,5 +32,5 @@ forth, but make me ready, Lord, for whatever it may be. If I  am to stand up, he
 - Tricia doesn't think there's that much different men and women
 - Dora Lee was a Rockette. Spritely in spirit. 
 - Tara calls makeup "war paint"
-- Carol Gilligan (Jim also new her in NY) cf. @UVLINVSV#Bass_2015 chapter on Women in Ministry [[Women and spiritual direction.md|Women and spiritual direction]]
+- Carol Gilligan (Jim also new her in NY) cf. @UVLINVSV#Bass_2015 chapter on Women in Ministry [[Women and spiritual direction|Women and spiritual direction]]
 - 
