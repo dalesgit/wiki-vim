@@ -1,7 +1,8 @@
 ---
 title: Sacred Fire discussion
 date: 2024-09-22
-tags: 
+tags:
+  - spirituality
 ---
 # Sacred Fire discussion
 
@@ -32,6 +33,4 @@ forth, but make me ready, Lord, for whatever it may be. If I  am to stand up, he
 - Dora Lee was a Rockette. Spritely in spirit. 
 - Tara calls makeup "war paint"
 - Carol Gilligan (Jim also new her in NY) cf. @UVLINVSV#Bass_2015 chapter on Women in Ministry [[Women and spiritual direction.md|Women and spiritual direction]]
-- 
--
 - 

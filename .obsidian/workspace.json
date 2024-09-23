@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Women and spiritual direction.md",
+                "file": "Sacred Fire discussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Women and spiritual direction.md",
+                "file": "Sacred Fire discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Women and spiritual direction.md",
+                "file": "Sacred Fire discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Women and spiritual direction.md"
+                "file": "Sacred Fire discussion.md"
               }
             }
           },
@@ -159,9 +160,10 @@
   },
   "active": "38342a0d826baec2",
   "lastOpenFiles": [
+    "journal/2024-09-22.md",
+    "Women and spiritual direction.md",
     "Sacred Fire discussion.md",
     "Women.md",
-    "journal/2024-09-22.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "facilitating adult relationship - notes.md",
@@ -193,7 +195,6 @@
     "Highlights for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-left.pdf",
-    "Annotations for Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr.pdf",
     "assets/Paris Agent.jpg"
   ]
