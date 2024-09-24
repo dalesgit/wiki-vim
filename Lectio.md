@@ -5,6 +5,12 @@ tags:
 ---
 
 # Lectio
+## 2024-09-24 Tue 10:30 AM
+Ps. 131:2 … weaned child with mother. This felt strikingly new to me.  Led me in the direction of reflecting on the noise in our contemporary lives, noise from technology and noise within us. Image of a toddler at mother's shoulder, being comforted and sheltered.
+
+<sup>1</sup> LORD, my heart isn't proud; my eyes aren't conceited. I don't get involved with things too great or wonderful for me.\
+<sup>2</sup> No. But I have calmed and quieted myself like a weaned child on its mother; I'm like the weaned child that is with me.\
+<sup>3</sup> Israel, wait for the LORD— from now until forever from now!
 ## 2024-09-23 Mon 09:15 AM
 "God laid down God's life for us in the Cross"
 
