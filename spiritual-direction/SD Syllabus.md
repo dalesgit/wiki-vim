@@ -6,3 +6,4 @@ tags:
 # SD Syllabus
 https://stackoverflow.com/questions/39956497/pandoc-convert-docx-to-markdown-with-embedded-images
 
+[[CAP-module-one-syllabus]]

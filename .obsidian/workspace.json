@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "88eec24b9819729c",
+        "id": "f75ea5a53abd0f77",
         "type": "tabs",
         "children": [
           {
-            "id": "60b7b826bd06f636",
+            "id": "bde9d8b686d68e91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "spiritual-direction/facilitating adult relationship - notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "10c0b8838261e906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc0dec083764df6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf"
+              }
             }
           }
         ]
@@ -34,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -65,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 526.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf"
+              }
             }
           },
           {
@@ -133,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,15 +174,28 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "60b7b826bd06f636",
+  "active": "9fc0dec083764df6",
   "lastOpenFiles": [
+    "spiritual-direction/facilitating adult relationship - notes.md",
+    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
+    "journal/2024-09-24.md",
+    "spiritual-direction/Spiritual Direction Training.md",
+    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
+    "spiritual-direction/SD session 2024-09-26.md",
+    "spiritual-direction/SD.md",
+    "spiritual-direction/Spiritual.md",
+    "spiritual-direction/SD Syllabus.md",
+    "spiritual-direction/CAP-module-one-syllabus.md",
+    "spiritual-direction/assets",
+    "spiritual-direction/Spiritual Direction Training.md~",
+    "spiritual-direction/spiritual direction.md",
+    "spiritual-direction/SD Session Sept 19.md",
+    "spiritual-direction/SD Session Thu 12 Sep 2024.md",
+    "spiritual-direction/SD Certification Wed 11 Sep 2024.md",
+    "spiritual-direction/Spiritual directors meet spiritually curious people where they are.md",
     "beheading of John the Baptist.md",
     "spiritual-direction/mission of spiritual direction notes.md",
-    "spiritual-direction/spiritual direction.md",
-    "spiritual-direction/Spiritual Direction Training.md",
-    "spiritual-direction/SD Session Sept 19.md",
     "spiritual-direction/SD Sept 19 - Discussion.md",
-    "spiritual-direction/facilitating adult relationship - notes.md",
     "spiritual-direction/Women and spiritual direction.md",
     "church/proper-25b-sermon-draft.md",
     "spiritual-direction",
@@ -166,26 +205,12 @@
     "Sacred Fire discussion.md",
     "journal/2024-09-22.md",
     "Women.md",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "journal/2024-09-21.md",
     "contemplative-and-evocative-skills-notes.md",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
-    "listening skills.md",
-    "defining-sd-review.md",
-    "art-spiritual-direction-review.md",
-    "Spiritual Direction 101-notes.md",
-    "journal/2024-09-17.md",
-    "journal/2024-09-18.md",
-    "notes2-Fostering the contemplative attitude.md",
-    "Spiritual.md",
-    "Welcoming the stranger.md",
-    "Guenther-notes.md",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
     "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
-    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-right.pdf",
     "assets/Paris Agent.jpg"
   ]
 }

@@ -16,11 +16,13 @@ tags:
   5. Guidelines for ethical conduct https://www.sdicompanions.org/docs/guidelines/Flip/guidelines_ethical_conduct.html
   6. Sample engagement agreement [Sample engagement agreement](assets/sample_engagement_agreement.pdf)
   7. [assets/CAP-module-one-syllabus.md](assets/CAP-module-one-syllabus.md)
-## [[SD Session Thu 12 Sep 2024.md|SD Session Thu 12 Sep 2024]]
+## [[SD Session Thu 12 Sep 2024|SD Session Thu 12 Sep 2024]]
 The difference between religion & spirituality
 article discussion (2)
 ## [[SD Session Sept 19|SD Session Sept 19]] [[SD Session Sept 19]]
-	- difference between Spiritual Formation and Spiritual Direction (dinner last night)
+- difference between Spiritual Formation and Spiritual Direction (dinner last night
 	- Friends of Taize at Catholic Worker House when Linda will be there
 	- | Attending| Note |check|
-## [SD session 2024-09-26](SD session 2024-09-26.md)
+## [[SD session 2024-09-26|SD session 2024-09-26]]
+[SD Syllabus.md](SD Syllabus.md)
+[CAP-module-one-syllabus.md](CAP-module-one-syllabus.md)
