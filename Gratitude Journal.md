@@ -5,6 +5,10 @@ tags:
 ---
 
 # Gratitude Journal
+## 2024-09-25 Wed 07:19 AM
+The Hurricane approaches. Both of us are glad that the tree is down.
+
+Lots of tugging back and forth. I spend a lot of energy resisting her negativity and in myself when she doesn't really pay attention to me. l
 ## Mon 23 Sep 2024 
 Colonoscopy in a few hours. Life may return.
 ## Sun 22 Sep 2024 
