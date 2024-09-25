@@ -5,6 +5,8 @@ tags:
 ---
 
 # Lectio
+## 2024-09-25 Wed 10:12 AM
+1 Co 13: 5,10,13-14. "knowing in part" is an antidote to the individualism of: my truth vs. your truth, my God vs. your God, individualized religion, individualism. Related to my insight about how everyone thinks they're right. What if we all could shift to recognizing that we only "know in part".
 ## 2024-09-24 Tue 10:30 AM
 Ps. 131:2 … weaned child with mother. This felt strikingly new to me.  Led me in the direction of reflecting on the noise in our contemporary lives, noise from technology and noise within us. Image of a toddler at mother's shoulder, being comforted and sheltered.
 

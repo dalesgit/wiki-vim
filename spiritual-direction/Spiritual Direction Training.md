@@ -26,3 +26,8 @@ article discussion (2)
 ## [[SD session 2024-09-26|SD session 2024-09-26]]
 [SD Syllabus.md](SD Syllabus.md)
 [CAP-module-one-syllabus.md](CAP-module-one-syllabus.md)
+
+## links
+- [[/Guenther-notes|/Guenther-notes]]
+- [[Spiritual Direction 101-notes]]
+
