@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-09-26.md",
+                "file": "spiritual-direction/facilitating adult relationship - notes.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c02e9c415e7e1c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c6a7c7894cbde26",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf"
               }
             }
           }
@@ -38,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 526.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-09-26.md",
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-09-26.md",
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-09-26.md"
+                "file": "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf"
               }
             }
           },
@@ -141,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +174,19 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "b95be18fd57b0ded",
+  "active": "7c6a7c7894cbde26",
   "lastOpenFiles": [
-    "Journal Thu 26 Sep 2024.md",
+    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
+    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
+    "spiritual-direction/facilitating adult relationship - notes.md",
+    "spiritual-direction/SD session 2024-09-26.md",
+    "spiritual-direction/Spiritual Direction Training.md",
+    "spiritual-direction/CAP-module-one-syllabus.md",
+    "spiritual-direction/SD.md",
     "journal/2024-09-26.md",
+    "Trump's appeal.md",
+    "Tuesday.md",
+    "Journal Thu 26 Sep 2024.md",
     "Journal Sun 22 Sep 2024.md",
     "journal.md",
     "inevitable crash.md",
@@ -176,16 +203,6 @@
     "MP.md",
     "spiritual-direction/notes1-Fostering the contemplative attitude 1.md",
     "spiritual-direction/SD Syllabus.md",
-    "spiritual-direction/Women and spiritual direction.md",
-    "Gratitude Journal.md",
-    "journal/2024-10-03.md",
-    "templates/y-diarytemplate.md",
-    "templates/blogtemplate.md",
-    "templates/diarytemplate.md",
-    "templates/journaltemplate.md",
-    "templates/template.md",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",
     "spiritual-direction",
