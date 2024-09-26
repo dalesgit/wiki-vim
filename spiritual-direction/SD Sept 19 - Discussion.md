@@ -14,7 +14,7 @@
 - Of my sharing she observed that I was mostly asking questions
 - Practice she uses often in a session. Get in contemplative mode. She needs to be connected.
 	- close eyes. Gently become aware of breath. Feet flat on ground, feet are tree trunks. ROoted in the ground.  Imagine roots going down.  Deep and further still. Rooted in lie source. Nourishment from the source. Clear crystal water.  Water is cleansing and refreshing. Out the top of head comes the nourishment. Sit with the flow.
-- opening with David Whyte. poem "Self Portrait" (LS) a type 4 in Enneagram. God speaking through media. <https://high-road-artist.com/9574/wisdom-wednesdays/self-portrait-a-poem-by-david-whyte/>
+- opening with [[David Whyte]]. poem "Self Portrait" (LS) a type 4 in Enneagram. God speaking through media. <https://high-road-artist.com/9574/wisdom-wednesdays/self-portrait-a-poem-by-david-whyte/>
 	- Linda modeled responding with insight as each of us shared.
 - LS: shared a song. (the contemplative song) (our walk, with selves and others) Genesis -- "Follow you follow me".
 - CS: SD is a subset of Spiritual Formation. 3rd Chair in the room. Poem: letter to Spiritual Director. Helping people to open hearts and souls to the divine.

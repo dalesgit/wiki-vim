@@ -1,4 +1,5 @@
-[[SD session 2024-09-26]]
+- [[SD session 2024-09-26]] 
+- [[Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf]]]]
 ## adult relationship
 - > All my life as a spiritual director  and as a writer has been preoccupied with the kind of relationship God wants with us human beings.
 	- [[Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf#page=1&annotation=40R|Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0, page 1]]
