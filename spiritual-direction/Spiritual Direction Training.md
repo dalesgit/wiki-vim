@@ -22,7 +22,7 @@ article discussion (2)
 ## [[SD Session Sept 19|SD Session Sept 19]] [[SD Session Sept 19]]
 - difference between Spiritual Formation and Spiritual Direction (dinner last night
 	- Friends of Taize at Catholic Worker House when Linda will be there
-	- | Attending| Note |check|
+	- | Attending| Note |check| 
 ## [[SD session 2024-09-26|SD session 2024-09-26]]
 [SD Syllabus.md](SD Syllabus.md)
 [CAP-module-one-syllabus.md](CAP-module-one-syllabus.md)
