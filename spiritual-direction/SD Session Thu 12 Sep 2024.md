@@ -31,7 +31,7 @@ Created: 2024-09-12 07:35
   
 @GRP3AWG8#Blythe_2018
 -
-## Introductions
+## Introductions [[training participants.md|training participants]]
 - Cherie- 
 	- has a certify from Columbia spiritual formation vs. spiritual direction
 	- 37 years of pastoral ministry
