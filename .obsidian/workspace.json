@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal Sun 22 Sep 2024.md",
+                "file": "journal/2024-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal Sun 22 Sep 2024.md",
+                "file": "journal/2024-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal Sun 22 Sep 2024.md",
+                "file": "journal/2024-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal Sun 22 Sep 2024.md"
+                "file": "journal/2024-09-26.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "b95be18fd57b0ded",
   "lastOpenFiles": [
+    "Journal Thu 26 Sep 2024.md",
+    "journal/2024-09-26.md",
+    "Journal Sun 22 Sep 2024.md",
     "journal.md",
     "inevitable crash.md",
     "info Fri 2024-07-26.md",
@@ -181,9 +184,6 @@
     "templates/diarytemplate.md",
     "templates/journaltemplate.md",
     "templates/template.md",
-    "journal/2024-09-22.md",
-    "journal/2024-09-23.md",
-    "journal/2024-09-24.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
