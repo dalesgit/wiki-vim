@@ -1,6 +1,6 @@
 # Linda
 ## Reading
-
+These are texts for Training and her suggestion re. forum text at Church
 - 
 @U5UTBL84#Rupp_2012
 - 
@@ -9,20 +9,13 @@
 @3UEJYQFR#Rolheiser_2014
 
 
-
-## re. zotero and pandoc
-
-[Pandoc-Suite for Academic Writing in Markdown (Alfred Workflow) - Zotero Forums](https://forums.zotero.org/discussion/85800/pandoc-suite-for-academic-writing-in-markdown-alfred-workflow "Pandoc-Suite for Academic WriIting in Markdown (Alfred Workflow) - Zotero Forums")
-
-- [chrisgrieser/pandoc_alfred: Pandoc-Suite for Academic Writing in Markdown](https://github.com/chrisgrieser/pandoc_alfred?tab=readme-ov-file "chrisgrieser/pandoc_alfred: Pandoc-Suite for Academic Writing in Markdown")
+## technical
+[[zotero and pandoc]]
 
 ## beyond
 
 I have chosen a cup. Now to choose a time/place. Smith, 2019, page 12
 
 ---
-title: Linda
-date: 2024-07-23
-tags: 
----
 
+[[2024_m09]]
