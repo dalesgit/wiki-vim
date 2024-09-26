@@ -1,5 +1,5 @@
-# {{wiki#template#case_title {name}}}
-Created: {date} {time}
+{{title}}
+Created: {{date}} {{time}}
 
 [[/Gratitude Journal.md|Gratitude Journal]]
 
