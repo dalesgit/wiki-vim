@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "028acc7291b9336f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2024-09-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enneagram-DH.md",
+                "file": "journal/2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enneagram-DH.md",
+                "file": "journal/2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enneagram-DH.md"
+                "file": "journal/2024-09-27.md"
               }
             }
           },
@@ -154,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +184,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "ad3a8d672bd4f36a",
+  "active": "028acc7291b9336f",
   "lastOpenFiles": [
-    "journal/2024-09-27.md",
-    "Enneagram-DH.md",
     "journal/2024_w39.md",
+    "Enneagram-DH.md",
+    "journal/2024-09-27.md",
     "journal/2024_w38.md",
     "journal/2024_w37.md",
     "journal/2024_w36.md",
