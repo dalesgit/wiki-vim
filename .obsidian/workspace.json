@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7195498fb729b0e6",
+        "id": "9e3e751ff8cd0674",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e1b270c94c588d",
+            "id": "ad3a8d672bd4f36a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024/09/summary.md",
+                "file": "Enneagram-DH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db44593debc67a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2024_w39.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024/09/summary.md",
+                "file": "Enneagram-DH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024/09/summary.md",
+                "file": "Enneagram-DH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024/09/summary.md"
+                "file": "Enneagram-DH.md"
               }
             }
           },
@@ -157,10 +169,22 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "b5e1b270c94c588d",
+  "active": "ad3a8d672bd4f36a",
   "lastOpenFiles": [
-    "journal/2024-09-26.md",
     "journal/2024-09-27.md",
+    "Enneagram-DH.md",
+    "journal/2024_w39.md",
+    "journal/2024_w38.md",
+    "journal/2024_w37.md",
+    "journal/2024_w36.md",
+    "journal/2024_w35.md",
+    "journal/2024-09-26.md",
+    "templates/y-diarytemplate.md",
+    "journal.md",
+    "journal/2024-09-13.md",
+    "journal/2024_m09.md",
+    "journal/2024-08-28.md",
+    "journal/2024/09/summary.md",
     "spiritual-direction/facilitating adult relationship - notes.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "spiritual-direction/SD session 2024-09-26.md",
@@ -169,22 +193,11 @@
     "David Whyte.md",
     "spiritual-direction/SD Session Sept 19.md",
     "Verbatim notes.md",
-    "journal/2024_m09.md",
     "spiritual-direction/Linda.md",
     "Journal Fri 13 Sep 2024.md",
     "Lectio.md",
     "Gratitude Journal.md",
     "journal/2024-09-25.md",
-    "journal/2024-09-24.md",
-    "journal/2024-09-23.md",
-    "journal/2024-09-22.md",
-    "journal/2024-09-21.md",
-    "journal/2024-09-20.md",
-    "journal/2024-09-19.md",
-    "journal/2024-09-18.md",
-    "journal/2024-09-17.md",
-    "journal/2024-09-16.md",
-    "journal/2024-09-15.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",
