@@ -18,4 +18,5 @@ I have chosen a cup. Now to choose a time/place. Smith, 2019, page 12
 
 ---
 
-[[2024_m09]]
+[[2024_m09]] [[SD session  27 Sep 2024.md]]
+

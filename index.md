@@ -23,3 +23,4 @@ testing.md](initial testing.md)
 ## Spiritual Direction Training
 [[spiritual-direction/Spiritual Direction Training.md]]
 
+[[/blog/blog braiding hair.md|/blog/blog braiding hair]]

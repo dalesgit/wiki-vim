@@ -5,6 +5,10 @@ tags:
 ---
 
 # Gratitude Journal
+### 2024-09-28
+My bowels seem to have returned to more or less normal this morning. From Sunday to now.
+
+Grateful that we were spared destruction with Hurricane Helene. Not-glad that so many other people were impacted -- from Holly in St. Pete. to Larry above Asheville and all [[MP]]'s family.
 ## 2024-09-25 Wed 07:19 AM
 The Hurricane approaches. Both of us are glad that the tree is down.
 

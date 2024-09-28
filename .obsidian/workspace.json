@@ -13,38 +13,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enneagram-DH.md",
+                "file": "journal/2024-09-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db44593debc67a94",
+            "id": "e9119c4008806f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024_w39.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028acc7291b9336f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2024-09-27.md",
+                "file": "journal/2024-09-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "75f5d473d8d9ee34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70db8f8c42df87a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal 2024-09-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee71dbd4908ec91e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -111,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journal/2024-09-27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,11 +194,20 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "028acc7291b9336f",
+  "active": "ee71dbd4908ec91e",
   "lastOpenFiles": [
-    "journal/2024_w39.md",
-    "Enneagram-DH.md",
+    "common commands.md",
+    "Panentheism.md",
+    "Journal 2024-09-28.md",
+    "journal/2024-09-28.md",
+    "templates/y-journaltemplate.md",
+    "Gratitude Journal.md",
     "journal/2024-09-27.md",
+    "blog braiding-hair.md",
+    "blog/blog braiding hair.md",
+    "Enneagram-DH.md",
+    "blog/blog braiding-hair.md",
+    "journal/2024_w39.md",
     "journal/2024_w38.md",
     "journal/2024_w37.md",
     "journal/2024_w36.md",
@@ -204,15 +223,6 @@
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "spiritual-direction/SD session 2024-09-26.md",
     "Anne Findlay-Chamberlain.md",
-    "spiritual-direction/SD Sept 19 - Discussion.md",
-    "David Whyte.md",
-    "spiritual-direction/SD Session Sept 19.md",
-    "Verbatim notes.md",
-    "spiritual-direction/Linda.md",
-    "Journal Fri 13 Sep 2024.md",
-    "Lectio.md",
-    "Gratitude Journal.md",
-    "journal/2024-09-25.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",

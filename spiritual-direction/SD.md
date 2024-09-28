@@ -5,3 +5,4 @@ tags:
 ---
 # SD
 "Spiritual Direction" cf. [spiritual direction.md](spiritual direction.md)
+## [[SD session  27 Sep 2024.md|SD session  27 Sep 2024]]
