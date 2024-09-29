@@ -33,4 +33,49 @@ forth, but make me ready, Lord, for whatever it may be. If I  am to stand up, he
 - Dora Lee was a Rockette. Spritely in spirit. 
 - Tara calls makeup "war paint"
 - Carol Gilligan (Jim also new her in NY) cf. @UVLINVSV#Bass_2015 chapter on Women in Ministry [[Women and spiritual direction|Women and spiritual direction]]
-- 
+## Chapt 2
+| page | key                     | note                                                   |
+|------|-------------------------|--------------------------------------------------------|
+| 22   | 2 initiations           |                                                        |
+|      | Puberty / infancy       |                                                        |
+|      | discipleship            |                                                        |
+|      |                         | poverty of contemporary initiation                     |
+| 25   | images for the struggle | Prodigal son - holy longing                            |
+|      | youthful restlessness   |                                                        |
+| 28   | i. eros                 | the sheer pulse of life                                |
+| 30   | ii. sexuality           | brute force                                            |
+|      |                         | spirituality has been naive about                      |
+|      |                         | brute power of                                         |
+| 32   | iii. restlessness       |                                                        |
+| 34   | iv. loneliness          |                                                        |
+| 36   | v. insubstantiality     | struggle for meaning, identity                         |
+|      | vi. morality            | struggle moral rectitude                               |
+| 38   | vii. nostalgia          | return to roots                                        |
+| 30   | Temptations             | that beset us                                          |
+| 42   | archetypes              | currently stuck on adolescence                         |
+| 44   | essential discipleship  | cf. _Holy Longing_                                     |
+|      | 4 pillars               |                                                        |
+|      |                         | prayer, charity/justice, community, forgiveness/mellow |
+| 52   | St. John of the Cross   | 5 counsels                                             |
+|------|-------------------------|--------------------------------------------------------|
+
+## chapt 3
+| page | key               | note                                                     |
+|------|-------------------|----------------------------------------------------------|
+| 60   | mature disc.      | give our life away                                       |
+| 61   |                   | J. calls the willing, not the ready                      |
+| 62   | 5 stages metaphor | child, student, householder, forest dweller, holy beggar |
+| 67   | long loneliness   | mature stage                                             |
+|      | warnings          | things to pull us back                                   |
+| 73   | loneliness        | of seeing our own mortality                              |
+| 75   |                   | resentment of duty -- workaholism                        |
+| 77   | *acedia*          |                                                          |
+| 79   |                   | pay price for sensitivity                                |
+|      |                   | great task of middle age is __forgiveness__              |
+| 82   | religious faults  | pride, envy, wrath, sloth, greed, gluttony, lust,        |
+| 92   | challenge         | to live in purity of heart                               |
+|------|-------------------|----------------------------------------------------------|
+
+## notes
+- instead of taking them into the deep woods as previous cultures have done and initiating them into adulthood, we hold our collective breath and pray that they will make it through these tumultuous years intact, physically and morally. For the most part, we no longer have any meaningful initiation rites to help turn an adolescent into an adult.
+- (94) "Mature Discipleship is the struggle to give our lives away, after we have attained initial maturity. This generally constitutes the longest period of our lives, our “householder” years—those thirty, forty, fifty, or sixty years between landing solidly somewhere in adulthood and looking at retirement and what lies beyond. Our basic anxiety during these years needs to be around the questions: How do I do this better, more generously? How do I make a deeper, more life-giving contribution?"
