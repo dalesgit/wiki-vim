@@ -6,6 +6,10 @@ tags:
 
 # Gratitude Journal
 
+## 2024-10-01 Tue
+
+For the way in which Moses walked into my life with the reading of Lectio. For the gym yesterday and the lectures on [freedom.](freedom..md)
+
 ## 2024-09-30 Monday
 
 I'm pretty impressed with working with nvim. Yesterday Miriam had a smiling response to our birthday wishes and gift.
