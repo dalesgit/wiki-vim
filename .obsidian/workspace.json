@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9e3e751ff8cd0674",
+        "id": "376bc89f466359ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3a8d672bd4f36a",
+            "id": "d5f23b47be38ed3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-09-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9119c4008806f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2024-09-28.md",
+                "file": "journal/2024-09-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "75f5d473d8d9ee34",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "70db8f8c42df87a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal 2024-09-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee71dbd4908ec91e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journal/2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journal/2024-09-30.md"
+              }
             }
           },
           {
@@ -194,12 +158,16 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "ee71dbd4908ec91e",
+  "active": "d5f23b47be38ed3c",
   "lastOpenFiles": [
+    "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
+    "assets/sacred_fire.pdf",
+    "table memory sticks.md",
+    "Table memory cards.md",
+    "journal/2024-09-28.md",
+    "Journal 2024-09-28.md",
     "common commands.md",
     "Panentheism.md",
-    "Journal 2024-09-28.md",
-    "journal/2024-09-28.md",
     "templates/y-journaltemplate.md",
     "Gratitude Journal.md",
     "journal/2024-09-27.md",
@@ -219,10 +187,7 @@
     "journal/2024_m09.md",
     "journal/2024-08-28.md",
     "journal/2024/09/summary.md",
-    "spiritual-direction/facilitating adult relationship - notes.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
-    "spiritual-direction/SD session 2024-09-26.md",
-    "Anne Findlay-Chamberlain.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",
@@ -231,7 +196,6 @@
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
     "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
     "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
-    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "assets/Paris Agent.jpg"
   ]
 }

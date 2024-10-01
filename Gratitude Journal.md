@@ -6,7 +6,11 @@ tags:
 
 # Gratitude Journal
 
-##
+## 2024-09-30 Monday
+
+I'm pretty impressed with working with nvim. Yesterday Miriam had a smiling response to our birthday wishes and gift.
+
+I was turned off of church. I thought it was boring. But I was buoyed by the recognition that Linda's gift to me about **panentheism** was easier for me to burrow down in than the **pantheism** of so many that seems shallow. In the midst of the sermon, I could project my spirit into the fleeting perception and awareness of God that I have known and see that it was there that all these elements in the (boring) St. Alfred's were actually to be found.
 
 ## 2024-09-28
 

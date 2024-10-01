@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "name": "VSCodium",
+      "code": "codium",
+      "arguments": "",
+      "showInMenu": true
+    },
+    {
+      "name": "neovim",
+      "code": "nvim",
+      "arguments": "",
+      "showInMenu": false
+    }
+  ],
+  "sysexpInFileMenu": true
+}
