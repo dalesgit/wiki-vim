@@ -6,6 +6,10 @@ tags:
 
 # Gratitude Journal
 
+##  02 Oct 2024 Wed 09:28 AM
+
+For praying together. Having a system. For the tripod/selfie-stick that may work for me with my Thursday sessions.
+
 ## 2024-10-01 Tue
 
 For the way in which Moses walked into my life with the reading of Lectio. For the gym yesterday and the lectures on [freedom.](freedom..md)
@@ -121,3 +125,4 @@ writing notes on Guenther (SD)
   [cardiology](cardiology.md): I have isolated some of the clue about my spiking heart rate when "spinning" at gym. I don't yet know if it has to do with the spinning
   
   Today I did the Spinning first. I got a spike, but I quickly tried to pull back the intensity. I only had one. But evidently it is the "Spinning" that initiates the episode.
+

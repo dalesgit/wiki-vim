@@ -1,10 +1,16 @@
 ---
+id: Lectio
+aliases: []
+tags: []
+date: "2024-07-10"
 title: Lectio
-date: 2024-07-10
-tags: 
 ---
 
 # Lectio
+
+## 2024-10-02 Wed
+
+2 Co: 6:16. "Live in them" reflection on the Trinity takes me back to Catherine Lacugna. "most difficult class I ever took."
 
 ## 2024-10-01 Tue
 

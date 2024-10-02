@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-10-01.md",
+                "file": "journal/2024-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-10-01.md",
+                "file": "journal/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-10-01.md",
+                "file": "journal/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-10-01.md"
+                "file": "journal/2024-10-02.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "d5f23b47be38ed3c",
   "lastOpenFiles": [
+    "journal/2024-10-01.md",
     "Pasted image 20241001164455.png",
     "calendar.pdf",
     "journal/2024-10-01.md~",
