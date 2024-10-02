@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "376bc89f466359ca",
+        "id": "86dc756be493e4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f23b47be38ed3c",
+            "id": "4c2027f196ea5cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-10-02.md",
+                "file": "journal/2024-10-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8d1c1d8341630c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SD session Oct 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-10-02.md",
+                "file": "SD session Oct 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-10-02.md",
+                "file": "SD session Oct 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-10-02.md"
+                "file": "SD session Oct 3.md"
               }
             }
           },
@@ -159,8 +172,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "d5f23b47be38ed3c",
+  "active": "e8d1c1d8341630c7",
   "lastOpenFiles": [
+    "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
+    "SD session Oct 3.md",
+    "journal/2024-10-03.md",
+    "journal/2024-10-02.md",
     "journal/2024-10-01.md",
     "Pasted image 20241001164455.png",
     "calendar.pdf",
@@ -189,16 +206,11 @@
     "journal/2024_w35.md",
     "journal/2024-09-26.md",
     "templates/y-diarytemplate.md",
-    "journal.md",
-    "journal/2024-09-13.md",
-    "journal/2024_m09.md",
-    "journal/2024-08-28.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",
     "spiritual-direction",
-    "church",
     "assets/Paris Agent.jpg"
   ]
 }
