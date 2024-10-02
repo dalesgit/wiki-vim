@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-09-30.md",
+                "file": "journal/2024-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-09-30.md",
+                "file": "journal/2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-09-30.md",
+                "file": "journal/2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-09-30.md"
+                "file": "journal/2024-10-01.md"
               }
             }
           },
@@ -160,6 +161,11 @@
   },
   "active": "d5f23b47be38ed3c",
   "lastOpenFiles": [
+    "Pasted image 20241001164455.png",
+    "calendar.pdf",
+    "journal/2024-10-01.md~",
+    "12 key decisions.md~",
+    "journal/2024-09-30.md",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/sacred_fire.pdf",
     "table memory sticks.md",
@@ -186,16 +192,12 @@
     "journal/2024-09-13.md",
     "journal/2024_m09.md",
     "journal/2024-08-28.md",
-    "journal/2024/09/summary.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",
     "spiritual-direction",
     "church",
-    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
-    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined.pdf",
     "assets/Paris Agent.jpg"
   ]
 }
