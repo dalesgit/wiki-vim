@@ -5,6 +5,41 @@
 [[Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf]]
 
 [[CAP-module-one-syllabus]] -- [[training participants]] -- 
+## Discussion
+
+- Shea had to lead a worship service. joining late.
+- music intro: (welcoming prayer appropriate) "Experiencing God through our senses" John Denver's "**Annie's Song**" (was that what was shared last Monday? [[centering-prayer]] )
+	- 25 years ago doing Spiritual Exercises. Her SD (an SJ) told her to listen to that song.
+	- "Welcoming Prayer" guided meditation
+	- Annie's song is jumping into the relationship with God, friendship, love, with all of who I am. 
+	- "What might God be doing or saying the **static**?"
+	- Danny & wife is reading "Peace is every step" by Thich Nat Hanh -- focusing on the breath
+- Nina "Nine-ah" had a family member died, body found on Monday. House sliding into flood. 
+- Cherie at ER with stomach problems. 
+- LS: 1979 went to a birthday party, living in Queens. (12 y/o) pewter animals frequent gifts. A mom got one for everyone. Hers was an **owl**. "You're the one everyone talks to."
+- Jesuit **colloquy**. Contemplation -> Meditation => Colloquy (heart)
+- N.B. That Neither head or heart predominant. But Both.
+- How am I **perceiving** God at this time.
+- Invitation to explore different areas of experience.
+- Tara Brock, Jack Cornfield re. Mindfulness: Recognize, Allow, Investigate, Nurture = RAIN.
+
+## Stages of Faith (James Fowler)
+- Chart
+- She is #4 but gravitates to #1 (likes chart)
+-  Next section *Faith Styles* as opposed to **stages**
+- Pay attention to where the directee is feeling uncomfortable, that suggests possibility of needing to move to new stage
+- *The Gods must be crazy* dropped from airplane into village in Africa -- the gods must have sent it to us. It causes conflict in the village. God's must be angry. Black / White thinkers. Lasting images. 
+- She will send chart to us.
+- cf. Erickson each stage gives us something important to take with us (Cherie)
+- How frame **evocative questions**?
+- LS: a lot of those coming to SD are in Stage 3. They are de-constructing their faith and wanting to move on. Stage 4 is re-constructive
+- LS: Also many in stage 4. cf. John of the Cross: 1) Purgative stage 2) Illuminative stage (stage 4) 3) Unitive stage
+- Asking, "Is it just me, or is it God?" Ignatius would say, "It's always you. The question is 'What Spirit is talking to you?'"
+- cf. Rohr in *Naked Now*, p. 164-165 -- 9 stages. 
+- Stages as **layers of an onion**
+- St. Bernard : 1st stage of love. "Love of God  for the sake of ..." 
+- Stages work until they don't work any more.
+- LS: thinks the SD of Mother Teresa decision to publish her letters was wrong, wrong, wrong.
 ## Notes
 
 | location | key                | note                                                                                                    |
@@ -21,7 +56,7 @@
 |          |                    | We believe that  we can never  encounter God immediately but that everything  can  reveal God  to us.   |
 |          | interior dimension | religious => inner. Onlooker might not see anything.                                                    |
 |          | SD                 | helps people to see what is there                                                                       |
-| 4        | not ready          | just because people believe something doesn't mean the will experience it                               |
+| 4        | not ready          | just because people believe something doesn't mean they will experience it                              |
 | 5        | 2 reactions        | frequently come up                                                                                      |
 |          |                    | believing the goal of prayer is to more comfortable with self                                           |
 |          | Ignatian           | intellectual or discursive                                                                              |
