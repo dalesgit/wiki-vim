@@ -1,12 +1,18 @@
 ---
+id: Gratitude Journal
+aliases: []
+tags: []
+date: "2024-09-02"
 title: Gratitude Journal
-date: 2024-09-02
-tags: 
 ---
 
 # Gratitude Journal
 
-##  02 Oct 2024 Wed 09:28 AM
+## 2024-10-03 Thursday
+
+The cleaning I was able to get done yesterday. For the new selfie stick. For the new ear pods. For my homemade bread.
+
+## 02 Oct 2024 Wed 09:28 AM
 
 For praying together. Having a system. For the tripod/selfie-stick that may work for me with my Thursday sessions.
 
@@ -125,4 +131,3 @@ writing notes on Guenther (SD)
   [cardiology](cardiology.md): I have isolated some of the clue about my spiking heart rate when "spinning" at gym. I don't yet know if it has to do with the spinning
   
   Today I did the Spinning first. I got a spike, but I quickly tried to pull back the intensity. I only had one. But evidently it is the "Spinning" that initiates the episode.
-
