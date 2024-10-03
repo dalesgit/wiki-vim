@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-10-03.md",
+                "file": "SD session Oct 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e8d1c1d8341630c7",
+            "id": "3aefd8584a8a7f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "denver-mary-jean.md",
+                "file": "spiritual-direction/SD Syllabus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "denver-mary-jean.md",
+                "file": "SD session Oct 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "denver-mary-jean.md",
+                "file": "SD session Oct 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "denver-mary-jean.md"
+                "file": "SD session Oct 3.md"
               }
             }
           },
@@ -171,12 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d1c1d8341630c7",
+  "active": "4c2027f196ea5cba",
   "lastOpenFiles": [
-    "journal/2024-10-02.md",
-    "SD session Oct 3.md",
     "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
+    "SD session Oct 3.md",
+    "spiritual-direction/training participants.md",
+    "spiritual-direction/SD Syllabus.md",
     "journal/2024-10-03.md",
+    "denver-mary-jean.md",
+    "journal/2024-10-02.md",
     "journal/2024-10-01.md",
     "Pasted image 20241001164455.png",
     "calendar.pdf",
@@ -202,9 +205,6 @@
     "journal/2024_w38.md",
     "journal/2024_w37.md",
     "journal/2024_w36.md",
-    "journal/2024_w35.md",
-    "journal/2024-09-26.md",
-    "templates/y-diarytemplate.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",

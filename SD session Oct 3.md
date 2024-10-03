@@ -4,6 +4,7 @@
 
 [[Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf]]
 
+[[CAP-module-one-syllabus]] -- [[training participants]] -- 
 ## Notes
 
 | location | key                | note                                                                                                    |
