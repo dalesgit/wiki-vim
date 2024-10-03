@@ -24,5 +24,12 @@
     "editor:configure-toolbar",
     "editor:insert-table"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 67
+  }
 }
