@@ -8,6 +8,10 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+##  04 Oct 2024 Fri 07:49 AM
+
+Glad to have arrived in Colorado.
+
 ## 2024-10-03 Thursday
 
 The cleaning I was able to get done yesterday. For the new selfie stick. For the new ear pods. For my homemade bread.
@@ -131,3 +135,4 @@ writing notes on Guenther (SD)
   [cardiology](cardiology.md): I have isolated some of the clue about my spiking heart rate when "spinning" at gym. I don't yet know if it has to do with the spinning
   
   Today I did the Spinning first. I got a spike, but I quickly tried to pull back the intensity. I only had one. But evidently it is the "Spinning" that initiates the episode.
+
