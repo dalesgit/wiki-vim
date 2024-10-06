@@ -8,6 +8,13 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+##  06 Oct 2024 Sun 06:28 AM
+
+The time spent with Julian. 
+
+For the time alone as I got up early and went for cup of coffee.
+
+
 ##  04 Oct 2024 Fri 07:49 AM
 
 Glad to have arrived in Colorado.
