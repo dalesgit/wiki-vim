@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contemplative-and-evocative-skills-notes.md",
+                "file": "hurricane-Milton.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contemplative-and-evocative-skills-notes.md",
+                "file": "hurricane-Milton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contemplative-and-evocative-skills-notes.md",
+                "file": "hurricane-Milton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contemplative-and-evocative-skills-notes.md"
+                "file": "hurricane-Milton.md"
               }
             }
           },
@@ -172,6 +173,9 @@
   },
   "active": "4c2027f196ea5cba",
   "lastOpenFiles": [
+    "journal/2024-10-08.md",
+    "assets/Dale Hathaway Acceptance letter.docx.pdf",
+    "contemplative-and-evocative-skills-notes.md",
     "SD session Oct 3.md",
     "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
     "spiritual-direction/SD Syllabus.md",
@@ -203,12 +207,10 @@
     "journal/2024_w39.md",
     "journal/2024_w38.md",
     "journal/2024_w37.md",
-    "journal/2024_w36.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
     "spiritual-direction/Spiritual Direction Training.md~",
-    "spiritual-direction",
     "assets/Paris Agent.jpg"
   ]
 }

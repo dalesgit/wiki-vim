@@ -7,6 +7,10 @@ title: Lectio
 ---
 
 # Lectio
+##  08 Oct 2024 Tue 11:36 AM
+John 3:... "He must increase while I decrease." Wait upon the Lord. 1Tim 1;14
+
+N.B. that the language is all in the past tense. Establishing credentials for authority. Application: Though I am besieged by the coming hurricane, I am satisfied with my life (past tense) has left me prepared to accept whatever may happen. Thanks be to God.
 
 ## 2024-10-02 Wed
 
