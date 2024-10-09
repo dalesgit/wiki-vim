@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86dc756be493e4f0",
+        "id": "b107c27ffd609cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2027f196ea5cba",
+            "id": "ff34af65ed4c2764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hurricane-Milton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aefd8584a8a7f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spiritual-direction/SD Syllabus.md",
+                "file": "journal/2024-10-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hurricane-Milton.md",
+                "file": "journal/2024-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hurricane-Milton.md",
+                "file": "journal/2024-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hurricane-Milton.md"
+                "file": "journal/2024-10-10.md"
               }
             }
           },
@@ -155,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,14 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c2027f196ea5cba",
+  "active": "ff34af65ed4c2764",
   "lastOpenFiles": [
+    "Levels-of-Faith-RR---Oct-2-2024---8-57-PM-rotate-rotated-j1tcn_ocr.md",
+    "journal/2024-10-10.md",
+    "journal/2024-10-09.md",
+    "spiritual-direction/SD Syllabus.md",
+    "git.md",
+    "hurricane-Milton.md",
     "journal/2024-10-08.md",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
     "contemplative-and-evocative-skills-notes.md",
     "SD session Oct 3.md",
     "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
-    "spiritual-direction/SD Syllabus.md",
     "spiritual-direction/training participants.md",
     "journal/2024-10-03.md",
     "denver-mary-jean.md",
@@ -202,11 +193,6 @@
     "journal/2024-09-27.md",
     "blog braiding-hair.md",
     "blog/blog braiding hair.md",
-    "Enneagram-DH.md",
-    "blog/blog braiding-hair.md",
-    "journal/2024_w39.md",
-    "journal/2024_w38.md",
-    "journal/2024_w37.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "spiritual-direction/assets",
