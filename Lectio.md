@@ -7,6 +7,10 @@ title: Lectio
 ---
 
 # Lectio
+##  09 Oct 2024 Wed 08:45 AM
+
+James 4:7-8. Purify our hearts. Humble yourself. Reading was about allegorical interpretation of scripture being more like the kind of living with scripture that I am familiar with from lectio and e.g. Tomas Halek. 
+
 ##  08 Oct 2024 Tue 11:36 AM
 John 3:... "He must increase while I decrease." Wait upon the Lord. 1Tim 1;14
 
