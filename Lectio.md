@@ -1,12 +1,22 @@
 ---
 id: Lectio
-aliases: []
+aliases:
+  - Lectio
 tags: []
 date: "2024-07-10"
 title: Lectio
 ---
 
 # Lectio
+
+## 2024-10-12 Sat
+
+Today is *Yom Kippur*. The reading from Keating is on **silence**. The lectio itself is from Elijah on the mountain. 1 Kings 19:11-12. 
+
+First   [MP](MP.md) and I were both impressed by the notion of **silence** being God's language. Not that God speaks in the silence, but that silence itself is the language.
+
+For my lectio I heard "was not there" rather than the Silence. Simone Weil: Waiting on God. *The Sense of an Ending*.  
+
 ##  09 Oct 2024 Wed 08:45 AM
 
 James 4:7-8. Purify our hearts. Humble yourself. Reading was about allegorical interpretation of scripture being more like the kind of living with scripture that I am familiar with from lectio and e.g. Tomas Halek. 

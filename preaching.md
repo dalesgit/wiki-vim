@@ -1,7 +1,10 @@
 ---
+id: preaching
+aliases:
+  - preaching
+tags: []
+date: "2024-08-03"
 title: preaching
-date: 2024-08-03
-tags: 
 ---
 # preaching
 
@@ -11,9 +14,11 @@ tags:
 
 [journal/2024-08-25.md](journal/2024-08-25.md)
 
-[journal/2024-08-29](journal/2024-08-29.md) 2nd healing mass
+Oct. 27 Celebrate
+Nov. 10 preaching Proper -27
+Dec. 8 Celebrate
 
-[journal/2024-10-27](journal/2024-10-27.md) Sunday before **All Saints**. I have preached these propers twice: St. Paul's & Our Saviour
+
 
 ## What I know
 
@@ -27,9 +32,13 @@ tags:
 
 ##  [journal/2024-08-29.md](journal/2024-08-29.md) On John the Baptist.
 
+[journal/2024-08-29](journal/2024-08-29.md) 2nd healing mass
+
 [MP.md](MP.md) was impressed with my little homily. I linked Charles Carroll, my first spiritual director, that his theology/philosophy strayed from mine (abortion). But he made me who I am as a Christian. E.g. also He and Polly's commitment to pray together. Then, as he asked, "Where is the Good News?" so I ask questions at every turn. It is all about the questions. Then, the good news (cf. the *Benedictus Dominus*) is that John was the first spiritual director of Jesus. They're not the same. One superseded the other. But one wouldn't be without the other. 
 
 ### Tue 03 Sep 2024
 - [/proper-25b.md](/proper-25b.md) 
 - [proper-25b-sermon-draft](proper-25b-sermon-draft.md)
 
+### Oct. 27
+[journal/2024-10-27](journal/2024-10-27.md) Sunday before **All Saints**. I have preached these propers twice: St. Paul's & Our Saviour

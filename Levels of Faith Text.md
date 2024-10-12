@@ -1,4 +1,4 @@
-164 | Practithecing
+ba164 | Practithecing
 
 Naked Now: Appendices they have any existential knowledge of what they are talking about. You can perfectly assent to the Catholic belief in the Real Presence, for example, and be totally incapable of presence yourself — so there will be no inner experien ce and no transformation of the self. One will. manipulate or use the very doctrine for ego enhancement purposes and control.
 

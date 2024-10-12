@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b107c27ffd609cd7",
+        "id": "5b7a9ada3b35c91a",
         "type": "tabs",
         "children": [
           {
-            "id": "ff34af65ed4c2764",
+            "id": "37effa72fffe6891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-10-10.md",
+                "file": "notes/1728694608-sd-journals.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-10-10.md",
+                "file": "notes/1728694608-sd-journals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-10-10.md",
+                "file": "notes/1728694608-sd-journals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-10-10.md"
+                "file": "notes/1728694608-sd-journals.md"
               }
             }
           },
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,46 +157,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff34af65ed4c2764",
+  "active": "37effa72fffe6891",
   "lastOpenFiles": [
-    "Levels-of-Faith-RR---Oct-2-2024---8-57-PM-rotate-rotated-j1tcn_ocr.md",
+    "Journal  04 Oct 2024 Fri.md",
+    "notes/1728694608-sd-journals.md",
+    "journal-2024-09-30-mon.md",
+    "Journal Sat 14 Sep 2024.md",
+    "Journal Wed 18 Sep 2024.md",
+    "Ongoing.md",
+    "preaching.md",
+    "notes/1728506319-ongoing.md",
+    "journal Wed 11 Sep 2024.md",
+    "notes/1728573283-writing.md",
+    "notes/1728573366-preaching.md",
+    "index.md",
+    "technology.md",
     "journal/2024-10-10.md",
+    "spiritual-direction/SD.md",
+    "spiritual-direction/SD session  27 Sep 2024.md",
+    "spiritual-direction/SD session Oct 10.md",
+    "spiritual-direction/CAP-module-one-syllabus.md",
+    "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
+    "assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
+    "Levels of Faith Text.md",
+    "spiritual-direction/Spiritual Direction Training.md",
+    "SD session Oct 3.md",
+    "journal/2024-10-03.md",
     "journal/2024-10-09.md",
     "spiritual-direction/SD Syllabus.md",
     "git.md",
     "hurricane-Milton.md",
-    "journal/2024-10-08.md",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
-    "contemplative-and-evocative-skills-notes.md",
-    "SD session Oct 3.md",
     "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
-    "spiritual-direction/training participants.md",
-    "journal/2024-10-03.md",
-    "denver-mary-jean.md",
-    "journal/2024-10-02.md",
-    "journal/2024-10-01.md",
     "Pasted image 20241001164455.png",
     "calendar.pdf",
     "journal/2024-10-01.md~",
     "12 key decisions.md~",
-    "journal/2024-09-30.md",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/sacred_fire.pdf",
-    "table memory sticks.md",
-    "Table memory cards.md",
-    "journal/2024-09-28.md",
-    "Journal 2024-09-28.md",
-    "common commands.md",
-    "Panentheism.md",
-    "templates/y-journaltemplate.md",
-    "Gratitude Journal.md",
-    "journal/2024-09-27.md",
-    "blog braiding-hair.md",
-    "blog/blog braiding hair.md",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
     "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
-    "spiritual-direction/assets",
-    "spiritual-direction/Spiritual Direction Training.md~",
     "assets/Paris Agent.jpg"
   ]
 }

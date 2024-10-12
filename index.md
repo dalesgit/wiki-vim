@@ -1,27 +1,16 @@
-*[Contents](Contents.md)*
+---
+id: index
+aliases:
+  - Index
+tags: []
+---
+# Index
 
-* [Root index](#Root index)
+- [technology.md](technology.md)
+- [organization](1728505907-organization)
+- [Ongoing](Ongoing)
+- [DIY](DIY)  
+- [Writing](1728573283-writing) 
 
-## technical - initial setup [initial testing](initial testing.md) :technical:
 
-[2024journal](2024journal.md) effort to get template for journals  [initial
-testing.md](initial testing.md)
 
-[/configs/current-lenovo-vimrc.md|/configs/current-lenovo-vimrc]]
-[current-beelink-vimrc](current-beelink-vimrc.md)
-
-### For beelink where tab doesn't work
-
-## Memory sticks and cards (tables)
-
-[table memory sticks](table memory sticks.md)
-
-## Ongoing
-
-[preaching](preaching.md)
-
-## Spiritual Direction Training
-
-[[spiritual-direction/Spiritual Direction Training.md]]
-
-[[/blog/blog braiding hair.md|/blog/blog braiding hair]]

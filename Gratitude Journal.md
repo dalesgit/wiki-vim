@@ -1,12 +1,17 @@
 ---
 id: Gratitude Journal
-aliases: []
+aliases:
+  - Gratitude Journal
 tags: []
 date: "2024-09-02"
 title: Gratitude Journal
 ---
 
 # Gratitude Journal
+
+## 2024-10-12 Sat
+
+We are headed to Orlando. Electricity? Such a pathetic thing to be craving, but there it is. Wed at 10pm it went out. Yesterday we really had something of a normal experience, going out to eat. 
 
 ##  06 Oct 2024 Sun 06:28 AM
 
