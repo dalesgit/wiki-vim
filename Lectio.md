@@ -9,6 +9,11 @@ title: Lectio
 
 # Lectio
 
+## Oct. 13, 2024 Sun
+
+"Waiting": cf. Yesterday's lectio where the "silence" was heard by me as waiting. MP today reflected: "When we here 'tic' we wait for the 'toc', but it is after the 'toc' (which we don't hear) that God speaks in his language of **silence**." 
+
+Ps 130-5-6 ... More than those who watch for the morning. In our 2 days without modern conveniences I experienced "waiting for the morning". I pray for holding onto that **waiting** on God. 
 ## 2024-10-12 Sat
 
 Today is *Yom Kippur*. The reading from Keating is on **silence**. The lectio itself is from Elijah on the mountain. 1 Kings 19:11-12. 
