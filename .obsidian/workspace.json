@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-01.md",
+                "file": "2024-07-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-01.md",
+                "file": "2024-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-01.md",
+                "file": "2024-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-01.md"
+                "file": "2024-07-10.md"
               }
             }
           },
@@ -159,6 +160,12 @@
   },
   "active": "37effa72fffe6891",
   "lastOpenFiles": [
+    "index.md",
+    "church-kine.md",
+    "parable-3-churches.md",
+    "DIY.md",
+    "2024-10-13.md",
+    "2024-10-01.md",
     "notes/1728694608-sd-journals.md",
     "Journal  04 Oct 2024 Fri.md",
     "journal-2024-09-30-mon.md",
@@ -170,7 +177,6 @@
     "journal Wed 11 Sep 2024.md",
     "notes/1728573283-writing.md",
     "notes/1728573366-preaching.md",
-    "index.md",
     "technology.md",
     "journal/2024-10-10.md",
     "spiritual-direction/SD.md",
@@ -182,11 +188,6 @@
     "Levels of Faith Text.md",
     "spiritual-direction/Spiritual Direction Training.md",
     "SD session Oct 3.md",
-    "journal/2024-10-03.md",
-    "journal/2024-10-09.md",
-    "spiritual-direction/SD Syllabus.md",
-    "git.md",
-    "hurricane-Milton.md",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
     "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
     "Pasted image 20241001164455.png",

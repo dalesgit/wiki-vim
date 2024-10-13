@@ -11,6 +11,8 @@ tags: []
 - [Ongoing](Ongoing)
 - [DIY](DIY)  
 - [Writing](1728573283-writing) 
+- [[church-kine]]
+- 
 
 
 
