@@ -9,18 +9,21 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## 2024-10-13 Sun
+
+For the normal (e.g. electrical) that we have at this place in Orlando. For getting folding and cleaning up the use of nvim and obsidian.nvim.
+
 ## 2024-10-12 Sat
 
-We are headed to Orlando. Electricity? Such a pathetic thing to be craving, but there it is. Wed at 10pm it went out. Yesterday we really had something of a normal experience, going out to eat. 
+We are headed to Orlando. Electricity? Such a pathetic thing to be craving, but there it is. Wed at 10pm it went out. Yesterday we really had something of a normal experience, going out to eat.
 
-##  06 Oct 2024 Sun 06:28 AM
+## 06 Oct 2024 Sun 06:28 AM
 
-The time spent with Julian. 
+The time spent with Julian.
 
 For the time alone as I got up early and went for cup of coffee.
 
-
-##  04 Oct 2024 Fri 07:49 AM
+## 04 Oct 2024 Fri 07:49 AM
 
 Glad to have arrived in Colorado.
 
@@ -74,9 +77,9 @@ Grateful for figuring out the Iphone / Logseq / Github issue last night. It took
 
 ## Thu 19 Sep 2024
 
-  I had forgot Mary Pat's Boston Cream Pie. It came up again at the dinner with Fran and Joey when I commented that the dinner was kind of like a birthday dinner for [MP](MP.md). It was a month anniversary of her birth anniversary.
-  
-  [dream](dream.md) They seem closer to **fulfillment** than they used to be when they were more **frustration**.
+I had forgot Mary Pat's Boston Cream Pie. It came up again at the dinner with Fran and Joey when I commented that the dinner was kind of like a birthday dinner for [MP](MP.md). It was a month anniversary of her birth anniversary.
+
+[dream](dream.md) They seem closer to **fulfillment** than they used to be when they were more **frustration**.
 
 ## Wed 18 Sep 2024
 
@@ -87,16 +90,16 @@ A wonderful meal in St. Petersburg, Treasure Island, with Joe and Fran. We didn'
 ## Tue 17 Sep 2024
 
 For the lectio reading last night -- the paraphrase of Psalm 137. Cf. notes in Joplin
-Giant tree is gone. All that's left is the stump. That stump is reminiscent of *The Giving Tree*. Also **Elijah's chair**. Musical chairs.
+Giant tree is gone. All that's left is the stump. That stump is reminiscent of _The Giving Tree_. Also **Elijah's chair**. Musical chairs.
 
 ## Fri 13 Sep 2024
 
 The opportunity to be a part of the SD class.
 The cartoon to send to Owen about sons doing the opposite of their fathers.
 
-## Thu 12 Sep 2024  
-  
-  Food to eat. Expectation of seeing Julian soon.
+## Thu 12 Sep 2024
+
+Food to eat. Expectation of seeing Julian soon.
 
 ## Wed 11 Sep 2024
 
@@ -110,16 +113,17 @@ delicious salmon dinner
 Nothing on the calendar.
 the ease with which my slicer cut through celery (and others)
 note-taking on Guenther [spiritual direction.md](spiritual direction.md)
+
 -
 
 ## Mon 09 Sep 2024
 
 For today's lectio. For the mp3 player I may start working with.
-*Peace like a River*, Leif Enger. novel recommended by Peter. MP read it. She loved its writing, including a vision of near death experience. Sounded like first time I read *Perelandra*.
+_Peace like a River_, Leif Enger. novel recommended by Peter. MP read it. She loved its writing, including a vision of near death experience. Sounded like first time I read _Perelandra_.
 
 ## Sun 08 Sep 2024
 
-  I was sleeping so soundly when I woke up and then I felt weary. I don't look forward to celebrating and then facilitating discussion. But grateful that I have a place and a role that contributes in some ways to people's lives. I felt energized last night. I recognized that when I celebrate I give it my all, even for fewer than 20.
+I was sleeping so soundly when I woke up and then I felt weary. I don't look forward to celebrating and then facilitating discussion. But grateful that I have a place and a role that contributes in some ways to people's lives. I felt energized last night. I recognized that when I celebrate I give it my all, even for fewer than 20.
 
 ## Sat 07 Sep 2024
 
@@ -144,7 +148,6 @@ writing notes on Guenther (SD)
 
 ## Tue 03 Sep 2024 03:16:53 PM EDT
 
-  [cardiology](cardiology.md): I have isolated some of the clue about my spiking heart rate when "spinning" at gym. I don't yet know if it has to do with the spinning
-  
-  Today I did the Spinning first. I got a spike, but I quickly tried to pull back the intensity. I only had one. But evidently it is the "Spinning" that initiates the episode.
+[cardiology](cardiology.md): I have isolated some of the clue about my spiking heart rate when "spinning" at gym. I don't yet know if it has to do with the spinning
 
+Today I did the Spinning first. I got a spike, but I quickly tried to pull back the intensity. I only had one. But evidently it is the "Spinning" that initiates the episode.
