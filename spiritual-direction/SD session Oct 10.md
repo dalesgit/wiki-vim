@@ -119,4 +119,13 @@ tags: []
 	- LS: ritual can be both helpful and limiting. **Allison** what about the rituals outside of worship?
 	- 58 min
 	- LS a ritual she has. "Every single day I **waste time.**" cf. the ending of the article. Detach from production, or what she is supposed to do. Ever so slowly she is less worried about success or going well. Craig: from Basil Pennington, spiritual life is of no use -- but compared to ecology ... monk stands before the world ... 1:00:54
-- Look at verbatim 1:02 **break**
+- Look at verbatim 1:02 **break** return at 1:06
+	- student did 10 years ago
+	- fictional name
+	- n.b. it was only a portion of an 1 1/2 session. This the portion the student wanted to be supervised on.
+	- **positive** a directee who is full of energy and passion ... in this case a caregiver who likes to talk about other people. Good that this SD asked to focus on her this time.
+	- n.b. the columns of observations
+	- "tell me about" a way of drawing the directee back to focus
+	- @ SD 5 she put words into the SDee. Try to avoid **naming** things that remain to be clarified
+	- 23:19
+	- 
