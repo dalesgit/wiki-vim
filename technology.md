@@ -7,8 +7,6 @@ date: "2024-09-03"
 title: technology
 ---
 
-# technology
-
 ## Tue 03 Sep 2024
 
 - Software: inserting date in .vimrc: :technology: [month](https://man7.org/linux/man-pages/man3/strftime.3.html "strftime(3) - Linux manual page")
@@ -42,7 +40,7 @@ testing.md](initial testing.md)
 
 - (open with "gf") /home/dale/.bash_aliases
 
-# Table mode for nvim
+## Table mode for nvim
 
 - <https://github.com/SCJangra/table-nvim>
   default configs
@@ -64,3 +62,17 @@ testing.md](initial testing.md)
   delete_column = '<A-d>', -- Delete the column under cursor.
   }
   }
+
+  ## 2024-10-15 Tue
+
+  ### Working on markdown in nvim
+
+  1. folding looks and works smoothly
+  2. bold and _emphasis_ (**italic**) works with visual mode
+  3. table mode is simple but elegant cf. above
+  4. insert template is easy -- "ObsidianTemplate"
+
+## 2024-10-15 Tue
+
+an example calling an obsidium-nvim command as keymapping: <https://stackoverflow.com/questions/78089195/map-obsidianextractnote-in-neovim>
+vim.keymap.set('x', '<leader>ox', ':ObsidianExtractNote<cr>')

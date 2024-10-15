@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5b7a9ada3b35c91a",
+        "id": "85849368d41a35de",
         "type": "tabs",
         "children": [
           {
-            "id": "37effa72fffe6891",
+            "id": "524415629d916289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spiritual-direction/SD session Oct 10.md",
+                "file": "Journal Fri 13 Sep 2024.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d86fe4a2f92819c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spiritual-direction/SD session Oct 10.md",
+                "file": "Journal Fri 13 Sep 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spiritual-direction/SD session Oct 10.md",
+                "file": "Journal Fri 13 Sep 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spiritual-direction/SD session Oct 10.md"
+                "file": "Journal Fri 13 Sep 2024.md"
               }
             }
           },
@@ -168,8 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37effa72fffe6891",
+  "active": "524415629d916289",
   "lastOpenFiles": [
+    "notes/1728694608-sd-journals.md",
+    "templates/y-diarytemplate.md",
+    "2024-10-15.md",
+    "spiritual-direction/SD.md",
+    "spiritual-direction/listening skills.md",
     "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "spiritual-direction/SD session Oct 10.md",
     "Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
@@ -181,7 +176,6 @@
     "DIY.md",
     "2024-10-13.md",
     "2024-10-01.md",
-    "notes/1728694608-sd-journals.md",
     "Journal  04 Oct 2024 Fri.md",
     "journal-2024-09-30-mon.md",
     "Journal Sat 14 Sep 2024.md",
@@ -194,9 +188,6 @@
     "notes/1728573366-preaching.md",
     "technology.md",
     "journal/2024-10-10.md",
-    "spiritual-direction/SD.md",
-    "spiritual-direction/SD session  27 Sep 2024.md",
-    "spiritual-direction/CAP-module-one-syllabus.md",
     "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
