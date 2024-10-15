@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spiritual-direction/Sd session Oct 17.md",
+                "file": "spiritual-direction/SD session Oct 10.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d86fe4a2f92819c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spiritual-direction/Sd session Oct 17.md",
+                "file": "spiritual-direction/SD session Oct 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spiritual-direction/Sd session Oct 17.md",
+                "file": "spiritual-direction/SD session Oct 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spiritual-direction/Sd session Oct 17.md"
+                "file": "spiritual-direction/SD session Oct 10.md"
               }
             }
           },
@@ -142,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +170,10 @@
   },
   "active": "37effa72fffe6891",
   "lastOpenFiles": [
+    "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "spiritual-direction/SD session Oct 10.md",
+    "Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
+    "spiritual-direction/Sd session Oct 17.md",
     "2024-07-10.md",
     "index.md",
     "church-kine.md",
@@ -185,8 +199,6 @@
     "spiritual-direction/CAP-module-one-syllabus.md",
     "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
-    "Levels of Faith Text.md",
-    "spiritual-direction/Spiritual Direction Training.md",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
     "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
     "Pasted image 20241001164455.png",
@@ -195,8 +207,6 @@
     "12 key decisions.md~",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/sacred_fire.pdf",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf",
     "assets/Paris Agent.jpg"
   ]
 }

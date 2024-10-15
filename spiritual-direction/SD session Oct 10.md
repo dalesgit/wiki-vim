@@ -44,9 +44,9 @@ tags: []
 |          | I                            | Interested (be interested in whatever is happening)                                                 |
 |          | N                            | Not identify (with the experience)                                                                  |
 - > These are moments of realization, of enlightenment, of knowing, and of being the kingdom now. Though we cannot produce unitive experience or mystical states on command, we can intentionally foster circumstances that open us to contact with gifts of grace and to a great unity that already exists.
+### re. Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr
 
 [[Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf#page=1&annotation=48R1|Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr, page 1]]
-### re. Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr
 [[Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf]]
 
 | Location | Key                         | Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -78,4 +78,45 @@ tags: []
 
 ## Discussion
 
-- 
+### of resources
+- **Transformation of consciousness** &
+	- Why important to SD's? 
+	- difficulty reading ... using words in a different context
+	- been using for 10 years in these courses, LS needs to reread it every time
+	- Claire: her education is 40 years ole
+	- Shea: growing = transformation & change. LS: SD is a "space like no other" ... sometimes overly abstract. Calls for looking at all sides of whatever has emerged. When people come SD in crisis, they're just looking at the "pen". Need to look further.
+		- Often they have a core limiting belief. Holding on because it's their lifeline.
+	- Nina loved it. Went through child with OCD  this is a spiritual practice version of "Cognitive behavior therapy". Retraining of the brain. "Bio-feedback." that I learned 30 years ago.  Affirmation: we're not belly-button observers. It is about transformation.
+	- LS: eg. had new person in SD yesterday. She's in therapy (for years). She's feels need to add more. She: "Afraid of darkness." 
+		- Got interested. What happens in darkness? Ans: violence. She has a limiting belief about this. Recognize it. 
+			- **What else happens in darkness**? Ans: we rest. The owls talk to each other. It's the end of the day -- you get a break. 
+			- **What can you do for yourself in the darkness?** A couple of questions opened up things for her.
+			- e.g. of transformation of consciousness. It's just a **re-orientation**. Language is sometimes limiting. 
+			- e.g. "What's another word for that ..." ... another approach, or lowering the anxiety
+	- **Danny** SD needs to take care of us as well as directee
+	- LS: Thomas Merton: **Now, Here, This** -- my experience is now, my experience is here, my experience is this. This transformation is not meant to run away from stressors -- now, here, this
+	- **Shea** like "dynamic receptivity"... letting this discomfort be there ... gift is to accompany people in that space. Freedom to not have to **fix**.
+	- LS: e.g. examples "hand and air" or ... looking at a map we see lines separating states, but if we are there we nothing but land. Nina: like need to not ignore body (it takes both). LS: in MBPI **judgers** will have a harder time than **perceivers** with this process. LS automatically is a judger.
+	- Limiting belief: how that work in my life? Nina: that's why she needs another's eyes... "Survival consciousness" in ordinary consciousness. Finding safety and security. 
+	- SD "discernment by memory" ... Do you remember when ... 
+	- LS: invite to pay attention to "Core limiting beliefs"  ... catch them in action. When you notice something that is disturbing to you ... "What is the story that I am telling myself now." Not to feel bad about ourselves, just an awareness.
+	- like acronym: **BRAIN**
+	- LS This is a place of **stuckness** but also the place of **deliverance** clarity and knowing the "ground consciousness"
+- **contemplation as witness and resistance**
+	- call to mine the online conference. The author of this piece is speaker.
+	- LS what struck me: **practices**
+	- Don Saliers was at Emory. Daughter = *Indigo Girl*
+	- What rituals in your communities that foster constructing people's perceptions ...? 
+	- **Danny**: liturgies offer **comfort**. Society reacting against the "comfort". "Rituals of worship". 
+	- **Claire**: silence after the sermon. Worship can be creative, responding to pastoral needs, 
+		- listening skills ... e.g. listen to understand not respond, 
+		- lessons may be shared but stories not, ...
+	- **Shea**: there's a **shape** to liturgy. work of Tom Driver. He grew up thinking of liturgy as individual not corporate change etc.
+	- **Nina**: practices remain unfinished until actualized. She pastors in a Korean speaking congregation, silence is an act of affirmation where language fails. **Silence** liberating for her ... 
+	- **Esther** rituals can become limiting practices -- "candles in wrong place" -- but our own beliefs confine us.
+		- LS SD e.g. Someone coming to us express these limiting beliefs. We could ask, "What meaning does that belief have for you?" "Is there a memory connected to a candle?" **Allison**: "Tell me about your early experiences with ...?" LS: "Why is that question important to you?" Craig: uses that and the question produces **anger**. What do with? LS: Something seems to be important to you in this. Can you identify? (**with gentleness**). Craig: emotion is tied to anxiety about the future. LS: fixing the candles for the complaint is a never-ending rigidity. Rigidity tied to some kind of limiting belief. Better to **drill down**.
+	- Caire grew up in baptist church, supposedly without ritual. But there's always ritual.
+	- LS: ritual can be both helpful and limiting. **Allison** what about the rituals outside of worship?
+	- 58 min
+	- LS a ritual she has. "Every single day I **waste time.**" cf. the ending of the article. Detach from production, or what she is supposed to do. Ever so slowly she is less worried about success or going well. Craig: from Basil Pennington, spiritual life is of no use -- but compared to ecology ... monk stands before the world ... 1:00:54
+- Look at verbatim 1:02 **break**

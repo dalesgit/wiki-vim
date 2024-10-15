@@ -6,18 +6,22 @@ tags: []
 date: "2024-09-03"
 title: technology
 ---
+
 # technology
+
 ## Tue 03 Sep 2024
+
 - Software: inserting date in .vimrc: :technology: [month](https://man7.org/linux/man-pages/man3/strftime.3.html "strftime(3) - Linux manual page")
 - Figuring out my own method of doing this note-taking:
+
 1. Using the journal page to link to a subject page
 2. From there time-stamping items
-    - allowing for sub-subject links
+   - allowing for sub-subject links
 3. Can I begin using this wiki as my personal information gathering place that makes sense?
 
 ## technical - initial setup [initial testing](initial testing.md) :technical:
 
-[2024journal](2024journal.md) effort to get template for journals  [initial
+[2024journal](2024journal.md) effort to get template for journals [initial
 testing.md](initial testing.md)
 
 [/configs/current-lenovo-vimrc.md|/configs/current-lenovo-vimrc]]
@@ -25,8 +29,8 @@ testing.md](initial testing.md)
 
 ## For beelink where tab doesn't work
 
-
 ## Keymappings for Obsidian.nvim
+
 - 'gf' overides to work on markdown/wiki links within your vault
 - optional mappings for the picker
 - <C-x> create a new note from query
@@ -37,3 +41,26 @@ testing.md](initial testing.md)
 ## aliases
 
 - (open with "gf") /home/dale/.bash_aliases
+
+# Table mode for nvim
+
+- <https://github.com/SCJangra/table-nvim>
+  default configs
+  {
+  padd_column_separators = true, -- Insert a space around column separators.
+  mappings = { -- next and prev work in Normal and Insert mode. All other mappings work in Normal mode.
+  next = '<TAB>', -- Go to next cell.
+  prev = '<S-TAB>', -- Go to previous cell.
+  insert_row_up = '<A-k>', -- Insert a row above the current row.
+  insert_row_down = '<A-j>', -- Insert a row below the current row.
+  move_row_up = '<A-S-k>', -- Move the current row up.
+  move_row_down = '<A-S-j>', -- Move the current row down.
+  insert_column_left = '<A-h>', -- Insert a column to the left of current column.
+  insert_column_right = '<A-l>', -- Insert a column to the right of current column.
+  move_column_left = '<A-S-h>', -- Move the current column to the left.
+  move_column_right = '<A-S-l>', -- Move the current column to the right.
+  insert_table = '<A-t>', -- Insert a new table.
+  insert_table_alt = '<A-S-t>', -- Insert a new table that is not surrounded by pipes.
+  delete_column = '<A-d>', -- Delete the column under cursor.
+  }
+  }

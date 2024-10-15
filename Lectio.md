@@ -9,6 +9,8 @@ title: Lectio
 
 # Lectio
 
+## 2024-10-14 Mon
+
 ## Oct. 13, 2024 Sun
 
 "Waiting": cf. Yesterday's lectio where the "silence" was heard by me as waiting. MP today reflected: "When we here 'tic' we wait for the 'toc', but it is after the 'toc' (which we don't hear) that God speaks in his language of **silence**."
