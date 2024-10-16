@@ -128,4 +128,14 @@ tags: []
 	- "tell me about" a way of drawing the directee back to focus
 	- @ SD 5 she put words into the SDee. Try to avoid **naming** things that remain to be clarified
 	- 23:19
-	- 
+	- "clericalism" -- grieving Shea ... "What are you feelings about ..." (investigate)
+		- Would it be better to avoid the **word** *grieving* -- rather try to unpack it
+	- talking about **identity** doesn't get to the heart of grieving
+	- "What was it like ..." gets into the realm of **experience**. SDee is not ready to dig past "What do you do?" LS: SD11 sounds very "fixit". SD & SDee both are "caregivers" -- 
+	- word "always" just jumps out -- flag -- any **absolute** kind of word. LS: "I picked up on the word 'always' tell me more about that." **unpacking** can be a lightbulb moment.
+	- we lose the thread when we got caught in the **projection** -- recognizing (such and such) in ourselves. How do we redirect the conversation -- *listen* ... create a new thread
+	- SD15 is the star moment for the student SD. Honor the moment by "taking a moment ..."
+	- "What do you desire" is a good place to go back to.
+	- If you're going to come back to ... the SD doesn't bring it up, allowing SDee to bring it up
+	- Caution re. keeping the time boundaries, how to bring it to an end. 1 hour is the aim.
+	- The leader next week 10/17 will be in charge, (Carol), LS a quiet mouse, then the following week 10/24 she'll be in NY.

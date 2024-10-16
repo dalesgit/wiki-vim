@@ -9,7 +9,9 @@ title: Lectio
 
 # Lectio
 
-## 2024-10-14 Mon
+## [[2024-10-16-Wednesday]]
+
+1 Sam 3:9: "Speak Lord, your servant is listening." Enneagram re. [MP](MP.md) primary was "Caregiver" -- Detail maybe her "shadow?" -- but she's good at it. Given our words previously about **silence** being the **language** of God, my hearing "Speak Lord" is a way of saying: "More silence …" I give thanks for the relative "silence" of these few days in Orlando.
 
 ## Oct. 13, 2024 Sun
 
