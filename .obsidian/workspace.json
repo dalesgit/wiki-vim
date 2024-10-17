@@ -6,6 +6,7 @@
       {
         "id": "cef0edebb6c04ec9",
         "type": "tabs",
+        "dimension": 42.608089260808924,
         "children": [
           {
             "id": "c77939f2c1fce5a4",
@@ -26,6 +27,7 @@
       {
         "id": "b170bb40f8f3e27f",
         "type": "tabs",
+        "dimension": 57.391910739191076,
         "children": [
           {
             "id": "856e8c760c94862a",
@@ -195,8 +197,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "856e8c760c94862a",
+  "active": "c77939f2c1fce5a4",
   "lastOpenFiles": [
+    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
     "spiritual-direction/Sd session Oct 17.md",
     "2024-10-17.md",
     "spiritual-direction/SD session Oct 10.md",
@@ -224,7 +227,6 @@
     "church-kine.md",
     "parable-3-churches.md",
     "DIY.md",
-    "2024-10-01.md",
     "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
     "assets/Dale Hathaway Acceptance letter.docx.pdf",
@@ -234,7 +236,6 @@
     "journal/2024-10-01.md~",
     "12 key decisions.md~",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
-    "assets/sacred_fire.pdf",
     "assets/Paris Agent.jpg"
   ]
 }
