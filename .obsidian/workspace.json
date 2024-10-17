@@ -4,53 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cef0edebb6c04ec9",
+        "id": "9c9c591de88de994",
         "type": "tabs",
         "children": [
           {
-            "id": "20c01749fe6181d1",
+            "id": "c40e0e1102a8f58d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spiritual-direction/Sd session Oct 17.md",
+                "file": "cpg-health-insurance-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sd session Oct 17"
+              "title": "cpg-health-insurance-2025"
             }
           },
           {
-            "id": "a190151c3b37bff4",
+            "id": "5818125ed4139178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My enneagram.md",
+                "file": "2024-10-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My enneagram"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2126bea724f70b91",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5185198593523066",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr"
+              "title": "2024-10-17"
             }
           }
         ]
@@ -210,17 +192,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20c01749fe6181d1",
+  "active": "c40e0e1102a8f58d",
   "lastOpenFiles": [
+    "2024-10-17.md",
+    "cpg-health-insurance-2025.md",
+    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
     "My enneagram.md",
     "spiritual-direction/Sd session Oct 17.md",
-    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
     "2024-10-17.md.orig",
     "2024-10-17_REMOTE_27949.md",
     "2024-10-17_LOCAL_27949.md",
     "2024-10-17_BASE_27949.md",
     "2024-10-17_BACKUP_27949.md",
-    "2024-10-17.md",
     "1729104076-some-new-link.md",
     "2024-10-04.md",
     "2024-10-02.md",
@@ -239,7 +222,6 @@
     "1729083227-obsidian-commands.md",
     "Table mode for nvim.md",
     "Keymappings for Obsidian.nvim.md",
-    "index.md",
     "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
     "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
