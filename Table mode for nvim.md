@@ -26,7 +26,7 @@ tags: []
   delete_column = '<A-d>', -- Delete the column under cursor.
   }
   }
-  I removed 2024-10-18 Fri to see if I can get Obsidian to read tables better. It didn't work.
+  I removed 2024-10-18 Fri to see if I can get Obsidian to read tables better. It didn't work. Replaced.
 
   ## 2024-10-15 Tue
 
@@ -36,4 +36,3 @@ tags: []
   2. bold and _emphasis_ (**italic**) works with visual mode
   3. table mode is simple but elegant cf. above
   4. insert template is easy -- "ObsidianTemplate"
-
