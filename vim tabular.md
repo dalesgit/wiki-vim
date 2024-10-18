@@ -19,3 +19,5 @@ This is achieved with
 3. 2nd line creates the line with double bar: "||"
 
 # Nvim tabular [[2024-10-18-Friday]]
+
+[[Table mode for nvim|table mode for nvim]]
