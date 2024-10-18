@@ -7,11 +7,14 @@ date: "2024-07-17"
 title: technical
 ---
 
-# technical
+## technical
 
 ## Explore "Notesnook"
 
 [[2024-10-18-Friday]]
 Has rich import options. I originally used it to import Keep files last year.
 
-[[1729251592-linux-commands|linux-commands]]
+## [[1729251592-linux-commands|linux-commands]]
+
+## Yazi file manager
+https://github.com/sxyazi/yazi
