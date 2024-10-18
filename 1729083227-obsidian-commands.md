@@ -51,7 +51,3 @@ Commands
 :ObsidianNewFromTemplate [TITLE] to create a new note from a template in the templates folder. Selecting from a list using your preferred picker. This command has one optional argument: the title of the new note.
 
 :ObsidianTOC to load the table of contents of the current note into a picker list.
-
-[[1729085067-VUVE]]
-
-- [x] Something

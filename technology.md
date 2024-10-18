@@ -33,16 +33,16 @@ testing.md](initial testing.md)
 
 - (open with "gf") /home/dale/.bash_aliases
 
-[[Table mode for nvim]]
+## [[Table mode for nvim]]
 
-## 2024-10-15 Tue
-
+2024-10-15 Tue
 
 ## [[1729083227-obsidian-commands|Obsidian commands]]
 
 [[1729083227-obsidian-commands|Obsidian commands]]
 [[2024-10-16-Wednesday]]
 
-### an example 
+### an example
+
 - calling an obsidium-nvim command as keymapping: <https://stackoverflow.com/questions/78089195/map-obsidianextractnote-in-neovim>
 - vim.keymap.set('x', '<leader>ox', ':ObsidianExtractNote<cr>')

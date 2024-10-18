@@ -6,5 +6,6 @@
   "obsidian-annotator",
   "obsidian-extract-pdf-highlights",
   "janitor",
-  "open-with"
+  "open-with",
+  "find-unlinked-files"
 ]

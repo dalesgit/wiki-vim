@@ -142,5 +142,14 @@
       ],
       "key": "F"
     }
+  ],
+  "open-with:open-file-with-geany": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }
