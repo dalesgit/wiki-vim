@@ -21,3 +21,4 @@ tags: []
 - https://en.wikipedia.org/wiki/Ten_Commandments re. different variations in how they are reckoned.
 - [[Hildegaard of Bingen.md]]
 - [[healing prayer.md]]
+- [[Sacred Fire discussion]]
