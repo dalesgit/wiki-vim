@@ -92,6 +92,33 @@ title: Sacred Fire discussion
 
 ## Chapt 4 [[2024-10-19-Saturday]]
 
-| Loc | Key | Note |
-| --- | --- | :--- |
-| x   | x   | x    |
+| Loc | Key                 | Note                                                                                                    |     |
+| --- | ------------------- | :------------------------------------------------------------------------------------------------------ | --- |
+| 96  | give life away      | The struggle for maturity, to give our lives away in an ever more generous way, is a lifelong endeavor. |     |
+|     |                     | Adult years longest call to deeper discipleship                                                         |     |
+| 97  | 6 invitations       |                                                                                                         |     |
+|     | 1: Schillebeecks    | Look for Christ on Road to Emmaus                                                                       |     |
+|     |                     | Sacramental presence                                                                                    |     |
+|     | Scripture as a lens | Rolheiser is using scripture to shine a light on what goes on in our everyday lives                     |     |
+| 104 | 2. like Peter       | When all seems lost, temptation to walk away, stay                                                      |     |
+| 106 | C.S. Lewis          | ... most dejected of converts                                                                           |     |
+| 108 | 3.                  | walk as both Son of David and as Lord                                                                   |     |
+| 112 |                     | conservatives and liberals ... walk together in humility                                                |     |
+|     | 4.                  | wash one another's feet...be compassionate                                                              |     |
+|     |                     | abortion cf. note wondering if he is "Pollyanna" disconnected cf. p. 121, 125,                          |     |
+| 115 | be perfect          | but look for the lost coin                                                                              |     |
+| 121 | Community John      | cf. washing of feet -- fighting then as now in church                                                   |     |
+| 127 | 5.                  | Baptism of John vs. that of Jesus (Grace)                                                               |     |
+|     | John Shea poem      | eg. especially addiction                                                                                |     |
+| 129 | 6.                  | Wait in upper room (together with motley crew)                                                          |     |
+|     |                     |                                                                                                         |     |
+- The situation of today’s Christians in our secularized cultures is basically the same: we are walking on the road to Emmaus, discouraged, our youthful faith crucified, talking with Christ, 98
+- In the discouragement that ensues we will be tempted to walk away from our faith, our church, our hope, our Christ, and our God, toward some place of consolation. 102
+- “Faith is rarely where your head is at. Nor is it where your heart is at. Faith is where your ass is at!” 106
+- When that happens in our lives we will find ourselves, in terms of a gospel image, standing with Jesus inside pagan territory, talking to a Syrophoenician woman, and feeling torn between being a loyal child of our faith tradition and being a universal instrument of salvation for our God. 108
+- Rather, Jesus’ concept of perfection is very much identified with compassion, so much so that sometimes the Gospels simply name it as compassion. Compassion is an attainable goal. Hence, Jesus challenges us: be compassionate as your heavenly father is compassionate. 117
+- Love, understood properly, is never a reward for being good. Goodness, rather, is always a consequence of having been loved. We are not loved because we are good, but hopefully we become good as we experience love.
+- Mostly, it is only in the face of mutual helplessness and sorrow, at a funeral or in the face of tragedy, that we are capable of forgetting our differences, putting away our outer garments, and seeing one another as brothers and sisters. 123
+- There is an axiom attributed to Peter Maurin, the man who helped Dorothy Day found the Catholic Worker that goes something like this: “When you don’t know what else to do, keep going to meetings because Pentecost happened at a meeting!” 129
+- This picture: a formerly confident but now somewhat deflated group of disciples are huddled together, confused and out of energy, needing to be recharged anew, unsure of what they are waiting for, but waiting nonetheless for something new to happen to them, for new fire, for a new vision and a new energy from beyond. 131
+- 
