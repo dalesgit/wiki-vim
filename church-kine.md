@@ -3,18 +3,13 @@ id: church-kine
 aliases: []
 tags: []
 ---
-
-[[parable-3-churches]]
-[[church forum|Church-Forum]]
-
-- [[proper-16b.epub]]
-
+## Church stuff
+- [parable-3-churches](parable-3-churches)
+- [Church-Forum](church forum)
+## [[preaching.md]]
 - [[Order of the Ascension.md]]
-
 - [[Fr. Peter.md]]
-- [[Sunday Mass.md]]
+## Mass
 - [[healing-mass-2.md]]
-- [[John the Baptist homily.md]]
-- [[beheading of John the Baptist.md]]
-- [[Proper 9.md]]
-- [[Good Teachers.md]]
+- [[Saturday Mass.md]]
+- [[Sunday Mass.md]]

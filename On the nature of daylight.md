@@ -1,4 +1,10 @@
-# Max Richter composer
+---
+id: On the nature of daylight
+aliases: []
+tags: []
+---
+
+# Max Richter composer
 
 Gerry at Centering Prayer played for us. A mystical meditative piece. It seems like his version had a flute in it.
 

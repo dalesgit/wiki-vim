@@ -7,9 +7,10 @@ tags:
 ---
 
 # SD
+
 - [spiritual-direction/Spiritual Direction Training](/'spiritual-direction/Spiritual Direction Training.md') (link not working?)
 - [[notes/1728694608-sd-journals|SD Journals]] [notes/1728694608-sd-journals.md](notes/1728694608-sd-journals.md)
-- [[Linda.html]]
+- [Linda.html](Linda.html)
 - [[Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr_1726694506203_0.edn]]
 - [[SD Certification Wed 11 Sep 2024.md]]
 - [[spiritual-direction/spiritual direction]]

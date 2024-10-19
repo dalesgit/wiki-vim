@@ -17,14 +17,17 @@ Has rich import options. I originally used it to import Keep files last year.
 ## [[1729251592-linux-commands|linux-commands]]
 
 ## Yazi file manager
-https://github.com/sxyazi/yazi
+
+<https://github.com/sxyazi/yazi>
+
 ## linux
+
 - [[vimrc-lenovo.md]]
 - [[vimrc-lenovo-aug.md]]
 - [[Guide to wiki.vim.md]]
 - [[vimrc-lenovo-july.md]]
 - [[vimrc-android]]
-- [[vimrc-beelink-july.md
+- [[vimrc-beelink-july.md]]
 - [[pages/vimrc-beelink-9-2024]]
 - [[vimrc-android]]
 - [[Xresources-lenovo.md]]
@@ -37,3 +40,4 @@ https://github.com/sxyazi/yazi
 - [[table memory sticks.md]]
 - [[vimrc-android]]
 - [[pages/vimrc-beelink-9-2024]]
+
