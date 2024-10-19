@@ -11,6 +11,14 @@ tags: []
 - [organization](1728505907-organization)
 - [Ongoing](Ongoing)
 - [DIY](DIY)
-- [Writing](1728573283-writing)
+- [Writing](writing.md)
+- [[Reading-kine]]
 - [[church-kine]]
-- [[1728997484-reading-kine|reading-kine]]
+- [[Reading-kine|reading-kine]]
+- [[personal-stuff]]
+- [[Journal-index]]
+- [[backup-stuff]]
+- [[technical]]
+- [[template]]
+- [[thought-kine]]
+- [[Mary Pat.md]]

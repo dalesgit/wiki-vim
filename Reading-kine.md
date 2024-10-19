@@ -6,3 +6,5 @@ tags: []
 ---
 
 # reading-kine
+- [[assets/Paris Agent.jpg]]
+- [[On the nature of daylight.md]]

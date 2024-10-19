@@ -2,3 +2,5 @@
   Created: {date} {time}
 
 
+- [[y-journaltemplate.md]]
+- [[blogtemplate.md]]

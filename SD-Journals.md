@@ -31,3 +31,7 @@ tags: []
 - [[Journal 2024-10-10 Thu|journal 2024-10-10 Thu]]
 
 
+- [[Journal 2024-09-30 Mon.md]]
+- [[Journal 2024-10-02 Wed.md]]
+- [[Journal 2024-10-12 Sat.md]]
+- [[Journal Fri 20 Sep 2024.md]]
