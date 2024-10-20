@@ -121,4 +121,7 @@ title: Sacred Fire discussion
 - Mostly, it is only in the face of mutual helplessness and sorrow, at a funeral or in the face of tragedy, that we are capable of forgetting our differences, putting away our outer garments, and seeing one another as brothers and sisters. 123
 - There is an axiom attributed to Peter Maurin, the man who helped Dorothy Day found the Catholic Worker that goes something like this: “When you don’t know what else to do, keep going to meetings because Pentecost happened at a meeting!” 129
 - This picture: a formerly confident but now somewhat deflated group of disciples are huddled together, confused and out of energy, needing to be recharged anew, unsure of what they are waiting for, but waiting nonetheless for something new to happen to them, for new fire, for a new vision and a new energy from beyond. 131
-- 
+
+## Discussion
+- N.B. the dynamic that many have a compulsion to giving and at the same time having a great difficulty in receiving graciously. Peter there is something of a contemporary "thing" about e.g. birthdays being a time that the honoree **gets to give** to others. (Jeanette, Jo)
+- Jonathan Lehrer, *How we make decisions*. What we say is intuition, or Holy Spirit, ... 

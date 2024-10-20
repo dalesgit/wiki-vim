@@ -11,8 +11,12 @@
             "id": "68f2cf81753230a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sacred Fire discussion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Sacred Fire discussion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Sacred Fire discussion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Sacred Fire discussion.md"
+          }
         }
       },
       {
@@ -144,6 +152,12 @@
   },
   "active": "68f2cf81753230a8",
   "lastOpenFiles": [
+    "church forum.md",
+    "church-kine.md",
+    "index.md",
+    "personal-stuff.md",
+    "10 Strength Drills To Tell if You’re in Good Shape After 50.md",
+    "2024-10-18.md",
     "Lectio.md",
     "Sacred Fire discussion.md",
     "facilitating adult relationship - notes.md",
@@ -173,12 +187,6 @@
     "Spiritual Direction Training.md",
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "Spiritual directors meet spiritually curious people where they are.md",
-    "journal/2024-08-26.md",
-    "journal/2024-08-27.md",
-    "Spiritual.md",
-    "the-paris-agent.md",
-    "journal/2024-08-22.md",
     "assets/Paris Agent.jpg"
   ]
 }
