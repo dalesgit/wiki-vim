@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sacred Fire discussion.md",
+                "file": "journal/2024-10-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sacred Fire discussion"
+              "title": "2024-10-20"
             }
           }
         ],
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -199,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +217,10 @@
   },
   "active": "a583639ebc2d71a0",
   "lastOpenFiles": [
-    "church forum.md",
+    "journal/2024-10-19.md",
+    "journal/2024-10-20.md",
     "Sacred Fire discussion.md",
+    "church forum.md",
     "church-kine.md",
     "church.md",
     "index.md",
@@ -241,8 +243,6 @@
     "thought-kine.md",
     "personal-stuff.md",
     "initial testing.md",
-    "2024-10-17.md",
-    "Reading-kine.md",
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",

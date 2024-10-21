@@ -1,4 +1,4 @@
 {
-  "folder": "/",
-  "template": "templates/y-diarytemplate"
+  "folder": "journal",
+  "template": "templates/diarytemplate"
 }
