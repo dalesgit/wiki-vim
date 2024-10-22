@@ -14,6 +14,32 @@ _These are mostly nvim links (Obsidian.nvim)_
 
 - [[cup-journal|journaling the cup]]
 
+## October
+
+### [[2024-10-22-Tuesday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: As I got up in the morning, a weariness and a kind of grey fog within me the last 2 days
+2. **I’m curious about… (attentive exploration)**: Is it an aging thing? Is it alcohol? I failed at _Wordle_ this morning.4 guesses with 4 of 5 correct letters. Argh!
+3. I wonder how I can… (active response)\*\*: Accept? Work against? Where is the peace?
+
+### [[2024-10-21-Monday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: I was able to not go to the East Lake Centering Prayer. It felt so much like a personal indulgence. I said to other people that it was a matter of boundaries.
+2. **I’m curious about… (attentive exploration)**: Whether I just got by by the skin of my teeth? Am I onto something? Am I really got by the balls into doing what [MP](MP.md) wants of me?
+3. **I wonder how I can… (active response)**: A habit? A practice?
+
+- [[Journal 2024-10-12 Sat.md]]
+- [[Journal 2024-10-10 Thu|journal 2024-10-10 Thu]]
+- [[Journal  06 Oct 2024 Sun|journal 06 Oct 2024 Sun]]
+- [[Journal 2024-10-05 Sat|journal 2024-10-05 Sat]]
+- [[Journal  04 Oct 2024 Fri|journal  04 Oct 2024 Fri]]
+- [[Journal 2024-10-03 Thu|journal 2024-10-03 Thu]]
+- [[Journal 2024-10-02 Wed.md]]
+
 ## September
 
 - [[journal Wed 11 Sep 2024]]
@@ -30,19 +56,3 @@ _These are mostly nvim links (Obsidian.nvim)_
 - [[Journal 27 Sep 2024|journal 27 Sep 2024]]
 - [[Journal 2024-09-28|journal 2024-09-28]]
 - [[Journal 2024-09-30 Mon.md]]
-
-## October
-
-- [[Journal 2024-10-02 Wed.md]]
-- [[Journal 2024-10-03 Thu|journal 2024-10-03 Thu]]
-- [[Journal  04 Oct 2024 Fri|journal  04 Oct 2024 Fri]]
-- [[Journal 2024-10-05 Sat|journal 2024-10-05 Sat]]
-- [[Journal  06 Oct 2024 Sun|journal 06 Oct 2024 Sun]]
-- [[Journal 2024-10-10 Thu|journal 2024-10-10 Thu]]
-- [[Journal 2024-10-12 Sat.md]]
-- Journal 2024-10-21 Mon
-  _Reflection for Spiritual Direction Course_
-
-1. **I notice…(awareness)**: I was able to not go to the East Lake Centering Prayer. It felt so much like a personal indulgence. I said to other people that it was a matter of boundaries.
-2. **I’m curious about… (attentive exploration)**: Whether I just got by by the skin of my teeth? Am I onto something? Am I really got by the balls into doing what [MP](MP.md) wants of me?
-3. **I wonder how I can… (active response)**: A habit? A practice?

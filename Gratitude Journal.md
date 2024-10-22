@@ -9,6 +9,10 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-10-22-Tuesday]]
+
+I stayed home last night from East Lake Centering Prayer. It was difficult, but felt so right.
+
 ## [[2024-10-21-Monday]]
 
 I have this system of note-taking more or less in order. Nvim works. Parts of wiki-vim work. Obsidian works.

@@ -9,3 +9,5 @@ tags: []
 
 - [[assets/Paris Agent.jpg]]
 - [[On the nature of daylight.md]]
+- [[Sacred Fire discussion]]
+- [[Reading Soul of America]]
