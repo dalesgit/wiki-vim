@@ -9,6 +9,12 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-10-21-Monday]]
+
+I have this system of note-taking more or less in order. Nvim works. Parts of wiki-vim work. Obsidian works.
+
+I'm thinking maybe I do have it down to a system.
+
 ## 2024-10-15 Tue
 
 Good sleep. Time away. Limited responsibilities for a few days.

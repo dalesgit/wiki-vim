@@ -1,9 +1,6 @@
-# {{wiki#template#case_title {name}}}
-Created: {date} {time}
-
 [[/Gratitude Journal.md|Gratitude Journal]]
 
-Journal
+[SD-Journals](SD-Journals)
 
 Diary 
 - 
