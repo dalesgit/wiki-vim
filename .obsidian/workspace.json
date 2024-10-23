@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-10-21.md",
+                "file": "1729712174-mp3-listing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21"
+              "title": "1729712174-mp3-listing"
             }
           }
         ]
@@ -196,8 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22aac598cc30dd66",
+  "active": "f24b3dd4e0b13bd3",
   "lastOpenFiles": [
+    "journal/2024-10-23.md",
+    "journal/2024-10-21.md",
     "journal/2024-10-22.md",
     "journal/2024-07-05.md",
     "journal/2024-10-20.md",
@@ -222,8 +224,6 @@
     "empty files.md",
     "files without tags.md",
     "'spiritual-direction/Spiritual.md",
-    "2024-10-11.md",
-    "technical.md",
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
