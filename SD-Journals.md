@@ -16,6 +16,14 @@ _These are mostly nvim links (Obsidian.nvim)_
 
 ## October
 
+## [[2024-10-23-Wednesday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: My pain while sleeping. This time my right arm. It felt like I was fighting something. I thought, perhaps for the first time, yesterday, that I was too old to finish the Spiritual Direction class.
+2. **I’m curious about… (attentive exploration)**: What is my body telling me? For 2 evenings this week I have had my own time while [MP](MP.md) was away: centering prayer then vestry. It felt so free and freeing.
+3. **I wonder how I can… (active response)**: At the least don't let go of my efforts. Was the "fight" of my sleep related to the fight to have my own space and thoughts?
+
 ### [[2024-10-22-Tuesday]]
 
 _Reflection for Spiritual Direction Course_

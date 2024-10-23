@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-10-22.md",
+                "file": "journal/2024-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-22"
+              "title": "2024-10-21"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spirituality",
+                "query": "tag:#movies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f24b3dd4e0b13bd3",
+  "active": "22aac598cc30dd66",
   "lastOpenFiles": [
-    "journal/2024-07-05.md",
     "journal/2024-10-22.md",
+    "journal/2024-07-05.md",
     "journal/2024-10-20.md",
     "templates/diarytemplate.md",
     "SD-Journals.md",
