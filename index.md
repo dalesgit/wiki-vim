@@ -1,5 +1,5 @@
 ---
-id: [[index.md|index]]
+id: index
 aliases:
   - Index
 tags: []
