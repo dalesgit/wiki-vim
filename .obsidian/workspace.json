@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ed0ac0b1dcb742d3",
+        "id": "426796bf080b0e60",
         "type": "tabs",
         "children": [
           {
-            "id": "f24b3dd4e0b13bd3",
+            "id": "3e5b6614f25d4ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1729712174-mp3-listing.md",
+                "file": "SD session Oct 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1729712174-mp3-listing"
+              "title": "SD session Oct 24"
+            }
+          },
+          {
+            "id": "e4cac080cec52ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verbatim notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verbatim notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -181,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f24b3dd4e0b13bd3",
+  "active": "e4cac080cec52ef8",
   "lastOpenFiles": [
+    "SD session Oct 24.md",
+    "Verbatim notes.md",
+    "1729712174-mp3-listing.md",
     "journal/2024-10-23.md",
     "journal/2024-10-21.md",
     "journal/2024-10-22.md",
@@ -221,9 +241,6 @@
     "preaching.md",
     "Proper.md",
     "2024-10-01.md",
-    "empty files.md",
-    "files without tags.md",
-    "'spiritual-direction/Spiritual.md",
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
