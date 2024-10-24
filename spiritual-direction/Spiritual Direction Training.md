@@ -21,6 +21,7 @@ title: Spiritual Direction Training
 5. Guidelines for ethical conduct <https://www.sdicompanions.org/docs/guidelines/Flip/guidelines_ethical_conduct.html>
 6. Sample engagement agreement [Sample engagement agreement](assets/sample_engagement_agreement.pdf)
 7. [assets/CAP-module-one-syllabus.md](assets/CAP-module-one-syllabus.md)
+8. 
 
 # links
 
