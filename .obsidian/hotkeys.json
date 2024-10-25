@@ -151,5 +151,14 @@
       ],
       "key": "G"
     }
+  ],
+  "open-with:open-file-with-codium": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

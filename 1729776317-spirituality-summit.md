@@ -130,3 +130,19 @@ Drawing on the arc of the hero’s journey, we explore the challenges of steppin
 | 4:30PM PST/7:30 PM EST                                                 | Michael Petrow             |
 | _Health-Bestowing Wounds: Wisdom from Origen of Alexandria_            |                            |
 |                                                                        |                            |
+
+### The Forgotten Wisdom of Elders: A Guide to Spiritual Depth
+
+[[2024-10-25-Friday]]
+
+- stage of life where they are mostly through with doing and now are being
+- those who will be serving as directors of others must work on themselves -- so as to guard against transference
+- the hero quest isn't over til the hero becomes a sage
+- (Greg. Nazianzen?) asked "How often do I need to begin?" Ans: "Until you end."
+- some philosopher said: We should never have named ourselves "homo sapiens". We are not wise. We should have been call "homo narrans." It is through stories that all growth and wisdom comes.
+- Franciscan notion: we first meet "the other" in brothers and sisters. (actual family) Then all forms of "other" are experienced as brother/sister.
+- Someone says: "I want to do what God wants me to do." (Merton) If you truly believe this is what God wants you to do that he wouldn't give you the graces to accomplish it?
+
+> I could relate with this wise monk. A younger William McNamara.
+
+> On beelink I've downloaded this and some others.
