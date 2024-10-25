@@ -16,6 +16,14 @@ _These are mostly nvim links (Obsidian.nvim)_
 
 ## October
 
+## [[2024-10-25-Friday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: The wide collection of speakers in the Contemplative Summit feels overly "special", "cute" maybe. Made for spirituality groupies.
+2. **I’m curious about… (attentive exploration)**: I know there's a deep thirst out there. Witness the conversation with Tricia.
+3. **I wonder how I can… (active response)**: What is my place in that. After yesterday's fiasco I was really ready to stop the training.
+
 ## [[2024-10-23-Wednesday]]
 
 _Reflection for Spiritual Direction Course_

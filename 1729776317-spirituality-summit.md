@@ -2,7 +2,9 @@
 id: 1729776317-spirituality-summit
 aliases:
   - Spirituality Summit
-tags: []
+tags:
+  - spirituality
+  - contemplation
 ---
 
 # Spirituality Summit
@@ -16,8 +18,6 @@ Contemplative formation for the restless heart
 PS - Can’t make it to a scheduled session? Each one will be available as a recording shortly after the scheduled time. They’ll be up for 48 hours, so you can watch according to your schedule!
 
 ---
-
-# Schedule
 
 ## **Thursday, Oct. 24 Schedule**
 
@@ -64,7 +64,8 @@ She cofounded InterPlay, an international creative practice and leadership progr
 
 What does it mean to extend love and welcome to those who feel most excluded, especially within a Church that has often been a source of pain?
 
-In this conversation with Fr. James Martin, we’ll explore how spirituality can be more inclusive, especially for those who feel alienated by traditional religion. We’ll dive into the wisdom of Ignatian spirituality, discovering how it offers tools for seekers both inside and outside the Church, and why the story of Lazarus offers profound lessons about letting go and new beginnings.
+In this conversation with Fr. James Martin, we’ll explore how spirituality can be more inclusive, especially for those who feel alienated by traditional religion. We’ll dive into the wisdom of Ignatian spirituality, discovering how it offers tools for seekers both inside and outside the Church, and why the story of Lazar
+us offers profound lessons about letting go and new beginnings.
 
 Fr. Jim will also share insights from his experience in Pope Francis' Synod and his vision for a Church that embraces vulnerability and compassion, even in the face of resistance. How can we create spiritual spaces that welcome everyone? What does it mean to "come forth" into a new way of being?
 
@@ -92,3 +93,40 @@ Joan Chittester: If you're going to leave the church don't leave quietly. If you
 
 - he was asked to be a part of. Make the church a more listening church.
 - need to listen to voices that we don't usually listen to: especially lay people and women.
+
+### The Journey to Wholeness at Midlife with Ben Katt
+
+##### Description
+
+What does it mean to come home to yourself, especially at midlife? In this episode, mindfulness coach Ben Katt guides us through the rich terrain of personal transformation, sharing his insights on navigating burnout, discontent, and the deeper journey toward wholeness. We explore how moments of crisis—whether a loss of heart, burnout, or facing a life transition—can be the doorway into the unknown, leading us to a more authentic, grounded version of ourselves.
+
+Ben shares personal stories, including a mystical encounter in the desert, and reflects on the “three-headed monster” of success, perfection, and approval that can drive us away from our true selves. We also discuss the importance of spiritual practice, from journaling to mindfulness, and how these practices help us stay connected to our hearts.
+
+Drawing on the arc of the hero’s journey, we explore the challenges of stepping away from the familiar, the discomfort of the unknown, and the eventual return to a deeper, more integrated sense of self. Ben’s reflections are an invitation to slow down, listen inward, and honor the path that life is inviting you to walk, even when it feels uncertain.
+
+##### He got to a place that he had lost his "heart"
+
+- in a book he wrote.
+
+# Summit schedule
+
+## Friday, Oct. 25 Schedule
+
+| Time                                                                   | Speaker                    |
+| ---------------------------------------------------------------------- | -------------------------- |
+| 6AM PST/9AM EST                                                        | Christine Valters Paintner |
+| _A Midwinter God: Encountering the Divine in Seasons of Darkness_      |                            |
+| 7:30AM PST/10:30 AM EST                                                | Cyprian Consiglio          |
+| _The Gifts of Eastern Religions_                                       |                            |
+| 9AM PST/12PM EST                                                       | James Finley               |
+| _When Wounds Become Wombs: Healing in the Contemplative Tradition_     |                            |
+| 10:30AM PST/1:30 PM EST                                                | Discussion groups          |
+| 12PM PST/3PM EST                                                       | Richard Hendrick           |
+| _The Forgotten Wisdom of Elders: A Guide to Spiritual Depth_           |                            |
+| 1:30PM PST/4:30 PM PST                                                 | Randy & Edith Woodley      |
+| _Wholeness, Belonging, and Eloheh: Reconnecting with Indigenous Roots_ |                            |
+| 3PM PST/6:00 PM EST                                                    | Tia Norman                 |
+| _Spiritual Practice: Breath Prayer_                                    |                            |
+| 4:30PM PST/7:30 PM EST                                                 | Michael Petrow             |
+| _Health-Bestowing Wounds: Wisdom from Origen of Alexandria_            |                            |
+|                                                                        |                            |

@@ -9,6 +9,10 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-10-25-Friday]]
+
+I was glad to have spent some time talking to Tricia. It was a little bit pastoral care. A little spiritual direction, at least she was asking about it, even as she was sharing her major life decisions.
+
 ## [[2024-10-23-Wednesday]]
 
 I incorporated "CtrlSF" into Neovim. I like it! I slept with a dull pain in my right arm. What is that?
