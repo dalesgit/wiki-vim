@@ -6,8 +6,29 @@ tags:
   - spirituality
   - contemplation
 ---
-
 # Spirituality Summit
+
+## Contents
+
+### Table of contents
+
+<!-- toc -->
+
+  * [**Thursday, Oct. 24 Schedule**](#thursday-oct-24-schedule)
+    + [**Today's sessions include:**](#todays-sessions-include)
+    + [**Living with an Open Heart: A Sufi Approach to Suffering with Omid Safi**](#living-with-an-open-heart-a-sufi-approach-to-suffering-with-omid-safi)
+    + [Cynthia Winton-Henry _Contemplative Embodiment: Coming Home to Body and Soul_](#cynthia-winton-henry-_contemplative-embodiment-coming-home-to-body-and-soul_)
+    + [Radical Welcome: Ignatian Spirituality & Queer Christians _James Martin_](#radical-welcome-ignatian-spirituality--queer-christians-_james-martin_)
+      - [LGBTQ people](#lgbtq-people)
+      - [Synod?](#synod)
+    + [The Journey to Wholeness at Midlife with Ben Katt](#the-journey-to-wholeness-at-midlife-with-ben-katt)
+        * [Description](#description)
+        * [He got to a place that he had lost his "heart"](#he-got-to-a-place-that-he-had-lost-his-heart)
+- [Summit schedule](#summit-schedule)
+  * [Friday, Oct. 25 Schedule](#friday-oct-25-schedule)
+    + [The Forgotten Wisdom of Elders: A Guide to Spiritual Depth](#the-forgotten-wisdom-of-elders-a-guide-to-spiritual-depth)
+
+<!-- tocstop -->
 
 Kelly Deutsch
 
@@ -146,3 +167,4 @@ Drawing on the arc of the hero’s journey, we explore the challenges of steppin
 > I could relate with this wise monk. A younger William McNamara.
 
 > On beelink I've downloaded this and some others.
+
