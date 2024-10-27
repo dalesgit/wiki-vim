@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac5132c656a788f",
+        "id": "65c44a9e7c9dd5ad",
         "type": "tabs",
         "children": [
           {
-            "id": "5b971023ca8b1b8d",
+            "id": "f44edfc37a232a20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spiritual-direction/Spiritual Direction Training.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Spiritual Direction Training"
-            }
-          },
-          {
-            "id": "079abecc62813007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SD-Verbatim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SD-Verbatim"
-            }
-          },
-          {
-            "id": "5cfa40a1dd6b93d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/Verbatim Rev Jean - Jun 29 2020 - 6-13 PM.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Verbatim Rev Jean - Jun 29 2020 - 6-13 PM"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +176,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "079abecc62813007",
+  "active": "f44edfc37a232a20",
   "lastOpenFiles": [
+    "journal/2024-11-09.md",
+    "proper-25b.md",
+    "spiritual-direction/Spiritual Direction Training.md",
     "assets/Verbatim Rev Jean - Jun 29 2020 - 6-13 PM.pdf",
     "SD-Verbatim.md",
-    "spiritual-direction/Spiritual Direction Training.md",
     "Ongoing.md",
     "index.md",
     "Sacred Fire discussion.md",
@@ -241,7 +212,6 @@
     "grounded-conclusion.md",
     "grounded-commons.md",
     "journal/2024-09-01.md",
-    "grounded-ch-neighborhood.md",
     "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
     "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "assets/Paris Agent.jpg"
