@@ -7,23 +7,7 @@ date: "2024-08-03"
 title: preaching
 ---
 
-# preaching
-
-- [[proper-16b.epub]]
-- [[Proper 9.md]]
-- [[beheading of John the Baptist.md]]
-- [[John the Baptist homily.md]]
-
-## Schedule
-
-- [[journal/2024-08-15.md.md|journal/2024-08-15.md]] The first Thursday mass.
-- [[journal/2024-08-25.md]]
-
-- Oct. 27 Celebrate: Sunday after [Centering Prayer](Centering Prayer.md) workshop. Weekend of **Patronal Feast** -- St. Alfred
-- Nov. 10 preaching [[Proper 25a]]:
-- Dec. 8 Celebrate:
-
-## What I know
+# What I know
 
 - [paradox.md](paradox.md)
 - [surprise](surprise.md)
@@ -31,9 +15,26 @@ title: preaching
 - Dorothy Day's phrase "[The duty of delight](The duty of delight.md)" (wonder & awe), like children
 - "[It's all Grace](It's all Grace.md)"
 
+# preaching
+
+
+## Schedule
+
+- [[proper-16b.epub]]
+- [[Proper 9.md]]
+- [[beheading of John the Baptist.md]]
+- [[John the Baptist homily.md]]
+- [[journal/2024-08-15.md.md|journal/2024-08-15.md]] The first Thursday mass.
+- [[journal/2024-08-25.md]]
+- Oct. 27 Celebrate: Sunday after [Centering Prayer](Centering Prayer.md) workshop. Weekend of **Patronal Feast** -- St. Alfred
+- Dec. 8 Celebrate:
+
+### Nov. 10 preaching [[Proper 27a]]:
+
+
 ## Spell it out
 
-## [journal/2024-08-29.md](journal/2024-08-29.md) On John the Baptist
+### [journal/2024-08-29.md](journal/2024-08-29.md) On John the Baptist
 
 [journal/2024-08-29](journal/2024-08-29.md) 2nd healing mass
 
