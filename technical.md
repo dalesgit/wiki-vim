@@ -7,7 +7,31 @@ date: "2024-07-17"
 title: technical
 ---
 
-## technical
+# technical
+
+## Foam [[2024-10-28-Monday]]
+
+<https://foambubble.github.io/foam/>
+
+<https://foambubble.github.io/foam/user/getting-started/recommended-extensions>
+
+_a formidable list of capabilities_
+
+**a very cool automatic github repository tool: <https://github.com/new?template_name=foam-template&template_owner=foambubble>**
+
+## Notetaking with vscode: [[2024-10-28-Monday]]
+
+notetaking with vscode: recommendations?
+
+<https://www.reddit.com/r/Zettelkasten/comments/1044bb1/best_obsidianlike_extensions_for_vscode/>
+
+Here are the suggestions rated for my particular use-case of finding something that feels most like Obsidian when typing and linking around:
+
+Foam: So far the most like obsidian with wikilinks, the ability to like to sub-headings. Still not similar enough. When I do in-line views of headings (ie ![[link#heading]] it only shows to the next heading, even if it is a lower level. Obsidian shows lower-leveled headings which I prefer. Also in the case of non-unique headings Obsidian allows you to use a heading chain to refer to the specific one you want, ie ![[link#parent_heading#non_unique_heading]] This functionality is key to my usage.
+
+Markdown Memo: If all you want is to add wikilinks to Obsidian and use the for automatic file-creation, without all of the graph generation fluff, this one is nice. It looks like it has better native tools for file structure flattening than Foam as well.
+
+Dendron: Looks like a cool simple tool, not particularly similar to Obsidian. If I were to switch to Dendron for coding I would need to switch to it for everything. Not a total deal-breaker but not the first thing I'm going to try
 
 ## Explore "Notesnook"
 
