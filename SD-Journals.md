@@ -16,6 +16,14 @@ _These are mostly nvim links (Obsidian.nvim)_
 
 ## October
 
+## [[2024-10-30-Wednesday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: I was energized by both the session with Lou and the dinner with Hoopers. I'm a bit surprised by that.
+2. **I’m curious about… (attentive exploration)**: The recommendations for socialization to combat the decline of aging.
+3. **I wonder how I can… (active response)**:
+
 ## [[2024-10-25-Friday]]
 
 _Reflection for Spiritual Direction Course_
