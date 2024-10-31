@@ -7,11 +7,11 @@ tags: []
 
 # Index
 
-- [technology.md](technology.md)
-- [organization](1728505907-organization)
-- [Ongoing](Ongoing)
-- [DIY](DIY)
-- [Writing](writing.md)
+- [[technology.md]]
+- [[1728505907-organization|organization]]
+- [[Ongoing]]
+- [[DIY]]
+- [[writing.md|Writing]]
 - [[Reading-kine]]
 - [[church-kine]]
 - [[Reading-kine|reading-kine]]
