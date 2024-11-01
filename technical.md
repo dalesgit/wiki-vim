@@ -6,7 +6,7 @@ tags:
 date: "2024-07-17"
 title: technical
 ---
-
+		
 # technical
 
 ## Foam [[2024-10-28-Monday]]
@@ -185,9 +185,11 @@ _Observation: , ⇒ a indicates pressing the , key followed by pressing the a ke
 
 ## Flavors[](https://yazi-rs.github.io/docs/quick-start#flavors "Direct link to Flavors")
 
-Pick a color scheme you like from our [flavors repository](https://github.com/yazi-rs/flavors), or [cooking a flavor](https://yazi-rs.github.io/docs/flavors/overview#cooking)!
+Pick a color scheme you likehttps://github.com/igniteflow/terminator-keyboard-shortcuts from our [flavors repository](https://github.com/yazi-rs/flavors), or [cooking a flavor](https://yazi-rs.github.io/docs/flavors/overview#cooking)!
 
 ## linux
+
+G
 
 - [[vimrc-lenovo.md]]
 - [[vimrc-lenovo-aug.md]]
@@ -207,3 +209,8 @@ Pick a color scheme you like from our [flavors repository](https://github.com/ya
 - [[table memory sticks.md]]
 - [[vimrc-android]]
 - [[pages/vimrc-beelink-9-2024]]
+
+## terminator [[2024-10-31-Thursday]]
+
+<https://github.com/igniteflow/terminator-keyboard-shortcuts>
+[./assets/elpedro_terminator.pdf](./assets/elpedro_terminator.pdf)

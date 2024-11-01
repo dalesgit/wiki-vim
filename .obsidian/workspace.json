@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7626bb86fdbc0e94",
+        "id": "781dd23d8c7241a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d059340f2c24ac44",
+            "id": "273fa8529a690860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SD session Oct 31.md",
+                "file": "technical.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SD session Oct 31"
+              "title": "technical"
             }
           }
         ]
@@ -197,10 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d059340f2c24ac44",
+  "active": "273fa8529a690860",
   "lastOpenFiles": [
-    "shame-as-resistance-notes.md",
+    "assets/elpedro_terminator.pdf",
+    "technical.md",
+    "technical.md~",
+    "assets/elpedro_terminator.pdf.md",
+    "assets.md",
     "SD session Oct 31.md",
+    "shame-as-resistance-notes.md",
     "journal/2024-10-30.md",
     "sdi-guidelines-draft.md",
     "journal/2024-10-27.md",
@@ -221,10 +226,6 @@
     "journal/2024-07-05.md",
     "journal/2024-10-20.md",
     "templates/diarytemplate.md",
-    "SD-Journals.md",
-    "teilhard.md",
-    "journal/2024-10-19.md",
-    "Sacred Fire discussion.md",
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
@@ -233,8 +234,6 @@
     "2024-10-17.md.orig",
     "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
     "Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
-    "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
-    "assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
     "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
