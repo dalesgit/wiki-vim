@@ -264,6 +264,7 @@
  ;; Default value: false
  :outliner/block-title-collapse-enabled? false
 
+ ;; Macros replace texts and will make you more productive.
  ;; Example usage:
  ;; Change the :macros value below to:
  ;; {"poem" "Rose is $1, violet's $2. Life's ordered: Org assists you."}
