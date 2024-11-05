@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "781dd23d8c7241a7",
+        "id": "ab64bde748acc85f",
         "type": "tabs",
         "children": [
           {
-            "id": "273fa8529a690860",
+            "id": "a85914000f0c66ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-11-04.md",
+                "file": "journal/2024-11-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-04"
-            }
-          },
-          {
-            "id": "9250f549cd7a7204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table Bread recipes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table Bread recipes"
+              "title": "2024-11-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +197,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22aac598cc30dd66",
+  "active": "a85914000f0c66ec",
   "lastOpenFiles": [
+    "White chili.md",
+    "Instant Pot White Beans (Great Northern, No Soaking!) - Minimalist Baker.md",
+    "assets/Minimalist Baker Instant Pot Guide.pdf",
+    "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
+    "Pasted image 20241105080105.png",
+    "journal/2024-11-05.md",
     "journal/2024-11-04.md",
     "Table Bread recipes.md",
     "spiritual-direction/Linda.md",
@@ -238,18 +229,12 @@
     "St Alfred's Day.md",
     "Verbatim notes.md",
     "1729712174-mp3-listing.md",
-    "journal/2024-10-23.md",
-    "journal/2024-10-21.md",
-    "journal/2024-10-22.md",
-    "journal/2024-07-05.md",
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "SG_Grounded2.pdf",
     "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
     "2024-10-17.md.orig",
-    "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
-    "Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
     "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
