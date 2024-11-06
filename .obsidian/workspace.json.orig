@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cef0edebb6c04ec9",
+<<<<<<< HEAD
+        "id": "d1ccbbb85bc53141",
         "type": "tabs",
-        "dimension": 42.608089260808924,
         "children": [
           {
-            "id": "20c01749fe6181d1",
+            "id": "2e9c7f5936aebdb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+=======
+        "id": "ab64bde748acc85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85914000f0c66ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spiritual-direction/Sd session Oct 17.md",
+                "file": "journal/2024-11-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sd session Oct 17"
-            }
-          }
-        ]
-      },
-      {
-<<<<<<< HEAD
-        "id": "2126bea724f70b91",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5185198593523066",
-=======
-        "id": "b170bb40f8f3e27f",
-        "type": "tabs",
-        "dimension": 57.391910739191076,
-        "children": [
-          {
-            "id": "856e8c760c94862a",
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr"
+              "title": "2024-11-05"
+>>>>>>> dedae93507e11e0413f4c230322d28424194027c
             }
           }
         ]
@@ -80,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#kitchen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,16 +87,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 259.5,
-=======
-    "width": 315.5,
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -126,11 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "spiritual-direction/Sd session Oct 17.md",
-=======
-                "file": "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
+                "file": "table memory sticks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for Sd session Oct 17"
-=======
-              "title": "Backlinks for Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr"
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
+              "title": "Backlinks for table memory sticks"
             }
           },
           {
@@ -153,20 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "spiritual-direction/Sd session Oct 17.md",
-=======
-                "file": "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
               "title": "Outgoing links from Sd session Oct 17"
-=======
-              "title": "Outgoing links from Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr"
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
             }
           },
           {
@@ -188,17 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "spiritual-direction/Sd session Oct 17.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Sd session Oct 17"
-=======
-                "file": "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr"
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
             }
           },
           {
@@ -210,13 +169,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8b0503e624e57e55",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "b420b903f66b495d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 429.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -232,58 +211,67 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20c01749fe6181d1",
+<<<<<<< HEAD
+  "active": "2e9c7f5936aebdb1",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "2024-10-17.md",
-    "spiritual-direction/Sd session Oct 17.md",
-    "1729104076-some-new-link.md",
-    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
-    "2024-10-04.md",
-    "2024-10-02.md",
-    "2024-10-09.md",
-    "2024-10-08.md",
+    "sdi-guidelines-draft.md",
+    "journal/2024-11-06.md",
 =======
-    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
-    "spiritual-direction/Sd session Oct 17.md",
-    "2024-10-17.md",
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
-    "spiritual-direction/SD session Oct 10.md",
-    "2024-10-10.md",
-    "2024-10-11.md",
-    "2024-10-12.md",
-    "2024-10-13.md",
-    "2024-10-14.md",
-    "2024-10-15.md",
-    "2024-10-16.md",
-    "1729095329-write-linda.md",
-    "technology.md",
-    "1729083227-obsidian-commands.md",
-    "Table mode for nvim.md",
-    "Keymappings for Obsidian.nvim.md",
-    "index.md",
-    "Journal Fri 13 Sep 2024.md",
-    "notes/1728694608-sd-journals.md",
-    "templates/y-diarytemplate.md",
-    "spiritual-direction/SD.md",
-    "spiritual-direction/listening skills.md",
-    "Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
-    "Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
+  "active": "a85914000f0c66ec",
+  "lastOpenFiles": [
+    "White chili.md",
+    "Instant Pot White Beans (Great Northern, No Soaking!) - Minimalist Baker.md",
+    "assets/Minimalist Baker Instant Pot Guide.pdf",
+    "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
+    "Pasted image 20241105080105.png",
+    "journal/2024-11-05.md",
+    "journal/2024-11-04.md",
+    "Table Bread recipes.md",
+    "spiritual-direction/Linda.md",
+    "technical.md",
+    "assets/elpedro_terminator.pdf",
+    "technical.md~",
+    "assets/elpedro_terminator.pdf.md",
+    "assets.md",
+    "SD session Oct 31.md",
+    "shame-as-resistance-notes.md",
+    "journal/2024-10-30.md",
+    "sdi-guidelines-draft.md",
+>>>>>>> dedae93507e11e0413f4c230322d28424194027c
+    "journal/2024-10-27.md",
+    "sort-order-codium.md",
+    "preaching.md",
+    "Proper 27a.md",
+    "journal/2024-08-25.md",
+    "Review Rolheiser Sacred Fire.md",
+    "Rolheiser on Sacred Fire.md",
+    "journal/2024-10-25.md",
+    "SD session Oct 24.md",
+    "St Alfred's Day.md",
+    "Verbatim notes.md",
+    "1729712174-mp3-listing.md",
 <<<<<<< HEAD
-=======
-    "2024-07-10.md",
+    "journal/2024-10-23.md",
+    "journal/2024-10-21.md",
+    "journal/2024-10-22.md",
+    "journal/2024-07-05.md",
+    "journal/2024-10-20.md",
+    "templates/diarytemplate.md",
+    "SD-Journals.md",
+    "teilhard.md",
+    "journal/2024-10-19.md",
+    "Sacred Fire discussion.md",
+    "church forum.md",
     "church-kine.md",
-    "parable-3-churches.md",
-    "DIY.md",
->>>>>>> 787461408502c4d9f9028b7cb9b5b709eadcecf2
-    "assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf",
-    "assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf",
-    "assets/Dale Hathaway Acceptance letter.docx.pdf",
-    "assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf",
+=======
+>>>>>>> dedae93507e11e0413f4c230322d28424194027c
+    "'spiritual-direction",
+    "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
+    "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
+    "SG_Grounded2.pdf",
+    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
+    "2024-10-17.md.orig",
     "Pasted image 20241001164455.png",
-    "calendar.pdf",
-    "journal/2024-10-01.md~",
-    "12 key decisions.md~",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]
