@@ -9,6 +9,12 @@ title: Lectio
 
 # Lectio
 
+## Psalm 42:1 [[2024-10-28-Monday]]
+
+"As the deer panteth for the stream … " I wondered why did the early writer use the deer heading to water as a metaphor for our soul thirsting for God? I came up with **hunters** are keenly aware of the attraction of water for their prey. God is **hunting** us, as hunter would go after food.
+
+Later at lectio at Centering Prayer, we had the John Donne poem about the 3 aspect God knocking on our door, breaking down our barriers. I read from Thompson's _Hound of Heaven_ and several people thanked me.
+
 ## [[2024-10-16-Wednesday]]
 
 1 Sam 3:9: "Speak Lord, your servant is listening." Enneagram re. [MP](MP.md) primary was "Caregiver" -- Detail maybe her "shadow?" -- but she's good at it. Given our words previously about **silence** being the **language** of God, my hearing "Speak Lord" is a way of saying: "More silence …" I give thanks for the relative "silence" of these few days in Orlando.

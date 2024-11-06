@@ -9,6 +9,10 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-10-30-Wednesday]]
+
+Larry Hooper repeated several times, "We've missed you so much." Being with them for the evening was energizing for me. We stayed to late. Cf. Today's journal note about a writing assignment. [[writing]]
+
 ## [[2024-10-25-Friday]]
 
 I was glad to have spent some time talking to Tricia. It was a little bit pastoral care. A little spiritual direction, at least she was asking about it, even as she was sharing her major life decisions.
