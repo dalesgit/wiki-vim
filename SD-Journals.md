@@ -16,6 +16,14 @@ tags:
 
 # November
 
+## [[2024-11-07-Thursday]]
+
+It's far from the case that I didn't anticipate the defeat of the American world order on Nov. 5. I did. But I just didn't know what the data was going to be. What the answer was going to be.
+
+The answer came back, before midnight on Nov. 5, that everything was falling in Trump's favor. It was close relatively speaking, but it ended up being an overwhelming victory for the Red Tide.
+
+It is a re-ordering of the world order. It is a grieving like I experienced with the death of RFK Jr.
+
 ## [[2024-11-06-Wednesday]]
 
 _Reflection for Spiritual Direction Course_
@@ -96,4 +104,3 @@ _Reflection for Spiritual Direction Course_
 - [[Journal 27 Sep 2024|journal 27 Sep 2024]]
 - [[Journal 2024-09-28|journal 2024-09-28]]
 - [[Journal 2024-09-30 Mon.md]]
-
