@@ -9,6 +9,12 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-11-08-Friday]]
+
+[[MP]] doesn't know what to do to "comfort" me. Our [[1729094732-sd|SD]] session Yesterday was on [[1731068010-grief|grief]]. I learned to look for the different ways that Enneagram types initially respond to grief. My style is to Lament. MP's is to take care of. What is the response to someone in deep grief (Job)?
+
+Sit Shivah with them.
+
 ## [[2024-10-30-Wednesday]]
 
 Larry Hooper repeated several times, "We've missed you so much." Being with them for the evening was energizing for me. We stayed to late. Cf. Today's journal note about a writing assignment. [[writing]]

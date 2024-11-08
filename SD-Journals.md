@@ -16,6 +16,14 @@ tags:
 
 # November
 
+## [[2024-11-08-Friday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: That my response to Trump is similar to what I feel about Bridget.
+2. **I’m curious about… (attentive exploration)**: The injustice of it. The deception of it. The manipulation of it. The invaded of it.
+3. **I wonder how I can… (active response)**: What do I do with that observation?
+
 ## [[2024-11-07-Thursday]]
 
 It's far from the case that I didn't anticipate the defeat of the American world order on Nov. 5. I did. But I just didn't know what the data was going to be. What the answer was going to be.
