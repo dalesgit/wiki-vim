@@ -6,17 +6,25 @@ tags:
   - journal
 ---
 
-- # SD Journals
+# SD Journals
 
-  _These are mostly nvim links (Obsidian.nvim)_
+_These are mostly nvim links (Obsidian.nvim)_
 
-# Cup journal
+## Cup journal
 
 - [[cup-journal|journaling the cup]]
 
-# November
+## November
 
-## [[2024-11-08-Friday]]
+### [[2024-11-11-Monday]]
+
+_Reflection for Spiritual Direction Course_
+
+1. **I notice…(awareness)**: How would I measure the "success" of my sermon yesterday?
+2. **I’m curious about… (attentive exploration)**: Is it the impact on others? A kind of exquisite and satisfying form?
+3. **I wonder how I can… (active response)**:
+
+### [[2024-11-08-Friday]]
 
 _Reflection for Spiritual Direction Course_
 
@@ -24,7 +32,7 @@ _Reflection for Spiritual Direction Course_
 2. **I’m curious about… (attentive exploration)**: The injustice of it. The deception of it. The manipulation of it. The invaded of it.
 3. **I wonder how I can… (active response)**: What do I do with that observation?
 
-## [[2024-11-07-Thursday]]
+### [[2024-11-07-Thursday]]
 
 It's far from the case that I didn't anticipate the defeat of the American world order on Nov. 5. I did. But I just didn't know what the data was going to be. What the answer was going to be.
 
@@ -32,7 +40,7 @@ The answer came back, before midnight on Nov. 5, that everything was falling in 
 
 It is a re-ordering of the world order. It is a grieving like I experienced with the death of RFK Jr.
 
-## [[2024-11-06-Wednesday]]
+### [[2024-11-06-Wednesday]]
 
 _Reflection for Spiritual Direction Course_
 
@@ -46,7 +54,7 @@ _Reflection for Spiritual Direction Course_
 - We may become a colony of Russia/China
 - St. Anthony in the desert.
 
-# October
+## October
 
 - ## [[2024-10-30-Wednesday]]
 
