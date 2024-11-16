@@ -123,7 +123,7 @@ https://sallysbakingaddiction.com/sandwich-bread/
 |        | granulated sugar           | 2 T    |
 |        | butter                     | 4 T    |
 |        | dry yeast (not rapid rise) | 2¼ t   |
-|        | all-purpose flour          | 3⅓ ⅓ c  |
+|        | all-purpose flour          | 3⅓ c  |
 |        | salt                       | 1¼ t   |
 |--------|----------------------------|--------|
 
