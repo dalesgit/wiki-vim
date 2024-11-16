@@ -1,3 +1,4 @@
+[[/SD-Class.md]]
 ## September
 - [[SD Session Thu 12 Sep 2024]]
 - [[SD Session Sept 19]]
@@ -14,4 +15,5 @@
 - [[SD Class Nov 14]]
 - [[SD Class Nov 14-jour]]
 - [[SD Class Nov 14|SD Class Nov 14]]
-- 
+- [[/SD Training Nov 14.md]] 
+-[[/SD training Nov 7.md]]  
