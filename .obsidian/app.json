@@ -31,5 +31,8 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 67
-  }
+  },
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages"
 }
