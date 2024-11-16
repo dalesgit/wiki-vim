@@ -112,6 +112,8 @@ To freeze baked bread: Allow baked bread to cool completely. Place each loaf in 
 
 ## [Simply Sandwich Bread (Recipe + Video) - Sally's Baking Addiction](https://sallysbakingaddiction.com/sandwich-bread/ "Simply Sandwich Bread (Recipe + Video) - Sally's Baking Addiction")
 
+https://sallysbakingaddiction.com/sandwich-bread/
+
 > Good photos and how to's for each step
 
 | Recipe | Ingredient                 | amount |
@@ -121,7 +123,7 @@ To freeze baked bread: Allow baked bread to cool completely. Place each loaf in 
 |        | granulated sugar           | 2 T    |
 |        | butter                     | 4 T    |
 |        | dry yeast (not rapid rise) | 2¼ t   |
-|        | all-purpose flour          | 3 ⅓ c  |
+|        | all-purpose flour          | 3⅓ ⅓ c  |
 |        | salt                       | 1¼ t   |
 |--------|----------------------------|--------|
 
