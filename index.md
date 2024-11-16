@@ -23,3 +23,4 @@ tags: []
 - [[template]]
 - [[thought-kine]]
 - [[Mary Pat.md]]
+

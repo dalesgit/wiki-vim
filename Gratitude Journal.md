@@ -8,6 +8,13 @@ title: Gratitude Journal
 ---
 
 # Gratitude Journal
+
+## 15 Nov 2024 Fri 08:45 PM
+
+I have spent a good part of the day getting the Lenovo machine working again after it crashed 2 days ago.
+
+I felt such a peace being at the Franciscan center where I left MP off. I could live there!
+
 ## 11 Nov 2024 Mon 06:46 AM
 
 Nearly a week into the dictatorship, I feel a little more like what is the new normal. I feel very little patience with those who imagine we're living in the same country as a week ago. We were deluded then. The shift to cronyism and authoritarianism had been long underway. But emotionally we still lived in a place where rule of law mattered. "Cox Richardson" has been helpful.

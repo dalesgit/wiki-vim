@@ -2,7 +2,7 @@
 
 [[/Gratitude Journal.md|Gratitude Journal]]
 
-[SD-Journals](SD-Journals)
+[[/SD-Journals.md]] 
 
 # Diary 
  
