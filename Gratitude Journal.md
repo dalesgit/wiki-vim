@@ -9,6 +9,10 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-11-17-Sunday]]
+
+I slept so deeply. The alarm startled me. I sent [[mp]] the message that "the sacred often mascarades as happy clappy."
+
 ##  16 Nov 2024 Sat 10:33 PM
 
 I cried and felt so emotional watching 2 episodes of the midwife show, London in the 50's, midwives attached to a group of Anglican nuns. Memoirs of a woman. *Call the Midwife*. Thank you Lord.
