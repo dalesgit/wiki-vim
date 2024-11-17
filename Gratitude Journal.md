@@ -9,6 +9,10 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+##  16 Nov 2024 Sat 10:33 PM
+
+I cried and felt so emotional watching 2 episodes of the midwife show, London in the 50's, midwives attached to a group of Anglican nuns. Memoirs of a woman. *Call the Midwife*. Thank you Lord.
+
 ## 15 Nov 2024 Fri 08:45 PM
 
 I have spent a good part of the day getting the Lenovo machine working again after it crashed 2 days ago.
