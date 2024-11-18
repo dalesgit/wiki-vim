@@ -11,6 +11,10 @@ title: Gratitude Journal
 
 ## [[2024-11-18-Monday]]
 
+Because I am convinced that the "world" I live in has changed in fundamental ways, I don't feel the same need to **understand** what's going on on a daily basis. I see it something like living under Soviet domination, or Jews living in Nazi Germany, or countless other scenarios. It's important not to have my head in the ground -- for self-preservation's sake -- but my basic assumption is that the actions of the government are inherently, if not evil, then working against my interests.
+
+## [[2024-11-18-Monday]]
+
 I used to feel compulsive about getting breadth of viewpoints about the national situation. I saved them in my **Markdown** files. Now I don't have the same need to understand. I have a (for now) conclusive conclusion, that we are living in a different government form than we were prior to Nov. 9. (This meets Bill's criteria that the situation means that we can't let Trump continually get our **goat**.) I got this from somebody's response earlier. We live in a different "world" from what we grew up in. I can live with that, given how the rest of the world lives. It means that the Episcopal Church is no longer the same thing. Business as usual is no longer possible.
 
 ## [[2024-11-17-Sunday]]
