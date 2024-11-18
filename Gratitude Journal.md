@@ -9,13 +9,17 @@ title: Gratitude Journal
 
 # Gratitude Journal
 
+## [[2024-11-18-Monday]]
+
+I used to feel compulsive about getting breadth of viewpoints about the national situation. I saved them in my **Markdown** files. Now I don't have the same need to understand. I have a (for now) conclusive conclusion, that we are living in a different government form than we were prior to Nov. 9. (This meets Bill's criteria that the situation means that we can't let Trump continually get our **goat**.) I got this from somebody's response earlier. We live in a different "world" from what we grew up in. I can live with that, given how the rest of the world lives. It means that the Episcopal Church is no longer the same thing. Business as usual is no longer possible.
+
 ## [[2024-11-17-Sunday]]
 
 I slept so deeply. The alarm startled me. I sent [[mp]] the message that "the sacred often mascarades as happy clappy."
 
-##  16 Nov 2024 Sat 10:33 PM
+## 16 Nov 2024 Sat 10:33 PM
 
-I cried and felt so emotional watching 2 episodes of the midwife show, London in the 50's, midwives attached to a group of Anglican nuns. Memoirs of a woman. *Call the Midwife*. Thank you Lord.
+I cried and felt so emotional watching 2 episodes of the midwife show, London in the 50's, midwives attached to a group of Anglican nuns. Memoirs of a woman. _Call the Midwife_. Thank you Lord.
 
 ## 15 Nov 2024 Fri 08:45 PM
 
@@ -207,4 +211,3 @@ writing notes on Guenther (SD)
 [cardiology](cardiology.md): I have isolated some of the clue about my spiking heart rate when "spinning" at gym. I don't yet know if it has to do with the spinning
 
 Today I did the Spinning first. I got a spike, but I quickly tried to pull back the intensity. I only had one. But evidently it is the "Spinning" that initiates the episode.
-
