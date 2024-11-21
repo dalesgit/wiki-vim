@@ -16,6 +16,14 @@ _These are mostly nvim links (Obsidian.nvim)_
 
 ## November
 
+2024-11-21
+
+*Reflection for Spiritual Direction Course*
+
+1. **I notice…(awareness)**: I  am very anxious over "defending" my verbatim. I am depressed  "I guess my ife is at an end" in response to MP suggesting I was OK with moving into a 600 sq. ft. apt. It gets expressed in the form of anger: MP, "it hurts me."
+2. **I’m curious about… (attentive exploration)**:
+3. **I wonder how I can… (active response)**:
+
 ### [[2024-11-11-Monday]]
 
 _Reflection for Spiritual Direction Course_
