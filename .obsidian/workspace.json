@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Prep verbatim"
             }
+          },
+          {
+            "id": "ab6b6a7b7a0f2ea9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +240,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "7c6c862a228ce9aa",
+  "active": "ab6b6a7b7a0f2ea9",
   "lastOpenFiles": [
     "pages/SD Readings.md",
     "journal/2024-11-16.md",
