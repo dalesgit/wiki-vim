@@ -192,6 +192,16 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3f2f9e881763e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo"
             }
