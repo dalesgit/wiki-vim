@@ -8,6 +8,9 @@ title: Gratitude Journal
 ---
 
 # Gratitude Journal
+##  30 Nov 2024 Sat 10:47 PM
+
+I learned from the movie *Conclave* tonight a magnificent piece to add to the "things" I know: The cardinal who showed up from  nowhere, Cardinal Benitez of Kabul, spoke to the assembly after they had been bombed. (Violence going on outside the sequestered conclave.) He said, "The church is not the Tradition. It's not all the wonderful things we've done in the past or the present. The church is **what we do now.**"
 
 ## [[2024-11-18-Monday]]
 
