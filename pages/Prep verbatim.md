@@ -10,11 +10,11 @@ tags: []
 
 ### [[Guenther-notes]]
 
-    - [Welcoming the stranger](Welcoming the stranger.md)
-    - [Good Teachers](Good Teachers.md)
-    - [Midwife to the soul](Midwife to the soul.md)
-    - [Women and spiritual direction](Women and spiritual direction.md)
-    - [Epilogue](Epilogue.md)
+- [Welcoming the stranger](Welcoming the stranger.md)
+- [Midwife to the soul](Midwife to the soul.md)
+- [Good Teachers](Good Teachers.md)
+- [Women and spiritual direction](Women and spiritual direction.md)
+- [Epilogue](Epilogue.md)
 
 ### [[/spiritual-direction/Spiritual Direction 101-notes.md]]
 
@@ -40,4 +40,6 @@ tags: []
 - Lou re. how he prays: What is it that works for you.
 - Lou: What do you want in the years you have left?
 
-[[1731779826-verbatim-draft-1|Verbatim draft 1]]
+
+[[verbatim-draft-1|Verbatim draft 1]]
+[[verbatim-draft-2]]
