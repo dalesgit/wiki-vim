@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "713ec394013a8766",
+        "id": "c7362eff5f0f10cf",
         "type": "tabs",
         "children": [
           {
-            "id": "7c6c862a228ce9aa",
+            "id": "6af008685fda5ace",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prep verbatim.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prep verbatim"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -238,11 +233,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "7c6c862a228ce9aa",
+  "active": "6af008685fda5ace",
   "lastOpenFiles": [
+    "pages/Prep verbatim.md",
     "pages/1731779826-verbatim-draft-1.md",
     "pages/verbatim-draft-2.md",
-    "pages/Prep verbatim.md",
     "pages/SD Readings.md",
     "journal/2024-11-16.md",
     "pages/SD Sessions.md",
