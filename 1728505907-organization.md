@@ -16,3 +16,11 @@ tags: []
 | Location | Key | Note |
 | -------- | --- | ---- |
 | x        | x   | x    |
+
+## storage
+
+### [[guest room]]
+
+### [[Florida room]]
+
+### [[closet]]
