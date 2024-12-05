@@ -17,15 +17,25 @@ tags:
 
 ## Searching the sky - what are you looking for?
 
+Directees?
+
 ## Recognizing the star - discernment: God‘s love is active here
+
+I'm feeling nudged in the direction of the **kataphatic**. Just bought collection of Charles Williams and George MacDonald. The notion that God is at work in the world about us. Connection to Ignatian?
 
 ## Setting out on the journey – time for change: clean out and pack?
 
+We are going on a cruise. My longing would be that we would be moving to New Zealand.
+
 ## Following the star – naming your truth
+
+My/Our world has tilted since election day.
 
 ## Identifying and bringing gifts – self reflection
 
-## Finding Christ – one’s awaiting your gift
+Gifts: lyric, Renaissance man (not specialist) e.g. Larry has become quite adept at his **Bonsai**
+
+## Finding Christ – enter the new place and find the Lord ones awaiting your gift
 
 ## Laying down gifts – freedom, on attachment
 
