@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/pacific-cruise-2025.md",
+                "file": "pages/Prep Spiritual direction tomorrow-bak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pacific-cruise-2025"
+              "title": "Prep Spiritual direction tomorrow-bak"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -239,6 +240,9 @@
   },
   "active": "6af008685fda5ace",
   "lastOpenFiles": [
+    "journal/2024-12-05.md",
+    "pages/Prep Spiritual direction tomorrow.md",
+    "pages/pacific-cruise-2025.md",
     "SD Training Nov 14.md",
     "pages/Prep verbatim.md",
     "pages/1731779826-verbatim-draft-1.md",
@@ -266,11 +270,8 @@
     "Pasted image 20241105080105.png",
     "journal/2024-11-04.md",
     "Table Bread recipes.md",
-    "spiritual-direction/Linda.md",
-    "technical.md",
     "assets/elpedro_terminator.pdf",
     "technical.md~",
-    "assets/elpedro_terminator.pdf.md",
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
