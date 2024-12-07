@@ -7,7 +7,7 @@ tags: []
 
 # guest room
 
-## Hardwarek
+## Hardware
 
 - steel wire
 - plumbling grease
