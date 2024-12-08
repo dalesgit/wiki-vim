@@ -19,7 +19,7 @@ tags: []
 
 ## storage
 
-### [[guest room]]
+### [[/pages/guest room]]
 
 ### [[Florida room]]
 
