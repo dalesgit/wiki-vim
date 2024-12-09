@@ -6,7 +6,7 @@ tags:
 date: "2024-07-17"
 title: technical
 ---
-		
+
 # technical
 
 ## Foam [[2024-10-28-Monday]]
@@ -236,3 +236,8 @@ The following are the options set with -a that can also be set one by one:
 -o or --owner: preservers the files' owners.
 -D: preserves the device files and special files. You can use the options --devices and --specials to accomplish this.
 
+## declaring wiki_root in nvim
+
+It appears most things are working now in nvim with wiki.vim plugin
+
+I had to hard set it in .local/share/nvim/lazy/wiki.vim/plugin/wiki.vim
