@@ -9,7 +9,7 @@ title: technical
 		
 # technical
 
-## Foam [[2024-10-28-Monday]]
+## Foam 2024-10-28-Monday
 
 <https://foambubble.github.io/foam/>
 
@@ -19,7 +19,7 @@ _a formidable list of capabilities_
 
 **a very cool automatic github repository tool: <https://github.com/new?template_name=foam-template&template_owner=foambubble>**
 
-## Notetaking with vscode: [[2024-10-28-Monday]]
+## Notetaking with vscode: 2024-10-28-Monday
 
 notetaking with vscode: recommendations?
 
@@ -27,7 +27,7 @@ notetaking with vscode: recommendations?
 
 Here are the suggestions rated for my particular use-case of finding something that feels most like Obsidian when typing and linking around:
 
-Foam: So far the most like obsidian with wikilinks, the ability to like to sub-headings. Still not similar enough. When I do in-line views of headings (ie ![[link#heading]] it only shows to the next heading, even if it is a lower level. Obsidian shows lower-leveled headings which I prefer. Also in the case of non-unique headings Obsidian allows you to use a heading chain to refer to the specific one you want, ie ![[link#parent_heading#non_unique_heading]] This functionality is key to my usage.
+Foam: So far the most like obsidian with wikilinks, the ability to like to sub-headings. Still not similar enough. When I do in-line views of headings (ie !link#heading it only shows to the next heading, even if it is a lower level. Obsidian shows lower-leveled headings which I prefer. Also in the case of non-unique headings Obsidian allows you to use a heading chain to refer to the specific one you want, ie !link#parent_heading#non_unique_heading This functionality is key to my usage.
 
 Markdown Memo: If all you want is to add wikilinks to Obsidian and use the for automatic file-creation, without all of the graph generation fluff, this one is nice. It looks like it has better native tools for file structure flattening than Foam as well.
 
@@ -35,10 +35,10 @@ Dendron: Looks like a cool simple tool, not particularly similar to Obsidian. If
 
 ## Explore "Notesnook"
 
-[[2024-10-18-Friday]]
+2024-10-18-Friday
 Has rich import options. I originally used it to import Keep files last year.
 
-## [[1729251592-linux-commands|linux-commands]]
+## linux-commands
 
 ## Yazi file manager
 
@@ -191,26 +191,26 @@ Pick a color scheme you likehttps://github.com/igniteflow/terminator-keyboard-sh
 
 G
 
-- [[vimrc-lenovo.md]]
-- [[vimrc-lenovo-aug.md]]
-- [[Guide to wiki.vim.md]]
-- [[vimrc-lenovo-july.md]]
-- [[vimrc-android]]
-- [[vimrc-beelink-july.md]]
-- [[pages/vimrc-beelink-9-2024]]
-- [[vimrc-android]]
-- [[Xresources-lenovo.md]]
-- [[issues with wiki.md]]
-- [[Install apk.md]]
-- [[config.edn]]
-- [[vimrc-beelink-july.md]]
-- [[Zettelkasten method.md]]
-- [[broken links output.md]]
-- [[table memory sticks.md]]
-- [[vimrc-android]]
-- [[pages/vimrc-beelink-9-2024]]
+- vimrc-lenovo.md
+- vimrc-lenovo-aug.md
+- Guide to wiki.vim.md
+- vimrc-lenovo-july.md
+- vimrc-android
+- vimrc-beelink-july.md
+- pages/vimrc-beelink-9-2024
+- vimrc-android
+- Xresources-lenovo.md
+- issues with wiki.md
+- Install apk.md
+- config.edn
+- vimrc-beelink-july.md
+- Zettelkasten method.md
+- broken links output.md
+- table memory sticks.md
+- vimrc-android
+- pages/vimrc-beelink-9-2024
 
-## terminator [[2024-10-31-Thursday]]
+## terminator 2024-10-31-Thursday
 
 <https://github.com/igniteflow/terminator-keyboard-shortcuts>
 [./assets/elpedro_terminator.pdf](./assets/elpedro_terminator.pdf)
