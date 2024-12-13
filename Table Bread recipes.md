@@ -77,6 +77,23 @@
 |        | oil                        | 2 T    |
 |--------|----------------------------|--------|
 
+### How to Make Simple White Bread
+
+After you make a loaf of this Simple White Bread, you will make sure you have enough ingredients to at least double the recipe next time. And, it’s easy enough that your kids could help with the measuring and kneading of the dough. The only hard part about this recipe is the waiting to bake the loaf of bread. You do need to let the dough rest in the refrigerator overnight before baking it.
+
+To prepare the dough, begin by adding the sugar and yeast to a cup of warm water and set it aside. Next, in a medium bowl (or a large bowl if doubling or tripling the recipe), mix together the flour and salt. Add the yeast mixture to the flour mixture and stir everything together.
+
+Get a work surface ready by sprinkling a couple of tablespoons of flour on it. Knead the dough until it is smooth and elastic. Then, place the kneaded dough into a large plastic zip bag that has been drizzled with olive oil. Make sure you get all the dough covered in the oil. Seal the plastic bag and store it in the refrigerator overnight.
+
+## How to Bake Simple White Bread
+
+The next day, when you are ready to bake the bread after letting the dough rest in the refrigerator, remove the dough from the refrigerator. Keep the dough in the plastic zipped bag as you let it come to room temperature.
+After about an hour, sprinkle some more flour (1-2 tablespoons) of flour onto your work surface. Take the dough out of the plastic bag and knead and fold the dough for about a minute.
+Form the dough into a log that will fit into a greased 8-inch loaf pan.
+Cover the dough after you have placed it in the loaf pan, and let it rise until it is almost double in size (about 2 hours). I just used the plastic zip bag to cover the dough, and it worked great!
+After the dough has risen, slash the dough with a sharp knife and bake it for 35-40 minutes at 350°F. To be precise, the internal temperature of the bread should be 190-210°F.
+Let it cool before slicing. Enjoy!
+
 * If you are using Rapid Rise add the yeast to the DRY ingredients, then slowly incorporate the wet ingredients to the dry. Follow the rest of the directions from #4 on. 
 
 ## [Homemade Bread Recipe - Tastes Better from Scratch](https://tastesbetterfromscratch.com/bread-recipe/ "Homemade Bread Recipe - Tastes Better from Scratch")
@@ -127,4 +144,16 @@ https://sallysbakingaddiction.com/sandwich-bread/
 |        | salt                       | 1¼ t   |
 |--------|----------------------------|--------|
 
+## https://www.allrecipes.com/recipe/6813/white-bread-for-the-bread-machine/
 
+| Recipe | Ingredient                 | amount | vs. have used |
+|--------|----------------------------|--------|---------------|
+|        | water (warmed to 110° )    | 1 c    | 1 c           |
+|        | granulated sugar           | 3 T    | 4 T honey     |
+|        | vegetable oil              | 3 T    | 1 T           |
+|        | salt                       | 1½ t   | 1 t           |
+|        | all-purpose flour          | 3 c    | 2-2¾          |
+|        | dry yeast (not rapid rise) | 2¼ t   | 1½            |
+|--------|----------------------------|--------|---------------|
+
+tried: 12/13/24

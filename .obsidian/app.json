@@ -34,5 +34,6 @@
   },
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
-  "newFileFolderPath": "pages"
+  "newFileFolderPath": "pages",
+  "spellcheck": false
 }

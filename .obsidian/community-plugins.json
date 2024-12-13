@@ -7,5 +7,6 @@
   "janitor",
   "open-with",
   "find-unlinked-files",
-  "obsidian-plugin-todo"
+  "obsidian-plugin-todo",
+  "obsidian-git"
 ]
