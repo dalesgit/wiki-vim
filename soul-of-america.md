@@ -41,4 +41,5 @@ The progressive promise
 	- keep history in mind
 - please unsubscrìbe thanks
 - https://www.amazon.com/Please-Unsubscribe-Thanks-Attention-Designed/dp/1668009544
+- how we decide. Re advertising. https://www.amazon.com/How-We-Decide-Jonah-Lehrer/dp/0547247990?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A35Y7LA67KMK6S from Jim
 - 

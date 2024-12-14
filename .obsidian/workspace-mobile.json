@@ -11,10 +11,15 @@
             "id": "03fc70ca941642a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "soul-of-america.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "soul-of-america"
             }
           }
         ]
@@ -179,10 +184,10 @@
   },
   "active": "03fc70ca941642a0",
   "lastOpenFiles": [
+    "journal/2024-12-13.md",
     "simple-sample-voice.md",
     "files without tags.md",
     "soul-of-america.md",
-    "journal/2024-12-13.md",
     "/Christmas Cards 24.md",
     "Christmas Cards 24.md",
     "Table Bread recipes.md",
