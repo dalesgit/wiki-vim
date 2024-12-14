@@ -22,7 +22,9 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:insert-table"
+    "editor:insert-table",
+    "editor:swap-line-up",
+    "editor:swap-line-down"
   ],
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {

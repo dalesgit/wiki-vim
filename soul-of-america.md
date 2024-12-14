@@ -29,3 +29,16 @@ The progressive promise
 | 77  | Recording | Teddy Roosevelt on "working man" cf. Roshinges mit maundlin |
 
 <https://www.loc.gov/collections/theodore-roosevelt-films/articles-and-essays/sound-recordings-of-theodore-roosevelts-voice/>
+
+## conclusion
+
+- history revises our take on president's, e.g. LBJ
+- cautions going forward
+	- enter the arena
+	- resist tribalism
+	- Respect facts and deploy reason
+	- find a critical balance
+	- keep history in mind
+- please unsubscrìbe thanks
+- https://www.amazon.com/Please-Unsubscribe-Thanks-Attention-Designed/dp/1668009544
+- 
