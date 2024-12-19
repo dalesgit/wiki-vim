@@ -238,6 +238,8 @@ The following are the options set with -a that can also be set one by one:
 
 ## declaring wiki_root in nvim
 
+[[journal/2024-12-18.md]]
+
 It appears most things are working now in nvim with wiki.vim plugin
 
-I had to hard set it in .local/share/nvim/lazy/wiki.vim/plugin/wiki.vim
+I had to hard wire set it in .local/share/nvim/lazy/wiki.vim/plugin/wiki.vim
