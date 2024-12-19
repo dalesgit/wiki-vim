@@ -17,27 +17,35 @@ tags:
 
 ## Searching the sky - what are you looking for?
 
-Directees?
+- Directees? 
+- Radical witness
+- Meaning
 
 ## Recognizing the star - discernment: God‘s love is active here
 
-I'm feeling nudged in the direction of the **kataphatic**. Just bought collection of Charles Williams and George MacDonald. The notion that God is at work in the world about us. Connection to Ignatian?
+- I'm feeling nudged in the direction of the **kataphatic**. Just bought collection of Charles Williams and George MacDonald. The notion that God is at work in the world about us. Connection to Ignatian?
+- Marva Dawn from church book : it’s not so much **God is love** as who is the **authority**? Who’s in charge. Basilea. 
+- 
 
 ## Setting out on the journey – time for change: clean out and pack?
 
-We are going on a cruise. My longing would be that we would be moving to New Zealand.
+- We are going on a cruise. My longing would be that we would be moving to New Zealand.
 
 ## Following the star – naming your truth
 
-My/Our world has tilted since election day.
+- My/Our world has tilted since election day.
 
 ## Identifying and bringing gifts – self reflection
 
-Gifts: lyric, Renaissance man (not specialist) e.g. Larry has become quite adept at his **Bonsai**
+- Gifts: lyric, Renaissance man (not specialist) e.g. Larry has become quite adept at his **Bonsai**
 
 ## Finding Christ – enter the new place and find the Lord ones awaiting your gift
 
+- Beginning to be called on for SD
+- Ending respect for St Alfred’s 
+
 ## Laying down gifts – freedom, on attachment
+- Begin letting go re trajectory of my life
 
 ## Return changed journey has altered your life
 

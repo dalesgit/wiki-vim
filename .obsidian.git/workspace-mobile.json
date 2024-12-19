@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "soul-of-america.md",
-                "mode": "source",
+                "file": "2024-12-19.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "soul-of-america"
+              "title": "2024-12-19"
             }
           }
         ]
@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:spirituality",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -83,7 +83,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9edeb81d1e071b38",
@@ -95,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2024-12-19.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,6 +146,9 @@
   },
   "active": "ee6c94758be8f440",
   "lastOpenFiles": [
+    "pages/Epiphany journal.md",
+    "2024-12-19.md",
+    "soul-of-america.md",
     "journal/2024-12-13.md",
     "Gratitude Journal.md",
     "Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
@@ -175,9 +179,6 @@
     "Mary Jean commital.md",
     "denver-mary-jean.md",
     "1729858425-contemplative-summit-schedule.md",
-    "Journal Thu 26 Sep 2024.md",
-    "pages/A man with no country-2.md",
-    "pages/want-to-fight-donald-trump-and-elon-musk.md",
     "pages/vimrc-beelink-9-2024",
     "pages",
     "assets/winners-losers/Screenshot 2024-10-27 6.53.35 AM.png",
