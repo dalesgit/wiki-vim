@@ -1,0 +1,471 @@
+"----------------------------------------------------------------------------"
+" Basic setup
+"----------------------------------------------------------------------------"
+set nocompatible   " Don't try to be vi compatible
+filetype off   " Helps force plugins to load correctly when it is turned back on below
+syntax on    " Turn on syntax highlighting
+filetype plugin indent on   " For plugins to load correctly
+set modelines=0     " Security
+" set number    " Show line numbers
+set nonumber    " Hide line numbers
+set ruler  " Show file stats
+set visualbell   " Blink cursor on error instead of beeping (grr)
+set encoding=utf-8  " Encoding
+"
+" set wrap  " Whitespace
+" set textwidth=79
+"
+" set formatoptions=tcqrn1
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+set noshiftround
+set linebreak " Wraps text at the end of a word. ...
+" You must turn off list which displays whitespace characters as text.
+set linebreak
+set nolist
+set spell
+set scrolloff=3   " Cursor motion
+set backspace=indent,eol,start
+set matchpairs+=<:> " use % to jump between pairs
+set hidden   " Allow hidden buffers
+set ttyfast   " Rendering
+set laststatus=2   " Status bar
+set showmode   " Last line
+set showcmd
+"
+" Searching
+"nnoremap / /\v
+"vnoremap / /\v
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set showmatch
+"
+""----------------------------------------------------------------------------"
+" Mapping 
+"----------------------------------------------------------------------------"
+ " TODO: Pick a leader key
+let mapleader = "/"
+nnoremap j gj:w
+
+nnoremap k gk
+"
+" for remapping esc key to "jk"
+" [set timeoutlen=500 inoremap jj
+" &lt;Esc&gt;](https://www.baeldung.com/linux/vim-switch-back-normal-mode-options#:~:text=The%20Ctrl%2D%5B%20combination%20is,far%20from%20the%20home%20row.
+" "Other Ways to Exit Insert Mode Besides Escape in Vim | Baeldung on Linux")
+" Should I change this? Is this what has caused the delay?
+" cf. https://vi.stackexchange.com/questions/24925/usage-of-timeoutlen-and-ttimeoutlen
+" set timeoutlen=500
+" nmap jk <Esc>
+inoremap kj <Esc>
+"
+"
+" shortcut to Nerdtree
+"map <C-n> :NERDTreeToggle<CR>
+map <C-r> :Ranger<CR>
+"
+" let g:vim_markdown_edit_url_in = 'tab'
+let g:vim_markdown_edit_url_in = 'vsplit'
+"let g:vim_markdown_edit_url_in = 'hsplit'
+"
+" for moving lines up or down with ctrl and cursor key up/down
+" https://stackoverflow.com/questions/741814/move-entire-line-up-and-down-in-vim
+nmap <C-UP> :m-2<CR>  
+nmap <C-DOWN> :m+1<CR>
+"
+" for cut paste? this doesn't seem to work
+vnoremap <C-c> "+y
+vnoremap <C-v> "+p
+"
+
+nmap gm :LivedownToggle<CR>
+"---
+" insert date/time
+"
+" nnoremap <F5> "=strftime("%c")<CR>P
+nmap <F3> i<C-R>=strftime(" %d %b %Y %a %I:%M %p")<CR><Esc>
+"nmap <F3> i<C-R>=strftime("%Y-%m-%d %a %I:%M %p")<CR><Esc>
+imap <F3> <C-R>=strftime(" %d %b %Y %a %I:%M %p")<CR>
+"nnoremap <F5> "=strftime(" %a %d %b %Y")<CR>P
+" inoremap <F5> "=strftime(" %a %d %b %Y")<CR>P
+"inoremap <F5> <C-R>=strftime("%c")<CR>
+"inoremap <leader>D :put =strftime('# %a %Y-%m-%d %H:%M:%S%z')<CR>
+"
+
+" nnoremap q :qall!<cr>
+"
+""----------------------------------------------------------------------------"
+" Digraphs"
+" vim to turn 3 periods into ellipsis:
+" https://www.reddit.com/r/vim/comments/sub2y8/using_imap_to_replace_three_periods_with_ellipsis/ (digraphs cf. :h :digraphs
+inoreabbrev ... <C-K>.,
+	
+""----------------------------------------------------------------------------"
+" Plugins
+"----------------------------------------------------------------------------"
+
+call plug#begin()
+"
+"
+Plug 'wolandark/NotePad-Vim'
+"
+Plug 'ericbn/vim-solarized'
+"
+Plug 'junegunn/goyo.vim'
+"
+" cf. https://github.com/junegunn/vim-plug
+Plug 'junegunn/limelight.vim'
+" auto pairs https://github.com/tmsvg/pear-tree/blob/master/plugin/pear-tree.vim
+Plug 'tmsvg/pear-tree'
+"
+" is below better? see below for effort to customize
+"Plug 'jiangmiao/auto-pairs'
+"Plug 'LunarWatcher/auto-pairs'
+"
+" to add wiki highlighting?
+Plug 'lervag/wiki-ft.vim'
+"
+" Plug 'bpstahlman/txtfmt'
+Plug 'tpope/vim-surround'
+"
+" footnotes in markdown
+"
+" vim-plug
+Plug 'vim-pandoc/vim-markdownfootnotes'
+"
+" for aligning tables
+" [Align GitHub-Flavored Markdown Tables in Vim](https://thoughtbot.com/blog/align-github-flavored-markdown-tables-in-vim "Align GitHub-Flavored Markdown Tables in Vim")
+" see leader bslash setup below
+" Plug 'junegunn/vim-easy-align'
+Plug 'dhruvasagar/vim-table-mode'
+"
+Plug 'francoiscabrol/ranger.vim'   " ranger integration
+"
+Plug 'lervag/wiki.vim'
+Plug 'lervag/lists.vim'
+"
+" cf. https://github.com/dyng/ctrlsf.vim
+" for directions on how to run ctrlsf
+" to get this working I install ack, silversearcher-ag, and ripgrep
+" concise directions at https://github.com/dyng/ctrlsf.vim/blob/master/doc/ctrlsf.txt
+Plug 'dyng/ctrlsf.vim'
+Plug 'itchyny/calendar.vim'
+"Plug 'mattn/calendar-vim'
+"
+" Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+" Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' }
+Plug 'shime/vim-livedown'
+" ----------
+" https://github.com/preservim/vim-markdown
+Plug 'godlygeek/tabular'
+Plug 'preservim/vim-markdown'" Make sure you use single quotes
+"Plug 'jalvesaq/zotcite'
+" Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
+"Plug 'junegunn/vim-easy-align'
+
+" Any valid git URL is allowed
+"Plug 'https://github.com/junegunn/vim-github-dashboard.git'
+
+" Multiple Plug commands can be written in a single line using | separators
+"Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+
+" On-demand loading
+" Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' }
+"Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
+
+" Using a non-default branch
+"Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
+
+" Using a tagged release; wildcard allowed (requires git 1.9.2 or above)
+"Plug 'fatih/vim-go', { 'tag': '*' }
+
+" Plugin options
+"Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }
+
+" Plugin outside ~/.vim/plugged with post-update hook
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+
+" Unmanaged plugin (manually installed and updated)
+"Plug '~/my-prototype-plugin'
+
+" Initialize plugin system
+" - Automatically executes `filetype plugin indent on` and `syntax enable`.
+"
+call plug#end()
+"
+"
+""----------------------------------------------------------------------------"
+" Plugin Options
+"----------------------------------------------------------------------------"
+"
+"----------------------------------------------------------------------------"
+" for Goyo / Limelight
+" Color name (:help cterm-colors) or ANSI code
+let g:limelight_conceal_ctermfg = 'gray'
+let g:limelight_conceal_ctermfg = 240
+
+" Color name (:help gui-colors) or RGB color
+let g:limelight_conceal_guifg = 'DarkGray'
+let g:limelight_conceal_guifg = '#777777'
+
+" Default: 0.5
+let g:limelight_default_coefficient = 0.7
+
+" Number of preceding/following paragraphs to include (default: 0)
+let g:limelight_paragraph_span = 1
+
+" Beginning/end of paragraph
+"   When there's no empty line between the paragraphs
+"   and each paragraph starts with indentation
+let g:limelight_bop = '^\s'
+let g:limelight_eop = '\ze\n^\s'
+autocmd! User GoyoEnter Limelight
+autocmd! User GoyoLeave Limelight!
+"----------------------------------------------------------------------------"
+
+" Highlighting priority (default: 10)
+"   Set it to -1 not to overrule hlsearch
+let g:limelight_priority = -1
+
+
+
+" easy align
+" Align GitHub-flavored Markdown tables
+" au FileType markdown vmap <Leader><Bslash> :EasyAlign*<Bar><Enter>
+" below is for ease of use https://github.com/dhruvasagar/vim-table-mode
+"
+function! s:isAtStartOfLine(mapping)
+  let text_before_cursor = getline('.')[0 : col('.')-1]
+  let mapping_pattern = '\V' . escape(a:mapping, '\')
+  let comment_pattern = '\V' . escape(substitute(&l:commentstring, '%s.*$', '', ''), '\')
+  return (text_before_cursor =~? '^' . ('\v(' . comment_pattern . '\v)?') . '\s*\v' . mapping_pattern . '\v$')
+endfunction
+
+inoreabbrev <expr> <bar><bar>
+          \ <SID>isAtStartOfLine('\|\|') ?
+          \ '<c-o>:TableModeEnable<cr><bar><space><bar><left><left>' : '<bar><bar>'
+inoreabbrev <expr> __
+          \ <SID>isAtStartOfLine('__') ?
+          \ '<c-o>:silent! TableModeDisable<cr>' : '__'
+" -------------------------------------------------------------------------------------
+"
+" You can revert the settings after the call like so:
+"   filetype indent off   " Disable file-type-specific indentation
+"   syntax off            " Disable syntax highlighting
+"
+" -------------------------------------------------------------------------------------
+" Wiki-vim stuff
+"
+" lervag/wiki.vim section This is hard linked method (docs)
+let g:wiki_root = '~/Repositories/wiki-vim'
+"let g:wiki_root = '~/Repositories/wiki-vim'
+"
+" Below is relative method -- searching for folder 'wiki'
+" requires that I start from a folder that will find a 'wiki'
+" e.g. repo9
+"    function! WikiRoot()
+"      let l:local = finddir('wiki', ';./')
+"      return !empty(l:local) ? l:local : '~/wiki'
+"    endfunction
+"
+"    let g:wiki_root = 'WikiRoot'
+"
+" calendar inegration doesn't seem to work
+let g:calendar_diary=$HOME.'~/Repositories/wiki-vim/'
+augroup init_calendar
+autocmd!
+autocmd FileType calendar
+\ nnoremap <silent><buffer> <cr>
+\ :<c-u>call wiki#journal#open()<cr>
+augroup END
+augroup END
+"
+"
+" below is from the docs
+" but is different from the default cf. docs
+"    let g:wiki_journal = {
+"          \ 'date_format': {
+"          \   'daily' : '%Y/%m/%d',
+"          \   'weekly' : '%Y/week_%V',
+"          \   'monthly' : '%Y/%m/summary',
+"          \ },
+"          \}
+"   Default: >vim
+" 
+"    let g:wiki_journal = {
+"          \ 'name': '',
+"          \ 'root': '',
+"          \ 'frequency': 'daily',
+"          \ 'date_format': {
+"          \   'daily' : '%Y-%m-%d',
+"          \   'weekly' : '%Y_w%V',
+"          \   'monthly' : '%Y_m%m',
+"          \ },
+"          \}
+"
+" ------------------------------------
+" all below was set up for wiki-vim -- now trying defaults
+"
+"function! CustomUserFunc(ctx, text) abort
+"    return a:ctx.name . ': ' . substitute(a:text, 'An old', 'A new', '')
+"endfunction
+"
+"    function! TemplateFallback(context)
+"      call append(0, '---' )
+"      call append(1, 'title: ' . a:context.name )
+"      call append(2, 'date: ' . a:context.date )
+"      call append(3, 'tags: ' )
+"      call append(4, '---' )
+"      call append(5, '# ' . a:context.name )
+"    endfunction
+"
+"    let g:wiki_templates = [
+"          \ { 'match_re': 'index',
+"          \   'source_filename': '~/Repositories//wiki-vim/templates/template.md'},
+"           \ { 'match_re': 'Journal',
+"          \   'source_filename': '~/Repositories//wiki-vim/templates/journaltemplate.md'},
+"         \ { 'match_re': 'blog',
+"          \   'source_filename': '~/Repositories//wiki-vim/templates/blogtemplate.md'},
+"          \ { 'match_re': '2024',
+"          \   'source_filename': '~/Repositories//wiki-vim/templates/diarytemplate.md'},
+"          \ { 'match_func': {x -> v:true},
+"          \   'source_func': function('TemplateFallback')},
+"          \]
+let g:wiki_templates = [
+         \ { 'match_re': 'blog',
+          \   'source_filename': '~/Repositories//wiki-vim/templates/blogtemplate.md'},
+           \ { 'match_re': 'Journal',
+          \   'source_filename': '~/Repositories//wiki-vim/templates/journaltemplate.md'}, 
+          \ { 'match_re': '2024',
+          \   'source_filename': '~/Repositories//wiki-vim/templates/diarytemplate.md'},
+          \]
+
+"
+" ------------------------
+"
+let g:wiki_mappings_local = {
+          \ '<plug>(wiki-pages)' : '<c-g>',
+          \ 'x_<plug>(wiki-pages)' : '<c-g>',
+          \ '<plug>(wiki-journal-prev)' : '<leader>p',
+          \ '<plug>(wiki-journal-next)' : '<leader>n',
+          \}
+"
+"set foldlevelstart=99
+set foldlevelstart=1	
+
+"
+" set wiki.vim link types
+"
+let g:wiki_link_creation = {
+          \ 'md': {
+          \   'link_type': 'wiki',
+          \   'url_extension': '.md',
+          \ },
+          \}
+" 
+" 
+" per https://github.com/lervag/wiki-ft.vim/blob/master/doc/wiki-ft.txt
+"let g:wiki_loaded = 0
+" works in nvim
+" inoremap <c-b> ****<left><left>
+"
+"" -------------------------------------------------------------------------------------
+""
+" for Ctrlsf
+" or 'cwd' (current working directory) or 'project'
+map <C-M-f> :CtrlSF
+let g:ctrlsf_default_root = ''
+let g:ctrlsf_default_view_mode = 'compact'
+    let g:ctrlsf_backend = 'ag'
+"
+" as suggested in the repository
+" for info re. mapping https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
+nmap     <C-S>f <Plug>CtrlSFPrompt
+vmap     <C-S>f <Plug>CtrlSFVwordPath
+vmap     <C-S>F <Plug>CtrlSFVwordExec
+nmap     <C-S>n <Plug>CtrlSFCwordPath
+nmap     <C-S>p <Plug>CtrlSFPwordPath
+nnoremap <C-S>o :CtrlSFOpen<CR>
+nnoremap <C-S>t :CtrlSFToggle<CR>
+inoremap <C-S>t <Esc>:CtrlSFToggle<CR>
+"
+""" -------------------------------------------------------------------------------------
+" for zotcite highlighting
+" https://raw.githubusercontent.com/jalvesaq/zotcite/master/doc/zotcite.txt
+"autocmd FileType wiki.vim source /path/to/zotcite/after/syntax/markdown.vim
+" also: https://www.google.com/search?q=how+tell+what+syntax+vim+is+using&rlz=1CAVKUG_enUS1102US1102&oq=how+tell+what+syntax+vim+is+using&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExMTUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+"
+let zotcite_filetypes = ['markdown', 'mkd', 'pandoc', 'rmd', 'vimwiki']
+autocmd FileType vimwiki source /home/dale/.vim/plugged/zotcite/after/syntax/markdown.vim
+let zotcite_conceallevel = 3
+""
+""" -------------------------------------------------------------------------------------
+" pdfs"
+" functions for file extension '.pdf'.
+function! NFH_pdf(f)
+    execute '!zathura' a:f
+endfunction
+"
+" -------------------------------------------------------------------------------------
+" pear_tree_pairs"
+" the workaround that allowed for customization
+"let g:AutoPairs={'(':')', '[':']', '{':'}',"'":"'",'"':'"', '':'', '<':'>','**':'**','*':'*'}
+"let g:AutoPairs={'(':')', '[':']', '{':'}',"'":"'",'"':'"', '':'', '<':'>'}
+"let g:autopairs['<'] = '>'
+"let g:AutoPairs['**']='**'
+" for pear-tree
+" just type "_" or "____" to get markdown italics/bold
+let g:pear_tree_pairs = {
+            \ '(': {'closer': ')'},
+            \ '[': {'closer': ']'},
+            \ '{': {'closer': '}'},
+            \ "'": {'closer': "'"},
+            \ '"': {'closer': '"'},
+            \ '_': {'closer': '_'},
+            \ '__': {'closer': '__'},
+            \ '<sup>': {'closer': '</sup>'},	
+            \ }
+"
+"----------------------------------------------------------------------------"
+" Other
+"----------------------------------------------------------------------------"
+
+""----------------------------------------------------------------------------"
+" Colorscheme
+"----------------------------------------------------------------------------"
+" Color scheme (terminal)
+" notepad
+set background=light
+
+if &term =~ '256color'
+	if has('termguicolors')
+		let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+		let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+		set termguicolors
+		colorscheme note
+	endif
+endif
+"
+set termguicolors
+set t_Co=256
+"
+"
+"set background=dark
+let g:solarized_termcolors=256
+let g:solarized_termtrans=1
+" put https://raw.github.com/altercation/vim-colors-solarized/master/colors/solarized.vim
+" in ~/.vim/colors/ and uncomment:
+"colorscheme solarized
+"colorscheme default
+colorscheme evening
+" for how to open markdown links
+" https://stackoverflow.com/questions/64837484/follow-local-file-link-in-vim-with-markdown-syntax
+"
+let g:limelight_conceal_ctermfg = 245  " Solarized Base1
+let g:limelight_conceal_guifg = '#8a8a8a'  " Solarized Base1
+set guifont=Source_Code_Pro\ 18
+
