@@ -12,7 +12,7 @@ REM Thu FROM Jan 09 2025 UNTIL Mar 29 2025 +2 MSG SD Module 2 AT 11:30 AM %b%
 REM Jan 14 2025 +2 MSG Retired clergy & spouses lunch AT 12:00 PM %b%
 REM Jan 15 2025 +2 MSG Karen SD    AT 11:00 AM %b%
 REM Jan 17 2025 +2 MSG Linda SD DH   AT 10:30 AM %b%
-REM Feb 01 2025 +2 MSG Pacific cruise    AT All day %b%
+REM Mar 04 2025 +2 MSG Pacific cruise begins    AT All day %b%
 REM Feb 11 2025 +2 MSG Folino cleaning    AT 1:00 PM %b%
 REM Feb 18 2025 +2 MSG Kalani     AT 3:00 PM %b%
 REM Feb 27 2025 +2 MSG Victoria dermatologist    AT 3:30 PM %b%
@@ -26,7 +26,7 @@ REM Aug 28 2025 +2 MSG Wild Goose Festival   AT All day %b%
 REM Dec 18 2024 +2 MSG Zach meet at church AT 10AM %b%
 REM Dec 16 2024 +2 MSG Dianne for lunch AT 12PM %b%
 REM Aug 28 2025 +2 MSG Wild Goose Festival %b%
-REM Dec 20 2024 +2 SPECIAL COLOR 255 0 255 MSG Zach AT 3pm church %b%
+REM Dec 20 2024 +2 MSG Zach AT 3pm church %b%
 REM Dec 20 2024 +2 MSG LA Fitness AT 10am %b%
 REM Dec 20 2024 +2 MSG Haircut Sonina AT 12:30 PM %b% 
 REM Fri Dec +2 MSG Happy Hour with Benford's AT 5:30 PM %b% 
@@ -35,3 +35,6 @@ REM Dec 23 2024 +2 MSG Amy, Patch, Sean, Jolene arrive AT All Day %b%
 REM Dec 30 2024 +2 MSG Hathaway Family Phone Call AT 05:30 PM %b% 
 REM Dec 31 2024 +2 MSG Vascular ultrasound Dr. Kalani AT 11:30 AM %b% 
 REM Thu Jan 2025 +2 MSG Healing Mass AT noon %b%
+REM FROM Jan 4 2025 UNTIL Jan 5 2025 +2 MSG Dale Celebrating %b%
+REM FROM Feb 15 2025 UNTIL Feb 16 2025 +2 MSG Dale Celebrating %b%
+REM Dec 19 2025 +2 MSG Dr. Aaron Davis (DH eyedoctor) AT 9:15 AM %b%
