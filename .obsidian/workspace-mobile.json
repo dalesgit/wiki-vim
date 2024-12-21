@@ -11,10 +11,15 @@
             "id": "cd771f51db6c04c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Table Bread recipes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Table Bread recipes"
             }
           }
         ]
@@ -125,12 +130,36 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "fd105e169997b216",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "c7cc305727edcd47",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

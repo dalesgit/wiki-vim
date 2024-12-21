@@ -156,4 +156,5 @@ https://sallysbakingaddiction.com/sandwich-bread/
 |        | dry yeast (not rapid rise) | 2¼ t   | 1½            |
 |--------|----------------------------|--------|---------------|
 
-tried: 12/13/24
+tried: 12/13/24: I added a half dozen or so tablespoons flour in the first knead. Used honey instead of sugar.
+12/22/24: made with 3 + ca 1/4 cup flour. Then still added ca. 6 T in the kneading.
