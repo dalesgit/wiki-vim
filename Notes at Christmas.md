@@ -14,7 +14,7 @@ The attached file contains the information you need to begin using this gift. My
 
 I've sent you an email with your Christmas gift attached as a "pdf."
 
-Dear Miriam, Lee, and family and friends,
+Dear *Miriam*, Lee, and family and friends,
 
 The attached file contains the information you need to begin using this gift. My thought was that you would be able to be creative and perhaps enjoy it multiple times in the next year. Maybe it's a complete bust, but I hope not and my best wishes and Mele Kalikimaka are sincere.
 
