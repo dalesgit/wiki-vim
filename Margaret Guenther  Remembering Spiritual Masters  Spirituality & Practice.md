@@ -1,8 +1,16 @@
 ---
+id: Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice
+aliases: []
+tags:
+  - aging
+  - contemplation
+  - prayers
+  - rule-of-life
+  - spiritual-direction
+  - theology
+  - walking
 created: 2024-08-27T22:09:55 (UTC -04:00)
-tags: [aging,contemplation,prayers,rule-of-life,spiritual-direction,theology,walking]
 source: https://www.spiritualityandpractice.com/explorations/teachers/view/53/margaret-guenther
-author: 
 ---
 - 
 @Guen cf. 
