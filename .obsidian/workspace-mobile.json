@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-01-04.md",
-                "mode": "source",
+                "file": "Book of occasional services.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-04"
+              "title": "Book of occasional services"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2025-01-04.md",
+            "file": "Book of occasional services.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +193,11 @@
   },
   "active": "90a3fe653d65431d",
   "lastOpenFiles": [
+    "Prayers.md",
+    "Book of occasional services.md",
+    "journal/2025-01-04.md",
     "Untitled.canvas",
     "templates/Write template.md",
-    "journal/2025-01-04.md",
     "templates/y-diarytemplate.md",
     "Table Bread recipes.md",
     "Untitled.md"
