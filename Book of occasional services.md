@@ -33,17 +33,17 @@ May Christ, who by his Incarnation gathered into one things earthly and heavenly
 
 *For use from the feast of the Epiphany through the following Sunday; and on the Second Sunday after the Epiphany in Year C.* 
 
-May Almighty God, who led the Wise Men by the shining of a star to find the Christ, the Light from Light, lead you also,  in your pilgrimage, to find the Lord. Amen. 
+May Almighty God, who led the Wise Men by the shining of a star to find the Christ, the Light from Light, lead you also,  in your pilgrimage, to find the Lord. **Amen**. 
 
-May God, who sent the Holy Spirit to rest upon the Only- begotten at his baptism in the Jordan River, pour out that Spirit on you who have come to the waters of new birth. Amen. 
+May God, who sent the Holy Spirit to rest upon the Only- begotten at his baptism in the Jordan River, pour out that Spirit on you who have come to the waters of new birth. **Amen**. 
 
-May God, by the power that turned water into wine at the wedding feast at Cana, transform your lives and make glad your hearts. Amen. 
+May God, by the power that turned water into wine at the wedding feast at Cana, transform your lives and make glad your hearts. **Amen**. 
 
-And the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be upon you and remain with you for ever. Amen. 
+And the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be upon you and remain with you for ever. **Amen**. 
 
-or this 
+*or this* 
 
-May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. Amen. 
+May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**. 
 
 ### Lent 
 
