@@ -142,5 +142,5 @@ I began an 18 month program of certification for Spiritual Direction.
 ### What are you doing to care for yourself physically, emotionally, and spiritually? Is there something I should know? 
 
 ### How are you exercising your ministry? Are you doing something new or different? 
-
 ###  Is there anything else that you would like to tell me? How can I support you? 
+
