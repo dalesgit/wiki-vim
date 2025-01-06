@@ -4,6 +4,8 @@ date: 2024-07-12
 tags:
 ---
 
+<!-- markdownlint-disable -->
+
 # David Brooks
 
 [Trump's appeal.md](Trump's appeal.md) He often seems shallow and overly partisan. Here he is trying to look at the big picture and he gets much right. He is reviewing James Hunter _Democracy & Solidarity_
@@ -22,3 +24,5 @@ tags:
 
 [1729103739-tote-bag.md](1729103739-tote-bag.md)
 [Testing markdown](Testing markdown.md)
+
+[technical.md](technical.md) re. getting markdownlint-disable https://docs.gitlab.com/ee/development/documentation/testing/markdownlint.html#:~:text=To%20disable%20all%20markdownlint%20rules,the%20tag%2C%20for%20example%20%3C!
