@@ -1,11 +1,12 @@
 ---
 title: David Brooks
 date: 2024-07-12
-tags: 
+tags:
 ---
+
 # David Brooks
 
-[Trump's appeal.md](Trump's appeal.md) He often seems shallow and overly partisan. Here he is trying to look at the big picture and he gets much right. He is reviewing James Hunter *Democracy & Solidarity*
+[Trump's appeal.md](Trump's appeal.md) He often seems shallow and overly partisan. Here he is trying to look at the big picture and he gets much right. He is reviewing James Hunter _Democracy & Solidarity_
 
 - The loss of a **common narrative**
 - the emergence of a nation caught between **Enlightenment** and Religious covenantism (Winthrop's Light on a hill)
@@ -18,3 +19,6 @@ tags:
 
 [1729085067-VUVE.md](1729085067-VUVE.md)
 [1728505907-organization.md](1728505907-organization.md)
+
+[1729103739-tote-bag.md](1729103739-tote-bag.md)
+[Testing markdown](Testing markdown.md)
