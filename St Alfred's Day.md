@@ -1,12 +1,12 @@
 ---
-id: St Alfred's Day
 aliases: []
+id: St Alfred's Day
 tags: []
 ---
 
-**King Alfred the Great, King of Wessex**
+# **King Alfred the Great, King of Wessex**
 
-Alfred the Great's Feast Day is celebrated on October 26th.
+## Alfred the Great's Feast Day is celebrated on October 26th.
 
 King Alfred, who lived from 849-899, was the son of the ruling king of Wessex, one of the small kingdoms that eventually became England. He had three older brothers so it was never anticipated that Alfred would ever be king, except that he lived during the time when the Vikings were invading the island.His father was killed while defending the kingdom, and his three brothers ruled successively, and were killed as well.Alfred came to the throne in 871, and in 875, beat back an attack on England from the Danes.After their loss, the Danes attacked again in 876, 877 and 878, when Alfred finally defeated them.As part of their peace agreement with Alfred, the Dane's leader, Guthrum, agreed to be baptized. Alfred stood as his Godfather.
 
@@ -16,9 +16,6 @@ Alfred earned the title "the Great" by his multiple contributions to English l
 
 > Sovereign Lord, you brought your servant Alfred to a troubled throne that he might establish peace in a ravaged land and revive learning and the arts among the people:Awake in us also a keen desire to increase our understanding while we are in this world, and an eager longing to reach that endless life where all will be made clear; through Jesus Christ out Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. **Amen**.
 
----
-
 ## Matriarchs
 
 - Sarah & Hagar - Rebeccah - Rachel & Bilchah - Leah & Zilpah
-
