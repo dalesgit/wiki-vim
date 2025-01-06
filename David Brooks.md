@@ -13,8 +13,8 @@ tags:
 - tension between John Dewey and Reinhold Niehbuhr
 - the tension died with MLK Jr.
 - He gives it away, however, by use of the term **identity politics** as the thing that our tribes have in common. He gives it away because the phrase is a cudgel that the reactionary politicians use. What he means is something like **tribalism**. That makes it more like a tautology.
-- It is something that the tribes hold in common. A "shared sense of right and wrong"? What is it that both sides can look to? 
-- It seems to me it might be something like RFK's focus on "poverty". cf. the movie **The best of enemies**. As parents we want to protect our children ... 
--
+- It is something that the tribes hold in common. A "shared sense of right and wrong"? What is it that both sides can look to?
+- It seems to me it might be something like RFK's focus on "poverty". cf. the movie **The best of enemies**. As parents we want to protect our children ...
 
- 
+[1729085067-VUVE.md](1729085067-VUVE.md)
+[1728505907-organization.md](1728505907-organization.md)
