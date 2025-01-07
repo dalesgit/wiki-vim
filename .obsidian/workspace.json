@@ -11,10 +11,15 @@
             "id": "0a2af90afde12efc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1728505907-organization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1728505907-organization"
             }
           }
         ]
@@ -245,6 +250,7 @@
   },
   "active": "0a2af90afde12efc",
   "lastOpenFiles": [
+    "pages/guest room.md",
     "psalm-summer.md",
     "journal/2025-01-06.md",
     "Book of occasional services.md",
@@ -270,7 +276,6 @@
     "Christmas gifts 24.md",
     "pages/Prep Spiritual direction tomorrow-bak.md",
     "journal/2024-12-05.md",
-    "pages/Prep Spiritual direction tomorrow.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
