@@ -4,6 +4,7 @@
 [[Prayer list]]
 
 [[Wesley prayer]] 
+[[Book of occasional services]]
 
 ## Benedictus Dominic
 

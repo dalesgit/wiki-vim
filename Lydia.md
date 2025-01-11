@@ -7,6 +7,12 @@ title: Lydia
 ---
 # Lydia
 
+## 2024-12-28 say
+
+I thought this morning that I should have asked Lydia to tell me plainly why she was so angry.
+
+## Stuck?
+
 Is she *stuck* emotionally? Why wouldn't she be in Bridget's clutches.
 
 ## 2024-10-08 Tue

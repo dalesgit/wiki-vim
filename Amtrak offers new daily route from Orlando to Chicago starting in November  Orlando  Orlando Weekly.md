@@ -8,6 +8,7 @@ author: Kendal Asbury
 # Amtrak offers new daily route from Orlando to Chicago starting in November | Orlando | Orlando Weekly
 
 > ## Excerpt
+>
 > All aboard! Amtrak is set to launch a new route that will offer daily trips between Orlando and Chicago.
 
 ---
@@ -44,4 +45,3 @@ While rent prices have started to stabilize in the Orlando area, they're still h
 ***[Subscribe to Orlando Weekly newsletters.](https://www.orlandoweekly.com/orlando/NewsletterSignup/Page)***
 
 ***Follow us: [Apple News](https://apple.news/TvED6otrDR9OFO33_r61W_g) | [Google News](https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFVzl5YkdGdVpHOTNaV1ZyYkhrdVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen) | [NewsBreak](https://www.newsbreak.com/@c/1599445?s=01) | [Reddit](https://www.reddit.com/r/OrlandoWeekly/) | [Instagram](https://instagram.com/orlandoweekly/) | [Facebook](https://www.facebook.com/orlandoweekly) | [Twitter](https://twitter.com/orlandoweekly) | or sign up for our [RSS Feed](https://www.orlandoweekly.com/orlando/syndication)***
-

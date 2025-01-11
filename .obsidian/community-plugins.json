@@ -1,12 +1,11 @@
 [
   "obsidian-outliner",
   "calendar",
-  "obsidian-zotero-desktop-connector",
   "table-editor-obsidian",
-  "obsidian-extract-pdf-highlights",
   "janitor",
   "open-with",
   "find-unlinked-files",
   "obsidian-plugin-todo",
-  "obsidian-git"
+  "obsidian-git",
+  "music-code-blocks"
 ]
