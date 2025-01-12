@@ -3,26 +3,43 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-## Psalm 72:1-7,10-14
-*Deus, judicium*
+Psalm 29
+Afferte Domino
 
-1 Give the King your justice, O **God**, *
-and your righteousness to the **King's Son**;
+1 Ascribe to the Lord, you gods, *
+ascribe to the Lord glory and strength.
 
-2 That he may rule your people **righteously** *
-and the poor with **justice**;
+2 Ascribe to the Lord the glory due his Name; *
+worship the Lord in the beauty of holiness.
 
-3 That the mountains may bring prosperity to the **people**, *
-and the little hills bring **righteousness**.
+3 The voice of the Lord is upon the waters;
+the God of glory thunders; *
+the Lord is upon the mighty waters.
 
-4 He shall defend the needy among the **people**; *
-he shall rescue the poor and crush the op**pressor**.
+4 The voice of the Lord is a powerful voice; *
+the voice of the Lord is a voice of splendor.
 
-5 He shall live as long as the sun and moon en**dure**, *
-from one generation to a**nother**.
+5 The voice of the Lord breaks the cedar trees; *
+the Lord breaks the cedars of Lebanon;
 
-6 He shall come down like rain upon the mown **field**, *
-like showers that water the **earth**.
+6 He makes Lebanon skip like a calf, *
+and Mount Hermon like a young wild ox.
+
+7 The voice of the Lord splits the flames of fire;
+the voice of the Lord shakes the wilderness; *
+the Lord shakes the wilderness of Kadesh.
+
+8 The voice of the Lord makes the oak trees writhe *
+and strips the forests bare.
+
+9 And in the temple of the Lord *
+all are crying, "Glory!"
+
+10 The Lord sits enthroned above the flood; *
+the Lord sits enthroned as King for evermore.
+
+11 The Lord shall give strength to his people; *
+the Lord shall give his people the blessing of peace.
 
 ```music-abc
 X: 1
@@ -36,20 +53,4 @@ V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
 
-7 In his time shall the righteous **flourish**; *
-there shall be abundance of peace till the moon shall be no **more**.
 
-10 The kings of Tarshish and of the isles shall pay **tribute**, *
-and the kings of Arabia and Saba offer **gifts**.
-
-11 All kings shall bow down be**fore him**, *
-and all the nations do him **service**.
-
-12 For he shall deliver the poor who cries out in di**stress**, *
-and the oppressed who has no **helper**.
-
-13 He shall have pity on the lowly and **poor**; *
-he shall preserve the lives of the **needy**.
-
-14 He shall redeem their lives from oppression and **violence**, *
-and dear shall their blood be in his **sight**.
