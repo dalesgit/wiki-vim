@@ -1,6 +1,3 @@
-DO /home/dale/Repositories/wiki-vim/reminders.rem
-DO /home/dale/Repositories/wiki-vim/reminders-cal.rem
-DO /home/dale/Repositories/wiki-vim/reminders-bd.rem
 SET Week_2 8
 SET Week_3 15
 REM Jan 1 MSG Remind every year on new years day
@@ -33,17 +30,13 @@ REM SUN Nov 1 ++2 MSG Daylight Saving Time ends in the USA %b%
 ;fset sunup (sunrise())  
 ;MSG Sun is up today from [_srtd()] to [_sstd()].%"%"%
 ;MSG Sun is up today from [_srtd()]%2%  to [_sstd()].%"%"%
-;MSG Next full moon: [mon(moondate(2))] [day(moondate(2))], [year(moondate(2))].
+MSG Next full moon: [mon(moondate(2))] [day(moondate(2))], [year(moondate(2))].
 ;MSG Next ? moon: [mon(moondate(1))] [day(moondate(1))], [year(moondate(1))].%"%"%
-; MSG Next new moon: [mon(moondate(0))] [day(moondate(0))], [year(moondate(0))].%"%"%
-REM [moondate(0)] SPECIAL MOON 0 -1 -1 [moontime(0)]
-REM [moondate(0)] SPECIAL MOON 1 -1 -1 [moontime(1)]
-REM [moondate(0)] SPECIAL MOON 2 -1 -1 [moontime(2)]
-REM [moondate(0)] SPECIAL MOON 3 -1 -1 [moontime(3)]
+MSG Next new moon: [mon(moondate(0))] [day(moondate(0))], [year(moondate(0))].%"%"%
 REM Sun Nov 24 MSG MP and I lead Forum
 ;REM Easter: [mon(easterdate(2025))] [day(easterdate(2025))], [year(easterdate(2025))] MSG Easter Sunday
 ;REM Good Friday: [mon(easterdate(2025)-2)] [day(easterdate(2025)-2)], [year(easterdate(2025)-2)] MSG Good Friday
 ;REM  [trigger(easterdate()-2)] MSG Good Friday
 REM Nov 28 2024 +14 AT 10:00  MSG DH celebrate and preach %b
 REM Nov 28 2024 +14 MSG Turkey dinner at church %b
-REM Nov 27 2024 +3 AT 10:45 MSG Humphrey follow-up %b
+REM Nov 27 2024 +3 AT 10:45 MSG Humphrey follow-up
