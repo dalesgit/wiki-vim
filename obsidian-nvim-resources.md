@@ -1,5 +1,5 @@
 ---
-id: 1728424872-WJNX
+id: obsidian-nvim-resources
 aliases:
   - obsidian-nvim
 tags: []

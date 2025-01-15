@@ -1,7 +1,9 @@
 ---
+id: Angelus
+aliases: []
+tags: []
+date: "2024-08-12"
 title: Angelus
-date: 2024-08-12
-tags: 
 ---
 # Angelus
 ---
@@ -14,6 +16,7 @@ author:
 # Angelus | USCCB 
 
 [prayer.md](prayer.md)
+
 
 ---
 

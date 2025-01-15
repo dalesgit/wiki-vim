@@ -578,7 +578,6 @@
 - [[1728573366-preaching.md]]
 - [[1728506319-ongoing.md]]
 - [[1728505907-organization.md]]
-- [[1728424872-WJNX.md]]
+- [[obsidian-nvim-resources.md]]
 - [[1728419213-DQVG.md]]
 - [[12 key decisions.md]]
-- [[10 Strength Drills To Tell if You’re in Good Shape After 50.md]]
