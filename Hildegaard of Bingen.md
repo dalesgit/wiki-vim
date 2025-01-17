@@ -1,7 +1,9 @@
 ---
+id: Hildegaard of Bingen
+aliases: []
+tags: []
+date: "2024-08-11"
 title: Hildegaard of Bingen
-date: 2024-08-11
-tags: 
 ---
 # Hildegaard of Bingen
 
