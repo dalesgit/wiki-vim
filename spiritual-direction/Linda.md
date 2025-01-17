@@ -20,3 +20,12 @@ I have chosen a cup. Now to choose a time/place. Smith, 2019, page 12
 
 [[2024_m09]] [[SD session  27 Sep 2024.md]]
 
+## [[/journal/2025-01-17.md]] 
+
+- [[/journal/2024_m12.md]]
+- [[/journal/2025_m01.md]]
+- [[/journal/2024_w51.md]]  
+- [[/journal/2024_w52.md]] 
+- [[/journal/2025_w01.md]]
+- [[/journal/2025_w02.md]] 
+
