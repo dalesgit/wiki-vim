@@ -1,10 +1,4 @@
 ---
-id: Annual Clergy Report - Formstack
-aliases: []
-tags: []
----
-cf. spreadsheet <https://docs.google.com/document/d/1e9uw34AG7kkBesUcD5p02SNWDRbyta_NYE3KTQrCX74/edit?usp=sharing>
-
 title:: "Annual Clergy Report - Formstack"
 source:: "<https://episcopalhawaii.jotform.com/team/dsc-office/annual-clergy-report>"
 author::
@@ -12,6 +6,11 @@ published::
 created:: 2025-01-05
 description:: "Please click the link to complete this form."
 tags:: clippings
+---
+
+- cf. spreadsheet <https://docs.google.com/document/d/1e9uw34AG7kkBesUcD5p02SNWDRbyta_NYE3KTQrCX74/edit?usp=sharing>
+- cf. table at https://docs.google.com/document/d/1e9uw34AG7kkBesUcD5p02SNWDRbyta_NYE3KTQrCX74/edit?usp=sharing
+
 
 - # Annual Clergy Report
 
@@ -164,10 +163,20 @@ Enter type and number of times.
 
 ### Please list your continuing education (workshops attended, books read, etc) during the past year
 
-I began an 18 month program of certification for Spiritual Direction.
+In September I began a 9 month program of certification for Spiritual Direction, sponsored by the Charlotte Spirituality Center. The program is intentionally structured to include only clergy who have, of necessity, already much of the theological and pastoral formation that might be expected in other training programs. We meet weekly for 2 hours, discussing the reading assignments, presentations and case-studies. I have gained several persons as directees from the various programs I am involved in at our church, notably the Centering Prayer group that Mary Pat (my wife) inaugurated last year and facilitates.
+
+I have been a regular attendee at weekly and monthly discussion groups at church. These groups have read *The Universal Christ*, *Grounded*, *The Holy Longing*, *Touch the Wounds: On Suffering, Trust, and Transformation*, *The Soul of America*, *Sacred Fire*. On a number of occasions I have been asked to facilitate these discussions.
 
 ### What are you doing to care for yourself physically, emotionally, and spiritually? Is there something I should know?
 
+I continue to be in spiritual direction (a requirement for the training program). I exercise regularly and keep current with my appointments with physicians, dentists, etc. 
+
 ### How are you exercising your ministry? Are you doing something new or different?
 
+I continue to do ministry under the general oversight of our parish priest. This is a condition of my licensing with the bishop of Southwest Florida. The rector arranges the liturgical calendar such that (when he is not out of town) he is always present at the altar. Overlaid with that is generally scheduling one of the 5 retired clergy to either celebrate of preach. I have been one of two of us that he depends on when there are various situations where he is not able to be present at either the Sunday services or the regularly scheduled weekday services.
+
 ### Is there anything else that you would like to tell me? How can I support you?
+
+The big event we have scheduled in 2025 is a Pacific cruise that will have us flying from Honolulu to Aukland, and then by way of cruise ship making our way to back to Seattle. We arrive in Honolulu on March 4 and then on toward Aukland on March 16. On our way across the ocean, we will again be in Hawai'i from April 17-20. 
+
+Having been with my oldest granddaughter at her wedding this past June, there may well be other visits with family, which is spread from Oregon, Arizona, New Mexico, Colorado, and Indiana. 
