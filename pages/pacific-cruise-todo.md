@@ -7,7 +7,7 @@ tags: []
 
 # pacific-cruise-todo
 
-- [ ] visa & electronic
-- [ ] packing 
+- [ ] [pacific-cruise-viza-electronic](pacific-cruise-viza-electronic.md) 
+- [ ] [pacific-cruise-packing](pacific-cruise-packing.md) 
 - [ ] 
 
