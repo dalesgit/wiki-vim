@@ -1,3 +1,9 @@
+---
+id: pacific-cruise-itinerary
+aliases: []
+tags: []
+---
+
  Pacific Cruise 2025
 
 DEPARTURE
@@ -10,7 +16,7 @@ DEPARTURE
 * Apr 27, 2025 at 7am Seattle, Washington, US
 * March 16 Departs 5pm DAY 1 - AUCKLAND, NEW ZEALAND
 * March 17 In Port - 8am to 5pm DAY 2 - TAURANGA (ROTORUA), NEW ZEALAND
-* DAY 3 - NAPIER, NEW ZEALAND March 18 In Port - 12am to 6pm
+* March 18 - NAPIER, NEW ZEALAND March 18 In Port - 12am to 6pm
 * March 19 In Port - 10am to 6pm DAY 4 - WELLINGTON, NEW ZEALAND
 * March 20 In Port - 8am to 5pm DAY 5 - PICTON, NEW ZEALAND
 * March 21 In Port - 8am to 5pm DAY 6 - LYTTELTON (CHRISTCHURCH), NEW ZEALAND
@@ -22,7 +28,7 @@ DEPARTURE
 * March 27 DAY 12 - AT SEA
 * March 28 In Port - 8am to 5pm DAY 13 - MELBOURNE, AUSTRALIA
 * March 29 DAY 14 - AT SEA
-* DAY 15 - SYDNEY, AUSTRALIA https://www.hollandamerica.com/sf/itinerary?date=1732668544952
+* March 30   SYDNEY, AUSTRALIA https://www.hollandamerica.com/sf/itinerary?date=1732668544952
 * March 30 In Port - 7am to 6:45pm PLANNED ACTIVITIES:
 * March 31 DAY 16 - AT SEA
 * April 1 DAY 17 - AT SEA
