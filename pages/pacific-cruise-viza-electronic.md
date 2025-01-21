@@ -38,6 +38,7 @@ https://nz-eta.info/registration/ this is maybe correct
 
 The site specifies however that it is a professional service that works throu
 
+verification of payment failed. 1/23 . Temporary app id required to complete the application: NZ2569622IDB
 
 
 ## Travel info
