@@ -30,7 +30,7 @@ Arrive Australia March 26
 Application completed 1/23/25. Results should be in 4 days. ca. $230 
 ### New Zealand
 
-NZTeTA required for NZ.:> [!WARNING] I'm not sure that the first form below I was working with was going to work because it didn't allow for submitting a phone.
+NZTeTA required for NZ.:> [!WARNING] I'm not sure that the first form below I was working with was going to work because it didn't allow for submitting a photo.
 
 https://new-zealand-eta-service.org/nzeta/application-form/?applicant=TlpFVEEtMjQ2ODM3MA==
 
@@ -40,13 +40,17 @@ The site specifies however that it is a professional service that works throu
 
 verification of payment failed. 1/23 . Temporary app id required to complete the application: NZ2569622IDB
 
+I'm thinking I may have been foolish to have chased the online applications. Going through the app on the phone felt like it did with the Australian application. I have submitted pictures and vital personal information. I hope it doesn't betray me. Tue Jan 21 07:12:15 PM EST 2025 (":.!date") :technical: #technical
 
 ## Travel info
 Booking Number
 
 2Q3LDN
+
 Stateroom Type
+
 C
+
 Stateroom Number
 
 1075
