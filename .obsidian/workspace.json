@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4101026346da60df",
+        "id": "8d4a9f19442af3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "9a71d7c671aa45c4",
+            "id": "5e9a7dcc196a62a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/pacific-cruise-itinerary-temperature.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "pacific-cruise-itinerary-temperature"
+              "title": "New tab"
             }
           }
         ]
@@ -278,8 +273,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a71d7c671aa45c4",
+  "active": "5e9a7dcc196a62a7",
   "lastOpenFiles": [
+    "journal/2025-01-22.md",
+    "journal/2025-01-23.md",
+    "journal/2025-01-24.md",
+    "pages/pacific-cruise-itinerary-temperature.md",
     "assets/pacific-cruise-itinerary-temperature.pdf",
     "journal/2025-01-21.md",
     "journal/2025-01-19.md",
@@ -305,9 +304,6 @@
     "journal/2024-12-13.md",
     "journal/2024-12-14.md",
     "journal/2024-12-15.md",
-    "journal/2024-12-16.md",
-    "journal/2024-12-18.md",
-    "technical.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
@@ -318,7 +314,6 @@
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "SG_Grounded2.pdf",
-    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
     "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
