@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src data:; style-src 'unsafe-inline' data:">
+		<title>Zotero Report</title>
+		<link rel="stylesheet" type="text/css" href="data:text/css;base64,Ym9keSB7Cgljb2xvci1zY2hlbWU6IGxpZ2h0IGRhcms7CgkvKiBUaGVzZSBzaG91bGQgYmUgdGhlIGRlZmF1bHRzLCBidXQganVzdCBpbiBjYXNlOiAqLwoJYmFja2dyb3VuZDogQ2FudmFzOwoJY29sb3I6IENhbnZhc1RleHQ7Cn0KCmEgewoJdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7Cn0KCmJvZHkgewoJcGFkZGluZzogMDsKfQoKdWwucmVwb3J0IGxpLml0ZW0gewoJYm9yZGVyLXRvcDogNHB4IHNvbGlkICM1NTU7CglwYWRkaW5nLXRvcDogMWVtOwoJcGFkZGluZy1sZWZ0OiAxZW07CglwYWRkaW5nLXJpZ2h0OiAxZW07CgltYXJnaW4tYm90dG9tOiAyZW07Cn0KCmgxLCBoMiwgaDMsIGg0LCBoNSwgaDYgewoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKaDIgewoJbWFyZ2luOiAwIDAgLjVlbTsKfQoKaDIucGFyZW50SXRlbSB7Cglmb250LXdlaWdodDogNjAwOwoJZm9udC1zaXplOiAxZW07CglwYWRkaW5nOiAwIDAgLjVlbTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwp9CgovKiBJZiBjb21iaW5pbmcgY2hpbGRyZW4sIGRpc3BsYXkgcGFyZW50IHNsaWdodGx5IGxhcmdlciAqLwp1bC5yZXBvcnQuY29tYmluZUNoaWxkSXRlbXMgaDIucGFyZW50SXRlbSB7Cglmb250LXNpemU6IDEuMWVtOwoJcGFkZGluZy1ib3R0b206IC43NWVtOwoJbWFyZ2luLWJvdHRvbTogLjRlbTsKfQoKaDIucGFyZW50SXRlbSAudGl0bGUgewoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKaDMgewoJbWFyZ2luLWJvdHRvbTogLjZlbTsKCWZvbnQtd2VpZ2h0OiA2MDAgIWltcG9ydGFudDsKCWZvbnQtc2l6ZTogMWVtOwoJZGlzcGxheTogYmxvY2s7Cn0KCi8qIE1ldGFkYXRhIHRhYmxlICovCnRoIHsKCXZlcnRpY2FsLWFsaWduOiB0b3A7Cgl0ZXh0LWFsaWduOiByaWdodDsKCXdpZHRoOiAxNSU7Cgl3aGl0ZS1zcGFjZTogbm93cmFwOwp9Cgp0ZCB7CglwYWRkaW5nLWxlZnQ6IC41ZW07Cn0KCgp1bC5yZXBvcnQsIHVsLm5vdGVzLCB1bC50YWdzIHsKCWxpc3Qtc3R5bGU6IG5vbmU7CgltYXJnaW4tbGVmdDogMDsKCXBhZGRpbmctbGVmdDogMDsKfQoKLyogVGFncyAqLwpoMy50YWdzIHsKCWZvbnQtc2l6ZTogMS4xZW07Cn0KCnVsLnRhZ3MgewoJbGluZS1oZWlnaHQ6IDEuNzVlbTsKCWxpc3Qtc3R5bGU6IG5vbmU7Cn0KCnVsLnRhZ3MgbGkgewoJZGlzcGxheTogaW5saW5lOwp9Cgp1bC50YWdzIGxpOm5vdCg6bGFzdC1jaGlsZCk6YWZ0ZXIgewoJY29udGVudDogJywgJzsKfQoKCi8qIENoaWxkIG5vdGVzICovCmgzLm5vdGVzIHsKCWZvbnQtc2l6ZTogMS4xZW07Cn0KCnVsLm5vdGVzIHsKCW1hcmdpbi1ib3R0b206IDEuMmVtOwp9Cgp1bC5ub3RlcyA+IGxpOmZpcnN0LWNoaWxkIHAgewoJbWFyZ2luLXRvcDogMDsKfQoKdWwubm90ZXMgPiBsaSB7CglwYWRkaW5nOiAuN2VtIDA7Cn0KCnVsLm5vdGVzID4gbGk6bm90KDpsYXN0LWNoaWxkKSB7Cglib3JkZXItYm90dG9tOiAxcHggI2NjYyBzb2xpZDsKfQoKCnVsLm5vdGVzID4gbGkgcDpmaXJzdC1jaGlsZCB7CgltYXJnaW4tdG9wOiAwOwp9Cgp1bC5ub3RlcyA+IGxpIHA6bGFzdC1jaGlsZCB7CgltYXJnaW4tYm90dG9tOiAwOwp9CgovKiBBZGQgcXVvdGF0aW9uIG1hcmtzIGFyb3VuZCBibG9ja3F1b3RlICovCnVsLm5vdGVzID4gbGkgYmxvY2txdW90ZSBwOm5vdCg6ZW1wdHkpOmJlZm9yZSwKbGkubm90ZSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6YmVmb3JlIHsKCWNvbnRlbnQ6ICfigJwnOwp9Cgp1bC5ub3RlcyA+IGxpIGJsb2NrcXVvdGUgcDpub3QoOmVtcHR5KTpsYXN0LWNoaWxkOmFmdGVyLApsaS5ub3RlIGJsb2NrcXVvdGUgcDpub3QoOmVtcHR5KTpsYXN0LWNoaWxkOmFmdGVyIHsKCWNvbnRlbnQ6ICfigJ0nOwp9CgovKiBQcmVzZXJ2ZSB3aGl0ZXNwYWNlIG9uIHBsYWludGV4dCBub3RlcyAqLwp1bC5ub3RlcyBsaSBwLnBsYWludGV4dCwgbGkubm90ZSBwLnBsYWludGV4dCwgZGl2Lm5vdGUgcC5wbGFpbnRleHQgewoJd2hpdGUtc3BhY2U6IHByZS13cmFwOwp9CgovKiBEaXNwbGF5IHRhZ3Mgd2l0aGluIGNoaWxkIG5vdGVzIGlubGluZSAqLwp1bC5ub3RlcyBoMy50YWdzIHsKCWRpc3BsYXk6IGlubGluZTsKCWZvbnQtc2l6ZTogMWVtOwp9Cgp1bC5ub3RlcyBoMy50YWdzOmFmdGVyIHsKCWNvbnRlbnQ6ICcgJzsKfQoKdWwubm90ZXMgdWwudGFncyB7CglkaXNwbGF5OiBpbmxpbmU7Cn0KCnVsLm5vdGVzIHVsLnRhZ3MgbGk6bm90KDpsYXN0LWNoaWxkKTphZnRlciB7Cgljb250ZW50OiAnLCAnOwp9CgoKLyogQ2hpbGQgYXR0YWNobWVudHMgKi8KaDMuYXR0YWNobWVudHMgewoJZm9udC1zaXplOiAxLjFlbTsKfQoKdWwuYXR0YWNobWVudHMgbGkgewoJcGFkZGluZy10b3A6IC41ZW07Cn0KCnVsLmF0dGFjaG1lbnRzIGRpdi5ub3RlIHsKCW1hcmdpbi1sZWZ0OiAyZW07Cn0KCnVsLmF0dGFjaG1lbnRzIGRpdi5ub3RlIHA6Zmlyc3QtY2hpbGQgewoJbWFyZ2luLXRvcDogLjc1ZW07Cn0KCmRpdiB0YWJsZSB7Cglib3JkZXItY29sbGFwc2U6IGNvbGxhcHNlOwp9CgpkaXYgdGFibGUgdGQsIGRpdiB0YWJsZSB0aCB7Cglib3JkZXI6IDFweCAjY2NjIHNvbGlkOwoJYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsKCXdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQoKZGl2IHRhYmxlIHRkIHA6ZW1wdHk6OmFmdGVyLCBkaXYgdGFibGUgdGggcDplbXB0eTo6YWZ0ZXIgewoJY29udGVudDogIlwwMGEwIjsKfQoKZGl2IHRhYmxlIHRkICo6Zmlyc3QtY2hpbGQsIGRpdiB0YWJsZSB0aCAqOmZpcnN0LWNoaWxkIHsKCW1hcmdpbi10b3A6IDA7Cn0KCmRpdiB0YWJsZSB0ZCAqOmxhc3QtY2hpbGQsIGRpdiB0YWJsZSB0aCAqOmxhc3QtY2hpbGQgewoJbWFyZ2luLWJvdHRvbTogMDsKfQo=">
+		<link rel="stylesheet" type="text/css" media="screen,projection" href="data:text/css;base64,LyogR2VuZXJpYyBzdHlsZXMgKi8KYm9keSB7Cglmb250OiA2Mi41JSBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cgl3aWR0aDogNzgwcHg7CgltYXJnaW46IDAgYXV0bzsKfQoKaDIgewoJZm9udC1zaXplOiAxLjVlbTsKCWxpbmUtaGVpZ2h0OiAxLjVlbTsKCWZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cn0KCnAgewoJbGluZS1oZWlnaHQ6IDEuNWVtOwp9CgphOmFueS1saW5rIHsKCWNvbG9yOiAjOTAwOwp9CgphOmhvdmVyLCBhOmFjdGl2ZSB7Cgljb2xvcjogIzc3NzsKfQoKQG1lZGlhIChwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykgewoJYTphbnktbGluayB7CgkJY29sb3I6ICNmMDA7Cgl9CgoJYTpob3ZlciwgYTphY3RpdmUgewoJCWNvbG9yOiAjOTk5OwoJfQp9CgoKdWwucmVwb3J0IHsKCWZvbnQtc2l6ZTogMS40ZW07Cgl3aWR0aDogNjgwcHg7CgltYXJnaW46IDAgYXV0bzsKCXBhZGRpbmc6IDIwcHggMjBweDsKfQoKLyogTWV0YWRhdGEgdGFibGUgKi8KdGFibGUgewoJYm9yZGVyOiAxcHggI2NjYyBzb2xpZDsKCW92ZXJmbG93OiBhdXRvOwoJd2lkdGg6IDEwMCU7CgltYXJnaW46IC4xZW0gYXV0byAuNzVlbTsKCXBhZGRpbmc6IDAuNWVtOwp9Cg==">
+		<link rel="stylesheet" type="text/css" media="print" href="data:text/css;base64,Ym9keSB7Cglmb250OiAxMnB0ICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgR2VvcmdpYSwgc2VyaWY7CgltYXJnaW46IDA7Cgl3aWR0aDogYXV0bzsKfQoKLyogUGFnZSBCcmVha3MgKHBhZ2UtYnJlYWstaW5zaWRlIG9ubHkgcmVjb2duaXplZCBieSBPcGVyYSkgKi8KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7CglwYWdlLWJyZWFrLWFmdGVyOiBhdm9pZDsKCXBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsKfQoKdWwsIG9sLCBkbCB7CglwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Cgljb2xvci1hZGp1c3Q6IGV4YWN0Owp9CgpoMiB7Cglmb250LXNpemU6IDEuM2VtOwoJbGluZS1oZWlnaHQ6IDEuM2VtOwp9CgphIHsKCWNvbG9yOiBpbmhlcml0OwoJdGV4dC1kZWNvcmF0aW9uOiBub25lOwp9Cg==">
+	</head>
+	<body>
+		<ul class="report combineChildItems">
+			<li id="item_UK9MJSAC" class="item journalArticle">
+			<h2>A NATIVE HAWAIIAN WAY OF PEACEMAKING</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Manu Meyer</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>contrasting indigenous approach with "mediation"</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Zotero</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/25/2025, 6:23:47 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/25/2025, 6:28:55 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_FR28EKSE" class="item journalArticle">
+			<h2>Ancient Values, New Challenges: Indigenous Spiritual Perceptions of Landscapes and Forest Management</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>John L. Lewis</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Stephen R.J. Sheppard</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>The spiritual values of indigenous peoples represent a 
+challenge for forest managers to understand and integrate in their 
+management activities. This article reports on the results of research 
+with the Cheam First Nation of British Columbia to explore their 
+spiritual perceptions of forested landscapes. Cheam conceptions of 
+spirituality are deeply rooted in ancient narratives and myths that 
+describe the land as a gift from the Creator for the material and 
+spiritual benefit of the Cheam people and their human and nonhuman 
+neighbors. Cheam participants emphasized the need for respectful land 
+use, and described general landscape conditions consistent with such 
+use. Particular forest-based spiritual activities require careful 
+treatment of key landscape conditions around sacred sites, to ensure the
+ continued viability of traditions still important in contemporary Cheam
+ life. With further research, tangible indicators of culturally 
+appropriate and respectful forest use could be developed into guidelines
+ for forest management to protect spiritual values.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>11/2005</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Ancient Values, New Challenges</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>DOI.org (Crossref)</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://www.tandfonline.com/doi/abs/10.1080/08941920500205533">http://www.tandfonline.com/doi/abs/10.1080/08941920500205533</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:49 PM</td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>18</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>907-920</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Society &amp; Natural Resources</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1080/08941920500205533">10.1080/08941920500205533</a></td>
+					</tr>
+					<tr>
+					<th>Issue</th>
+						<td>10</td>
+					</tr>
+					<tr>
+					<th>Journal Abbr</th>
+						<td>Society &amp; Natural Resources</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>0894-1920, 1521-0723</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/25/2025, 6:19:37 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>visualization</li>
+					<li>perceptions</li>
+					<li>spirituality</li>
+				</ul>
+				<h3 class="related">Related</h3>
+				<ul class="related">
+					<li id="item_BEFH4YM5">Knowledge</li>
+				</ul>
+			</li>
+
+
+			<li id="item_6XDYVJTX" class="item book">
+			<h2>Earth Prayers: 365 Prayers, Poems, and Invocations from Around the World</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Book</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Elizabeth Roberts</td>
+					</tr>
+					<tr>
+						<th class="contributor">Contributor</th>
+						<td>Elias Amidon</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2009</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>eng</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Earth Prayers</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>K10plus ISBN</td>
+					</tr>
+					<tr>
+					<th>Place</th>
+						<td>Bielefeld</td>
+					</tr>
+					<tr>
+					<th>Publisher</th>
+						<td>HarperCollins Publishers</td>
+					</tr>
+					<tr>
+					<th>ISBN</th>
+						<td>978-0-06-250746-4 978-0-06-204821-9</td>
+					</tr>
+					<tr>
+					<th>Edition</th>
+						<td>1st ed</td>
+					</tr>
+					<tr>
+					<th># of Pages</th>
+						<td>1</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/25/2025, 7:10:42 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/25/2025, 7:10:42 AM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_KD5Y6ITN">
+<div><div data-citation-items="%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F979977%2Fitems%2F7DLI46GW%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F979977%2Fitems%2F7DLI46GW%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22For%20Indigenous%20peoples%20working%20inside%20institutions%20it%20is%20important%20to%20work%20in%20ways%20that%20support%20decolonizing%20the%20mind%20and%20spirit.%20It%20is%20important%20to%20find%20ways%20of%20creating%2C%20interrogating%2C%20validating%2C%20and%20disseminating%20knowledges.%20Telling%20stories%20is%20a%20practice%20in%20Indigenous%20cultures%20which%20has%20sustained%20communities%20and%20which%20validates%20the%20experiences%20of%20Indigenous%20peoples%20and%20epistemologies.%20This%20paper%20explores%20the%20importance%20of%20inclusion%20of%20Indigenous%20knowledges%20in%20academic%20settings%20through%20three%20stories%20about%3A%20(1)%20academic%20insistence%20that%20knowledge%20is%20outside%20the%20self%2C%20(2)%20backlash%20to%20Indigenous%20practices%20in%20academe%2C%20and%20(3)%20intergenerational%20impacts%20of%20experiences%20of%20suppression%20in%20education.%20The%20stories%20help%20us%20critique%20theoretical%20conceptions%20of%20what%20constitutes%20%E2%80%98valid%E2%80%99%20knowledge%20and%20understand%20struggles%20for%20survival%20and%20resistance%20to%20domination%20in%20educational%20institutions.%20The%20paper%20explores%20responses%20to%20dominant%20societies'%20suppression%20of%20Indigenous%20knowledges%20in%20academic%20settings%20and%20broader%20society%20through%20acts%20of%20resistance%2C%20storytelling%2C%20living%20spiritual%20resistance%2C%20writing%20as%20survival%20strategies%2C%20and%20resistance%20within%20education.%20This%20paper%20explores%20ways%20that%20Indigenous%20knowledges%20are%20honored%2C%20affirmed%2C%20and%20shared.%22%2C%22container-title%22%3A%22Journal%20of%20Intercultural%20Studies%22%2C%22DOI%22%3A%2210.1080%2F0725686032000172579%22%2C%22ISSN%22%3A%220725-6868%2C%201469-9540%22%2C%22issue%22%3A%223%22%2C%22journalAbbreviation%22%3A%22Journal%20of%20Intercultural%20Studies%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%22211-238%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Living%20and%20writing%20indigenous%20spiritual%20resistance%22%2C%22URL%22%3A%22http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F0725686032000172579%22%2C%22volume%22%3A%2224%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Iseke-Barnes%22%2C%22given%22%3A%22Judy%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222025%22%2C1%2C24%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222003%22%2C12%5D%5D%7D%2C%22citation-key%22%3A%22iseke-barnesLivingWritingIndigenous2003%22%7D%7D%5D" data-schema-version="9"><p><strong>Indigenous knowledge</strong>: explore a search on Google Scholar on this.</p>
+<p>Sarah is learning eastern and western epistemology. What it brought to mind for me was <strong>spirituality. </strong></p>
+<p>Writing about <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F979977%2Fitems%2F7DLI46GW%22%5D%2C%22itemData%22%3A%7B%22id%22%3A699%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22For%20Indigenous%20peoples%20working%20inside%20institutions%20it%20is%20important%20to%20work%20in%20ways%20that%20support%20decolonizing%20the%20mind%20and%20spirit.%20It%20is%20important%20to%20find%20ways%20of%20creating%2C%20interrogating%2C%20validating%2C%20and%20disseminating%20knowledges.%20Telling%20stories%20is%20a%20practice%20in%20Indigenous%20cultures%20which%20has%20sustained%20communities%20and%20which%20validates%20the%20experiences%20of%20Indigenous%20peoples%20and%20epistemologies.%20This%20paper%20explores%20the%20importance%20of%20inclusion%20of%20Indigenous%20knowledges%20in%20academic%20settings%20through%20three%20stories%20about%3A%20(1)%20academic%20insistence%20that%20knowledge%20is%20outside%20the%20self%2C%20(2)%20backlash%20to%20Indigenous%20practices%20in%20academe%2C%20and%20(3)%20intergenerational%20impacts%20of%20experiences%20of%20suppression%20in%20education.%20The%20stories%20help%20us%20critique%20theoretical%20conceptions%20of%20what%20constitutes%20%E2%80%98valid%E2%80%99%20knowledge%20and%20understand%20struggles%20for%20survival%20and%20resistance%20to%20domination%20in%20educational%20institutions.%20The%20paper%20explores%20responses%20to%20dominant%20societies'%20suppression%20of%20Indigenous%20knowledges%20in%20academic%20settings%20and%20broader%20society%20through%20acts%20of%20resistance%2C%20storytelling%2C%20living%20spiritual%20resistance%2C%20writing%20as%20survival%20strategies%2C%20and%20resistance%20within%20education.%20This%20paper%20explores%20ways%20that%20Indigenous%20knowledges%20are%20honored%2C%20affirmed%2C%20and%20shared.%22%2C%22container-title%22%3A%22Journal%20of%20Intercultural%20Studies%22%2C%22DOI%22%3A%2210.1080%2F0725686032000172579%22%2C%22ISSN%22%3A%220725-6868%2C%201469-9540%22%2C%22issue%22%3A%223%22%2C%22journalAbbreviation%22%3A%22Journal%20of%20Intercultural%20Studies%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%22211-238%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Living%20and%20writing%20indigenous%20spiritual%20resistance%22%2C%22volume%22%3A%2224%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Iseke-Barnes%22%2C%22given%22%3A%22Judy%22%7D%5D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222003%22%2C12%5D%5D%7D%2C%22citation-key%22%3A%22iseke-barnesLivingWritingIndigenous2003%22%7D%7D%5D%2C%22properties%22%3A%7B%7D%7D">(<span class="citation-item">Iseke-Barnes, 2003</span>)</span></p>
+<p><a href="zotero://note/u/PCV2B5PT/" rel="noopener noreferrer nofollow">Peace Ho’o’ponopono</a> is an example of healing/</p>
+<p></p>
+</div></div>
+					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_X4JAI5X4" class="item book">
+			<h2>In the Beginning Was the Spirit: Science, Religion, and Indigenous Spirituality</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Book</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Diarmuid O'Murchu</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2012</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>In the Beginning Was the Spirit</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Google Scholar</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=hjUBFWFEF_QC&amp;oi=fnd&amp;pg=PA1&amp;dq=indigenous+spirituality&amp;ots=T6_ESeODJE&amp;sig=p4VHQtGW-TDI96Z9jVe4bNhrW7A">https://books.google.com/books?hl=en&amp;lr=&amp;id=hjUBFWFEF_QC&amp;oi=fnd&amp;pg=PA1&amp;dq=indigenous+spirituality&amp;ots=T6_ESeODJE&amp;sig=p4VHQtGW-TDI96Z9jVe4bNhrW7A</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:48 PM</td>
+					</tr>
+					<tr>
+					<th>Publisher</th>
+						<td>Orbis Books</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_37S8Q9AV" class="item journalArticle">
+			<h2>Indigenous spirituality as a source for peaceful relations</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Four Arrows</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2010</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Google Scholar</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=G_0nDwAAQBAJ&amp;oi=fnd&amp;pg=PA133&amp;dq=indigenous+spirituality&amp;ots=FWml9TlaOr&amp;sig=K106YwQvqYmejtDgKyy6TNNjv3U">https://books.google.com/books?hl=en&amp;lr=&amp;id=G_0nDwAAQBAJ&amp;oi=fnd&amp;pg=PA133&amp;dq=indigenous+spirituality&amp;ots=FWml9TlaOr&amp;sig=K106YwQvqYmejtDgKyy6TNNjv3U</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:51 PM</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>Publisher: IAP-Information Age Publ</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>133–146</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Spirituality, religion, and peace education</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_7DLI46GW" class="item journalArticle">
+			<h2>Living and writing indigenous spiritual resistance</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Judy Iseke-Barnes</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>For Indigenous peoples working inside institutions it is 
+important to work in ways that support decolonizing the mind and spirit.
+ It is important to find ways of creating, interrogating, validating, 
+and disseminating knowledges. Telling stories is a practice in 
+Indigenous cultures which has sustained communities and which validates 
+the experiences of Indigenous peoples and epistemologies. This paper 
+explores the importance of inclusion of Indigenous knowledges in 
+academic settings through three stories about: (1) academic insistence 
+that knowledge is outside the self, (2) backlash to Indigenous practices
+ in academe, and (3) intergenerational impacts of experiences of 
+suppression in education. The stories help us critique theoretical 
+conceptions of what constitutes ‘valid’ knowledge and understand 
+struggles for survival and resistance to domination in educational 
+institutions. The paper explores responses to dominant societies' 
+suppression of Indigenous knowledges in academic settings and broader 
+society through acts of resistance, storytelling, living spiritual 
+resistance, writing as survival strategies, and resistance within 
+education. This paper explores ways that Indigenous knowledges are 
+honored, affirmed, and shared.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>12/2003</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>DOI.org (Crossref)</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://www.tandfonline.com/doi/full/10.1080/0725686032000172579">http://www.tandfonline.com/doi/full/10.1080/0725686032000172579</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:55 PM</td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>24</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>211-238</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Intercultural Studies</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1080/0725686032000172579">10.1080/0725686032000172579</a></td>
+					</tr>
+					<tr>
+					<th>Issue</th>
+						<td>3</td>
+					</tr>
+					<tr>
+					<th>Journal Abbr</th>
+						<td>Journal of Intercultural Studies</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>0725-6868, 1469-9540</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/25/2025, 6:44:16 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_MZEUABTD">
+<div><div data-schema-version="9"><p>Abstract of paper: </p>
+<p><span style="color: rgb(51, 51, 51)">For Indigenous peoples working 
+inside institutions it is important to work in ways that support 
+decolonizing the mind and spirit. It is important to find ways of 
+creating, interrogating, validating, and disseminating knowledges. 
+Telling stories is a practice in Indigenous cultures which has sustained
+ communities and which validates the experiences of Indigenous peoples 
+and epistemologies. This paper explores the importance of inclusion of 
+Indigenous knowledges in academic settings through three stories about: 
+(1) academic insistence that knowledge is outside the self, (2) backlash
+ to Indigenous practices in academe, and (3) intergenerational impacts 
+of experiences of suppression in education. The stories help us critique
+ theoretical conceptions of what constitutes “valid” knowledge and 
+understand struggles for survival and resistance to domination in 
+educational institutions. The paper explores responses to dominant 
+societies' suppression of Indigenous knowledges in academic settings and
+ broader society through acts of resistance, storytelling, living 
+spiritual resistance, writing as survival strategies, and resistance 
+within education. This paper explores ways that Indigenous knowledges 
+are honored, affirmed, and shared.</span></p>
+</div></div>
+					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_5HUQ3265" class="item journalArticle">
+			<h2>Rediscovering the Potential of Indigenous Storytelling for Conservation Practice</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Álvaro Fernández-Llamazares</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Mar Cabeza</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Several intergovernmental policy instruments, including the 
+World Heritage Convention of UNESCO and the Convention on Biological 
+Diversity, have proposed to develop integrated strategies to build 
+bridges between biological and cultural diversity agendas. We contend 
+that to succeed in this endeavor, it is crucial to link biocultural 
+revitalization to conservation practice. Our hope with this review is to
+ call attention to indigenous storytelling as an option worth adding to 
+the repertoire of conservation practitioners who aim to: (1) link 
+conservation actions to indigenous worldviews; (2) foster connections 
+between indigenous peoples and their landscapes; (3) facilitate 
+intergenerational transfer of indigenous knowledge; (4) support dialogue
+ over conservation; and (5) promote local participation in conservation.
+ Because indigenous stories are full of resonance, memory, and wisdom—in
+ a footing that is structurally free of power imbalance between 
+conservation practitioners and local communities—, we contend that they 
+can be crucial to guide future efforts in biocultural conservation 
+practice. Our review shows that deeper consideration and promotion of 
+indigenous storytelling can lead to enhanced understanding of diverse 
+values and perceptions around biodiversity, while offering a 
+constructive approach for greater inclusion of indigenous peoples in 
+conservation pursuits.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Wiley Online Library</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/conl.12398">https://onlinelibrary.wiley.com/doi/abs/10.1111/conl.12398</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:11:15 PM</td>
+					</tr>
+					<tr>
+					<th>Rights</th>
+						<td>Copyright and Photocopying: © 2017 The Authors. Conservation Letters published by Wiley Periodicals, Inc.</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/conl.12398</td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>11</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>e12398</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Conservation Letters</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1111/conl.12398">10.1111/conl.12398</a></td>
+					</tr>
+					<tr>
+					<th>Issue</th>
+						<td>3</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>1755-263X</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:11:15 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:11:15 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Biocultural conservation</li>
+					<li>indigenous peoples</li>
+					<li>intergenerational communication</li>
+					<li>Local Environmental Knowledge</li>
+					<li>oral tradition</li>
+					<li>storytelling</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_MXJNHC4F">Full Text PDF					</li>
+					<li id="item_J49KHDW6">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_2BZ9JH99" class="item journalArticle">
+			<h2>Resilience and indigenous spirituality: A literature review</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>John Fleming</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Robert J. Ledogar</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2008</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Resilience and indigenous spirituality</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Google Scholar</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2956755/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2956755/</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:42 PM</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>Publisher: PMC Canada manuscript submission</td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>6</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>47</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Pimatisiwin</td>
+					</tr>
+					<tr>
+					<th>Issue</th>
+						<td>2</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_X75W2YWJ">Available Version (via Google Scholar)					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_MFY36SZ5" class="item book">
+			<h2>Shamanism in Siberia: Russian records of indigenous spirituality</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Book</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Andrei A. Znamenski</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2013</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Shamanism in Siberia</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Google Scholar</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=0mNDBAAAQBAJ&amp;oi=fnd&amp;pg=PT4&amp;dq=indigenous+spirituality&amp;ots=nVSAquYjL5&amp;sig=OVYfmwB-ytE2VSaSxMWVzv46OVA">https://books.google.com/books?hl=en&amp;lr=&amp;id=0mNDBAAAQBAJ&amp;oi=fnd&amp;pg=PT4&amp;dq=indigenous+spirituality&amp;ots=nVSAquYjL5&amp;sig=OVYfmwB-ytE2VSaSxMWVzv46OVA</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:57 PM</td>
+					</tr>
+					<tr>
+					<th>Publisher</th>
+						<td>Springer Science &amp; Business Media</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_DUABDVAN" class="item journalArticle">
+			<h2>Spirituality, Quality of Life, and End of Life Among Indigenous Peoples: A Scoping Review</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jodi Terpstra</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Rebecca Lehto</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Gwen Wyatt</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Introduction:
+              While spirituality and quality of life (QOL) are essential
+ components of end-of-life (EOL) care, limited studies have examined 
+these constructs for indigenous peoples. Therefore, the purpose of this 
+article was to examine the state of the science regarding spirituality 
+and QOL at EOL for indigenous people, particularly Native Americans.
+            
+            
+              Method:
+              The Arksey and O’Malley (2005) framework guided this 
+scoping review, which examined 30 articles that included qualitative and
+ quantitative studies, commentary papers, and reviews.
+            
+            
+              Results:
+              The findings identified five spiritual dimensions: the 
+life and death journey, a belief in spirits, tribally grounded 
+traditions, dominant cultural religion influences, and a family focus. 
+QOL indicators included survivorship, optimization of holistic health, 
+communication, and access to appropriate resources. Death rituals were 
+important EOL elements.
+            
+            
+              Discussion:
+              Given the importance of spirituality to QOL for indigenous
+ people, clinicians must be knowledgeable and responsive to indigenous 
+spiritual needs to promote QOL at EOL.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>03/2021</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Spirituality, Quality of Life, and End of Life Among Indigenous Peoples</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>DOI.org (Crossref)</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://journals.sagepub.com/doi/10.1177/1043659620952524">https://journals.sagepub.com/doi/10.1177/1043659620952524</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>32</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>161-172</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Transcultural Nursing</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1177/1043659620952524">10.1177/1043659620952524</a></td>
+					</tr>
+					<tr>
+					<th>Issue</th>
+						<td>2</td>
+					</tr>
+					<tr>
+					<th>Journal Abbr</th>
+						<td>J Transcult Nurs</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>1043-6596, 1552-7832</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_BGD63K7T" class="item book">
+			<h2>The Knowledge Seeker: Embracing Indigenous Spirituality</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Book</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Blair Stonechild</td>
+					</tr>
+					<tr>
+						<th class="editor">Editor</th>
+						<td>Noel Starblanket</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>"An essential book." Brian Rice, author of The Rotinonshonni 
+and Seeing the World with Aboriginal Eyes "As more people ripen to 
+understand the new world holocaust of our First Nations, Blair 
+Stonechild's book is timely. To bring to light the spiritual 
+relationships, attitudes, and practices of Indigenous people makes a 
+real contribution to the world of thought." Buffy Sainte-Marie In The 
+Knowledge Seeker, Blair Stonechild shares his sixty-year journey of 
+learning-from residential school to PhD and beyond-while trying to find a
+ place for Indigenous spirituality in the classroom. Encouraged by an 
+Elder who insisted sacred information be written down, Stonechild 
+explores the underlying philosophy of his people's teachings to 
+demonstrate that Indigenous spirituality can speak to our urgent, 
+contemporary concerns</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2016-12-31</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>The Knowledge Seeker</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>DOI.org (Crossref)</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.degruyter.com/document/doi/10.1515/9780889774186/html">https://www.degruyter.com/document/doi/10.1515/9780889774186/html</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>1/24/2025, 12:07:40 PM</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>DOI: 10.1515/9780889774186</td>
+					</tr>
+					<tr>
+					<th>Publisher</th>
+						<td>University of Regina Press</td>
+					</tr>
+					<tr>
+					<th>ISBN</th>
+						<td>978-0-88977-418-6</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:07:58 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/25/2025, 10:21:20 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_Q3KZDCSB">
+<div><div data-schema-version="9"><p>Blair Stonechild shares his 
+sixty-year journey of learning-from residential school to PhD and 
+beyond-while trying to find a place for Indigenous spirituality in the 
+classroom. Encouraged by an Elder who insisted sacred information be 
+written down, Stonechild explores the underlying philosophy of his 
+people's teachings to demonstrate that Indigenous spirituality can speak
+ to our urgent, contemporary concerns.</p>
+</div></div>
+					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_G24II5XV" class="item book">
+			<h2>We survived the end of the world: lessons from Native America on apocalypse and hope</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Book</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Steven Charleston</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>"Native America has confronted apocalypse for more than four 
+hundred years. Choctaw elder Steven Charleston tells the stories of four
+ Indigenous prophets who helped their people learn strategies for 
+surviving catastrophe, using their lessons and wisdom as guidance for 
+how we can face the uncertainty of the modern age"--</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2023</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>We survived the end of the world</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Library of Congress ISBN</td>
+					</tr>
+					<tr>
+					<th>Call Number</th>
+						<td>E98.P5</td>
+					</tr>
+					<tr>
+					<th>Place</th>
+						<td>Minneapolis</td>
+					</tr>
+					<tr>
+					<th>Publisher</th>
+						<td>Broadleaf Books</td>
+					</tr>
+					<tr>
+					<th>ISBN</th>
+						<td>978-1-5064-8668-0</td>
+					</tr>
+					<tr>
+					<th># of Pages</th>
+						<td>1</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>1/24/2025, 12:25:29 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>1/24/2025, 12:25:29 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Psychological aspects</li>
+					<li>Disasters</li>
+					<li>Indian philosophy</li>
+					<li>North America</li>
+					<li>Survival</li>
+					<li>Uncertainty</li>
+				</ul>
+			</li>
+
+		</ul>
+	
+</body></html>

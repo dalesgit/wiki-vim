@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4a9f19442af3e4",
+        "id": "85e0fa2d5717335c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9a7dcc196a62a7",
+            "id": "df87e6550e1a75d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -69,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,8 +272,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e9a7dcc196a62a7",
+  "active": "df87e6550e1a75d9",
   "lastOpenFiles": [
+    "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
+    "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
+    "robertsEarthPrayersWorld1991.md",
+    "()(Fleming and Ledogar, 2008).md",
+    "Description based on publisher supplied metadata and other sources.md",
+    "journal/2025-01-25.md",
     "journal/2025-01-22.md",
     "journal/2025-01-23.md",
     "journal/2025-01-24.md",
@@ -298,12 +303,6 @@
     "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level  The New Republic.md",
     "journal/2024-12-20.md",
     "journal/2024-12-19.md",
-    "journal/2024-12-10.md",
-    "journal/2024-12-11.md",
-    "journal/2024-12-12.md",
-    "journal/2024-12-13.md",
-    "journal/2024-12-14.md",
-    "journal/2024-12-15.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
