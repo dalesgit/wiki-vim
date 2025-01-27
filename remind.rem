@@ -10,7 +10,7 @@ REM Dec 13 2024 +2 MSG DH Preach    AT 6:00 PM %b%
 REM Dec 014 2024 +2 MSG DH Preach    AT 10:00 AM %b%
 REM Dec 17 2024 +2 MSG Clergy luncheon spouses)   AT 8:30 PM %b%
 REM Dec 19 2024 +2 MSG Dr. Aaron Davis   AT 9:15 AM %b%
-REM Thu FROM Jan 09 2025 UNTIL Mar 29 2025 +2 MSG SD Module 2 AT 11:30 AM %b%
+REM Thu FROM Jan 09 2025 UNTIL Mar 29 2025 +2 AT 11:30 MSG SD Module 2 %b%
 REM Jan 14 2025 +2 MSG Retired clergy & spouses lunch AT 12:00 PM %b%
 REM Jan 15 2025 +2 MSG Karen SD    AT 11:00 AM %b%
 REM Feb 05 2025 +2 MSG Karen SD    AT 11:00 AM %b%
@@ -45,21 +45,17 @@ REM FROM Feb 15 2025 UNTIL Feb 16 2025 +2 MSG Dale Celebrating %b%
 REM FROM Feb 22 2025 UNTIL Feb 23 2025 +2 MSG Dale Preaching %b%
 REM Dec 19 2025 +2 MSG Dr. Aaron Davis (DH eyedoctor) AT 9:15 AM %b%
 REM Jan 4 2025 +2 MSG Welcoming Prayer Workshop AT 9-3 %b%
-REM Jan 10 2025 +2 MSG Zack at Church AT 3:00 PM %b%
-REM Jan 24 2025 +2 MSG Zack at Church AT 3:00 PM %b%
-REM Feb 07 2025 +2 MSG Zack at Church AT 3:00 PM %b%
-REM Feb 21 2025 +2 MSG Zack at Church AT 3:00 PM %b%
+REM Jan 10 2025 +2 MSG Zack at Church %b%
+REM Jan 24 2025 +2 AT 15:00 MSG Zack at Church %b%
+REM Feb 07 2025 +2 AT 15:00 MSG Zack at Church %b%
+REM Feb 21 2025 +2 AT 15:00 MSG Zack at Church %b%
 REM Jan 11 2025 +2 MSG Meet Zack and family at Church AT 3:30 PM %b%
 REM Jan 14 2025 +2 MSG MPS Vascular ultrasound with Kalani AT 3:30 pm %b%
-REM Tue 2025 +2 MSG MPS with trainer AT 10:00 AM %b%
-REM Fri 2025 +2 MSG MPS with trainer AT 10:00 AM %b%
+REM Tue 2025 +2 AT 10:00 MSG MPS with trainer %b%
+REM Fri 2025 +2 AT 10:00 MSG MPS with trainer %b%
 REM Jan 25 2025 +2 MSG Centering Prayer workshop AT 10:00 AM %b%
-REM Jan 28 2025 +2 MSG Peter for dinner %b%
-REM Jan 29 2025 +2 MSG Dinner at Stephen & Priscilla's AT 5:00PM %b%
-REM Feb 01 2025 +2 MSG Dinner with Hoopers AT 5:30pm %b%
-REM Feb 21 2025 +2 MSG Linda individual SD AT 11:00am %b%
-REM Feb 18 2025 +2 MSG Dr. Kalani f/u for DH At 3:00pm %b%
-REM Feb 27 2025 +2 MSG Victoria dermatology for DH AT 3:30PM %b%
-REM Mar 05 2025 +2 MSG Ash Wednesday %b%
+REM Jan 28 2025 +2 AT 15:00 Dr. Kalani f/u for DH %b%
+REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
+;REM Mar 05 2025 +2 MSG Ash Wednesday %b%
 REM [easterdate()] MSG Easter
 
