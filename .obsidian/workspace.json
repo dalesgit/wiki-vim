@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "85e0fa2d5717335c",
+        "id": "9bc85a40fc4c5e43",
         "type": "tabs",
         "children": [
           {
-            "id": "df87e6550e1a75d9",
+            "id": "f336b9cfd4a45b1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-01-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-01-27"
+            }
+          },
+          {
+            "id": "24ea66c9c040911e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2024-10-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#of",
+                "query": "tag:#centering-prayer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +144,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -252,12 +274,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
-    "collapsed": true
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,8 +293,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df87e6550e1a75d9",
+  "active": "24ea66c9c040911e",
   "lastOpenFiles": [
+    "journal/2024-11-10.md",
+    "unraveling 60s generation.md",
+    "journal/2025-01-27.md",
+    "Personal Knowledge System.md",
+    "Personal.md",
     "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
     "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
     "robertsEarthPrayersWorld1991.md",
@@ -298,11 +324,6 @@
     "Book of occasional services.md",
     "journal/2025-01-04.md",
     "journal/2025-01-05.md",
-    "lesser-feasts-list.md",
-    "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level.md",
-    "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level  The New Republic.md",
-    "journal/2024-12-20.md",
-    "journal/2024-12-19.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",

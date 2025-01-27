@@ -14,8 +14,10 @@ author:
 published: 2025-01-26
 created: 2025-01-27
 description: "For boomers, the rapid reversal of 1960s-era gains for civil rights, women, LGBTQ, etc., has unraveled the story of our lifetimes."
-tags:
-  - "clippings"
+tags: 
+  - "60s"
+  - "loss"
+  - "american-culture"
 ---
 My almost pathological obsession with what historians now call “the Long Sixties” — especially the years between [JFK’s assassination](https://www.inquirer.com/philly/columnists/will_bunch/never-ending-jfk-assassination-cover-up-is-how-we-got-into-this-mess-will-bunch-20171029.html) in 1963 and Richard Nixon’s [Watergate downfall](https://www.inquirer.com/opinion/house-january-6-committee-echoes-of-watergate-20220106.html) in 1974 — includes way too much time still listening to the jangly pop anthems that blared in mono from WABC on an AM car radio back when I was in middle school.
 
