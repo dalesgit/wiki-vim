@@ -1,7 +1,15 @@
 ---
-title: Homemade Bread Recipe - Tastes Better from Scratch
+id: Homemade Bread Recipe - Tastes Better from Scratch
+aliases: []
+tags:
+  - bread,
+  - recipes,
+  - kitchen
 source: https://tastesbetterfromscratch.com/bread-recipe/
+title: Homemade Bread Recipe - Tastes Better from Scratc#h
 ---
+
+:bread:
 
 *Look no further for the BEST and simplest **homemade Bread recipe** made with just six simple pantry ingredients! It’s the perfect white bread for sandwiches and it freezes well too!*
 
