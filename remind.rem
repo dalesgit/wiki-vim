@@ -19,7 +19,7 @@ REM Jan 17 2025 +2 MSG Linda SD DH   AT 10:30 AM %b%
 REM Mar 04 2025 +2 MSG Pacific cruise begins    AT All day %b%
 REM Feb 11 2025 +2 MSG Folino cleaning    AT 1:00 PM %b%
 REM Feb 18 2025 +2 MSG Kalani     AT 3:00 PM %b%
-REM Feb 27 2025 +2 MSG Victoria dermatologist    AT 3:30 PM %b%
+; REM Feb 27 2025 +2 MSG Victoria dermatologist    AT 3:30 PM %b%
 REM May 09 2025 +2 MSG Prep colonoscopy    AT All day %b%
 REM May 12 2025 +2 MSG Humphrey’s colonoscopy    AT 12:00 PM %b%
 REM May 19 2025 +2 MSG Dr Irvin DH wellness  AT 9:15 AM %b%
