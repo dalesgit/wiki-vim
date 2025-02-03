@@ -1,8 +1,8 @@
 
 
-- America the Philosophical **Romano**
-- The Cave and the Light **Hernan**
-- Liberalism: Ancient and Modern **Strauss**
+- *America the Philosophical* **Romano**: 2013. This bold, insightful book argues that America today towers as the most philosophical culture in the history of the world, an unprecedented marketplace for truth and debate.  With verve and keen intelligence, Carlin Romano—Pulitzer Prize finalist, award-winning book critic, and professor of philosophy—takes on the widely held belief that the United States is an anti-intellectual country. Instead he provides a richly reported overview of American thought, arguing that ordinary Americans see through phony philosophical justifications faster than anyone else, and that the best of our thinkers ditch artificial academic debates for fresh intellectual enterprises. Along the way, Romano seeks to topple philosophy’s most fiercely admired hero, Socrates, asserting that it is Isocrates, the nearly forgotten Greek philosopher who rejected certainty, whom Americans should honor as their intellectual ancestor. America the Philosophical is a rebellious tour de force that both celebrates our country’s unparalleled intellectual energy and promises to bury some of our most hidebound cultural clichés.
+- *The Cave and the Light* **Hernan**: 2013. Arthur Herman has now written the definitive sequel to his New York Times bestseller, How the Scots Invented the Modern World, and extends the themes of the book—which sold half a million copies worldwide—back to the ancient Greeks and forward to the age of the Internet. The Cave and the Light is a magisterial account of how the two greatest thinkers of the ancient world, Plato and Aristotle, laid the foundations of Western culture—and how their rivalry shaped the essential features of our culture down to the present day.
+- *Liberalism: Ancient and Modern* **Strauss**: 
 - Greek Realities **Hooper**
 - Sapiens **Harari**
 - Toward Democracy **Kloppenberg**
