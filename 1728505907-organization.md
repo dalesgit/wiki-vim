@@ -9,7 +9,7 @@ tags: []
 
 ## Memory sticks and cards (tables)
 
-[[table memory cards]]
+[[Table memory cards]]
 
 - [table memory sticks](table memory sticks.md)
 
