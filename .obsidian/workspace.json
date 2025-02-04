@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d27b9f6d0192773",
+        "id": "a503b9c8588c1a65",
         "type": "tabs",
         "children": [
           {
-            "id": "da7fd66441d236a6",
+            "id": "2bf35ddee11e83d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Packing Pacific Cruise.md",
+                "file": "pages/Church  Sarah reading 02-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Packing Pacific Cruise"
+              "title": "Church  Sarah reading 02-02-25"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -287,7 +288,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da7fd66441d236a6",
+  "active": "2bf35ddee11e83d1",
   "lastOpenFiles": [
     "pages/Packing Pacific Cruise.md",
     "journal/2025-01-27.md",
