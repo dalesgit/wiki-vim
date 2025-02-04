@@ -36,9 +36,23 @@ date: Feb. 2025
 
 > **DH**: Meeks is a must read for understanding early Christianity. He was a pioneer in introducing a sociological analysis to that study. I encountered him through his _The first Urban Christians_. This is a serious work, not a summary. 
 
-- The Proper Study of Mankind **Berlin**
-- History of Knowledge **Van Doren**
-- The Story of Philosophy **Durant**
+- _The Proper Study of Mankind_ **Berlin** 2000. Isaiah Berlin was one of the leading thinkers of our time and one of its finest writers. The Proper Study of Mankind brings together his most celebrated writing: here the reader will find Berlin's famous essay on Tolstoy, "The Hedgehog and the Fox"; his penetrating portraits of contemporaries from Pasternak and Akhmatova to Churchill and Roosevelt; his essays on liberty and his exposition of pluralism; his defense of philosophy and history against assimilation to scientific method; and his brilliant studies of such intellectual originals as Machiavelli, Vico, and Herder.
+
+
+> **DH**: Another classic author. This is an anthology. I'm sure this would be interesting reading. Would it contain what you're looking for right now.
+
+- _History of Knowledge_ **Van Doren**: 1992.
+
+> **DH**: This the kind of collection that I have gobbled up in my time, although I haven't read this. A gigantic overview that is bound to be quirky, fun to skim, and perhaps showing its bias (whatever that is).
+
+- _The Story of Philosophy_ **Durant** """The Story of Philosophy"" is a captivating intellectual journey that explores the evolution of human thought and the enduring legacy of great thinkers throughout history. Written by the renowned author Will Durant, this monumental work provides readers with a comprehensive overview of the world's philosophical traditions, from ancient Greece to the modern era.
+
+Through 11 volumes, each dedicated to a specific philosopher or philosophical era, Durant delves into the intricacies of thought, revealing the profound impact of philosophy on human civilization. From Plato's idealism to Aristotle's empirical inquiry and Francis Bacon's scientific revolution, this series offers a deep dive into the intellectual tapestry of human history.
+
+"The Story of Philosophy" is a timeless exploration of the quest for knowledge and wisdom, making it essential reading for anyone curious about the foundations of human thought."
+
+> **DH**: I have read from this massive work off and on throughout my adult life. Even when I was young I recognized it as a **survey** will all the limitations of that. But it was useful for getting the big picture.
+
 - From Dawn to Decadence **Barzun**
 - Classics of Western Philosophy **Cahn**
 - The New England Soul **Stout**
@@ -57,7 +71,11 @@ date: Feb. 2025
 - An Invitation to Political Thought **Deutsch and Fornieri**
 - History of Political Philosophy Strauss and **Cropsey**
 - Ideas: A History of Thought from Fire to Freud WatsonAmerican Political Thought **Kramnick**
-- Columbia History of Western Philosophy **Popkin**
+- _Columbia History of Western Philosophy_ **Popkin**. 2000. Richard Popkin has assembled 63 leading scholars to forge a highly approachable chronological account of the development of Western philosophical traditions. From Plato to Wittgenstein and from Aquinas to Heidegger, this volume provides lively, in-depth, and up-to-date historical analysis of all the key figures, schools, and movements of Western philosophy. … Combining a broad scope and penetrating analysis with a keen sense of what is relevant for the modern reader, The Columbia History of Western Philosophy will prove an accessible introduction for students and an informative overview for general readers.
+
+
+> **DH**: This is important I think because of the newer, broader perspective it brings compared to the classical European view. I suspect it is an important work. 
+
 - The Metaphysical Club **Menand**
 - Classic of Moral and Political Theory **Morgan, ed**
 - Aristotle's Children **Rubenstein**
