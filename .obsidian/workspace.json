@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6242b0adc500d1",
+        "id": "2d27b9f6d0192773",
         "type": "tabs",
         "children": [
           {
-            "id": "6f2c22ccf10bf62e",
+            "id": "da7fd66441d236a6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "pages/Packing Pacific Cruise.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Packing Pacific Cruise"
             }
           }
         ]
@@ -38,8 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -72,7 +83,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -275,11 +287,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f2c22ccf10bf62e",
+  "active": "da7fd66441d236a6",
   "lastOpenFiles": [
-    "pages/SD Readings.md",
+    "pages/Packing Pacific Cruise.md",
     "journal/2025-01-27.md",
     "journal/2024-10-01.md",
+    "calendar.pdf",
     "journal/2024-11-10.md",
     "unraveling 60s generation.md",
     "Personal Knowledge System.md",
@@ -306,6 +319,8 @@
     "psalm-summer.md",
     "journal/2025-01-06.md",
     "Book of occasional services.md",
+    "journal/2025-01-04.md",
+    "journal/2025-01-05.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
