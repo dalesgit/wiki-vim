@@ -7,6 +7,8 @@ date: Feb. 2025
 title: Sarah's library (annotated)
 ---
 
+saragabbard@aol.com
+
 # Human perspective
 
 ## Sapiens **Harari**: 2025. 
@@ -77,19 +79,46 @@ Richard Popkin has assembled 63 leading scholars to forge a highly approachable 
 
 > **DH**: This is important I think because of the newer, broader perspective it brings compared to the classical European view. I suspect it is an important work. 
 
+## Aquinas, Aristotle and the promise of the Common Good **Keys**: 2006.
 
+*Aquinas, Aristotle, and the Promise of the Common Good*, first published in 2006, claims that contemporary theory and practice have much to gain from engaging Aquinas's normative concept of the common good and his way of reconciling religion, philosophy, and politics. Examining the relationship between personal and common goods, and the relation of virtue and law to both, Mary M. Keys shows why Aquinas should be read in addition to Aristotle on these perennial questions. She focuses on Aquinas's Commentaries as mediating statements between Aristotle's Nicomachean Ethics and Politics and Aquinas's own *Summa Theologiae*, showing how this serves as the missing link for grasping Aquinas's understanding of Aristotle's thought. Keys argues provocatively that Aquinas's Christian faith opens up new panoramas and possibilities for philosophical inquiry and insights into ethics and politics. Her book shows how religious faith can assist sound philosophical inquiry into the foundation and proper purposes of society and politics.
 
-## Aquinas, Aristotle and the promise of the Common Good **Keys**
-## The Closing of the Western Mind **Freeman**
-## The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**
+> **DH**: This is kind of right up my alley, at least in terms of my earliest philosophical interests. I'm not sure whether I'm really Aristotelian over Platonist. I am quite sure that one of the biggest realities we are living through is the loss of a sense of the **Common Good** in our society.
+
+## The Closing of the Western Mind: The Rise of Faith and the Fall of Reason **Freeman**: 2003.
+
+A radical and powerful reappraisal of the impact of Constantine’s adoption of Christianity on the later Roman world, and on the subsequent development both of Christianity and of Western civilization.  
+  
+When the Emperor Contstantine converted to Christianity in 368 AD, he changed the course of European history in ways that continue to have repercussions to the present day. Adopting those aspects of the religion that suited his purposes, he turned Rome on a course from the relatively open, tolerant and pluralistic civilization of the Hellenistic world, towards a culture that was based on the rule of fixed authority, whether that of the Bible, or the writings of Ptolemy in astronomy and of Galen and Hippocrates in medicine. Only a thousand years later, with the advent of the Renaissance and the emergence of modern science, did Europe begin to free itself from the effects of Constantine's decision, yet the effects of his establishment of Christianity as a state religion remain with us, in many respects, today. Brilliantly wide-ranging and ambitious, this is a major work of history.
+
+> **DH**: I have known for many years how significant Constantine has been in the church up to the present day. The Constantine in the church wants to build buildings and influence society. Pre-Constantinian church is not interested in power but more in holiness, less interested in **influence** than of **reflecting the image of God**. This is probably an important work.
+
+## The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**: 2001.
+
+Already a classic, this landmark study of early Western thought now appears in a new edition with expanded coverage of the Middle Ages. This landmark study of Western thought takes a fresh look at the writings of the great thinkers of classic philosophy and questions many pieces of conventional wisdom. The book invites comparison with Bertrand Russell's monumental History of Western Philosophy, "but Gottlieb's book is less idiosyncratic and based on more recent scholarship" (Colin McGinn, Los Angeles Times). A New York Times Notable Book, a Los Angeles Times Best Book, and a Times Literary Supplement Best Book of 2001.
+
+> **DH**: This is a companion to the older treatment of Russell (below). For an over-arching history this would be a good place to start. As we've said, its focus is western and European. The world is bigger than that.
+
 ## God's Men; the origins of western culture **Parkes**: 1959.
 
 > **DH**:  This is an obviously dated perspective, but it evidently seeks to dig deeper and broader than the Greek/Roman/European "Western Civ'" view of culture, including as it does India as a part of the "origins" of western culture.
-## A History of Western Philosophy **Russell**
+## A History of Western Philosophy  from the Greeks to the Renaissance **Russell**: 1945.
 
+Hailed as “lucid and magisterial” by The Observer, this book is universally acclaimed as the outstanding one-volume work on the subject of Western philosophy.Considered to be one of the most important philosophical works of all time, the History of Western Philosophy is a dazzlingly unique exploration of the ideologies of significant philosophers throughout the ages—from Plato and Aristotle through to Spinoza, Kant and the twentieth century. Written by a man who changed the history of philosophy himself, this is an account that has never been rivaled since its first publication over sixty years ago.  
+  
+Since its first publication in 1945, Lord Russell’s A History of Western Philosophy is still unparalleled in its comprehensiveness, its clarity, its erudition, its grace, and its wit. In seventy-six chapters he traces philosophy from the rise of Greek civilization to the emergence of logical analysis in the twentieth century.  
+  
+Among the philosophers considered are: Pythagoras, Heraclitus, Parmenides, Empedocles, Anaxagoras, the Atomists, Protagoras, Socrates, Plato, Aristotle, the Cynics, the Sceptics, the Epicureans, the Stoics, Plotinus, Ambrose, Jerome, Augustine, Benedict, Gregory the Great, John the Scot, Aquinas, Duns Scotus, William of Occam, Machiavelli, Erasmus, More, Bacon, Hobbes, Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, Rousseau, Kant, Hegel, Schopenhauer, Nietzsche, the Utilitarians, Marx, Bergson, James, Dewey, and lastly the philosophers with whom Lord Russell himself is most closely associated—Cantor, Frege, and Whitehead, coauthor with Russell of the monumental *Principia Mathematica*.
+
+> **DH**: This work is what I grew up with. It's a classic and always worth looking at.
 
 # Political theory
-## An Invitation to Political Thought **Deutsch and Fornieri**
+## An Invitation to Political Thought **Deutsch and Fornieri**: 2008
+
+AN INVITATION TO POLITICAL THOUGHT is a student-friendly introductory text/reader for political theory that includes a clearly guided explanation of western political thought from Plato to Nietzsche with accompanying primary sources. AN INVITATION TO POLITICAL THOUGHT thus saves the student money by uniquely combining both explanatory essays and primary sources in a single volume. Each chapter begins with an examination of the life of and legacy of an epic political thinker and then proceeds to unpack that thinker's core teaching on such enduring questions as human nature, state and society, justice, political obligation, war and peace, political education, gender and politics, rights and revolution. Other pedagogical features include case studies that relate the material to current events, questions for reflection, a list of key terms, a list of sources, and helpful websites for further reading.
+
+> **DH**: As a teacher I would find this work interesting and thought-provoking. It might be the best introduction to political theory in this list.
+
 ## History of Political Philosophy **Strauss and Cropsey**
 ## *Liberalism: Ancient and Modern* **Strauss**: 1995. 
 
@@ -135,16 +164,17 @@ Kramnick was "a subject-matter expert on English and American political though
 
 > **DH**: This is textbook with all the strengths and weaknesses that brings.
 
-## Emerson: The Mind on Fire **Richardson**
-## Beneath the American Renaissance **Reynolds**
-## Theology in America **Holifield**
-## America's God **Noll**
-## Roger Williams and the Creation of the American Soul **Barry**
-## Making of the American Self **Howe**
-## The Idea of America **Wood**
-## The Ideological Origins of the American Revolution **Bailyn**
-## People of Paradox **Kammen**
-## Hamilton, Adams, Jefferson: The Politics of Enlightenment and the American Founding **Staloff**
+## Emerson: The Mind on Fire **Richardson**: 2015
+
+Ralph Waldo Emerson is one of the most important figures in the history of American thought, religion, and literature. The vitality of his writings and the unsettling power of his example continue to influence us more than a hundred years after his death. Now Robert D. Richardson Jr. brings to life an Emerson very different from the old stereotype of the passionless Sage of Concord. Drawing on a vast amount of new material, including correspondence among the Emerson brothers, Richardson gives us a rewarding intellectual biography that is also a portrait of the whole man.
+
+> **DH**: Since this is a biography, it might well provide an easier read than some of the other titles here. Emerson is a worthy figure to focus on and a more complex figure than I had realized until just the past few years.
+## Beneath the American Renaissance: The Subversive Imagination in the Age of Emerson and Melville **Reynolds**: 2011
+
+The award-winning Beneath the American Renaissance is a classic work on American literature. It immeasurably broadens our knowledge of our most important literary period, as first identified by F.O. Matthiessen's American Renaissance. With its combination of sharp critical insight, engaging observation, and narrative drive, it represents the kind of masterful cultural history for which David Reynolds is known. Here the major works of Emerson, Thoreau, Whitman, Poe, Hawthorne, Melville, and Dickinson receive striking, original readings set against the rich backdrop of contemporary popular writing. Now back in print, the volume includes a new foreword by historian Sean Wilentz that reveals the book's impact and influence. A magisterial work of criticism and cultural history, Beneath the American Renaissance will fascinate anyone interested in the genesis of America's most significant literary epoch and the iconic figures who defined it.
+
+> **DH**: As I've said elsewhere, understanding our more recent forebears is important for understanding where we are today. Not the whole story, but important
+
 ## *America the Philosophical* **Romano**: 2013. 
 
 This bold, insightful book argues that America today towers as the most philosophical culture in the history of the world, an unprecedented marketplace for truth and debate.  With verve and keen intelligence, Carlin Romano—Pulitzer Prize finalist, award-winning book critic, and professor of philosophy—takes on the widely held belief that the United States is an anti-intellectual country. Instead he provides a richly reported overview of American thought, arguing that ordinary Americans see through phony philosophical justifications faster than anyone else, and that the best of our thinkers ditch artificial academic debates for fresh intellectual enterprises. Along the way, Romano seeks to topple philosophy’s most fiercely admired hero, Socrates, asserting that it is Isocrates, the nearly forgotten Greek philosopher who rejected certainty, whom Americans should honor as their intellectual ancestor. America the Philosophical is a rebellious tour de force that both celebrates our country’s unparalleled intellectual energy and promises to bury some of our most hidebound cultural clichés.
@@ -157,6 +187,59 @@ American Transcendentalism is a comprehensive narrative history of America’s f
 
 > **DH**: I was late in appreciating the importance of the Transcendentals to the contradictory nature of the American ethos. I may try to read this (Kindle is only $3) I'm not sure this is where you want to start in your study, but I think it's important.
 
+
+## Roger Williams and the Creation of the American Soul: Church, State, and the Birth of Liberty **Barry**: 2012.
+
+A revelatory look at how Roger Williams shaped the nature of religion, political power, and individual rights in America.
+
+For four hundred years, Americans have wrestled with and fought over two concepts that define the nature of the nation: the proper relation between church and state and between a free individual and the state. These debates began with the extraordinary thought and struggles of Roger Williams, who had an unparalleled understanding of the conflict between a government that justified itself by "reason of state"-i.e. national security-and its perceived "will of God" and the "ancient rights and liberties" of individuals.
+
+> **DH**: This history underscores the inter-related foci in the American experience: 1) freedom - "Ain't nobody gonna tell me what to do" 2) "We are God's chosen - the bullet missed me." 3) a grand political experiment like none other in the history of the world.
+## Making of the American Self: Jonathan Edwards to Abraham Lincoln **Howe**: 2009.
+
+Originally published in 1997 and now back in print, *Making the American Self* by Daniel Walker Howe, the Pulitzer Prize-winning author of *What Hath God Wrought*, charts the genesis and fascinating trajectory of a central idea in American history.  
+  
+One of the most precious liberties Americans have always cherished is the ability to "make something of themselves"--to choose not only an occupation but an identity. Examining works by Benjamin Franklin, Jonathan Edwards, Abraham Lincoln, Frederick Douglass, Henry David Thoreau, Ralph Waldo Emerson, Margaret Fuller, and others, Howe investigates how Americans in the 18th and 19th centuries engaged in the process of "self-construction," "self-improvement," and the "pursuit of happiness." He explores as well how Americans understood individual identity in relation to the larger body politic, and argues that the conscious construction of the autonomous self was in fact essential to American democracy--that it both shaped and was in turn shaped by American democratic institutions. "The thinkers described in this book," Howe writes, "believed that, to the extent individuals exercised self-control, they were making free institutions--liberal, republican, and democratic--possible." And as the scope of American democracy widened so too did the practice of self-construction, moving beyond the preserve of elite white males to potentially all Americans. Howe concludes that the time has come to ground our democracy once again in habits of personal responsibility, civility, and self-discipline esteemed by some of America's most important thinkers.
+
+> **DH**: Focus on the individual over the community seems to be an interest of Howe. It may be a source of our ruin.
+
+## The Idea of America: Reflections on the Birth of the United States **Wood** 2011.
+
+More than almost any other nation in the world, the United States began as an idea. For this reason, Pulitzer Prize-winning historian Gordon S. Wood believes that the American Revolution is the most important event in our history, bar none. Since American identity is so fluid and not based on any universally shared heritage, we have had to continually return to our nation's founding to understand who we are. In *The Idea of America*, Wood reflects on the birth of American nationhood and explains why the revolution remains so essential.  
+  
+In a series of elegant and illuminating essays, Wood explores the ideological origins of the revolution-from ancient Rome to the European Enlightenment-and the founders' attempts to forge an American democracy. As Wood reveals, while the founders hoped to create a virtuous republic of yeoman farmers and uninterested leaders, they instead gave birth to a sprawling, licentious, and materialistic popular democracy.
+
+> **DH**: This is a series of essays. For people who are logical and left brain about things, it is convenient to think that "ideas" are the most important. 
+
+## The Ideological Origins of the American Revolution **Bailyn**: 1968.
+
+*The Ideological Origins of the American Revolution*, awarded both the Pulitzer and the Bancroft prizes, has become a classic of American historical literature. Hailed at its first appearance as “the most brilliant study of the meaning of the Revolution to appear in a generation,” it was enlarged in a second edition to include the nationwide debate on the ratification of the Constitution, hence exploring not only the Founders’ initial hopes and aspirations but also their struggle to implement their ideas in constructing the national government.  
+  
+Now, in a new preface, Bernard Bailyn reconsiders salient features of the book and isolates the Founders’ profound concern with power. In pamphlets, letters, newspapers, and sermons they returned again and again to the problem of the uses and misuses of power―the great benefits of power when gained and used by popular consent and the political and social devastation when acquired by those who seize it by force or other means and use it for their personal benefit.  
+  
+This fiftieth anniversary edition will be welcomed by readers familiar with Bailyn’s book, and it will introduce a new generation to a work that remains required reading for anyone seeking to understand the nation’s historical roots.
+
+> **DH**: This might be a good place to start reading. It is dated, but I suspect obviously so. There's not a lot of focus on "power" in the contemporary discussions, but I see it as one of the essential pieces of the American Experience.
+
+## People of Paradox: An Inquiry Concerning the Origins of American Civilization **Kammen*: 1973
+
+In this major interpretive work Mr. Kammen argues that most attempt to understand America’s history and culture have minimized its complexity, and he demonstrates that, from our beginnings, what has given our culture its distinctive texture, pattern, and thrust is the dynamic interaction of the imported and the indigenous. He shows now, during the years of colonization, especially in the century from 1660 to 1760, many ideas and institutions were transferred virtually unchanged from Britain, while, simultaneously, others were being transformed in the New World environment.  
+   
+As he unravels the tangled origins of our “bittersweet” culture, Mr. Kammen makes us see that unresolved contradictions in the American experience have functioned as the prime characteristic of our national style. Puritanical and hedonistic, idealistic and materialistic, peace-loving and war-mongering, isolationist and interventionist, consensus-minded and conflict-prone—these opposing strands go back to the roots of our history. He pursues them down through the seventeenth and eighteenth centuries—from the traumas of colonization and settlement through the tensions of the American Revolution—making clear both the relevance of this early experience to ninetieth and twentieth-century realities and the way in which America’ dualisms have endured and accumulated to produced such dilemmas as today’s poverty amidst abundance and legitimized lawlessness.
+
+> **DH**: The narrative of this text ends at the Revolution. In my view, it is just as important to trace these "dualisms" up to the present day. The "paradoxes" can take the form of: "cut off your nose to spite your nose to spite your face."
+
+## Hamilton, Adams, Jefferson: The Politics of Enlightenment and the American Founding **Staloff**: 2007.
+
+An intellectual history of three Founding Fathers whose unique approaches to the Enlightenment helped shape America.  
+  
+American historian Darren Staloff delves into the political and intellectual lives of Alexander Hamilton, John Adams, and Thomas Jefferson to reveal how they embodied the collision of Europe’s grand Enlightenment project with the birth of a young nation. These three very different men each governed their public lives by Enlightenment principles. And the struggle for American independence would forever change their relationships to the politics of Enlightenment.  
+  
+Repeated humiliation on America’s battlefields banished Hamilton’s youthful idealism, leaving him a disciple of Enlightened realpolitik and the nation’s leading exponent of modern statecraft. After ten years in Europe’s diplomatic trenches, Adams’s embrace of the politics of Enlightenment became increasingly skeptical in spirit, and his public posture became increasingly that of the gadfly of his country. And Jefferson’s frustrations as a Revolutionary governor in Virginia led him to go beyond his Enlightened worldview, and articulate a new and radical Romantic politics of principle.  
+  
+Staloff demonstrates how each of these approaches helped shape America’s unique political identity. Because of the influence of these towering figures, Americans demand a government that is both modern, constrained by checks and balances, and capable of appealing to our loftiest aspirations while adhering to decidedly pragmatic policies.
+
+> **DH**: Depending on the style of writing, this might be a readable way to get a feel for these 3 founding "fathers". 
 # Christian perspective
 
 ## Origins of Christian Morality **Meeks**: 1993 (orig. pub.) 
@@ -173,6 +256,16 @@ The philosopher’s ideas spread like wildfire across Europe, offering the scien
 
 > **DH**: This is important because of the linkage he explores between the "Children of Abraham" Aristotle. Mixture of Theology and Philosophy. The classical twins from the middle ages.
 
-saragabbard@aol.com
+## Theology in America:  Christian Thought from the Age of the Puritans to the Civil War **Holifield**: 2003.
 
+This book, the most comprehensive survey of early American Christian theology ever written, encompasses scores of American theological traditions, schools of thought, and thinkers. E. Brooks Holifield examines mainstream Protestant and Catholic traditions as well as those of more marginal groups. He looks closely at the intricacies of American theology from 1636 to 1865 and considers the social and institutional settings for religious thought during this period.
+
+The book explores a range of themes, including the strand of Christian thought that sought to demonstrate the reasonableness of Christianity, the place of American theology within the larger European setting, the social location of theology in early America, and the special importance of the Calvinist traditions in the development of American theology. Broad in scope and deep in its insights, this magisterial book acquaints us with the full chorus of voices that contributed to theological conversation in Americas early years.
+
+> **DH**: Another long book. Comprehensive, so it can be a lesson in the complexity of our American story.
+## America's God: From Jonathan Edwards to Abraham Lincoln  **Noll** 2002.
+
+Religious life in early America is often equated with the fire-and-brimstone Puritanism best embodied by the theology of Cotton Mather. Yet, by the nineteenth century, American theology had shifted dramatically away from the severe European traditions directly descended from the Protestant Reformation, of which Puritanism was in the United States the most influential. In its place arose a singularly American set of beliefs. In *America's God*, Mark Noll has written a biography of this new American ethos. In the 125 years preceding the outbreak of the Civil War, theology played an extraordinarily important role in American public and private life. Its evolution had a profound impact on America's self-definition. The changes taking place in American theology during this period were marked by **heightened spiritual inwardness, a new confidence in individual reason, and an attentiveness to the economic and market realities of Western life.** Vividly set in the social and political events of the age, America's God is replete with the figures who made up the early American intellectual landscape, from theologians such as Jonathan Edwards, Nathaniel W. Taylor, William Ellery Channing, and Charles Hodge and religiously inspired writers such as Harriet Beecher Stowe and Catherine Stowe to dominant political leaders of the day like Washington, Jefferson, and Lincoln. The contributions of these thinkers combined with the religious revival of the 1740s, colonial warfare with France, the consuming struggle for independence, and the rise of evangelical Protestantism to form a common intellectual coinage based on a rising republicanism and commonsense principles. As this Christian republicanism affirmed itself, it imbued in dedicated Christians a conviction that the Bible supported their beliefs over those of all others. Tragically, this sense of religious purpose set the stage for the Civil War, as the conviction of Christians both North and South that God was on their side served to deepen a schism that would soon rend the young nation asunder. Mark Noll has given us the definitive history of Christian theology in America from the time of Jonathan Edwards to the presidency of Abraham Lincoln. It is a story of a flexible and creative theological energy that over time forged a guiding national ideology the legacies of which remain with us to this day.
+
+> **DH**: Noll is a leading and important voice of the Evangelical strand of Christianity. I haven't read this, but it has been on my radar for some time. Part of my caution is an awareness of how this Evangelicalism has morphed in some places into Christian Nationalism. He gives clear expression of the complexity of the American religious experience. Its past is complex. Its present is getting more so. It reminds me of a saying about Judaism. "Jews are like everybody else ... only more so."
 
