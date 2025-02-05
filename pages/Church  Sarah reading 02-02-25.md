@@ -9,6 +9,62 @@ title: Sarah's library (annotated)
 
 saragabbard@aol.com
 
+# Contents\
+## Human perspective
+
+- Sapiens **Harari**: 2025. \
+- Ideas: A History of Thought from Fire to Freud **Watson**: 2005. \
+
+## Western thought
+
+* *The Cave and the Light* **Hernan**: 2013. \
+* _Greek Realities_ **Hooper**: 1978. \
+* _Civilisation_ **Clark**: 2015.\
+* _The Proper Study of Mankind_ **Berlin** 2000. \
+* _History of Knowledge_ **Van Doren**: 1992.\
+* _The Story of Philosophy_ **Durant** .\
+* From Dawn to Decadence **Barzun**: 2001 (orig).\
+* Classics of Western Philosophy **Cahn**: 8th ed. \
+* _Columbia History of Western Philosophy_ **Popkin**: 2000. \
+* Aquinas, Aristotle and the promise of the Common Good **Keys**: 2006.\
+* The Closing of the Western Mind: The Rise of Faith and the Fall of Reason **Freeman**: 2003.\
+* The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**: 2001.\
+* God's Men; the origins of western culture **Parkes**: 1959.\
+* A History of Western Philosophy  from the Greeks to the Renaissance **Russell**: 1945.\
+
+## Political theory
+
+* An Invitation to Political Thought **Deutsch and Fornieri**: 2008\
+* History of Political Philosophy **Strauss and Cropsey**\
+* *Liberalism: Ancient and Modern* **Strauss**: 1995. \
+* _Toward Democracy_ **Kloppenberg**: 2016. \
+* Classic of Moral and Political Theory **Morgan, ed**\
+
+## American focused
+
+* The New England Soul **Stout**: 2011.\
+* The Metaphysical Club **Menand**: 2002\
+* Democracy in America **Tocqueville**.\
+* American Political Thought **Kramnick and Lowi**: 2009\
+* Emerson: The Mind on Fire **Richardson**: 2015\
+* Beneath the American Renaissance: The Subversive Imagination in the Age of Emerson and Melville **Reynolds**: 2011\
+* *America the Philosophical* **Romano**: 2013. \
+* American Transcendentalism **Gura**: 2008.\
+* Roger Williams and the Creation of the American Soul: Church, State, and the Birth of Liberty **Barry**: 2012.\
+* Making of the American Self: Jonathan Edwards to Abraham Lincoln **Howe**: 2009.\
+* The Idea of America: Reflections on the Birth of the United States **Wood** 2011.\
+* The Ideological Origins of the American Revolution **Bailyn**: 1968.\
+* People of Paradox: An Inquiry Concerning the Origins of American Civilization **Kammen**: 1973\
+* Hamilton, Adams, Jefferson: The Politics of Enlightenment and the American Founding **Staloff**: 2007.\
+
+## Christian perspective
+
+* Origins of Christian Morality **Meeks**: 1993 (orig. pub.) * Aristotle's Children **Rubenstein**: 2004.\
+* Theology in America:  Christian Thought from the Age of the Puritans to the Civil War **Holifield**: 2003.\
+* America's God: From Jonathan Edwards to Abraham Lincoln  **Noll** 2002.\
+
+---
+
 # Human perspective
 
 ## Sapiens **Harari**: 2025. 
