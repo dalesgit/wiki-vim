@@ -47,9 +47,10 @@ testing.md](initial testing.md)
 
 - [[1729012619-software.md]]
 
-- - [[vim tabular.md]]
+- [[vim tabular.md]]
 
 ## obsidian 1.8
-https://youtu.be/w44sNTl-zvI?si=1V0oYjhGr_G7qNpg
+
+[youtube](https://youtu.be/w44sNTl-zvI?si=1V0oYjhGr_G7qNpg)
 
 especially web viewer
