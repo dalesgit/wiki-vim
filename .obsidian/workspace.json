@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a503b9c8588c1a65",
+        "id": "718f18767bf2292f",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf35ddee11e83d1",
+            "id": "b4ce44474f191187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "pages/Church  Sarah reading 02-02-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "assets/elpedro_terminator.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Church  Sarah reading 02-02-25"
+              "icon": "lucide-file-text",
+              "title": "elpedro_terminator"
             }
           }
         ]
@@ -88,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -288,8 +275,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bf35ddee11e83d1",
+  "active": "b4ce44474f191187",
   "lastOpenFiles": [
+    "technical.md",
+    "writing.md",
+    "pages/Church  Sarah reading 02-02-25.md",
     "pages/Packing Pacific Cruise.md",
     "journal/2025-01-27.md",
     "journal/2024-10-01.md",
@@ -317,11 +307,6 @@
     "journal/2025-01-18.md",
     "1728505907-organization.md",
     "pages/guest room.md",
-    "psalm-summer.md",
-    "journal/2025-01-06.md",
-    "Book of occasional services.md",
-    "journal/2025-01-04.md",
-    "journal/2025-01-05.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
@@ -331,7 +316,6 @@
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "SG_Grounded2.pdf",
     "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
