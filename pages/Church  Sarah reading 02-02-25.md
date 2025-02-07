@@ -1,84 +1,102 @@
 ---
 id: Church  Sarah reading 02-02-25
-aliases: []
-tags: []
+aliases: 
+tags:
+  - philosophy
+  - history
+  - american-culture
 author: Fr. Dale
 date: Feb. 2025
 title: Sarah's library (annotated)
 ---
 
+I have organized this bibliography into several sections. My intention with that is to assist in choosing where to begin reading/studying. You can ask which area you are most interested in, ... or which area you know the least about, ... or which readings seem most accessible and readable. I have tried to note several texts that I would be most interested in at the moment. That's not necessarily what I would recommend to someone else.
+
+- My own sensibilities would want a look at *Ideas: A History of Thought from Fire* because of its combination of such broad integraton of different disciplines. 
+- The *Cave and the light* seems readable and establishes one of the most important dichotomies in our inherited way of thinking.
+- *Civilization* is an accessible view of a broad swath of western culture.
+- *The Closing of the Western Mind* reflects a topic I have thought a lot about and would have good insights for how the church should be behaving at this crucial time.
+- I have generally found political theory to be particularly difficult. *An Invitation to Political Thought* is one of the books in this list I would turn to early on.
+- *The Metaphysical Club* would probably be a good place to begin if your focus is on American thought.
+- *American Transcendentalism* would be another introduction to the American focus.
+- If your first interest is in the religious / moral section in this list, any of the texts would be a good beginning.
+
+-- Dale Hathaway
+
 saragabbard@aol.com
 
-# Contents\
+# Contents
 ## Human perspective
 
-- Sapiens **Harari**: 2025. \
-- Ideas: A History of Thought from Fire to Freud **Watson**: 2005. \
+- Sapiens **Harari**: 2025. 
+- Ideas: A History of Thought from Fire to Freud **Watson**: 2005. 
 
 ## Western thought
 
-* *The Cave and the Light* **Hernan**: 2013. \
-* _Greek Realities_ **Hooper**: 1978. \
-* _Civilisation_ **Clark**: 2015.\
-* _The Proper Study of Mankind_ **Berlin** 2000. \
-* _History of Knowledge_ **Van Doren**: 1992.\
-* _The Story of Philosophy_ **Durant** .\
-* From Dawn to Decadence **Barzun**: 2001 (orig).\
-* Classics of Western Philosophy **Cahn**: 8th ed. \
-* _Columbia History of Western Philosophy_ **Popkin**: 2000. \
-* Aquinas, Aristotle and the promise of the Common Good **Keys**: 2006.\
-* The Closing of the Western Mind: The Rise of Faith and the Fall of Reason **Freeman**: 2003.\
-* The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**: 2001.\
-* God's Men; the origins of western culture **Parkes**: 1959.\
-* A History of Western Philosophy  from the Greeks to the Renaissance **Russell**: 1945.\
+* *The Cave and the Light* **Hernan**: 2013. 
+* _Greek Realities_ **Hooper**: 1978. 
+* _Civilisation_ **Clark**: 2015.
+* _The Proper Study of Mankind_ **Berlin** 2000. 
+* _History of Knowledge_ **Van Doren**: 1992.
+* _The Story of Philosophy_ **Durant** .
+* From Dawn to Decadence **Barzun**: 2001 (orig).
+* Classics of Western Philosophy **Cahn**: 8th ed. 
+* _Columbia History of Western Philosophy_ **Popkin**: 2000. 
+* Aquinas, Aristotle and the promise of the Common Good **Keys**: 2006.
+* The Closing of the Western Mind: The Rise of Faith and the Fall of Reason **Freeman**: 2003.
+* The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**: 2001.
+* God's Men; the origins of western culture **Parkes**: 1959.
+* A History of Western Philosophy  from the Greeks to the Renaissance **Russell**: 1945.
 
 ## Political theory
 
-* An Invitation to Political Thought **Deutsch and Fornieri**: 2008\
-* History of Political Philosophy **Strauss and Cropsey**\
-* *Liberalism: Ancient and Modern* **Strauss**: 1995. \
-* _Toward Democracy_ **Kloppenberg**: 2016. \
-* Classic of Moral and Political Theory **Morgan, ed**\
+* An Invitation to Political Thought **Deutsch and Fornieri**: 2008
+* History of Political Philosophy **Strauss and Cropsey**
+* *Liberalism: Ancient and Modern* **Strauss**: 1995. 
+* _Toward Democracy_ **Kloppenberg**: 2016. 
+* Classic of Moral and Political Theory **Morgan, ed**
 
 ## American focused
 
-* The New England Soul **Stout**: 2011.\
-* The Metaphysical Club **Menand**: 2002\
-* Democracy in America **Tocqueville**.\
-* American Political Thought **Kramnick and Lowi**: 2009\
-* Emerson: The Mind on Fire **Richardson**: 2015\
-* Beneath the American Renaissance: The Subversive Imagination in the Age of Emerson and Melville **Reynolds**: 2011\
-* *America the Philosophical* **Romano**: 2013. \
-* American Transcendentalism **Gura**: 2008.\
-* Roger Williams and the Creation of the American Soul: Church, State, and the Birth of Liberty **Barry**: 2012.\
-* Making of the American Self: Jonathan Edwards to Abraham Lincoln **Howe**: 2009.\
-* The Idea of America: Reflections on the Birth of the United States **Wood** 2011.\
-* The Ideological Origins of the American Revolution **Bailyn**: 1968.\
-* People of Paradox: An Inquiry Concerning the Origins of American Civilization **Kammen**: 1973\
-* Hamilton, Adams, Jefferson: The Politics of Enlightenment and the American Founding **Staloff**: 2007.\
+* The New England Soul **Stout**: 2011.
+* The Metaphysical Club **Menand**: 2002
+* Democracy in America **Tocqueville**.
+* American Political Thought **Kramnick and Lowi**: 2009
+* Emerson: The Mind on Fire **Richardson**: 2015
+* Beneath the American Renaissance: The Subversive Imagination in the Age of Emerson and Melville **Reynolds**: 2011
+* *America the Philosophical* **Romano**: 2013. 
+* American Transcendentalism **Gura**: 2008.
+* Roger Williams and the Creation of the American Soul: Church, State, and the Birth of Liberty **Barry**: 2012.
+* Making of the American Self: Jonathan Edwards to Abraham Lincoln **Howe**: 2009.
+* The Idea of America: Reflections on the Birth of the United States **Wood** 2011.
+* The Ideological Origins of the American Revolution **Bailyn**: 1968.
+* People of Paradox: An Inquiry Concerning the Origins of American Civilization **Kammen**: 1973
+* Hamilton, Adams, Jefferson: The Politics of Enlightenment and the American Founding **Staloff**: 2007.
 
 ## Christian perspective
 
-* Origins of Christian Morality **Meeks**: 1993 (orig. pub.) * Aristotle's Children **Rubenstein**: 2004.\
-* Theology in America:  Christian Thought from the Age of the Puritans to the Civil War **Holifield**: 2003.\
-* America's God: From Jonathan Edwards to Abraham Lincoln  **Noll** 2002.\
+* Origins of Christian Morality **Meeks**: 1993 (orig. pub.) * Aristotle's Children **Rubenstein**: 2004.
+* Theology in America:  Christian Thought from the Age of the Puritans to the Civil War **Holifield**: 2003.
+* America's God: From Jonathan Edwards to Abraham Lincoln  **Noll** 2002.
 
 ---
 
 # Human perspective
 
-## Sapiens **Harari**: 2025. 
+## Sapiens **Harari**: 2025. 464 pp.
 
 From renowned historian Yuval Noah Harari comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us?
 
-> **DH**: This is a huge book – fitting the subject matter I suppose. I think I want to attempt to read it myself.
+> **DH**: This is a huge book – fitting the subject matter I suppose. I think I want to attempt to read it myself. I am especially intrigued by the integration of current scientific thought into a classic account of what it means to be human.
 
-## Ideas: A History of Thought from Fire to Freud **Watson**: 2005. 
-In this hugely ambitious and exciting book Peter Watson tells the history of ideas from prehistory to the present day, seeking a new way to tell the history of the world. The book begins over a million years ago with a discussion of how the earliest ideas might have originated. Looking at animal behaviour that appears to require some thought  tool-making, territoriality, counting, language (or at least sounds), pairbonding  Peter Watson moves on to the apeman and the development of simple ideas such as cooking, the earliest language, the emergence of family life. All the obvious areas will be tackled  the Ancient Greeks, Christian theology, the ideas of Jesus, astrological thought, the soul, the self, beliefs about the heavens, the ideas of Islam, the Crusades, humanism, the Renaissance, Gutenberg and the book, the scientific revolution, the age of discovery, Shakespeare, the idea of Revolution, the Romantic imagination, Darwin, imperialism, modernism, Freud right up to the present day and the internet.
+## Ideas: A History of Thought from Fire to Freud **Watson**: 2005. 852 pp. 
 
-IDEAS: A HISTORY will concentrate on the activities and achievements of philosophers, writers, artists, scientists, inventors, religious thinkers, poets, historians, jurists and dramatists, investigating how their ideas have shaped our lives and thinking
+In this hugely ambitious and exciting book Peter Watson tells the history of ideas from prehistory to the present day, seeking a new way to tell the history of the world. The book begins over a million years ago with a discussion of how the earliest ideas might have originated. Looking at animal behaviour that appears to require some thought -- tool-making, territoriality, counting, language (or at least sounds), pairbonding -- Peter Watson moves on to the apeman and the development of simple ideas such as cooking, the earliest language, the emergence of family life. All the obvious areas will be tackled -- the Ancient Greeks, Christian theology, the ideas of Jesus, astrological thought, the soul, the self, beliefs about the heavens, the ideas of Islam, the Crusades, humanism, the Renaissance, Gutenberg and the book, the scientific revolution, the age of discovery, Shakespeare, the idea of Revolution, the Romantic imagination, Darwin, imperialism, modernism, Freud right up to the present day and the internet.
+
+*Ideas: A History* will concentrate on the activities and achievements of philosophers, writers, artists, scientists, inventors, religious thinkers, poets, historians, jurists and dramatists, investigating how their ideas have shaped our lives and thinking
 
 > **DH**: So many of these books are huge! I would love to look into this. I don't know if I have it in me.
+
 # Western thought
 
 ## *The Cave and the Light* **Hernan**: 2013. 
@@ -89,7 +107,7 @@ Arthur Herman has now written the definitive sequel to his New York Times bestse
 
 ## _Greek Realities_ **Hooper**: 1978. 
 
-"The study of the Greeks can never be a closed account. The wide variety of critical and descriptive works written about them . . . . bears witness to man's continuing preoccupation with himself. Other ages might talk of God or machines; the Greeks, from Homer to Diogenes, were fascinated with man. Plato's emphasis on the spiritual world and Diogenes' unheroic retreat may seem to be departures from the Greek way. But that would be true if there were a single Greek way. Obviously, there was not. It is the variety of ideas about man, who he is and who he hopes to be, which is the real Greek legacy . . . . This book \[begins] with the rich tombs of Mycenaean kings who tried desperately to preserve what they had won. It ends with Diogenes and his fellow Cynics who say that it is better to let it all go. In between are the heroes, the art, the history which belong to the ancient Greeks. The questions they raised and the answers they offered are still the concern of us all."
+"The study of the Greeks can never be a closed account. The wide variety of critical and descriptive works written about them . . . . bears witness to man's continuing preoccupation with himself. Other ages might talk of God or machines; the Greeks, from Homer to Diogenes, were fascinated with man. Plato's emphasis on the spiritual world and Diogenes' unheroic retreat may seem to be departures from the Greek way. But that would be true if there were a single Greek way. Obviously, there was not. It is the variety of ideas about man, who he is and who he hopes to be, which is the real Greek legacy . . . . This book [begins] with the rich tombs of Mycenaean kings who tried desperately to preserve what they had won. It ends with Diogenes and his fellow Cynics who say that it is better to let it all go. In between are the heroes, the art, the history which belong to the ancient Greeks. The questions they raised and the answers they offered are still the concern of us all."
 
 > **DH**: I don't know this work. At 480 pp. it is probably a dense read. One would gather a lot of information about the Greek origins. No doubt some (or more than some?) is outdated by recent archaeological and historical work.
 
@@ -102,8 +120,7 @@ Arthur Herman has now written the definitive sequel to his New York Times bestse
 
 Isaiah Berlin was one of the leading thinkers of our time and one of its finest writers. The Proper Study of Mankind brings together his most celebrated writing: here the reader will find Berlin's famous essay on Tolstoy, "The Hedgehog and the Fox"; his penetrating portraits of contemporaries from Pasternak and Akhmatova to Churchill and Roosevelt; his essays on liberty and his exposition of pluralism; his defense of philosophy and history against assimilation to scientific method; and his brilliant studies of such intellectual originals as Machiavelli, Vico, and Herder.
 
-
-> **DH**: Another classic author. This is an anthology. I'm sure this would be interesting reading. Would it contain what you're looking for right now.
+> **DH**: Another classic author. This is an anthology. I'm sure this would be interesting reading. Would it contain what you're looking for right now? I'm not sure.
 
 ## _History of Knowledge_ **Van Doren**: 1992.
 
@@ -120,11 +137,13 @@ Through 11 volumes, each dedicated to a specific philosopher or philosophical er
 > **DH**: I have read from this massive work off and on throughout my adult life. Even when I was young I recognized it as a **survey** will all the limitations of that. But it was useful for getting the big picture.
  
 ## From Dawn to Decadence **Barzun**: 2001 (orig).
+
 Highly regarded here and abroad for some thirty works of cultural history and criticism, master historian Jacques Barzun has set down in one continuous narrative the sum of his discoveries and conclusions about the whole of Western culture since 1500. Barzun describes what Western Man wrought from the Renaissance and Reformation down to the present in the double light of its own time and our pressing concerns. 
 
 > **DH**:I haven't read this. I should have. If your focus is on the modern world from a traditional perspective of the developed world, this is probably the basic building block.
 
 ## Classics of Western Philosophy **Cahn**: 8th ed. 
+
 The Eighth Edition of Steven M. Cahn's Classics of Western Philosophy offers the same exacting standard of editing and translation that made earlier editions of this anthology the most highly valued and widely used volume of its kind. But the Eighth Edition offers exciting new content as well: Plato's Laches (complete), new selections from Aristotle's Nicomachean Ethics (on courage), Descartes' Discourse on Method (complete), all previously omitted sections of Berkeley's A Treatise Concerning the Principles of Human Knowledge, Kant's Prolegomena to Any Future Metaphysics (complete).
 
 > **DH**: This is a textbook version of classic texts. Not for bedtime reading. But it would provide a great way to see what are regarded as the classic voices in Western Philosophy. Pick an author.
@@ -135,21 +154,21 @@ Richard Popkin has assembled 63 leading scholars to forge a highly approachable 
 
 > **DH**: This is important I think because of the newer, broader perspective it brings compared to the classical European view. I suspect it is an important work. 
 
-## Aquinas, Aristotle and the promise of the Common Good **Keys**: 2006.
+## Aquinas, Aristotle and the promise of the Common Good **Keys**: 2006. 272 pp.
 
 *Aquinas, Aristotle, and the Promise of the Common Good*, first published in 2006, claims that contemporary theory and practice have much to gain from engaging Aquinas's normative concept of the common good and his way of reconciling religion, philosophy, and politics. Examining the relationship between personal and common goods, and the relation of virtue and law to both, Mary M. Keys shows why Aquinas should be read in addition to Aristotle on these perennial questions. She focuses on Aquinas's Commentaries as mediating statements between Aristotle's Nicomachean Ethics and Politics and Aquinas's own *Summa Theologiae*, showing how this serves as the missing link for grasping Aquinas's understanding of Aristotle's thought. Keys argues provocatively that Aquinas's Christian faith opens up new panoramas and possibilities for philosophical inquiry and insights into ethics and politics. Her book shows how religious faith can assist sound philosophical inquiry into the foundation and proper purposes of society and politics.
 
 > **DH**: This is kind of right up my alley, at least in terms of my earliest philosophical interests. I'm not sure whether I'm really Aristotelian over Platonist. I am quite sure that one of the biggest realities we are living through is the loss of a sense of the **Common Good** in our society.
 
-## The Closing of the Western Mind: The Rise of Faith and the Fall of Reason **Freeman**: 2003.
+## The Closing of the Western Mind: The Rise of Faith and the Fall of Reason **Freeman**: 2003. 480 pp.
 
 A radical and powerful reappraisal of the impact of Constantine’s adoption of Christianity on the later Roman world, and on the subsequent development both of Christianity and of Western civilization.  
   
 When the Emperor Contstantine converted to Christianity in 368 AD, he changed the course of European history in ways that continue to have repercussions to the present day. Adopting those aspects of the religion that suited his purposes, he turned Rome on a course from the relatively open, tolerant and pluralistic civilization of the Hellenistic world, towards a culture that was based on the rule of fixed authority, whether that of the Bible, or the writings of Ptolemy in astronomy and of Galen and Hippocrates in medicine. Only a thousand years later, with the advent of the Renaissance and the emergence of modern science, did Europe begin to free itself from the effects of Constantine's decision, yet the effects of his establishment of Christianity as a state religion remain with us, in many respects, today. Brilliantly wide-ranging and ambitious, this is a major work of history.
 
-> **DH**: I have known for many years how significant Constantine has been in the church up to the present day. The Constantine in the church wants to build buildings and influence society. Pre-Constantinian church is not interested in power but more in holiness, less interested in **influence** than of **reflecting the image of God**. This is probably an important work.
+> **DH**: I have known for many years how significant Constantine has been in the church up to the present day. The Constantine in the church wants to build buildings and influence society. Pre-Constantinian church was not so interested in power but more in holiness, less interested in **influence** than of **reflecting the image of God**. This is probably an important work.
 
-## The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**: 2001.
+## The Dream of Wisdom: History of Philosophy from the Greeks to the Renaissance **Gottlieb**: 2001. 512 pp.
 
 Already a classic, this landmark study of early Western thought now appears in a new edition with expanded coverage of the Middle Ages. This landmark study of Western thought takes a fresh look at the writings of the great thinkers of classic philosophy and questions many pieces of conventional wisdom. The book invites comparison with Bertrand Russell's monumental History of Western Philosophy, "but Gottlieb's book is less idiosyncratic and based on more recent scholarship" (Colin McGinn, Los Angeles Times). A New York Times Notable Book, a Los Angeles Times Best Book, and a Times Literary Supplement Best Book of 2001.
 
@@ -188,7 +207,11 @@ In this magnificent and encyclopedic overview, James T. Kloppenberg presents the
 
 > **DH**: This is gigantic in length and no doubt comprehensive in its survey of the shifting experience with "democracy". This wouldn't float to the top of my list because I already get the notion that our experience of "democracy" has evolved and will evolve, perhaps has ended. But I don't see that it would help me to discern my place in our current manifestation of "democracy". 
 
-## Classic of Moral and Political Theory **Morgan, ed**
+## Classics of Moral and Political Theory **Morgan, ed**: 2011 (1992). 1376 pp. 
+
+The fifth edition of Michael L. Morgan's Classics of Moral and Political Theory broadens the scope and increases the versatility of this landmark anthology by offering new selections from Aristotle's Politics, Aquinas' Disputed Questions on Virtue and Treatise on Law, as well as the entirety of Locke's Letter Concerning Toleration, Kant's To Perpetual Peace, and Nietzsche's On the Advantage and Disadvantage of History for Life.
+
+> **DH**: If you wanted to dip into some of the original texts, this would provide plenty of that. It might leave you more perplexed than you started. It would be a useful companion to lecture course or some summary text.
 
 # American focused
 ## The New England Soul **Stout**: 2011.
@@ -238,7 +261,7 @@ This bold, insightful book argues that America today towers as the most philosop
 > **DH**: The general public consensus as well as my own judgment is that Romano's analysis is not accurate. But a contrarian view is always worth looking at and testing one's presuppositions.
 
 
-## American Transcendentalism **Gura**: 2008.
+## American Transcendentalism **Gura**: 2008. 385 pp.
 American Transcendentalism is a comprehensive narrative history of America’s first group of public intellectuals, the men and women who defined American literature and indelibly marked American reform in the decades before and following the America Civil War. Philip F. Gura masterfully traces their intellectual genealogy to transatlantic religious and philosophical ideas, illustrating how these informed the fierce local theological debates that, so often first in Massachusetts and eventually throughout America, gave rise to practical, personal, and quixotic attempts to improve, even perfect the world. The transcendentalists would painfully bifurcate over what could be attained and how, one half epitomized by Ralph Waldo Emerson and stressing self-reliant individualism, the other by Orestes Brownson, George Ripley, and Theodore Parker, emphasizing commitment to the larger social good.
 
 > **DH**: I was late in appreciating the importance of the Transcendentals to the contradictory nature of the American ethos. I may try to read this (Kindle is only $3) I'm not sure this is where you want to start in your study, but I think it's important.

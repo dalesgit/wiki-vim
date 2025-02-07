@@ -12,4 +12,6 @@ tags: []
 
 [[1729104076-some-new-link|Some new link]]
 
-[Search for Oven.md]]
+[[Search for Oven.md]]
+
+[[Soup recipes.md]]

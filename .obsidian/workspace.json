@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/preach-6th-sun-epiphany.md",
+                "file": "pages/Church  Sarah reading 02-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "preach-6th-sun-epiphany"
+              "title": "Church  Sarah reading 02-02-25"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -301,10 +302,11 @@
   },
   "active": "ab1e186a458d061f",
   "lastOpenFiles": [
+    "pages/Church  Sarah reading 02-02-25.md",
+    "pages/preach-6th-sun-epiphany.md",
     "journal/2025-02-22.md",
     "journal/2025-02-15.md",
     "journal/2025-02-06.md",
-    "pages/preach-6th-sun-epiphany.md",
     "Sixth Sunday after Epiphany.md",
     "Sixth Sunday after Epiphany 1-Epistle-gospel.md",
     "preaching.md",
@@ -313,7 +315,6 @@
     "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
     "assets/elpedro_terminator.pdf",
     "technical.md",
-    "pages/Church  Sarah reading 02-02-25.md",
     "pages/Packing Pacific Cruise.md",
     "journal/2025-01-27.md",
     "journal/2024-10-01.md",
