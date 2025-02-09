@@ -13,3 +13,6 @@ tags: []
 
 -   [[pages/anniversary-hymn.md]] 
 - [[/pages/Ordination 42 years.md|Ordination 42 years]]
+
+[journal/2025-02-08.md](journal/2025-02-08.md) truth-tellingf
+
