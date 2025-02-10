@@ -7,6 +7,12 @@ tags:
 date: "2024-09-03"
 title: technology
 ---
+
+## Return to trying MkDocs
+
+https://www.blimped.nl/creating-a-beautiful-documentation-site-with-mkdocs/#purpose
+
+
 ## Hugo trials :technical:  [journal/2025-02-10.md](journal/2025-02-10.md) 
 - https://gohugo.io/getting-started/external-learning-resources/
 
