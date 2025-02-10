@@ -1,0 +1,8 @@
+- Ordained 1982
+- doctoral program at ND (unfinished)
+- call to serve the unlikely (hospice, small communities)
+- at that age I didn't appreciate how much **making money** was involved
+	- But I actually found my way to doing that in my years of ministry
+- retired parish ministry 2012. Supply work, ad hoc, ever since. 
+- Adjunct in religion Winthrop Univ. 2014-2021
+- 
