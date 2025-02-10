@@ -2,10 +2,15 @@
 id: technology
 aliases:
   - technology
-tags: []
+tags:
+  - technical
 date: "2024-09-03"
 title: technology
 ---
+## Hugo trials :technical:  [journal/2025-02-10.md](journal/2025-02-10.md) 
+- https://gohugo.io/getting-started/external-learning-resources/
+
+- https://www.youtube.com/watch?v=0GZxidrlaRM I finally got something in the server, by using the flag "-D", telling it to serve the Drafts. One blogger posted this: "As of this post, Hugo automatically creates a directory folder on the root list file. Nice! And one must use --buildDrafts with hugo server instead of -D" but the short version worked for me.
 ## Tue 03 Sep 2024
 
 - Software: inserting date in .vimrc: :technology: [month](https://man7.org/linux/man-pages/man3/strftime.3.html "strftime(3) - Linux manual page")
