@@ -2,10 +2,10 @@
 - [[2025-02-10]] at 4pm
 - [merton quote](https://onbeing.org/blog/thomas-mertons-prayer-that-anyone-can-pray/#:~:text=%E2%80%9CMy%20Lord%20God%2C%20I%20have,I%20am%20actually%20doing%20so).
 ## [[my-background]]
-	 have been in formal spiritual direction since 1989. I had spiritual mentors before that. On two occasions at seminary I met in seminar with Kenneth Leech *Soul Friend*.
-	- This is a time of meeting one another.
-	- prayer life? feel too negative with me. 
-	- balance forgiving or too forgiving
+- I have been in formal spiritual direction since 1989. I had spiritual mentors before that. On two occasions at seminary I met in seminar with Kenneth Leech *Soul Friend*.
+- This is a time of meeting one another.
+- prayer life? feel too negative with me. 
+- balance forgiving or too forgiving
 ## his conversation
 - went to King's College in ?? knew Holy Cross community
 	- went briefly to pre-seminary inquiry time
