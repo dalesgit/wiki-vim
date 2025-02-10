@@ -11,6 +11,15 @@ title: technology
 - https://gohugo.io/getting-started/external-learning-resources/
 
 - https://www.youtube.com/watch?v=0GZxidrlaRM I finally got something in the server, by using the flag "-D", telling it to serve the Drafts. One blogger posted this: "As of this post, Hugo automatically creates a directory folder on the root list file. Nice! And one must use --buildDrafts with hugo server instead of -D" but the short version worked for me.
+
+Using a different theme I evidently need to use the long version.
+
+**also** @isaacgraphics1416
+2 years ago
+If anyone else is getting an error which says:
+"execute of template failed at <.url>: can’t evaluate field url in type page.Page" 
+It's because ".URL" is depreciated and won't work in modern installs.
+You can fix it by changing {{.URL}} to {{.Permalink}}:> 
 ## Tue 03 Sep 2024
 
 - Software: inserting date in .vimrc: :technology: [month](https://man7.org/linux/man-pages/man3/strftime.3.html "strftime(3) - Linux manual page")
