@@ -12,6 +12,10 @@ title: technology
 
 https://www.blimped.nl/creating-a-beautiful-documentation-site-with-mkdocs/#purpose
 
+This gives the method for creating individual venv:  https://stackoverflow.com/questions/75608323/how-do-i-solve-error-externally-managed-environment-every-time-i-use-pip-3
+
+setting up the my-venv in the working folder allowed me to pip install to this project.
+
 
 ## Hugo trials :technical:  [journal/2025-02-10.md](journal/2025-02-10.md) 
 - https://gohugo.io/getting-started/external-learning-resources/
