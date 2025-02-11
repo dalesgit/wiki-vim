@@ -9,6 +9,10 @@ title: technical
 
 # technical
 
+## [[2025-01-19]] 
+
+Help in formating (e.g. wiki-vim) in nvim lua: https://stackoverflow.com/questions/65549814/setting-vimwiki-list-in-a-lua-init-file -- to follow url links in nvim I seem to need the keybinding of wiki-vim (<return>)
+
 ## Foam [[2024-10-28-Monday]]
 
 <https://foambubble.github.io/foam/>
