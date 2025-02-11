@@ -16,6 +16,8 @@ This gives the method for creating individual venv:  https://stackoverflow.com/q
 
 setting up the my-venv in the working folder allowed me to pip install to this project.
 
+Start server with: ```my-venv/bin/mkdocs serve```
+
 
 ## Hugo trials :technical:  [journal/2025-02-10.md](journal/2025-02-10.md) 
 - https://gohugo.io/getting-started/external-learning-resources/
