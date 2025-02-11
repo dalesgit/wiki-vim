@@ -4,22 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "4101026346da60df",
+        "id": "346fd6a059dd15fa",
         "type": "tabs",
         "children": [
           {
-            "id": "9a71d7c671aa45c4",
+            "id": "bb0d4238eb75ea27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-01-19.md",
+                "file": "pages/jim-palmer.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-01-19"
+              "title": "jim-palmer"
+            }
+          },
+          {
+            "id": "185ef2f7a5b1cf0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/my-background.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "my-background"
+            }
+          },
+          {
+            "id": "01970f3107c863e8",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://onbeing.org/blog/thomas-mertons-prayer-that-anyone-can-pray/#:~:text=%E2%80%9CMy%20Lord%20God%2C%20I%20have,I%20am%20actually%20doing%20so",
+                "title": "Thomas Merton's Prayer That Anyone Can Pray | The On Being Project",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Thomas Merton's Prayer That Anyone Can Pray | The On Being Project"
             }
           }
         ]
@@ -41,7 +88,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#of",
+                "query": "tag:#centering-prayer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +176,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -154,8 +201,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -244,12 +291,22 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "111ba1e3078e67b2",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -269,46 +326,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a71d7c671aa45c4",
+  "active": "bb0d4238eb75ea27",
   "lastOpenFiles": [
+    "pages/my-background.md",
+    "pages/jim-palmer.md",
+    "journal/2025-02-10.md",
+    "pages/Church  Sarah reading 02-02-25.md",
+    "pages/preach-6th-sun-epiphany.md",
+    "pages/bishp-mar-mari-sermon.md",
+    "journal/2025_w06.md",
+    "journal/2025-02-22.md",
+    "journal/2025-02-15.md",
+    "journal/2025-02-09.md",
+    "journal/2025-02-08.md",
+    "journal/2025-02-07.md",
+    "journal/2025-02-06.md",
+    "assets/ge-oven.pdf",
+    "assets/ge-oven-use-care.pdf",
+    "assets/ge-oven-specs.pdf",
+    "assets/bishops-province8-mokuleia-full-moon.jpg",
+    "assets/20250122--l7wfti.pdf",
+    "assets/20250122--fab1f.pdf",
+    "Soup recipes.md",
+    "Sixth Sunday after Epiphany.md",
+    "Sixth Sunday after Epiphany 1-Epistle-gospel.md",
+    "pages/Packing Pacific Cruise.md",
+    "journal/2025-01-27.md",
+    "journal/2024-10-01.md",
+    "calendar.pdf",
+    "journal/2024-11-10.md",
+    "unraveling 60s generation.md",
+    "Personal Knowledge System.md",
+    "Personal.md",
+    "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
+    "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
+    "robertsEarthPrayersWorld1991.md",
+    "assets/pacific-cruise-itinerary-temperature.pdf",
     "assets/Pasted image 20250119183242.png",
-    "journal/2025-01-19.md",
     "assets/Pasted image 20250119182937.png",
-    "journal/2025-01-17.md",
-    "journal/2025-01-18.md",
-    "1728505907-organization.md",
-    "pages/guest room.md",
-    "psalm-summer.md",
-    "journal/2025-01-06.md",
-    "Book of occasional services.md",
-    "journal/2025-01-04.md",
-    "journal/2025-01-05.md",
-    "lesser-feasts-list.md",
-    "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level.md",
-    "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level  The New Republic.md",
-    "journal/2024-12-20.md",
-    "journal/2024-12-19.md",
-    "journal/2024-12-10.md",
-    "journal/2024-12-11.md",
-    "journal/2024-12-12.md",
-    "journal/2024-12-13.md",
-    "journal/2024-12-14.md",
-    "journal/2024-12-15.md",
-    "journal/2024-12-16.md",
-    "journal/2024-12-18.md",
-    "technical.md",
-    "Margaret Guenther  Remembering Spiritual Masters  Spirituality & Practice.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
     "Pasted image 20241105080105.png",
-    "assets/elpedro_terminator.pdf",
-    "technical.md~",
-    "'spiritual-direction",
-    "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
-    "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "SG_Grounded2.pdf",
-    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
     "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"

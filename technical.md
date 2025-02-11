@@ -247,3 +247,5 @@ The following are the options set with -a that can also be set one by one:
 It appears most things are working now in nvim with wiki.vim plugin
 
 I had to hard wire set it in .local/share/nvim/lazy/wiki.vim/plugin/wiki.vim
+
+## installed "tilix" and it seems to meet much of the criteria for a tiling terminal

@@ -17,7 +17,7 @@ title: preaching
 
 # preaching
 
-
+[[preach-6th-sun-epiphany]]
 ## Schedule
 
 - [[proper-16b.epub]]

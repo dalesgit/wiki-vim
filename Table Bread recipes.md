@@ -1,4 +1,10 @@
-# recipes #bread 
+---
+id: Table Bread recipes
+aliases: []
+tags: []
+---
+
+# recipes #bread  #recipes #kitchen :bread:
 
 ## Basic white
 

@@ -5,34 +5,45 @@
     "children": [
       {
 <<<<<<< HEAD
-        "id": "d1ccbbb85bc53141",
+        "id": "7b6242b0adc500d1",
         "type": "tabs",
         "children": [
           {
-            "id": "2e9c7f5936aebdb1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+            "id": "6f2c22ccf10bf62e",
 =======
-        "id": "ab64bde748acc85f",
+        "id": "2d27b9f6d0192773",
         "type": "tabs",
         "children": [
           {
-            "id": "a85914000f0c66ec",
+            "id": "da7fd66441d236a6",
+>>>>>>> 65c1dccc353971954f14a72f4c9d2fc8eb39b1dd
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "journal/2024-11-05.md",
+<<<<<<< HEAD
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+=======
+                "file": "pages/Packing Pacific Cruise.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2024-11-05"
->>>>>>> dedae93507e11e0413f4c230322d28424194027c
+              "title": "Packing Pacific Cruise"
+>>>>>>> 65c1dccc353971954f14a72f4c9d2fc8eb39b1dd
             }
           }
         ]
@@ -54,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -66,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kitchen",
+                "query": "tag:#centering-prayer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +152,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -176,12 +187,92 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "b420b903f66b495d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2466d403cd5999f8",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ccfa3471b04f320e",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3f2f9e881763e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "efbe6363f9a1cb6f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5ee8b5803c5b10b5",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7d83ae5dc33da5cf",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "96d01b6890c2ccac",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "111ba1e3078e67b2",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -195,82 +286,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
+    "width": 415.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false
     }
   },
 <<<<<<< HEAD
-  "active": "2e9c7f5936aebdb1",
+  "active": "6f2c22ccf10bf62e",
   "lastOpenFiles": [
-    "sdi-guidelines-draft.md",
-    "journal/2024-11-06.md",
+    "pages/SD Readings.md",
+    "journal/2025-01-27.md",
+    "journal/2024-10-01.md",
 =======
-  "active": "a85914000f0c66ec",
+  "active": "da7fd66441d236a6",
   "lastOpenFiles": [
-    "White chili.md",
-    "Instant Pot White Beans (Great Northern, No Soaking!) - Minimalist Baker.md",
+    "pages/Packing Pacific Cruise.md",
+    "journal/2025-01-27.md",
+    "journal/2024-10-01.md",
+    "calendar.pdf",
+>>>>>>> 65c1dccc353971954f14a72f4c9d2fc8eb39b1dd
+    "journal/2024-11-10.md",
+    "unraveling 60s generation.md",
+    "Personal Knowledge System.md",
+    "Personal.md",
+    "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
+    "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
+    "robertsEarthPrayersWorld1991.md",
+    "()(Fleming and Ledogar, 2008).md",
+    "Description based on publisher supplied metadata and other sources.md",
+    "journal/2025-01-25.md",
+    "journal/2025-01-22.md",
+    "journal/2025-01-23.md",
+    "journal/2025-01-24.md",
+    "pages/pacific-cruise-itinerary-temperature.md",
+    "assets/pacific-cruise-itinerary-temperature.pdf",
+    "journal/2025-01-21.md",
+    "journal/2025-01-19.md",
+    "assets/Pasted image 20250119183242.png",
+    "assets/Pasted image 20250119182937.png",
+    "journal/2025-01-17.md",
+    "journal/2025-01-18.md",
+    "1728505907-organization.md",
+    "pages/guest room.md",
+    "psalm-summer.md",
+    "journal/2025-01-06.md",
+    "Book of occasional services.md",
+    "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
     "Pasted image 20241105080105.png",
-    "journal/2024-11-05.md",
-    "journal/2024-11-04.md",
-    "Table Bread recipes.md",
-    "spiritual-direction/Linda.md",
-    "technical.md",
     "assets/elpedro_terminator.pdf",
     "technical.md~",
-    "assets/elpedro_terminator.pdf.md",
-    "assets.md",
-    "SD session Oct 31.md",
-    "shame-as-resistance-notes.md",
-    "journal/2024-10-30.md",
-    "sdi-guidelines-draft.md",
->>>>>>> dedae93507e11e0413f4c230322d28424194027c
-    "journal/2024-10-27.md",
-    "sort-order-codium.md",
-    "preaching.md",
-    "Proper 27a.md",
-    "journal/2024-08-25.md",
-    "Review Rolheiser Sacred Fire.md",
-    "Rolheiser on Sacred Fire.md",
-    "journal/2024-10-25.md",
-    "SD session Oct 24.md",
-    "St Alfred's Day.md",
-    "Verbatim notes.md",
-    "1729712174-mp3-listing.md",
-<<<<<<< HEAD
-    "journal/2024-10-23.md",
-    "journal/2024-10-21.md",
-    "journal/2024-10-22.md",
-    "journal/2024-07-05.md",
-    "journal/2024-10-20.md",
-    "templates/diarytemplate.md",
-    "SD-Journals.md",
-    "teilhard.md",
-    "journal/2024-10-19.md",
-    "Sacred Fire discussion.md",
-    "church forum.md",
-    "church-kine.md",
-=======
->>>>>>> dedae93507e11e0413f4c230322d28424194027c
     "'spiritual-direction",
     "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "SG_Grounded2.pdf",
-    "assets/Enneagram-Ways-Of-Knowing---Oct-3-2024---2-22-PM-g6q1x_ocr.pdf",
-    "2024-10-17.md.orig",
     "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"

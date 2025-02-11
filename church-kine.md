@@ -13,6 +13,7 @@ tags: []
 
 - [[Order of the Ascension.md]]
 - [[Fr. Peter.md]]
+- [/home/dale/Repositories/wiki-vim/pages/preach-6th-sun-epiphany.md](pages/preach-6th-sun-epiphany.md) 
 
 ## Mass
 
