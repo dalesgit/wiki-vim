@@ -14,6 +14,8 @@ tags: []
 
 ## [[DIY]]
 
+## [[financial]]
+
 ## [[writing.md|Writing]]
 
 ## [[Reading-kine]]
