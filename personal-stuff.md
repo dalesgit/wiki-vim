@@ -1,3 +1,9 @@
+---
+id: personal-stuff
+aliases: []
+tags: []
+---
+
 - [[eye yoga.md]]
 - [[shrimp carbonara.md]]
 - [[Hawaiian values.md]]
@@ -7,3 +13,5 @@
 - [[diarytemplate.md]]
 - [[surgery call list.md]]
 - [[Research Shows This Nutrient Can Help Women 60+ Build Muscle  mindbodygreen.md]]
+
+- [[financial]] it turns out I have over $2,000 in a TIAA-CREF account.

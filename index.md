@@ -38,6 +38,6 @@ tags: []
 
 ## [[Mary Pat.md]]
 
-[pages/pacific-cruise-itinerary.md](pages/pacific-cruise-itinerary.md)
+[pages/pacific-cruise-itinerary.md](pacific-cruise-itinerary-with-graphic.md)
 
 

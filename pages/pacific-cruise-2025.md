@@ -1,5 +1,5 @@
 11/26/24, 7:50 PM
-- [[pacific-cruise-itinerary.md|pacific-cruise-itinerary]]
+- [[pacific-cruise-itinerary-with-graphic|pacific-cruise-itinerary-with-graphic]]
 Holland America Line - Itinerary Page
 
 43-Day New Zealand & South

@@ -4,17 +4,13 @@ aliases: []
 tags: []
 ---
 
- Pacific Cruise 2025
+## Pacific Cruise 2025
 
-DEPARTURE
+![[Pasted image 20241001164455.png]]
 
-*Contents*
-
-* March 4 Fly to Honolulu
-* Return to Florida
+- March 4 Fly to Honolulu
 * Mar 16, 2025 at 5pm Auckland, New Zealand
-* Apr 27, 2025 at 7am Seattle, Washington, US
-* March 16 Departs 5pm DAY 1 - AUCKLAND, NEW ZEALAND
+-  March 16 Departs 5pm DAY 1 - AUCKLAND, NEW ZEALAND
 * March 17 In Port - 8am to 5pm DAY 2 - TAURANGA (ROTORUA), NEW ZEALAND
 * March 18 - NAPIER, NEW ZEALAND March 18 In Port - 12am to 6pm
 * March 19 In Port - 10am to 6pm DAY 4 - WELLINGTON, NEW ZEALAND
@@ -28,7 +24,7 @@ DEPARTURE
 * March 27 DAY 12 - AT SEA
 * March 28 In Port - 8am to 5pm DAY 13 - MELBOURNE, AUSTRALIA
 * March 29 DAY 14 - AT SEA
-* March 30   SYDNEY, AUSTRALIA https://www.hollandamerica.com/sf/itinerary?date=1732668544952
+* March 30   SYDNEY, AUSTRALIA
 * March 30 In Port - 7am to 6:45pm PLANNED ACTIVITIES:
 * March 31 DAY 16 - AT SEA
 * April 1 DAY 17 - AT SEA
@@ -57,11 +53,8 @@ DEPARTURE
 * April 24 DAY 40 - AT SEA
 * April 25 DAY 41 - AT SEA
 * April 26 In Port - 8am to 11pm DAY 42 - VICTORIA, BRITISH COLUMBIA, CANADA
-* April 27 Arrives - 7am DAY 43 - SEATTLE, WASHINGTON, US
+* Apr 27, 2025 at 7am Seattle, Washington, US
+- Return to Florida
 
-# March 4 Fly to Honolulu
 
-# Return to Florida
 
-# Mar 16, 2025 at 5pm Auckland, New Zealand
-RETURN

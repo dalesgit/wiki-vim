@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "346fd6a059dd15fa",
+        "id": "f81c1b1f52f90617",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0d4238eb75ea27",
+            "id": "b3cd40510c29f2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-02-11.md",
+                "file": "pages/Pacific cruise.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-11"
+              "title": "Pacific cruise"
+            }
+          },
+          {
+            "id": "b201aa56c176577f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/pacific-cruise-itinerary-with-graphic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pacific-cruise-itinerary-with-graphic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -139,7 +163,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -268,12 +294,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
-    "collapsed": true
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,10 +313,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb0d4238eb75ea27",
+  "active": "b201aa56c176577f",
   "lastOpenFiles": [
-    "financial.md",
+    "pages/Pacific cruise.md",
+    "pages/pacific-cruise-itinerary-with-graphic.md",
+    "journal/2025-02-12.md",
+    "pages/Pacific.md",
+    "journal/2024-10-01.md",
     "journal/2025-02-11.md",
+    "financial.md",
     "pages/preach-6th-sun-epiphany.md",
     "Sixth Sunday after Epiphany 1-Epistle-gospel.md",
     "pages/my-background.md",
@@ -316,13 +346,8 @@
     "Sixth Sunday after Epiphany.md",
     "pages/Packing Pacific Cruise.md",
     "journal/2025-01-27.md",
-    "journal/2024-10-01.md",
     "calendar.pdf",
     "journal/2024-11-10.md",
-    "unraveling 60s generation.md",
-    "Personal Knowledge System.md",
-    "Personal.md",
-    "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
     "assets/pacific-cruise-itinerary-temperature.pdf",
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
