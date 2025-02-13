@@ -6,7 +6,7 @@ tags: []
 
 ## Pacific Cruise 2025
 
-![[Pasted image 20241001164455.png]]
+![[pacific-cruise-graphic.png]]
 
 - March 4 Fly to Honolulu
 * Mar 16, 2025 at 5pm Auckland, New Zealand

@@ -8,7 +8,7 @@ tags: []
 # Pacific cruise
 :cruise:
 
-- ![[Pasted image 20241001164455.png]]
+- ![[pacific-cruise-graphic.png]]
 - [Pacific cruise.md](Pacific cruise.md) with ink to TOC below
 - [/journal/Pacific cruise.md](/journal/Pacific cruise.md) 
 - [pacific-cruise-2025.md](pacific-cruise-2025.md) this is the lengthy copy with TOC 

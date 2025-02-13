@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/pacific-cruise-itinerary-with-graphic.md",
+                "file": "journal/2025-02-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pacific-cruise-itinerary-with-graphic"
+              "title": "2025-02-12"
             }
           }
         ],
@@ -75,7 +75,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -315,8 +315,10 @@
   },
   "active": "b201aa56c176577f",
   "lastOpenFiles": [
-    "pages/Pacific cruise.md",
+    "pacific-cruise-graphic.png",
+    "Pasted image 20241105080105.png",
     "pages/pacific-cruise-itinerary-with-graphic.md",
+    "pages/Pacific cruise.md",
     "journal/2025-02-12.md",
     "pages/Pacific.md",
     "journal/2024-10-01.md",
@@ -347,15 +349,12 @@
     "pages/Packing Pacific Cruise.md",
     "journal/2025-01-27.md",
     "calendar.pdf",
-    "journal/2024-11-10.md",
     "assets/pacific-cruise-itinerary-temperature.pdf",
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
-    "Pasted image 20241105080105.png",
-    "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]
