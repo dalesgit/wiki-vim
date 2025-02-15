@@ -11,6 +11,31 @@ title: Homemade Bread Recipe - Tastes Better from Scratc#h
 
 :bread:
 
+Cook 30 minutes mins
+
+Rise time: 3 hours hrs
+
+Total 3 hours hrs 45 minutes mins
+[Save Recipe](https://tastesbetterfromscratch.com/register/)  
+* ▢ 2 cups warm water (105-115 degrees) (474g)
+* ▢ 1 Tablespoons [active dry yeast*](https://amzn.to/4dEz56l)
+* ▢ 1/4 cup honey or sugar (85g honey, 50g sugar)
+* ▢ 2 teaspoons [salt](https://amzn.to/4hQKh2l)
+* ▢ 2 Tablespoons oil (canola or vegetable)
+* ▢ 4 - 5 1/2 cups all-purpose or bread flour* (500g-688g)
+
+½ recipe
+
+* ▢ 1 cups warm water (105-115 degrees) (474g)
+* ▢ 2 tsp [active dry yeast*](https://amzn.to/4dEz56l)
+* ▢ 4 T cup honey or sugar (85g honey, 50g sugar)
+* ▢ 1 teaspoons [salt](https://amzn.to/4hQKh2l)
+* ▢ 1 Tablespoons oil (canola or vegetable)
+* ▢ 3 cups all-purpose or bread flour* (add ¼ cup at a time to get the dough pull from sides)
+
+finish mixing for 5 min. @ medium speed
+
+
 *Look no further for the BEST and simplest **homemade Bread recipe** made with just six simple pantry ingredients! It’s the perfect white bread for sandwiches and it freezes well too!*
 
 Our favorite way to eat freshly baked bread is with homemade [strawberry](https://tastesbetterfromscratch.com/strawberry-freezer-jam/), [raspberry](https://tastesbetterfromscratch.com/raspberry-freezer-jam/), or [peach jam.](https://tastesbetterfromscratch.com/peach-freezer-jam/)  It’s simply heaven.
@@ -134,7 +159,7 @@ Cook ModePrevent your screen from going dark
 * Once cool, store in an airtight container or bag for 2-3 days at room temperature, or up to 5 days in the refrigerator.
 
 **Flour:** Bread flour or all-purpose can both be used with no changes to the recipe. Bread flour will produce a slightly chewier loaf. Whole wheat flour can’t be substituted cup-for-cup because it’s gluten levels are different. Here is my favorite [Whole Wheat Bread recipe](https://tastesbetterfromscratch.com/honey-whole-wheat-bread/). **Yeast:** to substitute Instant or Rapid Rise yeast, skip the “proofing” of the dough in the first step and add the yeast to the bowl with step 2. Allow the dough to complete its first rise, and then roll and shape into loaves and rise again (rise times will be much faster with instant yeast). **Quick-rise Tip:** To speed up the rising time of the first rise, make dough up to first rising, placing it in a well greased bowl, turning it once to grease the dough all over. Cover bowl with plastic wrap. Preheat oven to 180 degrees F, then *turn oven off.*Place bowl into the oven, leaving the oven door slightly cracked open. Allow to rise until doubled. Then remove, punch down and shape into loaves. **To make ahead:**Make the bread dough through step 4, before the first rise. Place in a large airtight container, and refrigerate for up to one day. Remove from fridge and allow to come to room temperature. Proceed with punching down and forming loaves. **Freezing Instructions:**   
-To freeze the dough: Prepare the recipe through step (6), before the second rise. Place the shaped loaves into a freezer-safe or disposable aluminum bread pan. Cover tightly with a double layer of aluminum foil and freeze for up to 3 months. When ready to bake, allow the loaves to thaw and complete the second rise, at room temperature (about 5 hours). Bake as directed.  
+[[To.md|To]] freeze the dough: Prepare the recipe through step (6), before the second rise. Place the shaped loaves into a freezer-safe or disposable aluminum bread pan. Cover tightly with a double layer of aluminum foil and freeze for up to 3 months. When ready to bake, allow the loaves to thaw and complete the second rise, at room temperature (about 5 hours). Bake as directed.  
 To freeze baked bread: Allow baked bread to cool completely. Place each loaf in a freezer-safe resealable bag and freeze for up to 3 months. Thaw at room temperature on the countertop, or overnight in the refrigerator. **Bread Machine:** If using a bread machine, you may want to cut this recipe in half to make 1 loaf (depending on the capacity of your machine).  
 Calories: 202kcalCarbohydrates: 41gProtein: 5gFat: 2gSaturated Fat: 1gSodium: 196mgPotassium: 56mgFiber: 1gSugar: 3gCalcium: 8mgIron: 2mg  
 Create a FREE Account to save your favorite recipes and create meal plans
