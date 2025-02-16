@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f81c1b1f52f90617",
+        "id": "c04e7ac1d55b7ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "b3cd40510c29f2e5",
+            "id": "72645ddf695018ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Pacific cruise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Pacific cruise"
-            }
-          },
-          {
-            "id": "b201aa56c176577f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/pacific-cruise-itinerary-with-graphic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pacific-cruise-itinerary-with-graphic"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -298,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 415.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,19 +276,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b201aa56c176577f",
+  "active": "72645ddf695018ab",
   "lastOpenFiles": [
+    "index.md",
+    "church-kine.md",
+    "Epiphany 7 sermon.md",
+    "writing.md",
+    "pages/preach-6th-sun-epiphany.md",
+    "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
+    "GKChesterton-notes.md",
+    "GKChesterton-notes-new.md",
+    "pages/Pacific cruise.md",
+    "pages/pacific-cruise-itinerary-with-graphic.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "journal/2025-02-12.md",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
-    "pages/pacific-cruise-itinerary-with-graphic.md",
-    "pages/Pacific cruise.md",
     "pages/Pacific.md",
     "journal/2024-10-01.md",
     "journal/2025-02-11.md",
     "financial.md",
-    "pages/preach-6th-sun-epiphany.md",
     "Sixth Sunday after Epiphany 1-Epistle-gospel.md",
     "pages/my-background.md",
     "pages/jim-palmer.md",
@@ -337,25 +307,18 @@
     "journal/2025-02-15.md",
     "journal/2025-02-09.md",
     "journal/2025-02-08.md",
-    "journal/2025-02-07.md",
-    "journal/2025-02-06.md",
     "assets/ge-oven.pdf",
     "assets/ge-oven-use-care.pdf",
     "assets/ge-oven-specs.pdf",
     "assets/bishops-province8-mokuleia-full-moon.jpg",
     "assets/20250122--l7wfti.pdf",
     "assets/20250122--fab1f.pdf",
-    "Soup recipes.md",
-    "Sixth Sunday after Epiphany.md",
-    "pages/Packing Pacific Cruise.md",
-    "journal/2025-01-27.md",
     "calendar.pdf",
     "assets/pacific-cruise-itinerary-temperature.pdf",
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
-    "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]
