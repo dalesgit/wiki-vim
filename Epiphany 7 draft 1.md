@@ -1,3 +1,9 @@
+Wait, What? by James Edward Ryan
+
+- Wait, What? And Life's Other Essential Questions is a self-help book by James Edward Ryan, the Dean of Harvard University's Graduate School of Education. The book was published in 2017 and became a New York Times bestseller. 
+- The book encourages readers to ask questions like **"Wait, what?", "I wonder?", "How can I help?", and "What truly matters?"**. 
+- The book's message is that asking good questions can lead to greater clarity, compassion, wisdom, and fulfillment.
+
 series of quotes from Chesterton
 
 Where do we get our authority?
