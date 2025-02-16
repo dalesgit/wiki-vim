@@ -16,6 +16,10 @@ source: chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_backgroun
 author: 
 ---
 
+**“The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried.”**  
+
+― G.K. Chesterton, [What's Wrong with the World](https://www.goodreads.com/work/quotes/646052)
+
 “The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.”  
 ― G.K. Chesterton
 
