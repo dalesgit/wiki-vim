@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bc58d9a6297792",
+        "id": "1b6324eb1e81948b",
         "type": "tabs",
         "children": [
           {
-            "id": "51a2bf7d16a85a63",
+            "id": "84360bda51bec90d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epiphany 7 lessons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Epiphany 7 lessons"
+              "title": "New tab"
             }
           }
         ]
@@ -106,7 +92,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Book of occasional services.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,7 +170,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +186,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51a2bf7d16a85a63",
+  "active": "84360bda51bec90d",
   "lastOpenFiles": [
-    "GKChesterton-notes.md",
+    "church-kine.md",
+    "Epiphany 7 sermon.md",
+    "index.md",
     "Epiphany 7 lessons.md",
+    "GKChesterton-notes.md",
     "Book of occasional services.md",
     "psalm-summer.md",
     "journal/2025-01-05.md",
