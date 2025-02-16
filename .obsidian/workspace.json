@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-02-12.md",
+                "file": "pages/pacific-cruise-itinerary-with-graphic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-12"
+              "title": "pacific-cruise-itinerary-with-graphic"
             }
           }
         ],
@@ -75,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -315,11 +315,12 @@
   },
   "active": "b201aa56c176577f",
   "lastOpenFiles": [
+    "pages/pacific-cruise-itinerary-with-graphic.docx",
+    "journal/2025-02-12.md",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
     "pages/pacific-cruise-itinerary-with-graphic.md",
     "pages/Pacific cruise.md",
-    "journal/2025-02-12.md",
     "pages/Pacific.md",
     "journal/2024-10-01.md",
     "journal/2025-02-11.md",
