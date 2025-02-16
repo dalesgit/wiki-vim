@@ -8,6 +8,12 @@ title: technical
 ---
 
 # technical
+https://stackoverflow.com/questions/4212861/what-is-a-correct-mime-type-for-docx-pptx-etc this provides mimetypes for all microsoft files
+
+you can make use of this command file -bi YOUR_FILE 
+
+e.g. file -bi /home/dale/Repositories/logseq-sd/assets/Dreams_St_Monica_Circle_1738800251457_0.docx
+
 
 ## [[2025-01-19]] 
 
