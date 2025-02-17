@@ -8,11 +8,13 @@ tags:
   - wisdom
 ---
 
+https://www.goodreads.com/author/quotes/7014283.G_K_Chesterton?page=4
+
 # GKChesterton notes
 ---
 created: 2025-02-14T09:36:12 (UTC -05:00)
 tags: []
-source: chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html
+source: 
 author: 
 ---
 
@@ -153,7 +155,7 @@ Showing 31-60 of 3,402
 “Tradition means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. Tradition refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.”  
 ― G.K. Chesterton, [Orthodoxy](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/work/quotes/1807543)
 
-“Humility is the mother of giants. One sees great things from the valley; only small things from the peak.”  
+**“Humility is the mother of giants. One sees great things from the valley; only small things from the peak.”  
 ― G.K. Chesterton, [The Innocence of Father Brown](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/work/quotes/3300188)
 
 **“Reason is itself a matter of faith. It is an act of faith to assert that our thoughts have any relation to reality at all.”**
@@ -309,4 +311,21 @@ Showing 61-90 of 3,402
 
 **“The most extraordinary thing in the world is an ordinary man and an ordinary woman and their ordinary children.”**
 ― G.K. Chesterton
+
+---
+
+## Added 
+“Let your religion be less of a theory and more of a love affair.”  
+― G. K. Chesterton
+
+“The poor have sometimes objected to being governed badly; the rich have always objected to being governed at all.”  
+― G.K. Chesterton
+
+“Most modern freedom is at root fear. It is not so much that we are too bold to endure rules; it is rather that we are too timid to endure responsibilities.”  
+― G.K. Chesterton, [What's Wrong with the World](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/work/quotes/646052)
+
+- [G.K. Chesterton Quotes (Author of Orthodoxy) (page 4 of 100)](https://www.goodreads.com/author/quotes/7014283.G_K_Chesterton?page=4)  
+  - Among the rich you will never find a really generous man even by accident. They may give their money away, but they will never give themselves away; they are egotistic, secretive, dry as old bones. To be smart enough to get all that money you must be dull enough to want it.”  
+  - ― G.K. Chesterton, [A Miscellany](/work/quotes/6161037)
+
 

@@ -17,7 +17,8 @@ title: preaching
 
 # preaching
 
-[[preach-6th-sun-epiphany]]
+- [[preach-6th-sun-epiphany]] 
+- rather Epiphany 7[Epiphany 7 sermon](Epiphany 7 sermon.md) 
 ## Schedule
 
 - [[proper-16b.epub]]
