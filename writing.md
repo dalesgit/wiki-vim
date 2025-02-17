@@ -16,3 +16,4 @@ tags: []
 
 [journal/2025-02-08.md](journal/2025-02-08.md) truth-tellingf
 
+Spiritual Direction: Verbatim 1  Verbatim 2 
