@@ -11,10 +11,24 @@
             "id": "2058baaa1da5fda5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-02-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-02-16"
             }
           }
         ]
@@ -92,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "journal/2025-02-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +185,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +202,7 @@
   },
   "active": "2058baaa1da5fda5",
   "lastOpenFiles": [
+    "journal/2025-02-16.md",
     "Epiphany 7 draft 1.md",
     "Epiphany 7 sermon.md",
     "church-kine.md",
