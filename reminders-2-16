@@ -1,7 +1,6 @@
 DO /home/dale/Repositories/wiki-vim/remind.rem
 DO /home/dale/Repositories/wiki-vim/remind-cal.rem
 DO /home/dale/Repositories/wiki-vim/remind-cal2.rem
-DO /home/dale/Repositories/wiki-vim/remind-cruise.rem
 DO /home/dale/Repositories/wiki-vim/remind-bd.rem
 SET Week_2 8
 SET Week_3 15
@@ -43,25 +42,7 @@ REM [moondate(1)] SPECIAL MOON 1 -1 -1 [moontime(1)]
 REM [moondate(2)] SPECIAL MOON 2 -1 -1 [moontime(2)]
 REM [moondate(3)] SPECIAL MOON 3 -1 -1 [moontime(3)]
 REM Sun Nov 24 MSG MP and I lead Forum
-; Easter stuff https://remind-fans.roaringpenguin.narkive.com/5M42EAq0/good-friday-and-easter-events-in-remind
-SET easter EASTERDATE(YEAR(TODAY()))
-REM [TRIGGER(easter-2)] MSG Good Friday %b%
-REM [TRIGGER(easter)] MSG Easter Sunday %b%
-REM [TRIGGER(easter+1)] MSG Easter Monday %b%
-REM [TRIGGER(easter-3)] MSG Holy Thursday %b%
-REM [TRIGGER(easter-7)] MSG Palm Sunday %b%
-REM [TRIGGER(easter+49)] MSG Pentecost %b%
-REM [TRIGGER(easter+56)] MSG Trinity Sunday %b%
-;REM [TRIGGER(easter-49)] MSG Ash Wednesday %b%
-REM Wed [easterdate(year(today()))-49] MSG Ash Wednesday  %b%
-REM Wed [easterdate(year(today()))+49] MSG Pentecost  %b%
-REM Wed [easterdate(year(today()))+56] MSG Trinity Sunday  %b%
 ;REM Easter: [mon(easterdate(2025))] [day(easterdate(2025))], [year(easterdate(2025))] MSG Easter Sunday
-;REM [easterdate(year(today()))] MSG Easter Sunday  
-;REM [easterdate(year(today()))-2] MSG Good Friday  
-;REM [easterdate(year(today()))-3] MSG Maundy Thursday
-;REM [easterdate(year(today()))-7] MSG Palm Sunday
-
 ;REM Good Friday: [mon(easterdate(2025)-2)] [day(easterdate(2025)-2)], [year(easterdate(2025)-2)] MSG Good Friday
 ;REM  [trigger(easterdate()-2)] MSG Good Friday
 REM Nov 28 2024 +14 AT 10:00  MSG DH celebrate and preach %b
