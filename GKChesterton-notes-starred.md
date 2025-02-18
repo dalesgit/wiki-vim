@@ -1,21 +1,12 @@
 ---
 id: 1739543703-YCGE
-aliases:
-  - GKChesterton notes
+aliases: 
+- GKChesterton notes
 tags:
   - reading
   - writing
   - wisdom
----
-
-https://www.goodreads.com/author/quotes/7014283.G_K_Chesterton?page=4
-
-# GKChesterton notes
----
-created: 2025-02-14T09:36:12 (UTC -05:00)
-tags: []
-source: 
-author: 
+source: https://www.goodreads.com/author/quotes/7014283.G_K_Chesterton?page=4
 ---
 
 ## Christian ideal
