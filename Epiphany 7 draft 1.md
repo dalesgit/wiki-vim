@@ -4,6 +4,20 @@ aliases: []
 tags: []
 ---
 [[Epiphany 7 draft 2]] 
+
+## wealth
+
+https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality
+
+https://usafacts.org/articles/how-has-wealth-distribution-in-the-us-changed-over-time/
+
+
+The growth in income in recent decades has tilted to upper-income households. At the same time, the [U.S. middle class](https://www.pewresearch.org/short-reads/2018/09/06/the-american-middle-class-is-stable-in-size-but-losing-ground-financially-to-upper-income-families/), which once comprised the clear majority of Americans, is shrinking. Thus, a greater share of the nation’s aggregate income is now going to upper-income households and the share going to middle- and lower-income households is falling.[9](https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/#fn-39263-9)
+https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/
+
+## questinos
+
+
 Wait, What? by James Edward Ryan
 
 - Wait, What? And Life's Other Essential Questions is a self-help book by James Edward Ryan, the Dean of Harvard University's Graduate School of Education. The book was published in 2017 and became a New York Times bestseller. 
