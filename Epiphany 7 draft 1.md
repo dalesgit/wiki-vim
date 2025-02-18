@@ -3,7 +3,7 @@ id: Epiphany 7 draft 1
 aliases: []
 tags: []
 ---
-
+[[Epiphany 7 draft 2]] 
 Wait, What? by James Edward Ryan
 
 - Wait, What? And Life's Other Essential Questions is a self-help book by James Edward Ryan, the Dean of Harvard University's Graduate School of Education. The book was published in 2017 and became a New York Times bestseller. 

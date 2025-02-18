@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/pacific-cruise-itinerary-temperature.md",
+                "file": "Epiphany 7 lessons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,62 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pacific-cruise-itinerary-temperature"
+              "title": "Epiphany 7 lessons"
+            }
+          },
+          {
+            "id": "fde0fb98d77676d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epiphany 7 lessons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Epiphany 7 lessons"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aa79c7845584e116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b84e9ec14b246856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epiphany 7 draft 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Epiphany 7 draft 1"
             }
           }
         ]
@@ -88,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -289,13 +345,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72645ddf695018ab",
+  "active": "b84e9ec14b246856",
   "lastOpenFiles": [
-    "pages/pacific-cruise-itinerary-temperature.md",
-    "index.md",
-    "church-kine.md",
+    "pages/Epiphany 7 draft 2.md",
+    "Epiphany 7 lessons.md",
+    "Epiphany 7 draft 1.md",
     "Epiphany 7 sermon.md",
+    "Epiphany.md",
+    "pages/Epiphany.md",
+    "church-kine.md",
+    "index.md",
     "writing.md",
+    "preaching.md",
+    "journal/2025-02-18.md",
+    "pages/pacific-cruise-itinerary-temperature.md",
     "pages/preach-6th-sun-epiphany.md",
     "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
     "GKChesterton-notes.md",
@@ -313,13 +376,6 @@
     "Sixth Sunday after Epiphany 1-Epistle-gospel.md",
     "pages/my-background.md",
     "pages/jim-palmer.md",
-    "journal/2025-02-10.md",
-    "pages/Church  Sarah reading 02-02-25.md",
-    "pages/bishp-mar-mari-sermon.md",
-    "journal/2025_w06.md",
-    "journal/2025-02-22.md",
-    "journal/2025-02-15.md",
-    "journal/2025-02-09.md",
     "assets/ge-oven.pdf",
     "assets/ge-oven-use-care.pdf",
     "assets/ge-oven-specs.pdf",
