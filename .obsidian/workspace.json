@@ -79,7 +79,8 @@
               "title": "Epiphany 7 draft 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "aa79c7845584e116",
@@ -122,8 +123,33 @@
               "icon": "globe-2",
               "title": "Trends in U.S. income and wealth inequality | Pew Research Center"
             }
+          },
+          {
+            "id": "db0e71c24fcf1a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Epiphany 7 draft 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Epiphany 7 draft 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -382,12 +408,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72645ddf695018ab",
+  "active": "db0e71c24fcf1a08",
   "lastOpenFiles": [
-    "Epiphany 7 lessons.md",
     "Epiphany 7 draft 1.md",
-    "GKChesterton-notes.md",
     "pages/Epiphany 7 draft 2.md",
+    "Epiphany 7 lessons.md",
+    "GKChesterton-notes.md",
     "Epiphany 7 sermon.md",
     "Epiphany.md",
     "pages/Epiphany.md",
