@@ -34,3 +34,6 @@ Electrical Appliances: ** All staterooms are equipped with standard 110 AC and 2
 If such devices are determined to pose a hazard, they will be removed and returned the last day of the cruise prior to debark.
 
 For safety reasons, travel irons, and electric water heaters/kettles may not be used in your stateroom. You may order hot water from our complimentary In-Room Dining service 24 hours a day. Also, full laundry and valet services are available on all of our ships.
+
+[[last minute checklist.md]] 
+
