@@ -123,6 +123,9 @@ So, even if you do it badly,
 
 > "I say to you that listen, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you. If anyone strikes you on the cheek, offer the other also; and from anyone who takes away your coat do not withhold even your shirt. Give to everyone who begs from you; and if anyone takes away your goods, do not ask for them again. Do to others as you would have them do to you.
 
+In the 70's and 80's one of my heroes – well, I guess he still is – was Harry Chapin. He died young. I thought he was an amazing story-teller. And he was committed to feeding the hungry. (I guess he was a little like Jesus.) After he died, there was a concert at Carnegie Hall where lots of famous singers sang his songs as a memorial. One of them was Bruce Springsteen. (I feel a kind of personal connection with him too.) In the midst of the song, Springsteen told a story about how Harry told him about how he did one concert for himself and then the next one "for the other guy." He gave away ½ his earnings to feed the hungry. Springsteen said that while he wasn't as generous and courageous as Harry was he admired and believed in his cause.
+
+At the end of the song he paused, and said, "Now … go and do something."
 
 
 
