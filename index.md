@@ -27,8 +27,4 @@ https://www.eatthis.com/best-exercises-men-over-50-strength-training/
 ## [[template]]
 ## [[thought-kine]]
 ## [[Mary Pat.md]]
-
-
-
-
-
+## [[travel.md|travel]] 
