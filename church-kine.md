@@ -16,7 +16,7 @@ tags: []
 - [Epiphany-7-lessons](Epiphany 7 lessons.md) 
 - [[Epiphany 7 sermon|Epiphany 7 sermon]]
 - [[Epiphany 7 sermon|Epiphany 7 sermon]]
-- 
+- [[GKChesterton-notes-starred.md]] 
 
 ## Church stuff
 
