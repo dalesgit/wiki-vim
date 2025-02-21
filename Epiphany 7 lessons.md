@@ -23,7 +23,9 @@ Joseph said to his brothers, "I am Joseph. Is my father still alive?" But his br
 Then Joseph said to his brothers, "Come closer to me." And they came closer. He said, "I am your brother, Joseph, whom you sold into Egypt. And now do not be distressed, or angry with yourselves, because you sold me here; for God sent me before you to preserve life. For the famine has been in the land these two years; and there are five more years in which there will be neither plowing nor harvest. God sent me before you to preserve for you a remnant on earth, and to keep alive for you many survivors. So it was not you who sent me here, but God; he has made me a father to Pharaoh, and lord of all his house and ruler over all the land of Egypt. Hurry and go up to my father and say to him, 'Thus says your son Joseph, God has made me lord of all Egypt; come down to me, do not delay. You shall settle in the land of Goshen, and you shall be near me, you and your children and your children's children, as well as your flocks, your herds, and all that you have. I will provide for you there--since there are five more years of famine to come--so that you and your household, and all that you have, will not come to poverty.'"
 
 And he kissed all his brothers and wept upon them; and after that his brothers talked with him.
+
 ## The Psalm
+
 ### Psalm 37:1-12, 41-42
 
 *Noli aemulari*
@@ -70,7 +72,9 @@ he is their stronghold in time of trouble.
 42 The Lord will help them and rescue them; *
 he will rescue them from the wicked and deliver them,\
 because they seek refuge in him.
+
 ## The New Testament
+
 ### 1 Corinthians 15:35-38,42-50
 
 Someone will ask, "How are the dead raised? With what kind of body do they come?" Fool! What you sow does not come to life unless it dies. And as for what you sow, you do not sow the body that is to be, but a bare seed, perhaps of wheat or of some other grain. But God gives it a body as he has chosen, and to each kind of seed its own body.
@@ -79,7 +83,7 @@ So it is with the resurrection of the dead. What is sown is perishable, what is 
 
 What I am saying, brothers and sisters, is this: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
 
-### The Gospel
+## The Gospel
 
 ### Luke 6:27-38
 

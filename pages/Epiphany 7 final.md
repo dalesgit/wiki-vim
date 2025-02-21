@@ -54,17 +54,29 @@ There's a story that some of you may remember hearing me tell previously. I have
 
 > During the civil wars in feudal Japan, an invading army would quickly sweep into a town and take control. In one particular village, everyone fled just before the army arrived - everyone except the Zen monk. Curious about this old fellow, the general went to the temple to see for himself what kind of man this monk was. When he wasn't treated with the deference and submissiveness to which he was accustomed, the general burst into anger. "You fool," he shouted as he reached for his sword, "don't you realize you are standing before a man who could run you through without blinking an eye!" But despite the threat, the master seemed unmoved. "And do you realize," the master replied calmly, "that you are standing before a man who can let you run me through without blinking an eye?"[^1]
 
-Who are the authorities that we listen to? That changes our lives? Chesterton said, 
+We pay attention to a bewildering amount of voices claiming to be authoritative. We make choices that affect people's lives, even unto life and death, on the basis of what we take to be authoritative.
+
+Who are the authorities that we listen to? Authorities that change our lives? Right from wrong. How do we decide?  Chesterton said, 
 
 > **“The word "good" has many meanings. For example, if a man were to shoot his grandmother at a range of five hundred yards, I should call him a good shot, but not necessarily a good man.”**
 
-For many of us the political landscape is burning within us. But in an effort to not take ourselves too seriously, Chesterton said about that, 
+He also said,
+
+> **To have a right to do a thing is not at all the same as to be right in doing it**.
+
+In another place he said,
+
+> **Fallacies do not cease to be fallacies because they become fashions.**
+
+For some of us the political decision-making at work around us has seemed to turn the world upside down. For good or for ill. But we take political decisions too seriously, Chesterton said about that, 
 
 > The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of Conservatives is to prevent mistakes from being corrected. 
 
-Who is the we and who is the them? That's an important question. Jesus had something to say about it. 
+At least one authority, however, has said,
 
-> I say to you that listen, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you. If anyone strikes you on the cheek, offer the other also; and from anyone who takes away your coat do not withhold even your shirt. Give to everyone who begs from you; and if anyone takes away your goods, do not ask for them again. Do to others as you would have them do to you.
+> "I say to you that listen, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you. If anyone strikes you on the cheek, offer the other also; and from anyone who takes away your coat do not withhold even your shirt. Give to everyone who begs from you; and if anyone takes away your goods, do not ask for them again. Do to others as you would have them do to you.
+
+Who is the we and who is the them? That's an important question. Jesus thought it was important, too, at least the gospel writers thought so. 
 
 Wait? What?
 
@@ -74,9 +86,9 @@ It’s so easy to hear what we’ve always heard and not hear that the lesson ma
 
 Wait? What?
 
-That happened to me with regard to the first reading today. Always before I had heard that as a lesson about a family finally being reunited. There’s all the drama that went before with BROTHERS against BROTHERS and dreams that got you into jail and out of jail . The reversal of destiny’s. Good stuff.
+It happened to me with regard to the first reading just this week. Always before I had heard that as a lesson about a family finally being reunited. There’s all the drama that went before with BROTHERS against BROTHERS and dreams that got you into jail and out of jail . The reversal of destiny and all that good stuff.
 
-But what I realized just this past couple of weeks it’s really an Old Testament version of what we call the parable of the Good Samaritan. Reading the great Saga of Joseph, at the time of the passage we heard today, Joseph has become fully Egyptian. He is a stranger, a foreigner to his geneaological brothers. Egyptians and Canaanites had a long history of not get along. But as we heard today, Joseph recognizes these strangers and beggars from a foreign land as **family**. 
+But what I realized just this past couple of weeks is that the Joseph passage really an Old Testament version of what we call the parable of the Good Samaritan. Reading the great Saga of Joseph, at the time of the passage we heard today, Joseph has become fully Egyptian. He is a stranger, a foreigner to his biological brothers. Egyptians and Canaanites had a long history of not getting along. But as we heard today, Joseph recognizes these strangers and beggars from a foreign land as **family**. 
 
 > Oh my, strangers and beggars are actually family.
 
@@ -86,9 +98,9 @@ Jesus said,
 
 Chesterton said,
 
-> “The Bible tells us to love our neighbors, and also to love our enemies; probably because generally they are the same people.”  **and** “To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.” **and** “Love means to love that which is unlovable; or it is no virtue at all.”
+> “The Bible tells us to love our neighbors, and also to love our enemies; probably because generally they are the same people.”  
 
-But that's just GK Chesterton. It's not like Jesus said it.
+But that's just Chesterton. It's not like Jesus said it.
 
 Asking the right questions will tell us what is worthwhile and what is not. We will discover what is our true authority if **we ask the right questions**.
 
@@ -98,9 +110,7 @@ Early Christians wrote a centuries-long-history of having the Roman empire impri
 
 Then all of a sudden Christians became friends with the empire.
 
-I wA good measure, pressed down, shaken together, running over, will be put into your lap; for the measure you give will be the measure you get back."
-
-onder how we got to where we are. I ask, "What would Jesus do?" "But at the same time I ask forcefully, 'What shall I do?'" I wonder and I search for hope. I am sustained by the miracles about me. Chesterton said,
+I wonder about how we got to where we are. I ask, "What would Jesus do?" "But at the same time I ask forcefully, 'What shall I do?'" I wonder and I search for hope. I am sustained by the miracles about me. Chesterton said,
 
 > **“The world will never starve for want of wonders; but only for want of wonder.”**
 > **“The most incredible thing about miracles is that they happen.”**
@@ -110,7 +120,9 @@ He said also,
 
 > “Let your religion be less of a theory and more of a love affair.”  
 
-But that's just somebody who knows how important it is to take oneself lightly. Jesus said, 
+I am sustained by the heroes who found their authority in Jesus and not in the voice of the culture. People like Dorothy Day who saw Christ in all persons, even the diseased beggar she invited to sleep in her bed when he showed up late at night. People like Franz Jäggerstätter, an Austrian farmer who died because he believed that the regime surrounding him was contrary to his Christian faith.
+
+That's just me and sometimes I'm foolish enough to think I could fly. Jesus said, 
 
 > A good measure, pressed down, shaken together, running over, will be put into your lap; for the measure you give will be the measure you get back."
 
