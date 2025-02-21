@@ -46,7 +46,7 @@ Where do we get the information on which we base the course of our lives? Where 
 
 > Angels can fly because they can take themselves lightly.
 
-Actually, though, while taking myself lightly, I quite serious, too. I actually believe that Jesus did the same thing. Jesus could play -- some of the passages in the gospels only make sense if we realize Jesus is being playful. I used to keep a picture of a **smiling Jesus** just to remind me that a part of his authority is that he was so human. But about this love thing and this care for the poor thing, he seems to be quite serious.
+Actually, though, while taking myself lightly, I am serious, too. I actually believe that Jesus did the same thing. Jesus could play -- some of the passages in the gospels only make sense if we realize Jesus is being playful. I used to keep a picture of a **smiling Jesus** just to remind me that Jesus was so human. That's half of why he's such an authority for us. But about this love thing and this care for the poor thing, he seems to be quite serious.
 
 When I was just sorting out how to be serious about my Christian faith, my priest took me on 1000 mile trip to spend a long weekend listening to Archbishop Michael Ramsey give a talk at the Nashotah house on **authority in the gospels of the New Testament**. I was smitten by what he had to say about **authority**, in the Greek _exousia_, enough so that I later went to the Nashotah house for seminary and my life has never been the same since.
 
