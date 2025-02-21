@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-02-20.md",
+                "file": "journal/2025-02-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-20"
+              "title": "2025-02-21"
             }
           }
         ]
@@ -301,9 +301,10 @@
   },
   "active": "b8a7aed65815bad3",
   "lastOpenFiles": [
+    "assets/neil-degrasse-tyson-map.jpg",
+    "journal/2025-02-20.md",
     "journal/2025-02-19.md",
     "journal/2025-02-18.md",
-    "journal/2025-02-20.md",
     "Verbatim notes.md",
     "DH-verbatim-module-2.md",
     "pages/verbatim-draft-2.md",
@@ -326,7 +327,6 @@
     "preaching.md",
     "pages/pacific-cruise-itinerary-temperature.md",
     "pages/preach-6th-sun-epiphany.md",
-    "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
