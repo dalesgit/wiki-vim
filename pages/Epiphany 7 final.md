@@ -4,6 +4,8 @@ author: Dale Hathaway
 date: Feb. 23, 2025
 ---
 
+## Attention
+
 Having heard the words that we have just read from scripture, I wonder what the right reaction is?
 
 We might just reflect that all those passages sure sound familiar. "I’ve heard those before." It would be entirely appropriate to have some questions. A few years ago, the dean of Harvard graduate school of Education began speaking and writing about questions that really matter. 
@@ -30,6 +32,8 @@ From the Pew Research Center, I read that:
 
 > The growth and income in recent decades has tilted to upper income households. At the same time, the US middle class, which once comprise, the clear majority of Americans, is shrinking. Thus, a greater share of the nations aggregate income is now going to upper income households and the share going to middle and lower income households has fallen.
 
+## Love
+
 To those of you who are still with me, I want to say that **I think Jesus cares about those kinds of things.** 
 
 Chesterton said:
@@ -54,6 +58,8 @@ There's a story that some of you may remember hearing me tell previously. I have
 
 > During the civil wars in feudal Japan, an invading army would quickly sweep into a town and take control. In one particular village, everyone fled just before the army arrived - everyone except the Zen monk. Curious about this old fellow, the general went to the temple to see for himself what kind of man this monk was. When he wasn't treated with the deference and submissiveness to which he was accustomed, the general burst into anger. "You fool," he shouted as he reached for his sword, "don't you realize you are standing before a man who could run you through without blinking an eye!" But despite the threat, the master seemed unmoved. "And do you realize," the master replied calmly, "that you are standing before a man who can let you run me through without blinking an eye?"[^1]
 
+## Paying attention
+
 We pay attention to a bewildering amount of voices claiming to be authoritative. We make choices that affect people's lives, even unto life and death, on the basis of what we take to be authoritative.
 
 Who are the authorities that we listen to? Authorities that change our lives? Right from wrong. How do we decide?  Chesterton said, 
@@ -76,13 +82,19 @@ At least one authority, however, has said,
 
 > "I say to you that listen, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you. If anyone strikes you on the cheek, offer the other also; and from anyone who takes away your coat do not withhold even your shirt. Give to everyone who begs from you; and if anyone takes away your goods, do not ask for them again. Do to others as you would have them do to you.
 
+## We and Them
+
 Who is the we and who is the them? That's an important question. Jesus thought it was important, too, at least the gospel writers thought so. 
 
 Wait? What?
 
-It’s so easy to hear what we’ve always heard and not hear that the lesson may be something other than the bland familiar phrase that we've heard over and over. It might reflect an authority that we need to pay attention to. 
+It’s so easy to hear what we’ve always heard and not hear that the lesson may be something other than the bland familiar phrase that we've heard over and over. It might reflect an authority that we need to pay attention to.  If it's true it's important. If it's not true why bother with it? Chesterton said, 
 
-> If it's true it's important. If it's not true why bother with it? Chesterton said, **“Fallacies do not cease to be fallacies because they become fashions.”** He also said,  "There’s a lot of difference between listening and hearing."
+> **“Fallacies do not cease to be fallacies because they become fashions.”** 
+
+He also said,
+
+> "There’s a lot of difference between listening and hearing."
 
 Wait? What?
 
@@ -102,9 +114,9 @@ Chesterton said,
 
 But that's just Chesterton. It's not like Jesus said it.
 
-Asking the right questions will tell us what is worthwhile and what is not. We will discover what is our true authority if **we ask the right questions**.
+## True authority
 
----
+Asking the right questions will tell us what is worthwhile and what is not. We will discover what is our true authority if **we ask the right questions**.
 
 Early Christians wrote a centuries-long-history of having the Roman empire imprison them, execute them, banish them. It took over 3 centuries for Christians to become friends with the empire. Something about those Christians. Their reputation was that they took care of widows and orphans. They refused to be soldiers for the empire. They wouldn't lavish praise on the people and practices that **everybody** flocked to at the Coliseum and such.
 
@@ -142,8 +154,7 @@ In the 70's and 80's one of my heroes – well, I guess he still is – was Harr
 
 At the end of the song he paused, and said, "Now … go and do something."
 
-
-
 ---
+
 
 [^1]:  This is an old Japanese Zen story. https://www.reddit.com/r/ramdass/comments/qrn0tz/im_trying_to_remember_a_story_about_a_monk_and_a/
