@@ -64,17 +64,13 @@ We pay attention to a bewildering amount of voices claiming to be authoritative.
 
 Who are the authorities that we listen to? Authorities that change our lives? Right from wrong. How do we decide?  Chesterton said, 
 
-> **“The word "good" has many meanings. For example, if a man were to shoot his grandmother at a range of five hundred yards, I should call him a good shot, but not necessarily a good man.”**
+> **"The word "good" has many meanings. For example, if a man were to shoot his grandmother at a range of five hundred yards, I should call him a good shot, but not necessarily a good man."**
 
 He also said,
 
 > **To have a right to do a thing is not at all the same as to be right in doing it**.
 
-In another place he said,
-
-> **Fallacies do not cease to be fallacies because they become fashions.**
-
-For some of us the political decision-making at work around us has seemed to turn the world upside down. For good or for ill. But we take political decisions too seriously, Chesterton said about that, 
+For some of us the political decision-making at work around us has seemed to turn the world upside down. For good or for ill. But, perhaps,  we take political decisions too seriously, Chesterton said about that, 
 
 > The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of Conservatives is to prevent mistakes from being corrected. 
 
@@ -84,7 +80,7 @@ At least one authority, however, has said,
 
 ## We and Them
 
-Who is the we and who is the them? That's an important question. Jesus thought it was important, too, at least the gospel writers thought so. 
+Who is the we and who is the they? That's an important question. Jesus thought it was important, too, at least the gospel writers thought so. 
 
 Wait? What?
 
@@ -98,9 +94,9 @@ He also said,
 
 Wait? What?
 
-It happened to me with regard to the first reading just this week. Always before I had heard that as a lesson about a family finally being reunited. There’s all the drama that went before with BROTHERS against BROTHERS and dreams that got you into jail and out of jail . The reversal of destiny and all that good stuff.
+It happened to me with regard to the first reading just this week. Always before I had heard that as a lesson about a family finally being reunited. There’s all the drama that went before with brothers against brothers and dreams that got you into jail and out of jail . The reversal of destiny and all that good stuff.
 
-But what I realized just this past couple of weeks is that the Joseph passage really an Old Testament version of what we call the parable of the Good Samaritan. Reading the great Saga of Joseph, at the time of the passage we heard today, Joseph has become fully Egyptian. He is a stranger, a foreigner to his biological brothers. Egyptians and Canaanites had a long history of not getting along. But as we heard today, Joseph recognizes these strangers and beggars from a foreign land as **family**. 
+What I realized just this past couple of weeks is that the Joseph passage is also an Old Testament version of what we call the parable of the Good Samaritan. Reading the great Saga of Joseph, at the time of the passage we heard today, Joseph has become fully Egyptian. He is a stranger, a foreigner to his biological brothers. Egyptians and Canaanites had a long history of not getting along. But as we heard today, Joseph recognizes these strangers and beggars from a foreign land as **family**. 
 
 > Oh my, strangers and beggars are actually family.
 
