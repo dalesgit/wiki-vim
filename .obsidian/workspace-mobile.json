@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32649a53446e8b97",
+        "id": "c87ce18d7e1bcfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "2058baaa1da5fda5",
+            "id": "52d85ca7c5f42219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-02-16.md",
+                "file": "psalm-summer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-16"
+              "title": "psalm-summer"
             }
           }
         ]
@@ -200,8 +200,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2058baaa1da5fda5",
+  "active": "52d85ca7c5f42219",
   "lastOpenFiles": [
+    "pages/Homemade Bread Recipe - Tastes Better from Scratch.md",
+    "pages/white-bread.md",
     "journal/2025-02-16.md",
     "Epiphany 7 draft 1.md",
     "Epiphany 7 sermon.md",
