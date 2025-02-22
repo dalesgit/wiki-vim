@@ -24,13 +24,13 @@ What do we pay attention to? What do we let flow in one ear and out the other? A
 
 I looked it up, – I googled it, so it must be true – right? I looked it up and it said the middle class spends about 33% of our income on housing, about 17% on transportation, 13% on food and 13% on insurance and pensions. The left over is _crazy money_ I guess.
 
-I thought about that a little bit, and I thought those percentages don’t apply to the poor people that I have known. I have known some really poor people – on Lower Wacker Drive in Chicago and especially the poor people who lived in _Stadium Park_ just down from my church in Honolulu. They don’t have much in the way of money. e.g. Susan would regularly ask me to buy her a double cheeseburger at the McDonalds right across the street. Houseless people don't have lots of money, but they have a lot of time -– well, actually they have the same amount of time you and I have. But they spend energy getting food and drink to survive the day. They typically wouldn’t have to pay money for shelter, because they don't have shelter. They have to be ingenious in finding something to keep the rain and snow, the heat and cold, the violent criminals, all while not getting arrested or beat up.
+I thought about that a little bit, and I thought those percentages don’t apply to the poor people that I have known. I have known some really poor people – on Lower Wacker Drive in Chicago and especially the poor people who lived in _Stadium Park_ just down from my church in Honolulu. They don’t have much in the way of money. e.g. Susan would regularly ask me to buy her a double cheeseburger at the McDonalds right across the street. Houseless people don't have lots of money, but they have a lot of time -– well, actually they have the same amount of time you and I have. But they spend time and a lot of energy getting food and drink to survive the day. They typically wouldn’t have to pay money for shelter, because they don't have shelter. They have to be ingenious in finding something to keep out the rain and snow, the heat and cold, the violent criminals, all while not getting arrested or beat up.
 
 On the other hand, as you may well be aware, wealth in this country has shifted over the last several generations. 
 
 From the Pew Research Center, I read that: 
 
-> The growth and income in recent decades has tilted to upper income households. At the same time, the US middle class, which once comprise, the clear majority of Americans, is shrinking. Thus, a greater share of the nations aggregate income is now going to upper income households and the share going to middle and lower income households has fallen.
+> The growth and income in recent decades has tilted to upper income households. At the same time the US middle class, which once comprised, the clear majority of Americans, is shrinking. Thus, a greater share of the nations aggregate income is now going to upper income households and the share going to middle and lower income households has fallen.
 
 ## Love
 
@@ -46,7 +46,7 @@ Where do we get the information on which we base the course of our lives? Where 
 
 > Angels can fly because they can take themselves lightly.
 
-Actually, though, while taking myself lightly, I am serious, too. I actually believe that Jesus did the same thing. Jesus could play -- some of the passages in the gospels only make sense if we realize Jesus is being playful. I used to keep a picture of a **smiling Jesus** just to remind me that Jesus was so human. That's half of why he's such an authority for us. But about this love thing and this care for the poor thing, he seems to be quite serious.
+Actually, though, while taking myself lightly, I am quite serious, also. I actually believe that Jesus did the same thing. Jesus could play -- some of the passages in the gospels only make sense if we realize Jesus is being playful. I used to keep a picture of a **smiling Jesus** just to remind me that Jesus was so human. That's half of why he's such an authority for us. But about this love thing and this care for the poor thing, he seems to be quite serious.
 
 When I was just sorting out how to be serious about my Christian faith, my priest took me on 1000 mile trip to spend a long weekend listening to Archbishop Michael Ramsey give a talk at the Nashotah house on **authority in the gospels of the New Testament**. I was smitten by what he had to say about **authority**, in the Greek _exousia_, enough so that I later went to the Nashotah house for seminary and my life has never been the same since.
 
@@ -148,7 +148,7 @@ So, even if you do it badly,
 
 In the 70's and 80's one of my heroes – well, I guess he still is – was Harry Chapin. He died young. I thought he was an amazing story-teller. And he was committed to feeding the hungry. (I guess he was a little like Jesus.) After he died, there was a concert at Carnegie Hall where lots of famous singers sang his songs as a memorial. One of them was Bruce Springsteen. (I feel a kind of personal connection with him too.) In the midst of the song, Springsteen told a story about how Harry told him about how he did one concert for himself and then the next one "for the other guy." He gave away ½ his earnings to feed the hungry. Springsteen said that while he wasn't as generous and courageous as Harry was he admired and believed in his cause.
 
-At the end of the song he paused, and said, "Now … go and do something."
+At the end of the song Springsteen paused, and said, "Now … go and do something."
 
 ---
 
