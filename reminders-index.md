@@ -6,4 +6,7 @@ tags:
 # reminders-index
 - [reminders.md](reminders.md)
 -  [Remind calendar links.md](Remind calendar links.md) 
--    
+-  [[remind.md]]
+- [[remind-cruise.md]]
+- [[remind-bd.md]] 
+
