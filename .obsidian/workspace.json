@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c90d119e54d53e59",
+        "id": "cdbb0c37b1fee0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a04cf1fcfada6418",
+            "id": "861f0b0e23eea2c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Pacific Cruise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Pacific Cruise"
+              "title": "New tab"
             }
           }
         ]
@@ -311,10 +297,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a04cf1fcfada6418",
+  "active": "861f0b0e23eea2c9",
   "lastOpenFiles": [
+    "pages/'Packing.md",
+    "journal/2025-03-01.md",
+    "pages/Packing.md",
+    "pages/Pacific Cruise Packing list.md",
     "index.md",
-    "pages/Pacific Cruise.md",
     "pages/pacific-cruise-packing.md",
     "journal/2025-02-21.md",
     "assets/neil-degrasse-tyson-map.jpg",
@@ -337,9 +326,6 @@
     "Epiphany 7 sermon.md",
     "Epiphany.md",
     "pages/Epiphany.md",
-    "church-kine.md",
-    "writing.md",
-    "preaching.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
