@@ -1,22 +1,31 @@
 ---
-
 kanban-plugin: board
-
+tags:
+  - pacific-cruise
 ---
 
 ## Bathroom
 
-- [ ] Meds
 - [ ] Black bag
 - [ ] water pic
 - [ ] toothbrush
+
+## Meds
+
+- [ ] first aid
+- [ ] diarrhea
+- [ ] constipation
+- [ ] fungal
+- [ ] eczema
 - [ ] tylenol
 - [ ] eczema
 
-
 ## Excursion
 
-- [ ] camera lens (setup)
+- [ ] camera lens with (setup)
+- [ ] monopod
+- [ ] jacket
+- [ ] sweater
 
 
 ## Dining
@@ -24,12 +33,22 @@ kanban-plugin: board
 - [ ] jacket & slacks
 - [ ] good socks
 - [ ] grey shoes
+- [ ] bow tie
 
+## Flying
+
+- [ ] compression socks
+- [ ] ear buds
+- [ ] carry-on plus pack
 
 ## At sea
 
-- [ ] comfortable pants
-- [ ] comfortable shirts
+- [ ] comfortable pants (2)
+- [ ] comfortable shirts (2)
+- [ ] pull-on shorts (2)
+- [ ] low socks
+- [ ] sneakers
+- [ ] sandals
 
 
 ## Technical
@@ -37,6 +56,10 @@ kanban-plugin: board
 - [ ] kindle
 - [ ] tablet
 - [ ] combo computer
+- [ ] chargers: hearing, watch, iphone, usb a, usb c, computer
+- [ ] combo cube
+- [ ] international adapter
+- [ ] hearing aids (2 sets)
 
 
 
