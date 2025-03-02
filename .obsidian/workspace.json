@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c90d119e54d53e59",
+        "id": "cdbb0c37b1fee0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a04cf1fcfada6418",
+            "id": "861f0b0e23eea2c9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "pages/Pacific Cruise.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Pacific Cruise"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -86,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -272,6 +261,16 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6176cb0c30319387",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo"
             }
@@ -298,10 +297,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a04cf1fcfada6418",
+  "active": "861f0b0e23eea2c9",
   "lastOpenFiles": [
+    "pages/'Packing.md",
+    "journal/2025-03-01.md",
+    "pages/Packing.md",
+    "pages/Pacific Cruise Packing list.md",
     "index.md",
-    "pages/Pacific Cruise.md",
     "pages/pacific-cruise-packing.md",
     "journal/2025-02-21.md",
     "assets/neil-degrasse-tyson-map.jpg",
@@ -324,9 +326,6 @@
     "Epiphany 7 sermon.md",
     "Epiphany.md",
     "pages/Epiphany.md",
-    "church-kine.md",
-    "writing.md",
-    "preaching.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
