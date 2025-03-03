@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "cdbb0c37b1fee0f0",
+        "id": "59c3bbff1003d7ae",
         "type": "tabs",
         "children": [
           {
-            "id": "861f0b0e23eea2c9",
+            "id": "01b64d67ec44b17a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-03-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-01"
             }
           }
         ]
@@ -74,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -271,6 +284,16 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cccd07cd99bfaa38",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo"
             }
@@ -280,8 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
-    "collapsed": true
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,8 +319,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "861f0b0e23eea2c9",
+  "active": "01b64d67ec44b17a",
   "lastOpenFiles": [
+    "journal/2025-03-03.md",
     "pages/'Packing.md",
     "journal/2025-03-01.md",
     "pages/Packing.md",
@@ -325,7 +348,6 @@
     "Epiphany 7 lessons.md",
     "Epiphany 7 sermon.md",
     "Epiphany.md",
-    "pages/Epiphany.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
