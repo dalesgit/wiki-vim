@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59c3bbff1003d7ae",
+        "id": "848451ba0e59d8ed",
         "type": "tabs",
         "children": [
           {
-            "id": "01b64d67ec44b17a",
+            "id": "c84b9e6b5f926ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-03-01.md",
+                "file": "journal/2025-03-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-01"
+              "title": "2025-03-08"
             }
           }
         ]
@@ -339,11 +339,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01b64d67ec44b17a",
+  "active": "c84b9e6b5f926ded",
   "lastOpenFiles": [
+    "journal/2025-03-08.md",
+    "journal/2025-03-01.md",
     "journal/2025-03-03.md",
     "pages/'Packing.md",
-    "journal/2025-03-01.md",
     "pages/Packing.md",
     "pages/Pacific Cruise Packing list.md",
     "index.md",
@@ -367,7 +368,6 @@
     "GKChesterton-notes-starred.md",
     "Epiphany 7 lessons.md",
     "Epiphany 7 sermon.md",
-    "Epiphany.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
