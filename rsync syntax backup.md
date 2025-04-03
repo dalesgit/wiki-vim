@@ -1,5 +1,8 @@
 ## rsync -rvt --info=progress2  "$fromDir2"  "$toDir3/chrome"
 
+n.b. that the "from dir" should end with "/" 
+the "to dir" does not
+
 -r recursive
 -v verbose
 -t times
@@ -15,6 +18,12 @@ One reply said:
 It's perfect for backups. My "default" set of switches is -avzP - archive mode, be verbose, use compression, preserve partial files, display progress.
 
 Note: Invariably when the descriptions say "preserve", it means make the destination be like the source.
+### 4/2/25 particulars
+
+/home/dale/Repositories
+/home/dale/Downloads
+/home/dale/Documents
+/mnt/chromeos/removable/SD-Card/cruise-25/backup
 
 ### It's all of these:
 
