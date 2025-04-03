@@ -24,6 +24,9 @@ https://www.eatthis.com/best-exercises-men-over-50-strength-training/
 ## [[Journal-index]]
 ## [[backup-stuff]]
 ## [[technical]]
+
+- [[rsync syntax backup.md|rsync -rvt --info=progress2  "$fromDir2"  "$toDir3/chrome"]] 
+
 ## [[template]]
 ## [[thought-kine]]
 ## [[Mary Pat.md]]
