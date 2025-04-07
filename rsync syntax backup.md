@@ -45,6 +45,7 @@ The corrected pattern came with:
 - /lost+found/
 
 ---
+
 https://superuser.com/questions/436070/rsync-copying-directory-contents-non-recursively?newreg=ec836a0b632a434e87fe6124f826e5ed
 
 https://stackoverflow.com/questions/35364075/using-rsync-filter-to-include-exclude-files
