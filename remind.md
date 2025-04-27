@@ -48,7 +48,7 @@ REM Jan 4 2025 +2 MSG Welcoming Prayer Workshop AT 9-3 %b%
 REM Jan 10 2025 +2 AT 15:00 MSG Zack at Church %b%
 REM Jan 24 2025 +2 AT 15:00 MSG Zack at Church %b%
 REM Feb 14 2025 +2 AT 15:00 MSG Zack at Church %b%
-REM Feb 21 2025 +2 AT 15:00 MSG Zack at Church %b%
+REM Feb 28 2025 +2 AT 15:00 MSG Zack at Church %b%
 REM Jan 11 2025 +2 MSG Meet Zack and family at Church AT 3:30 PM %b%
 REM Jan 14 2025 +2 MSG MPS Vascular ultrasound with Kalani AT 3:30 pm %b%
 REM Tue 2025 UNTIL Mar 01  2025 +2 AT 10:00 MSG MPS with trainer %b%

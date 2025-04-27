@@ -18,7 +18,7 @@ REM Dec 16 +2 MSG Kay Okutani funeral %b%
 REM Dec 18 +2 MSG Mary Jean's Birthday %b%
 REM Dec 19 +2 MSG George Detailer birthday %b%
 REM Dec 28 +2 MSG Lydia's birthday %b%
-REM Feb 01 +2 MSG Pacific cruise %b%
+;REM Feb 01 +2 MSG Pacific cruise %b%
 REM Feb 10 +2 MSG Bill's birthday %b%
 REM Feb 16 +2 MSG Great Aloha run %b%
 REM Feb 21 +2 MSG Julian's Bday %b%
