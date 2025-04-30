@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-04-29.md",
+                "file": "journal/2025-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29"
+              "title": "2025-04-30"
             }
           }
         ]
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -83,7 +84,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9edeb81d1e071b38",
@@ -137,8 +138,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -157,10 +158,14 @@
   },
   "active": "f53d12eb334218dd",
   "lastOpenFiles": [
-    "journal/2025-04-27.md",
-    "journal/2025-04-29.md",
+    "pages/Lessons-from-the-Catholic-Resistance---by-Cameron-Bellm.md",
+    "journal/2025-04-30.md",
+    "rsync syntax backup.md",
+    "journal/2025-04-03.md",
     "journal/2025-04-22.md",
     "journal/2025-04-06.md",
+    "journal/2025-04-29.md",
+    "journal/2025-04-27.md",
     "journal/2025-03-24.md",
     "journal/2025-03-23.md",
     "journal/2025-03-07.md",
@@ -179,11 +184,7 @@
     "journal/2025-01-18.md",
     "pages/Epiphany journal.md",
     "2024-12-19.md",
-    "soul-of-america.md",
-    "journal/2024-12-13.md",
-    "Gratitude Journal.md",
     "Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
-    "Midwife to the soul.md",
     "Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
     "Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.edn",
