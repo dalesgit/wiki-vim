@@ -1,4 +1,13 @@
+---
+id: psalms 1
+aliases: []
+tags: []
+---
+
 SUNDAY EVENING PRAYER I psalm 113
+
+
+
 
 Praise the Lord's name here and in every place, from east to west.
 
