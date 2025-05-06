@@ -19,3 +19,5 @@ tags: []
 #bread [[whole-wheat-bread-simple]]
 
 #bread [[only-whole-wheat-bread]]
+
+#bread [[simple-multigrain-bread]]
