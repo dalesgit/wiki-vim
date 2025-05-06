@@ -6,6 +6,8 @@ tags: []
 
 # Index
 
+[[Health]]
+
 ## [[technology.md]]
 ## [[1728505907-organization|organization]]
 ## [[Ongoing]]

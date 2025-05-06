@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cdbb0c37b1fee0f0",
+        "id": "29e8611aa7b0ae1e",
         "type": "tabs",
         "children": [
           {
-            "id": "861f0b0e23eea2c9",
+            "id": "12248838db836e97",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "webviewer",
               "state": {
-                "currentVersion": "1.8.10"
+                "url": "https://www.youtube.com/watch?v=1GzKYoyrlkA",
+                "title": "FOREST RIVER SOUNDS, BEAUTIFUL BIRDSONG, RELAXING NATURE SOUNDS with ‪@GoodMorningBirds‬ - YouTube",
+                "mode": "webview"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "globe-2",
+              "title": "FOREST RIVER SOUNDS, BEAUTIFUL BIRDSONG, RELAXING NATURE SOUNDS with ‪@GoodMorningBirds‬ - YouTube"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -298,8 +301,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "861f0b0e23eea2c9",
+  "active": "12248838db836e97",
   "lastOpenFiles": [
+    "index.md",
+    "journal/2024-12-09.md",
+    "pages/Health.md",
+    "pages/Tai-chi.md",
+    "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
+    "only-whole-wheat-bread.md",
+    "simple-multigrain-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "simple-whole-wheat-seedy-bread.md",
     "rsync syntax backup.md",
     "journal/2025-04-30.md",
     "journal/2025-04-29.md",
@@ -316,17 +329,7 @@
     "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
     "pages/'Packing.md",
     "journal/2025-03-01.md",
-    "pages/Packing.md",
-    "pages/Pacific Cruise Packing list.md",
-    "index.md",
-    "pages/pacific-cruise-packing.md",
-    "journal/2025-02-21.md",
     "assets/neil-degrasse-tyson-map.jpg",
-    "journal/2025-02-20.md",
-    "journal/2025-02-19.md",
-    "journal/2025-02-18.md",
-    "Verbatim notes.md",
-    "DH-verbatim-module-2.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",

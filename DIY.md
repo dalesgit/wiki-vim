@@ -16,7 +16,7 @@ tags: []
 
 [[Soup recipes.md]]
 
-#bread [[whole-wheat-bread-simple]]
+#bread [[whole-wheat-bread-simple]]  --  [[simple-multigrain-bread]]
 
 #bread [[only-whole-wheat-bread]]
 
