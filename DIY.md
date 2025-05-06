@@ -15,3 +15,7 @@ tags: []
 [[Search for Oven.md]]
 
 [[Soup recipes.md]]
+
+#bread [[whole-wheat-bread-simple]]
+
+#bread [[only-whole-wheat-bread]]
