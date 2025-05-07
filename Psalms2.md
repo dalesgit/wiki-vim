@@ -1,7 +1,10 @@
-Wednesday morning prayer 
-Palm 86
-Bring joy to me, your servant, Lord, I offer myself to you.
+# Wednesday morning prayer 
 
+## Psalm 86
+
+Bring joy to me,\
+your servant, Lord,\
+I offer myself to you.\
 Hear me, Lord, and act, I am poor and helpless.
 
 You are my God, watch over me,

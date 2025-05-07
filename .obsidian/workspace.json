@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29e8611aa7b0ae1e",
+        "id": "26fa10a527c4d68d",
         "type": "tabs",
         "children": [
           {
-            "id": "12248838db836e97",
+            "id": "0ae6862f20dd46ee",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=1GzKYoyrlkA",
-                "title": "FOREST RIVER SOUNDS, BEAUTIFUL BIRDSONG, RELAXING NATURE SOUNDS with ‪@GoodMorningBirds‬ - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "FOREST RIVER SOUNDS, BEAUTIFUL BIRDSONG, RELAXING NATURE SOUNDS with ‪@GoodMorningBirds‬ - YouTube"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -301,7 +296,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12248838db836e97",
+  "active": "0ae6862f20dd46ee",
   "lastOpenFiles": [
     "index.md",
     "journal/2024-12-09.md",
