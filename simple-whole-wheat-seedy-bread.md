@@ -5,7 +5,6 @@ aliases:
 tags: []
 ---
 
-# whole-wheat-bread-simple
 
 ---
 created: 2025-05-06T15:13:56 (UTC -04:00)
@@ -14,9 +13,10 @@ source: https://minimalistbaker.com/the-easiest-whole-grain-seeded-bread/
 author: Dana @ Minimalist Baker
 ---
 
-# Easy Whole Wheat Bread | Minimalist Baker Recipes
+# whole-wheat-bread-simple
+## Easy Whole Wheat Bread | Minimalist Baker Recipes
 
-> ## Excerpt
+>## Excerpt
 > My mom used to make her own bread and yogurt from scratch. I mean, come on. How cool is she? I remember learning that and thinking my mom was the most
 
 ---
@@ -88,59 +88,43 @@ I’ve been loving it with smashed avocado and a little [vegan parmesan cheese](
 If you give this recipe a try, let us know! Leave a comment, rate it, or take a picture and tag it [#minimalistbaker](https://instagram.com/minimalistbaker/) on Instagram! We’d love to see what you come up with. Happy baking!
 
 ![Slices of homemade bread with vegan butter, nut butter, avocado, and jam](https://minimalistbaker.com/wp-content/uploads/2015/03/EASY-Whole-Grain-Seeded-Bread-perfect-for-Sandwiches-toast-and-more-vegan.jpg)
+## Directions 
 
-Prep Time 5 hours 15 minutes
-
-Cook Time 30 minutes
-
-Total Time 5 hours 45 minutes
-
-Servings (slices)
-
-Course Bread
-
-Cuisine Vegan
-
-Freezer Friendly 1 month
-
-Does it keep? 3-4 Days
-
+### Summary 
+Prep Time 5 hours 15 minutes\
+Cook Time 30 minutes\
+Total Time 5 hours 45 minutes\
+Servings (slices)\
+Course Bread\
+Cuisine Vegan\
+Freezer Friendly 1 month\
+Does it keep? 3-4 Days\
 Cook ModePrevent your screen from going dark
 
 ### Ingredients
 
--   1 1/2 cups warm water
--   3/4 Tbsp fast-acting yeast (1 packet yields ~3/4 Tbsp or 2 1/4 tsp)
--   2 Tbsp maple syrup, agave, or honey if not vegan
--   1/2 Tbsp salt
--   1 Tbsp flaxseed meal
--   2 cups [Bob’s Red Mill Whole-Wheat Pastry Flour](http://www.bobsredmill.com/whole-wheat_pastry-flour.html)
--   1 3/4 cups [Bob’s Red Mill Unbleached All-Purpose Flour](http://www.bobsredmill.com/unbleached-all-purpose-white-flour.html) (plus more for rolling / dusting)
--   2 Tbsp raw or roasted sunflower seeds
+- 1 1/2 cups warm water
+-  3/4 Tbsp fast-acting yeast (1 packet yields ~3/4 Tbsp or 2 1/4 tsp)
+-  2 Tbsp maple syrup, agave, or honey if not vegan
+-  1/2 Tbsp salt
+-  1 Tbsp flaxseed meal
+-  2 cups [Bob’s Red Mill Whole-Wheat Pastry Flour](http://www.bobsredmill.com/whole-wheat_pastry-flour.html)
+-  1 3/4 cups [Bob’s Red Mill Unbleached All-Purpose Flour](http://www.bobsredmill.com/unbleached-all-purpose-white-flour.html) (plus more for rolling / dusting)
+-  2 Tbsp raw or roasted sunflower seeds
 -   2 Tbsp rolled oats
 
 ### Instructions
 
--   Combine warm water (like bath water, or 110 degrees F / 43 C), yeast, maple syrup (or other sweetener), salt, flaxseed meal, and flours in a large mixing bowl and stir. The result will be a sticky, rough dough. If using a stand mixer, beat at medium speed for about a minute. Otherwise just use a spoon to stir until well combined and when it can no longer do the job, knead and turn it in the bowl with your hands. Add flour until the dough is no longer sticking to the sides – about 3 3/4 cups total (amount as original recipe is written // adjust if altering batch size).
-    
+-  Combine warm water (like bath water, or 110 degrees F / 43 C), yeast, maple syrup (or other sweetener), salt, flaxseed meal, and flours in a large mixing bowl and stir. The result will be a sticky, rough dough. If using a stand mixer, beat at medium speed for about a minute. Otherwise just use a spoon to stir until well combined and when it can no longer do the job, knead and turn it in the bowl with your hands. Add flour until the dough is no longer sticking to the sides – about 3 3/4 cups total (amount as original recipe is written // adjust if altering batch size).
 -   Lift the dough out and lightly grease the bowl with nonstick spray or olive oil. Cover and let rise for 2 hours at room temperature and 2 hours in the fridge. Alternatively, if you only have 2 hours, let rise at room temperature and skip the fridge (though a longer rise is best).
-    
 -   Use fingers to create a small hole in the dough and pour in sunflower seeds and oats. Transfer dough to a lightly floured work surface and knead about 20 turns or until elastic. Form into a loaf-like shape.
-    
 -   Place seam-side down in a lightly greased loaf pan or baking sheet and sift a light coating of flour over the top to help keep the dough moist. Loosely cover with plastic wrap and let rest for 45-60 minutes.
-    
 -   Preheat oven to 425 degrees F (218 C)\* toward the end of the dough resting time and place a metal or cast iron pan (**NOT glass, Pyrex, or ceramic**) on the lowest oven rack. Also have 1 cup of hot water ready.
-    
 -   When the oven is preheated, slash the bread 2 or 3 times with a knife, making a cut about ½-inch deep.
-    
 -   Place in oven on middle rack. Then carefully pour hot water into the shallow pan on the rack beneath. Expect it to bubble and steam; then close oven door quickly.
-    
 -   Bake the bread for 26 to 35 minutes, or until deep golden brown and risen.
-    
 -   Remove the bread from the oven and let rest in the pan for 5 minutes. Then carefully remove from pan and transfer to a cooling rack to cool. Let it cool completely before slicing for best results (otherwise it can be doughy in the middle).
-    
 -   Store leftovers in a plastic bag at room temperature for up to a few days. Transfer to freezer for longer term storage.
-    
 
 ### Video
 
