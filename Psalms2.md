@@ -1,6 +1,12 @@
-# Wednesday morning prayer 
+---
+id: Psalms2
+aliases: []
+tags: []
+---
 
-## Psalm 86
+## Wednesday morning prayer 
+
+### Psalm 86
 
 Bring joy to me,\
 your servant, Lord,\
@@ -53,7 +59,7 @@ Show me a sign of your love to shock and disgrace my enemy.
 
 Bring help and comfort, Lord. •
 
-Psalm 98
+### Psalm 98
 
 With sound of trumpet and horn, shout to the Lord, our king.
 
@@ -77,9 +83,9 @@ Let rivers clap their hands, the hills ring out their joy!
 
 The Lord our God comes, comes to rule the earth, justly to rule the world, to govern the peoples aright. •
 
-Wednesday Evening prayer
+## Wednesday Evening prayer
 
-Psalm 126
+## Psalm 126
 
 Those sowing in tears reap, singing and laughing.
 
@@ -111,9 +117,9 @@ a blessing to those who bear them; like arrows in the hand of an archer are chil
 
 Happy those with a full quiver: facing their enemies at the gate, they stand without shame! •
 
-Thursday Morning Prayer
+## Thursday Morning Prayer
 
-Psalm 87
+### Psalm 87
 
 Great is your renown, city of God.
 
@@ -141,7 +147,7 @@ Then people will dance and sing,
 
 "My home is here!" •
 
-Psalm 99
+### Psalm 99
 
 Bow down to worship God, give praise in this holy place.
 
@@ -171,9 +177,9 @@ Bow down to worship the Lord, give praise in God's holy place,
 
 "Holy is the Lord our God!" •
 
-Thursday evening prayer
+## Thursday evening prayer
 
-Psalm 132:1-9
+### Psalm 132:1-9
 
 Lord, let your saints rejoice as they go to your house.
 
@@ -193,7 +199,7 @@ Lord, come to your resting place, you and your ark of power.
 
 May your priests dress for the feast, and your faithful shout for joy.
 
-132:10-18
+### 132:10-18
 
 I will bless Zion with abundance, even the poor will have food.
 
@@ -215,9 +221,9 @@ I will vest the priests in holiness, and the faithful will shout for joy.
 
 His enemies I will clothe in shame, but on him a crown will shine." O
 
-Friday morning prayer
+## Friday morning prayer
 
-Palm 51
+### Psalm 51
 
 Have mercy, tender God, forget that I defied you.
 
@@ -265,7 +271,7 @@ In your love make Zion lovely, rebuild the walls of Jerusalem.
 
 Then sacrifice will please you, young bulls upon your altar. o
 
-Psalm 100
+### Psalm 100
 
 The Lord is our shepherd and we the flock.
 
@@ -281,8 +287,8 @@ Indeed the Lord is good!
 
 God's love is for ever, faithful from age to age. D
 
-Friday evening prayer
-Psalm 135:1-12
+## Friday evening prayer
+### Psalm 135:1-12
 
 Sing hymns, for God is good; sing God's name, our delight.
 
@@ -306,7 +312,7 @@ Sihon, king of the Amorites, Og, king of Bashan, all the kings of Canaan.
 
 Then God gave Israel their land, a gift for them to keep. •
 
-135:13-21
+### 135:13-21
 
 Bless God, house of Israel; sing God's name, our delight.
 

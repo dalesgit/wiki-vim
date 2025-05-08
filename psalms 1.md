@@ -4,10 +4,9 @@ aliases: []
 tags: []
 ---
 
-SUNDAY EVENING PRAYER I psalm 113
+## SUNDAY EVENING PRAYER I 
 
-
-
+### psalm 113
 
 Praise the Lord's name here and in every place, from east to west.
 
@@ -61,7 +60,9 @@ I fulfill my vows to you, Lord, standing before your assembly, in the courts of 
 
 Hallelujah! •
 
-SUNDAY MORNING PRAYER I. Psalm 93
+## SUNDAY MORNING PRAYER I. 
+
+### Psalm 93
 
 High above ocean breakers, you, God, rise with might.
 
@@ -87,7 +88,7 @@ Your decrees stand unshaken;
 
 the beauty of holiness fills you for ever, Lord. •
 
-Palm 148
+### Palm 148
 
 Across the heavens, from the heights, sing praise, sing praise!
 
@@ -117,7 +118,9 @@ God's splendor above the earth, above the heavens,
 
 gives strength to the nation, glory to the faithful, a people close to the Lord Israel, let there be praise! •
 
-Evening prayer 2 Palm 110
+## Evening prayer 2 
+
+### Psalm 110
 
 
 The Lord decrees to the king:
@@ -142,7 +145,8 @@ God executes judgment, crushes the heads of nations, and brings carnage worldwid
 
 The victor drinks from a wayside stream and rises refreshed. •
 
-Palm 111
+###Psalm 111
+
 Who can forget God's wonders, a God, merciful and kind! hallelujah!
 
 With my whole heart
@@ -165,9 +169,9 @@ Fear of the Lord is wisdom's crown, wise are those who live by it.
 
 Praise the Lord for ever! D
 
-Monday morning prayer
+## Monday morning prayer
 
-Palm 84
+### Psalm 84
 
 To live with you is joy, Lord of heaven's might.
 
@@ -229,7 +233,9 @@ Let heaven and earth be glad, the sea and sea creatures roar, the field and its 
 
 Then let the trees of the forest sing before the coming of the Lord, who comes to judge the nations, to set the earth aright, restoring the world to order. •
 
-Evening prayer palm 123
+## Evening prayer 
+
+### psalm 123
 
 Our help is the Lord
 Creator of earth and sky
@@ -246,11 +252,10 @@ for saving our flesh from their teeth, for tearing the trapper's net, so we coul
 
 Our help is the Lord, creator of earth and sky.
 
-Tuesday morning prayer
+## Tuesday morning prayer
 
-Palm 85
+### Psalm 85
 
-TUESDAY MORNING PRAYER
 
 Justice clears God's path, justice points the way.
 
@@ -280,7 +285,7 @@ The Lord pours out riches, our land springs to life.
 
 Justice clears God's path, justice points the way.
 
-Palm 67
+### Psalm 67
 
 Lord, let your face shine on us, revealing your way to all peoples.
 
@@ -300,11 +305,10 @@ The land delivers its harvest, God, our God, has blessed us.
 
 O God, continue your blessing, may the whole world worship you.
 
-Tuesday evening prayer
+## Tuesday evening prayer
 
-Psalm 125
+### Psalm 125
 
-TUESDAY EVENING PRAYER
 
 As mountains circle Jerusalem, Lord, you embrace your people.
 
@@ -320,7 +324,7 @@ Away with the devious, banish them with the wicked!
 
 Give Israel peace! •
 
-Palm 131
+### Psalm 131
 
 My smile being odds at rest in you, my God. 
 
