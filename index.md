@@ -6,6 +6,7 @@ tags: []
 
 # Index
 
+Manuskript help [[manuskript-notes]]
 [[productivity-tips-for-chromebook]]
 [[psalm-project]]
 
