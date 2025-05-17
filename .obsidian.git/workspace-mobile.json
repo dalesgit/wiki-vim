@@ -11,10 +11,14 @@
             "id": "295e5b1f923ac03f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-05-17.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-17"
             }
           }
         ]
@@ -154,6 +158,7 @@
   },
   "active": "295e5b1f923ac03f",
   "lastOpenFiles": [
+    "journal/2025-05-17.md",
     "Owen re trust.md",
     "journal/2025-05-16.md",
     "Psalms-5.md",
@@ -179,7 +184,6 @@
     "journal/2025-04-29.md",
     "journal/2025-04-27.md",
     "journal/2025-03-24.md",
-    "journal/2025-03-23.md",
     "Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
