@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "729a5b69677a2eed",
+        "id": "68842ed98d8b20b4",
         "type": "tabs",
         "children": [
           {
-            "id": "295e5b1f923ac03f",
+            "id": "dccd316a8db81361",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-05-17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-17"
+              "title": "New tab"
             }
           }
         ]
@@ -96,7 +92,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Psalms-5.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "295e5b1f923ac03f",
+  "active": "dccd316a8db81361",
   "lastOpenFiles": [
+    "kushner on peace.md",
     "journal/2025-05-17.md",
     "Owen re trust.md",
     "journal/2025-05-16.md",
@@ -183,7 +179,6 @@
     "journal/2025-04-03.md",
     "journal/2025-04-29.md",
     "journal/2025-04-27.md",
-    "journal/2025-03-24.md",
     "Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
