@@ -6,17 +6,17 @@ tags: []
 
 # Index
 
-Manuskript help [[manuskript-notes]]
-[[productivity-tips-for-chromebook]]
-[[psalm-project]]
-
-[[Mothers-day-prayer]]
+- [kushner on peace.md](kushner on peace.md)
+- Manuskript help [[manuskript-notes]]
+- [[productivity-tips-for-chromebook]]
+- [[psalm-project]]
+- [[Mothers-day-prayer]]
 ## [[/pages/Health.md]]
 
 ## [[technology.md]]
 ## [[1728505907-organization|organization]]
 ## [[Ongoing]]
-https://www.theatlantic.com/ideas/archive/2025/02/gulf-america-mexico-defeat/681682/
+- https://www.theatlantic.com/ideas/archive/2025/02/gulf-america-mexico-defeat/681682/
 https://theconversation.com/like-dictators-before-him-trump-threatens-international-peace-and-security-248735
 ## [[DIY]]
 ## [[financial]]
