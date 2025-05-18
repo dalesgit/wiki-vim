@@ -7,3 +7,5 @@ pandoc /home/dale/Documents/Epiphany-7-draft-1.md -o ebook.epub -t epub3 --toc -
 working version:
 
 [source file] -o [render file] -t epub3 --toc --toc-depth=3 --split-level=2 --epub-cover-image=/home/dale/.pandoc/cover.jpg --css=/home/dale/.pandoc/calibre-reader-2.css
+
+pandoc /home/dale/Epiphany-7-final.md -o epub-defaults.epub -t epub3 --toc --toc-depth=3 --split-level=2 --epub-cover-image=/home/dale/.pandoc/cover.jpg --css=epub.css
