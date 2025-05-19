@@ -1,0 +1,44 @@
+#!/bin/bash
+# https://unix.stackexchange.com/questions/511127/bash-list-possible-files-and-select-one
+# https://stackoverflow.com/questions/18544359/how-do-i-read-user-input-into-a-variable-in-bash
+#
+echo 'Please select a file.'
+
+n=0
+for img in $PWD/*.md
+do
+    n=$((n+1))
+    printf "[%s] %s\n" "$n" "$img"
+    eval "img${n}=\$img"
+done
+
+if [ "$n" -eq 0 ]
+then
+    echo >&2 No images found.
+    exit
+fi
+
+printf 'Enter File Index ID (1 to %s): ' "$n"
+read -r num
+num=$(printf '%s\n' "$num" | tr -dc '[:digit:]')
+
+if [ "$num" -le 0 ] || [ "$num" -gt "$n" ]
+then
+    echo >&2 Wrong selection.
+    exit 1
+else
+    eval "IMG=\$img${num}"
+    echo Selected image is "$IMG"
+fi
+#
+# give new epub name
+#
+printf "%s" "Enter epub name (without extension): "
+read basename
+echo $basename
+#
+#
+# pandoc "$img" --css ~/.local/share/pandoc/styles/pandoc.css --toc -s -o "$basename".epub
+# pandoc "$img" --toc -o $basename.epub
+pandoc "$img" --css ~/.local/share/pandoc/styles/calibre-reader-2.css --toc -s -o "$basename".epub
+#
