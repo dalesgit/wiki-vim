@@ -1,8 +1,10 @@
 ---
 id: Epiphany 7 draft 1
+title: Epiphany 7 draft 1
 aliases: []
 tags: []
 ---
+
 [[Epiphany 7 draft 2]] 
 
 ## wealth
