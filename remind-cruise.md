@@ -33,8 +33,8 @@ REM Apr 13 2025 +2 MSG DAY 29 - CROSSING THE EQUATOR %b%
 REM Apr 14 2025 +2 MSG DAY 30 - on SEA %b%
 REM Apr 15 2025 +2 MSG DAY 31 - on SEA %b%
 REM Apr 16 2025 +2 MSG DAY 32 - on SEA %b%
-REM Apr 17 2025 +2 MSG In Port - 8am to 9pm DAY 33 - KONA, HAWAII, US %b%
-REM Apr 18 2025 +2 MSG In Port - 8am to 5pm DAY 34 - HILO, HAWAII, US %b%
+REM Apr 17 2025 +2 MSG In Port - 8am to 9pm DAY 33 - Hilo, HAWAII, US %b%
+REM Apr 18 2025 +2 MSG In Port - 8am to 5pm DAY 34 - Honolulu, HAWAII, US %b%
 REM Apr 19 2025 +2 MSG Arrives - 7am DAY 35 - HONOLULU, HAWAII, US %b%
 REM Apr 20 2025 +2 MSG Departs 5pm DAY 36 - HONOLULU, HAWAII, US %b%
 REM Apr 21 2025 +2 MSG DAY 37 - on SEA %b%

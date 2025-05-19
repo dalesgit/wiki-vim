@@ -314,6 +314,16 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "afd92b97e20449bd",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo"
             }
@@ -327,7 +337,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -336,11 +345,19 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "c84b9e6b5f926ded",
   "lastOpenFiles": [
+    "journal/2025-04-30.md",
+    "journal/2025-04-29.md",
+    "journal/2025-04-27.md",
+    "journal/2025-04-22.md",
+    "journal/2025-04-06.md",
+    "journal/2025-03-24.md",
+    "journal/2025-03-23.md",
     "journal/2025-03-08.md",
     "journal/2025-03-01.md",
     "journal/2025-03-03.md",
@@ -361,13 +378,6 @@
     "Epiphany 7 draft 1.md",
     "pages/Epiphany 7 draft 2.md",
     "travel.md",
-    "pages/Lessons-from-the-Catholic-Resistance---by-Cameron-Bellm.md",
-    "pages/Feb-19,-2025-Best-Times-to-Visit-Auckland--U.S.-News-Travel.md",
-    "pages/Best-Times-to-Visit-Auckland--U.S.-News-Travel.md",
-    "last minute checklist.md",
-    "GKChesterton-notes-starred.md",
-    "Epiphany 7 lessons.md",
-    "Epiphany 7 sermon.md",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
