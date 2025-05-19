@@ -12,13 +12,26 @@ REM Apr 07 +2 MSG Tikhon; Patriach of Russia and Confessor; %b%
 REM Apr 08 +2 MSG William Augustus Muhlenberg; Priest; 1877 %b%
 REM Apr 09 +2 MSG Dietrich Bonhoeffer; 1945 %b%
 REM May 01 +2 MSG Saint Philip and Saint James; Apostles %b%
+REM May 02 +2 MSG Athanasius of Alexandria, Bishop and Theologian %b%
+REM May 03 +2 MSG Elisabeth Cruciger, Poet and Hymnographer, 1535 %b%
+REM May 04 +2 MSG Monica, Mother of Augustine of Hippo, 387 %b%
+REM May 05 +2 MSG Martyrs of the Reformation era %b%
+REM May 06 +2 MSG George of Lydda, Martyr %b%
+REM May 08 +2 MSG Julian of Norwich, Mystic and Theologian, c.1417 %b%
+REM May 09 +2 MSG Gregory of Nazianzus, Bishop and Theologian, 389 %b%
+REM May 11 +2 MSG Johann Arndt & Jacob Boehme, Mystics, 1621 and 1624 %b%
+REM May 13 +2 MSG Frances Perkins, Social Reformer, 1965 %b%
+REM May 15 +2 MSG Pachomius of Tabennisi, Monastic, 348 %b%
+REM May 17 +2 MSG Thurgood Marshall, Public Servant %b%
 REM May 16 +2 MSG Martyrs of Sudan; 1983 %b%
 REM May 19 +2 MSG Dunstan; Archbishop of Canterbury; 988 %b%
-REM May 02 +2 MSG Athanasius; Bishop of Alexandria; 373 %b%
 REM May 20 +2 MSG Alcuin; Deacon; and Abbot of Tours; %b%
+REM May 21 +2 MSG Lydia of Thyatira, Coworker of Paul %b%
+REM May 22 +2 MSG Helena of Constantinople, Protector of Holy Places %b%
 REM May 24 +2 MSG Jackson Kemper; First Missionary Bishop in %b%
 REM May 25 +2 MSG Bede; the Venerable; Priest; and Monk %b%
 REM May 26 +2 MSG Augustine; First Archbishop of Canterbury; 605 %b%
+REM May 28 +2 MSG Mechtild of Magdeburg, Mystic, c. 1282 %b%
 REM May 31 +2 MSG The Visitation of the Virgin Mary %b%
 REM May 04 +2 MSG Monnica; Mother of Augustine of Hippo; %b%
 REM May 08 +2 MSG Dame Julian of Norwich; c. 1417 %b%

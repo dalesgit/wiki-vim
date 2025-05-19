@@ -1,8 +1,8 @@
-DO /home/dale/Repositories/wiki-vim/remind.rem
-DO /home/dale/Repositories/wiki-vim/remind-cal.rem
-DO /home/dale/Repositories/wiki-vim/remind-cal2.rem
-DO /home/dale/Repositories/wiki-vim/remind-cruise.rem
-DO /home/dale/Repositories/wiki-vim/remind-bd.rem
+DO /home/dale/Repositories/wiki-vim/remind.md
+DO /home/dale/Repositories/wiki-vim/remind-cal.md
+DO /home/dale/Repositories/wiki-vim/remind-cal2.md
+DO /home/dale/Repositories/wiki-vim/remind-cruise.md
+DO /home/dale/Repositories/wiki-vim/remind-bd.md
 SET Week_2 8
 SET Week_3 15
 REM Jan 1 MSG Remind every year on new years day

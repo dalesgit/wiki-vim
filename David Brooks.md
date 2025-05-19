@@ -22,7 +22,7 @@ tags:
 [1729085067-VUVE.md](1729085067-VUVE.md)
 [1728505907-organization.md](1728505907-organization.md)
 
-[1729103739-tote-bag.md](1729103739-tote-bag.md)
+[1729103739-tote-bag.md](tote bag.md)
 [Testing markdown](Testing markdown.md)
 
 [technical.md](technical.md) re. getting markdownlint-disable https://docs.gitlab.com/ee/development/documentation/testing/markdownlint.html#:~:text=To%20disable%20all%20markdownlint%20rules,the%20tag%2C%20for%20example%20%3C!

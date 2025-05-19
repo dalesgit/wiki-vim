@@ -168,7 +168,7 @@
 - [[1729311554-journal-2024-10-19-sat.md]]
 - [[1729251592-linux-commands.md]]
 - [[1729104076-some-new-link.md]]
-- [[1729103739-tote-bag.md]]
+- [[tote bag.md]]
 - [[1729095329-write-linda.md]]
 - [[1729093565-1728997484-reo.md]]
 - [[1729085067-VUVE.md]]

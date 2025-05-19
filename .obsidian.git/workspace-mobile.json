@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14a2565737b4e1f4",
+        "id": "68842ed98d8b20b4",
         "type": "tabs",
         "children": [
           {
-            "id": "f53d12eb334218dd",
+            "id": "dccd316a8db81361",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-04-30.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-04-30"
+              "title": "New tab"
             }
           }
         ]
@@ -49,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:spirituality",
+            "query": "tag:#prayer",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -84,7 +80,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9edeb81d1e071b38",
@@ -96,7 +92,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2025-01-18.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +138,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,34 +151,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f53d12eb334218dd",
+  "active": "dccd316a8db81361",
   "lastOpenFiles": [
-    "pages/Lessons-from-the-Catholic-Resistance---by-Cameron-Bellm.md",
-    "journal/2025-04-30.md",
-    "rsync syntax backup.md",
-    "journal/2025-04-03.md",
+    "kushner on peace.md",
+    "journal/2025-05-17.md",
+    "Owen re trust.md",
+    "journal/2025-05-16.md",
+    "Psalms-5.md",
+    "journal/2025-05-13.md",
+    "journal/2025-05-05.md",
+    "Psalms-4.md",
+    "journal/2025-05-11.md",
+    "Psalms-3.md",
+    "Prayers.md",
+    "Prayer list.md",
+    "Mothers-day-prayer.md",
+    "journal/2025-05-08.md",
+    "psalms 1.md",
+    "journal/2025-05-06.md",
+    "journal/2025-05-07.md",
+    "Psalms2.md",
     "journal/2025-04-22.md",
     "journal/2025-04-06.md",
+    "journal/2025-04-30.md",
+    "pages/Lessons-from-the-Catholic-Resistance---by-Cameron-Bellm.md",
+    "rsync syntax backup.md",
+    "journal/2025-04-03.md",
     "journal/2025-04-29.md",
     "journal/2025-04-27.md",
-    "journal/2025-03-24.md",
-    "journal/2025-03-23.md",
-    "journal/2025-03-07.md",
-    "journal/2025-02-25.md",
-    "journal/2025-02-19.md",
-    "pages/Epiphany 7 draft 2.md",
-    "journal/2025-02-18.md",
-    "index.md",
-    "journal/2025-02-15.md",
-    "journal/2025-02-13.md",
-    "journal/2025-02-01.md",
-    "journal/2025-01-23.md",
-    "journal/2025-01-04.md",
-    "spiritual-direction/Linda.md",
-    "journal/2025-01-17.md",
-    "journal/2025-01-18.md",
-    "pages/Epiphany journal.md",
-    "2024-12-19.md",
     "Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
