@@ -4,46 +4,17 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "7b6242b0adc500d1",
+        "id": "26fa10a527c4d68d",
         "type": "tabs",
         "children": [
           {
-            "id": "6f2c22ccf10bf62e",
-=======
-        "id": "2d27b9f6d0192773",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da7fd66441d236a6",
->>>>>>> 65c1dccc353971954f14a72f4c9d2fc8eb39b1dd
+            "id": "0ae6862f20dd46ee",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-<<<<<<< HEAD
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-=======
-                "file": "pages/Packing Pacific Cruise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Packing Pacific Cruise"
->>>>>>> 65c1dccc353971954f14a72f4c9d2fc8eb39b1dd
+              "title": "New tab"
             }
           }
         ]
@@ -153,7 +124,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -277,12 +250,75 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ff31e2d37d7e0703",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6176cb0c30319387",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+<<<<<<< HEAD
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cccd07cd99bfaa38",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "20dd0301dfd089c7",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5d8de790be8467f8",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "afd92b97e20449bd",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+=======
+>>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
               "icon": "checkmark",
               "title": "Todo"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -299,59 +335,83 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
+  "active": "0ae6862f20dd46ee",
+  "lastOpenFiles": [
 <<<<<<< HEAD
-  "active": "6f2c22ccf10bf62e",
-  "lastOpenFiles": [
-    "pages/SD Readings.md",
-    "journal/2025-01-27.md",
-    "journal/2024-10-01.md",
+    "journal/2025-04-30.md",
+    "journal/2025-04-29.md",
+    "journal/2025-04-27.md",
+    "journal/2025-04-22.md",
+    "journal/2025-04-06.md",
+    "journal/2025-03-24.md",
+    "journal/2025-03-23.md",
+    "journal/2025-03-08.md",
+    "journal/2025-03-01.md",
+    "journal/2025-03-03.md",
+    "pages/'Packing.md",
+    "pages/Packing.md",
+    "pages/Pacific Cruise Packing list.md",
 =======
-  "active": "da7fd66441d236a6",
-  "lastOpenFiles": [
-    "pages/Packing Pacific Cruise.md",
-    "journal/2025-01-27.md",
-    "journal/2024-10-01.md",
+>>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
+    "index.md",
+    "journal/2024-12-09.md",
+    "pages/Health.md",
+    "pages/Tai-chi.md",
+    "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
+    "only-whole-wheat-bread.md",
+    "simple-multigrain-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "simple-whole-wheat-seedy-bread.md",
+    "rsync syntax backup.md",
+    "journal/2025-04-30.md",
+    "journal/2025-04-29.md",
+    "journal/2025-04-27.md",
+    "journal/2025-04-22.md",
+    "journal/2025-04-06.md",
+    "journal/2025-04-03.md",
+    "journal/2025-03-24.md",
+    "journal/2025-03-23.md",
+    "journal/2025-03-08.md",
+    "journal/2025-03-07.md",
+    "journal/2025-03-05.md",
+    "journal/2025-03-03.md",
+    "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
+    "pages/'Packing.md",
+    "journal/2025-03-01.md",
+    "assets/neil-degrasse-tyson-map.jpg",
+<<<<<<< HEAD
+    "journal/2025-02-20.md",
+    "journal/2025-02-19.md",
+    "journal/2025-02-18.md",
+    "Verbatim notes.md",
+    "DH-verbatim-module-2.md",
+    "pages/verbatim-draft-2.md",
+    "GKChesterton-notes.md",
+    "Epiphany 7 draft 1.md",
+    "pages/Epiphany 7 draft 2.md",
+    "travel.md",
+=======
+>>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
+    "pages/pacific-cruise-itinerary-with-graphic.docx",
+    "pacific-cruise-graphic.png",
+    "Pasted image 20241105080105.png",
+    "assets/ge-oven.pdf",
+    "assets/ge-oven-use-care.pdf",
+    "assets/ge-oven-specs.pdf",
+    "assets/bishops-province8-mokuleia-full-moon.jpg",
+    "assets/20250122--l7wfti.pdf",
+    "assets/20250122--fab1f.pdf",
     "calendar.pdf",
->>>>>>> 65c1dccc353971954f14a72f4c9d2fc8eb39b1dd
-    "journal/2024-11-10.md",
-    "unraveling 60s generation.md",
-    "Personal Knowledge System.md",
-    "Personal.md",
-    "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
-    "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
-    "robertsEarthPrayersWorld1991.md",
-    "()(Fleming and Ledogar, 2008).md",
-    "Description based on publisher supplied metadata and other sources.md",
-    "journal/2025-01-25.md",
-    "journal/2025-01-22.md",
-    "journal/2025-01-23.md",
-    "journal/2025-01-24.md",
-    "pages/pacific-cruise-itinerary-temperature.md",
     "assets/pacific-cruise-itinerary-temperature.pdf",
-    "journal/2025-01-21.md",
-    "journal/2025-01-19.md",
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
-    "journal/2025-01-17.md",
-    "journal/2025-01-18.md",
-    "1728505907-organization.md",
-    "pages/guest room.md",
-    "psalm-summer.md",
-    "journal/2025-01-06.md",
-    "Book of occasional services.md",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Minimalist Baker Instant Pot Guide.pdf",
-    "assets/Minimalist Baker Instant Pot Guide.pdf.crdownload",
-    "Pasted image 20241105080105.png",
-    "assets/elpedro_terminator.pdf",
-    "technical.md~",
-    "'spiritual-direction",
-    "assets/2020_2021_The_Art_of_Spiritual_Direction.pdf",
-    "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "Pasted image 20241001164455.png",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]
