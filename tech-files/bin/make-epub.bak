@@ -47,16 +47,3 @@ pandoc "$fname".md --css ~/.local/share/pandoc/styles/calibre-reader-2.css --toc
 # pandoc "$fname".md --css ~/.local/share/pandoc/styles/pandoc-render-with-times.css --toc -s -o ~/"$basename".epub
 
 #
-echo "Do you wish to view this epub?"
-select strictreply in "Yes" "No"; do
-    relaxedreply=${strictreply:-$REPLY}
-    case $relaxedreply in
-        Yes | yes | y ) foliate ~/"$basename".epub; break;;
-        No  | no  | n ) exit;;
-esac
-done
-#select yn in "Yes" "No"; do
-#    case $yn in
-#        Yes ) foliate '"$basename".epub'; break;;
-#        No ) exit;;
-#    esac
