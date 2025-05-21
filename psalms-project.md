@@ -9,3 +9,4 @@
 ## week 1
 
 [[Psalms-6]]
+[[Psalms-7]]
