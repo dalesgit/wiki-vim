@@ -1,4 +1,4 @@
-[]()---
+---
 title: Easter 6 Homily
 author: Dale Hathaway
 date: St. Alfred's Episcopal Church
