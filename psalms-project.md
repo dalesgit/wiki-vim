@@ -10,3 +10,7 @@
 
 [[Psalms-6]]
 [[Psalms-7]]
+## week 2
+[[psalms-8]]
+[[Psalms-9]]
+[[Psalms-10]]
