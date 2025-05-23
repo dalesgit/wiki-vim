@@ -151,7 +151,7 @@ Give strength to your people, Lord, and bless your people with peace. •
 
 ## Monday Evening Prayer
 
-Psalm 11
+### Psalm 11
 
 God looks tenderly on those who are poor.
 
@@ -167,7 +167,7 @@ God sends a rain of fire, allots them a scorching wind.
 
 The Lord loves justice, the just will see God's face. •
 
-Psalm 15
+### Psalm 15
 
 Blest are the pure of heart, for they shall see God.
 
@@ -187,7 +187,7 @@ They neither lend for gain nor take bribes against the guiltless.
 These are the just: they stand for ever unshaken.
 ## Tuesday morning prayer
 
-Psalm 24
+### Psalm 24
 
 Whoever has integrity
 shall climb the mountain of God.
