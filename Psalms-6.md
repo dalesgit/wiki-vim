@@ -151,7 +151,40 @@ Give strength to your people, Lord, and bless your people with peace. •
 
 ## Monday Evening Prayer
 
+Psalm 11
 
+God looks tenderly on those who are poor.
+
+I have taken shelter in God, so how can you say to me:
+
+"Go, fly like a bird to the hills, for the wicked bend their bows, lock their arrows on the string to shoot the just from the shadows.
+
+When the world falls apart, what can the good hope to do?"
+
+God dwells in his holy temple, the heavens hold God's throne; the Lord watches the earth, eyes fixed on all nations, weighing both righteous and wicked, rejecting the violent.
+
+God sends a rain of fire, allots them a scorching wind.
+
+The Lord loves justice, the just will see God's face. •
+
+Psalm 15
+
+Blest are the pure of heart, for they shall see God.
+
+Lord, who is welcome in your house?
+
+Who can rest on your holy mountain?
+Those who walk with integrity and do only what is right, speaking the truth with courage.
+
+They never spread slander or abuse their friends or condemn their neighbors.
+
+They disdain the godless, but honor those who believe.
+
+Before God, they give their word and keep it at any cost.
+
+They neither lend for gain nor take bribes against the guiltless.
+
+These are the just: they stand for ever unshaken.
 ## Tuesday morning prayer
 
 Psalm 24
