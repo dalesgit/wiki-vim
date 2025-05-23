@@ -195,4 +195,29 @@ Their ears hear nothing, their nostrils do not breathe.
 Their makers who rely on them become like these hollow images.
 Bless God, house of Israel, house of Aaron, house of Levi, every faithful one.
 Blest be the Lord of Zion, who calls Jerusalem home.
-Hallelujah!o!
+Hallelujah!o
+
+## Saturday morning prayer
+
+### Psalm 119 145 to 152
+
+You, O Lord, are close; your law is my whole truth.
+My heart begs you, Lord: hear me, so I can keep faith.
+I beg you, make me free, so I can live your laws.
+I face you in the cold night praying, waiting for your word.
+I keep watch through the night, repeating what you promise.
+Hear me, loving God,
+let your justice make me live.
+The wicked close in on me; to them your law is foreign.
+But you, Lord, are closer still, your law is my whole truth, learned when I was young, fixed for all time. •
+
+### Psalm 117
+
+Strong the love embracing us.
+Faithful the Lord for ever.
+Praise! Give glory to God!
+Nations, peoples, give glory!
+Strong the love embracing us.
+Faithful the Lord for ever.
+Hallelujah! •
+
