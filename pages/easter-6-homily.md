@@ -114,13 +114,13 @@ And so it begins. A rich, provocative, alluring, vision -- like a kaleidoscopic,
 
 *“For What It’s Worth” is one of the most widely known protest songs of the 1960s. Recorded by Buffalo Springfield as a single, it was eventually released in 1967 on their self-titled album.*
 
-[Verse 2]\
+(Verse 2)
 There's battle lines being drawn\
 And nobody's right if everybody's wrong\
 Young people speaking their minds\
 Are gettin' so much resistance from behind
 
-[Chorus]\
+(Chorus)
 It's time we stop\
 Hey, what's that sound?\
 Everybody look what's going down
