@@ -18,11 +18,9 @@ I'm thinking that as Paul was dealing with dramatic twists in his life, from Pha
 
 ### We looked at US from outside
 
-The last few global trips that Mary Pat and I have taken – north to south, east to west --have provided us with a perspective on this land we call **home**. 
+The last few global trips that Mary Pat and I have taken – north to south, east to west --have provided us with a new perspective on this land we call **home**. 
 
-Many of you have asked, "How was it?", and I have answered, "It was wonderful." And it was wonderful. Exciting. There were high points and low points. We looked at "**home**" from a different perspective. And it was frightening, foreboding, and sobering. In some ways it was depressing, leaving us saying, "What is there to do?" In other ways it prompted motivation to "do something."
-
-Most importantly our travels have allowed us to look at things from a different perspective. It allows for taking stock. Asking ourselves, "What matters?" A former mentor of mine said, "You decide what ditch you're ready to die in."
+Many of you have asked, "How was it?", and I have answered, "It was wonderful." And it was wonderful. Exciting. There were high points and low points. It was frightening, foreboding, and sobering. In some ways it was depressing, leaving us saying, "What is there to do?" In other ways it prompted motivation to "do something." It encouraged us to ask, "What matters?", or as a former mentor of mine said, "You decide what ditch you're ready to die in."
 
 ### The last words of my last sermon
 
@@ -50,7 +48,7 @@ A little like traveling the South Pacific. A little like coming "home" to a coun
 
 Like Paul who set sail after his vision in today's reading. He and his friends would be launched into a world they could not have anticipated. Just so, we had set sail for the South Pacific before Lent and arrived back in the US after Easter day. Mary Pat said, "We gave up the US for Lent."
 
-Inevitably we came back to a world that was changed. The social contract that I had known from my earliest childhood, the quiet agreement about values and principles, was crumbling or swept away. In some ways I trace an awareness of the social contract back to father. 
+Inevitably we came back to a world that was changed. The social contract that I had known from my earliest childhood, the quiet agreement about values and principles, was crumbling or swept away. In some ways I trace an awareness of the social contract back to my father. 
 
 He was the one who taught me that a **gentleman keeps his word. A gentleman always carries a clean handkerchief**. (_He used the word "gentleman", because he was not aware of gender issues the way we are these days_.) That same social contract said, "It is never okay to mock a handicapped person." My father said that his goal was to be as comfortable sharing a meal with the the poorest and powerless as with the rich and powerful. He was serious about his Hippocratic Oath, "Thou shalt do no harm."
 
@@ -61,7 +59,7 @@ I understood those words to be a concentrated expression of what one must do to 
 The country we came home to seems to have canceled the **neighbor** part of that. Or at least it understands "neighbor" in a narrow sense. Not the sense in which Jesus's parable of the **Good Samaritan** would clearly teach us.
 
 ### Camara
-In the early 80's I attended a national conference of *Pax Christi* -- "Peace of Christ" in English. One of the featured speakers was Bishop Helder Camara of Recife, Brazil. He was known to many of us a saintly figure who prominently cared and advocated for the poor in his city who lived in the slums -- *favelas* of his city. Many of us in the audience thought of him as a **living saint**. When he walked into the hall I was initially startled. He was a little tiny man. Maybe 5 feet. But when he walked up through the 100's in attendance, I had the distinct sense that he was Moses parting the waters of the Red Sea. And then he spoke. It was tinny high pitched voice. Like a child's. But his message to us was thunderous. Like a prophet's. 
+In the early 80's I attended a national conference of *Pax Christi* -- "Peace of Christ" in English. One of the featured speakers was Bishop Helder Camara of Recife, Brazil. He was known to many of us a saintly figure who prominently cared and advocated for the poor in his city who lived in the slums -- *favelas* of his city. Many of us in the audience thought of him as a **living saint**. When he walked into the hall I was initially startled. He was a little tiny man. Maybe 5 feet. But when he walked up through the 100's in attendance, I had the distinct sense that he was Moses parting the waters of the Red Sea. And then he spoke. It was a tinny high pitched voice. Like a child's. But his message to us was thunderous. Like a prophet's. 
 
 He said to us:
 
@@ -97,7 +95,7 @@ There's a saying that keeps me going, taking one step at a time. I laugh to thin
 
 ### Bible 101
 
-You know the first thing you learn in Bible 101 about the last book of the Bible is that it is written in the genre known as **apocalyptic**. The second thing you learn is that the purpose the various books in the apocalyptic genre is to **encourage people during times of persecution and suffering**. 
+You know the first thing you learn in Bible 101 about the last book of the Bible is that it is written in the genre known as **apocalyptic**. The second thing you learn is that the purpose of the various books in the **apocalyptic** genre is to **encourage people during times of persecution and suffering**. 
 
 After that, the third through the 150^th^, things you  learn -- well that's kind of all over the place. 
 
@@ -109,21 +107,6 @@ And so it begins. A rich, provocative, alluring, vision -- like a kaleidoscopic,
 
 > ... the city has no need of sun or moon to shine on it, for the glory of God is its light, and its lamp is the Lamb. 
 "In the end everything will be okay. If it's not okay now, it's not the end." Things are not okay yet, but in the end it will be glorious.
-
-### Songs
-
-*“For What It’s Worth” is one of the most widely known protest songs of the 1960s. Recorded by Buffalo Springfield as a single, it was eventually released in 1967 on their self-titled album.*
-
-(Verse 2)
-There's battle lines being drawn\
-And nobody's right if everybody's wrong\
-Young people speaking their minds\
-Are gettin' so much resistance from behind
-
-(Chorus)
-It's time we stop\
-Hey, what's that sound?\
-Everybody look what's going down
 
 ## Standing still is not an option
 
