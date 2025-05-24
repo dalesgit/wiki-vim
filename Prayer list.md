@@ -1,6 +1,15 @@
-[[Prayers]] ## After lectio
+---
+id: Prayer list
+aliases: []
+tags: []
+---
+
+[[Prayers]] 
+
+## After lectio
 
 Using *Joplin* as of Tue 2024-07-30 08:53:21-0400
+*Refreshed May 2025 in repository*
 
 **Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
 
@@ -10,7 +19,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
 - Current
 	- ~~Peg RIP 6/1/24 in hospice~~
-    - The violence attacking the election
+    - ~~The violence attacking the election~~
 	- waiting for God to show me my calling now in Florida. (git-journal, wiki.vim) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~, Scott and Loa
 	- Cynthia Marie
@@ -38,7 +47,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 - Friends
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
-- Sydney RIP -- caregiver Kathy (dtr)
+  - ~~Sydney RIP~~ -- caregiver Kathy (dtr)
 - Our membership at St. Alfred's
 	- ~~Gini brother suicide~~
 	- MP on the vestry

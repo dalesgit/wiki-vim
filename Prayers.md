@@ -1,3 +1,9 @@
+---
+id: Prayers
+aliases: []
+tags: []
+---
+
 # Prayers
 #prayer 
 
@@ -52,7 +58,6 @@ Glory to the Father, and **to** the Son,
 and to the **Hol**y Spirit,
 as it was in **the** beginning, is now,  
 and will be for ev**er**. Amen
-
 
 ## New Zealand Lord's Prayer
 
@@ -137,17 +142,14 @@ not you.
 
 Amen
 
-
-
-
-
 ## Venite
 
+![link](https://drive.google.com/uc?export=view&id=12177P6Mh04aJh1wh29nCGp6ykf-_Aejx)
 Come, sing with **joy** to God,  
 shout to our sav**ior**, our rock.  
 Enter God's pre**sence** with praise,  
 enter with shout**ing** and song.  
-  
+
 A great God is the Lord,  
 over the gods **like** a king.  
 God cradles the depths of the earth,  
@@ -155,26 +157,24 @@ holds fast the **moun**tain peaks.
 God shaped the o**cean** and owns it,  
 formed the **earth** by hand.  
 
-![](https://drive.google.com/uc?export=view&id=12177P6Mh04aJh1wh29nCGp6ykf-_Aejx)
-  
+
 Come, bow **down** and worship,  
 kneel to the **Lord** our maker  
 This is our **God**, our shepherd,  
 we are the flock **led** with care.  
-  
+
 Listen today **to** God's voice  
 "Harden no heart as at Meribah,  
 on that day in the de**sert** at Massah.  
 There your **peo**ple tried me,  
 though they had **seen** my work.  
-  
+
 "Forty years **with** that lot  
 I said: They are perverse,  
 they do not ac**cept** my ways  
 So I swore **in** my anger  
 They shall not en**ter** my rest."   
 
----------
 
 ## Phos Hilaron
 
