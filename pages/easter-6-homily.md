@@ -97,7 +97,7 @@ Things may look dismal at a particular moment. Certainly Jesus's friends at that
 
 I tell myself the church has lived through the centuries with countless rulers, kings, emperors, and tyrants. It has often looked bleak indeed. 
 
-But just as invariably there have been moments where you can see the "water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city", as we heard today from the 21^^st^^ chapter of John's Revelation.
+But just as invariably there have been moments where you can see the "water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city", as we heard today from the 21^st^ chapter of John's Revelation.
 
 There's a saying that keeps me going, taking one step at a time. I laugh to think that I first heard the phrase in a wonderful film about old people moving to India. Some on the internet claim that John Lennon said it, but there appears to be no evidence for that, only that people have repeated it and the internet has multiplied it an unfathomable number of times. 
 
