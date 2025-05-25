@@ -17,14 +17,20 @@ We've been away for a while. I know some of you noticed -- thank you. Others of 
 I'm thinking that as Paul was dealing with dramatic twists in his life, from Pharisee to a mute thrown off his horse, healed and called to preach what he once persecuted. And over and over again a voice from within and without telling him: "leave behind what you are comfortable with. Come over to Macedonia and help us." And he listened to the voice. 
 
 ### We looked at US from outside
+The last few trips that Mary Pat and I have taken have provided us with a perspective on our own country, the place wecall **home**. Two years ago we went to the other side of the globe -- going north to south. In March and April we went to the other side of the globe going east to west and north to south – then back again. [We even traveled in time. We had April 10 twice.]
 
-The last few global trips that Mary Pat and I have taken – north to south, east to west --have provided us with a new perspective on this land we call **home**. 
+Many of you have asked, "How was it?", and I have answered, "It was wonderful." And it was wonderful. Exciting. There were high points, but also low points. It was frightening, foreboding, and sobering as we thought about coming back to the US. We were left wondering, "What should we do?" 
 
-Many of you have asked, "How was it?", and I have answered, "It was wonderful." And it was wonderful. Exciting. There were high points and low points. It was frightening, foreboding, and sobering. In some ways it was depressing, leaving us saying, "What is there to do?" In other ways it prompted motivation to "do something." It encouraged us to ask, "What matters?", or as a former mentor of mine said, "You decide what ditch you're ready to die in."
+In other ways it prompted motivation to "do something." It encouraged us to ask, "What matters?", or as a former mentor of mine said, "You decide what ditch you're ready to die in."
 
+The world outside the US looks at folks with the label **American Christian,** and they see something quite different from what we in this country imagine. We would generally have dinner each night with different folks. The conversation at the table when all of us were from the US was quite predictable. We talked about the food. About the last excursion we went on. The last cruise we were on. Our favorite cruise line. It seemed as if we never talked about deeper subjects. 
+
+When our table partners were international, the conversation seemed to easily shift to some variation of, "What's going on in the US is frightening and crazy." Interestingly there were two couples we befriended that were made up of one US citizen and the spouse who was a citizen of some other country but with a green card.  As March and April unfolded the emotional tenor shifted from bemusement at what was going on in the US, and then gradually fear and uncertainty.
+
+There was a sense of powerlessness as our **home** seemed to be changing beyond recognition as we blithely sailed Pacific Ocean.
 ### The last words of my last sermon
 
-Some of you may remember I ended my last sermon, before we left for the South Pacific with the words, "Do something." That was in response to my sense that Christians could no longer be content with being comfortable. My greatest fear is to be complicit through complacency. 
+Some of you may remember I ended my last sermon, before we left for our cruise with the words, "Do something." That was in response to my sense that Christians could no longer be content with being comfortable with the way things have always been. I must tell you that my greatest fear is to be complicit through complacency. 
 
 Last week, I heard Fr. Peter commend you for the many things that you **are** doing. It's really quite amazing. And I second his words. Well done.
 
@@ -54,20 +60,24 @@ He was the one who taught me that a **gentleman keeps his word. A gentleman alwa
 
 From my teenage years onward I heard every Sunday the words: "Hear what our Lord Jesus Christ saith: *Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it: Thou shalt love thy neighbor as thyself...*
 
-I understood those words to be a concentrated expression of what one must do to be a Christian.
+I understood those words to be a concentrated expression of what one must do to be a Christian. The answer to the question, "What should I do?", was: Love God and Love your neighbor.
 
-The country we came home to seems to have canceled the **neighbor** part of that. Or at least it understands "neighbor" in a narrow sense. Not the sense in which Jesus's parable of the **Good Samaritan** would clearly teach us.
+The country we came home to seems to have canceled the **neighbor** part of that. Or at least it understands "neighbor" in a far too literal and narrow a way. Jesus's parable of the **Good Samaritan**  shows clearly that Jesus understands neighbor in a far broader -- and uncomfortable -- way.
+
+I learned a lesson about **neighbor** from a bishop from Brazil.
 
 ### Camara
 In the early 80's I attended a national conference of *Pax Christi* -- "Peace of Christ" in English. One of the featured speakers was Bishop Helder Camara of Recife, Brazil. He was known to many of us a saintly figure who prominently cared and advocated for the poor in his city who lived in the slums -- *favelas* of his city. Many of us in the audience thought of him as a **living saint**. When he walked into the hall I was initially startled. He was a little tiny man. Maybe 5 feet. But when he walked up through the 100's in attendance, I had the distinct sense that he was Moses parting the waters of the Red Sea. And then he spoke. It was a tinny high pitched voice. Like a child's. But his message to us was thunderous. Like a prophet's. 
 
 He said to us:
 
-> "There is no peace for my people because they do not know where their next piece of bread will come from. We must feed the hungry before peace is possible.""
+> "There is no peace for the people of my home because they do not know where their next piece of bread will come from. We must feed the hungry before peace is possible."
 
 ### Coming home?
 
-Coming home has really been something of a conundrum for me. Diana Butler-Bass recently wrote that she genuinely doesn't know what to say. And she makes a living by knowing what to say and write. What do you say or do when your world seems to have turned upside down? Mostly I don't know what to say. 
+I spent a lot of time on our cruise asking myself, "What do I do with the changes taking place at **home**?"
+
+Coming home has really been something of a conundrum for me. In the face of the changes, Diana Butler-Bass recently wrote that she genuinely doesn't know what to say. And she makes a living by knowing what to say and write. What do you say or do when your world seems to have turned upside down? Mostly I don't know what to say. 
 
 But I'm reminded of my words in January: "Do something."
 
