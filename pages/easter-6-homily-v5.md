@@ -1,5 +1,5 @@
 ---
-id: easter-6-homily
+id: easter-6-homily-v5
 aliases: []
 tags: []
 ---
@@ -10,7 +10,7 @@ aliases: []
 tags: []
 author: Dale Hathaway
 date: St. Alfred's Episcopal Church
-title: Easter 6 Homily
+title: Easter 6 easter-6-homily-v5
 ---
 # Easter 6
 
