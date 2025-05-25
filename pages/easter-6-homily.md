@@ -17,7 +17,8 @@ We've been away for a while. I know some of you noticed -- thank you. Others of 
 I'm thinking that as Paul was dealing with dramatic twists in his life, from Pharisee to a mute thrown off his horse, healed and called to preach what he once persecuted. And over and over again a voice from within and without telling him: "leave behind what you are comfortable with. Come over to Macedonia and help us." And he listened to the voice. 
 
 ### We looked at US from outside
-The last few trips that Mary Pat and I have taken have provided us with a perspective on our own country, the place wecall **home**. Two years ago we went to the other side of the globe -- going north to south. In March and April we went to the other side of the globe going east to west and north to south – then back again. [We even traveled in time. We had April 10 twice.]
+
+The last few trips that Mary Pat and I have taken have provided us with a perspective on our own country, the place we call **home**. Two years ago we went to the other side of the globe -- going north to south. In March and April we went to the other side of the globe going east to west and north to south – then back again. (*We even traveled in time. We had April 10 twice*.)
 
 Many of you have asked, "How was it?", and I have answered, "It was wonderful." And it was wonderful. Exciting. There were high points, but also low points. It was frightening, foreboding, and sobering as we thought about coming back to the US. We were left wondering, "What should we do?" 
 
@@ -28,6 +29,7 @@ The world outside the US looks at folks with the label **American Christian,** a
 When our table partners were international, the conversation seemed to easily shift to some variation of, "What's going on in the US is frightening and crazy." Interestingly there were two couples we befriended that were made up of one US citizen and the spouse who was a citizen of some other country but with a green card.  As March and April unfolded the emotional tenor shifted from bemusement at what was going on in the US, and then gradually fear and uncertainty.
 
 There was a sense of powerlessness as our **home** seemed to be changing beyond recognition as we blithely sailed Pacific Ocean.
+
 ### The last words of my last sermon
 
 Some of you may remember I ended my last sermon, before we left for our cruise with the words, "Do something." That was in response to my sense that Christians could no longer be content with being comfortable with the way things have always been. I must tell you that my greatest fear is to be complicit through complacency. 
