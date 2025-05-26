@@ -1,3 +1,32 @@
+---
+id: Psalms-7
+aliases: []
+tags: []
+---
+
+# Week 1 (2)
+*Contents*
+* [Wednesday morning prayer](#Week 1 %282%29#Wednesday morning prayer)
+  * [Psalm 36](#Week 1 %282%29#Wednesday morning prayer#Psalm 36)
+  * [Psalm 47](#Week 1 %282%29#Wednesday morning prayer#Psalm 47)
+* [Wednesday evening prayer](#Week 1 %282%29#Wednesday evening prayer)
+  * [Psalm 27:1-6](#Week 1 %282%29#Wednesday evening prayer#Psalm 27:1-6)
+  * [Psalm 27:7-14](#Week 1 %282%29#Wednesday evening prayer#Psalm 27:7-14)
+* [Thursday Morning Prayer](#Week 1 %282%29#Thursday Morning Prayer)
+  * [Psalm 57](#Week 1 %282%29#Thursday Morning Prayer#Psalm 57)
+  * [Psalm 48](#Week 1 %282%29#Thursday Morning Prayer#Psalm 48)
+* [Thursday evening prayer](#Week 1 %282%29#Thursday evening prayer)
+  * [Psalm 30](#Week 1 %282%29#Thursday evening prayer#Psalm 30)
+  * [Psalm 32](#Week 1 %282%29#Thursday evening prayer#Psalm 32)
+* [Friday morning prayer](#Week 1 %282%29#Friday morning prayer)
+  * [Psalm 51](#Week 1 %282%29#Friday morning prayer#Psalm 51)
+  * [Psalm 100](#Week 1 %282%29#Friday morning prayer#Psalm 100)
+* [Friday evening prayer](#Week 1 %282%29#Friday evening prayer)
+  * [Psalm 41](#Week 1 %282%29#Friday evening prayer#Psalm 41)
+* [Saturday morning prayer](#Week 1 %282%29#Saturday morning prayer)
+  * [Psalm 119:145-152](#Week 1 %282%29#Saturday morning prayer#Psalm 119:145-152)
+  * [Psalm 117](#Week 1 %282%29#Saturday morning prayer#Psalm 117)
+
 ## Wednesday morning prayer
 
 ### Psalm 36

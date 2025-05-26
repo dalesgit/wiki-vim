@@ -1,3 +1,27 @@
+---
+id: Psalms-10
+aliases: []
+tags: []
+---
+
+# Week 2 (3)
+*Contents*
+* [Thursday morning prayer](#Week 2 %283%29#Thursday morning prayer)
+  * [Psalm 80](#Week 2 %283%29#Thursday morning prayer#Psalm 80)
+  * [Psalm 81](#Week 2 %283%29#Thursday morning prayer#Psalm 81)
+* [Thursday evening prayer](#Week 2 %283%29#Thursday evening prayer)
+  * [Psalm 72:1-11](#Week 2 %283%29#Thursday evening prayer#Psalm 72:1-11)
+  * [Psalm 72:12-19](#Week 2 %283%29#Thursday evening prayer#Psalm 72:12-19)
+* [Friday Morning Prayer](#Week 2 %283%29#Friday Morning Prayer)
+  * [Psalm 51](#Week 2 %283%29#Friday Morning Prayer#Psalm 51)
+  * [Psalm 147:12-20](#Week 2 %283%29#Friday Morning Prayer#Psalm 147:12-20)
+* [Friday evening prayer](#Week 2 %283%29#Friday evening prayer)
+  * [Psalm 116:1-9](#Week 2 %283%29#Friday evening prayer#Psalm 116:1-9)
+  * [Psalm 121](#Week 2 %283%29#Friday evening prayer#Psalm 121)
+* [Saturday Morning Prayer](#Week 2 %283%29#Saturday Morning Prayer)
+  * [Psalm 92](#Week 2 %283%29#Saturday Morning Prayer#Psalm 92)
+  * [Psalm 8](#Week 2 %283%29#Saturday Morning Prayer#Psalm 8)
+
 ## Thursday morning prayer
 
 ### Psalm 80
