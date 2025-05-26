@@ -1,3 +1,9 @@
+---
+id: Book of occasional services
+aliases: []
+tags: []
+---
+
 #prayers [[Prayers]]
 
 ## seasonal blessings
@@ -101,7 +107,7 @@ or this
 
 May the risen Christ  Who has passed into the heavens Clothe you with power from on high And the blessing of God almighty, the Father, the Son, and the Holy Spirit, be among you and remain with you always. Amen. 
 
-The Day of Pentecost 
+### The Day of Pentecost 
 
 May Almighty God, who enlightened the minds of the disciples by pouring out upon them the Holy Spirit, make you rich with his blessing, that you may abound more and more in that Spirit for ever. Amen. 
 

@@ -18,13 +18,14 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 ## Recent 
 
 - Current
+  - Jane with CA, Jolene in recovery
 	- waiting for God to show me my calling now in Florida. (git-journal, wiki.vim) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~, Scott and Loa
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
 	- Tom, Joan, Ed, Tony, Roxie
 	- centering prayer at St Alfred's 
-	- people of Haiti. Gangs overrun. 
+- Ukraine, Palestine
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
 - earthquakes: Morroco, Lybia, Afghanistan, Taiwan
@@ -39,6 +40,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
+  - Randy mourning Bonnie RIP
 	- MP on the vestry
 	- discernment for using our gifts and talents in this place: 
 	- centering prayer at St. Alfred's; **ride the wave**
@@ -52,9 +54,8 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 		- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 		- Karen Billings (new members DOK)
 	- Tricia macular degeneration diabetes, new job, polyps in uterus, 
-	- Frank in caregivers group
 	- Jim & Susan
-	- Jo Anderson, Diane Vetter (Lutheran) -- for her extreme pain, Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
+	- [ ] Jo Anderson, Diane Vetter (Lutheran) -- for her extreme pain, Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
 	- Patty
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"

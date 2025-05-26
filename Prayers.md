@@ -175,7 +175,6 @@ they do not ac**cept** my ways
 So I swore **in** my anger  
 They shall not en**ter** my rest."   
 
-
 ## Phos Hilaron
 
 ![](https://drive.google.com/uc?export=view&id=12177P6Mh04aJh1wh29nCGp6ykf-_Aejx)
