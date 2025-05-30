@@ -25,13 +25,13 @@ Nutrition information
 
 Units: US
 
--   2 <sup>3</sup>⁄<sub>4</sub> cups [hot water](https://www.food.com/about/water-459)
--   <sup>1</sup>⁄<sub>3</sub> cup [olive oil](https://www.food.com/about/olive-oil-495), any oil is fine
--   <sup>1</sup>⁄<sub>3</sub> cup [honey](https://www.food.com/about/honey-155)
--   2 tablespoons [molasses](https://www.food.com/about/molasses-331)
--   1 tablespoon [salt](https://www.food.com/about/salt-359), Sea Salt is good
--   7 <sup>1</sup>⁄<sub>2</sub> cups of 100% [whole grain wheat flour](https://www.food.com/about/flour-64)
--   2 tablespoons [dry active yeast](https://www.food.com/about/yeast-62)
+-   2 <sup>3</sup>⁄<sub>4</sub> cups [hot water](https://www.food.com/about/water-459) -- 1 <sup>3</sup>/<sub>8</sub>  
+- <sup>1</sup>⁄<sub>3</sub> cup [olive oil](https://www.food.com/about/olive-oil-495), any oil is fine -- 1/6
+-   <sup>1</sup>⁄<sub>3</sub> cup [honey](https://www.food.com/about/honey-155) -- 1/6
+-   2 tablespoons [molasses](https://www.food.com/about/molasses-331) 1 T
+-   1 tablespoon [salt](https://www.food.com/about/salt-359), Sea Salt is good -- 1/2 T
+-   7 <sup>1</sup>⁄<sub>2</sub> cups of 100% [whole grain wheat flour](https://www.food.com/about/flour-64) --  4
+-   2 tablespoons [dry active yeast](https://www.food.com/about/yeast-62) 2 t ? N 50th
 
 ## directions
 
