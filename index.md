@@ -42,3 +42,5 @@ https://www.eatthis.com/best-exercises-men-over-50-strength-training/
 ## [[travel.md|travel]] 
 ## [reminders-index](reminders-index.md)
 ## [reminders](reminders.md)
+## Working
+- [[compare psalm 42]]
