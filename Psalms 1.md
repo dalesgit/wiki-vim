@@ -3,6 +3,27 @@ id: psalms 1
 aliases: []
 tags: []
 ---
+*Contents*
+* [[#Week 3]]
+    * [[#Week 3#SUNDAY EVENING PRAYER I |SUNDAY EVENING PRAYER I ]]
+        * [[#Week 3#SUNDAY EVENING PRAYER I #psalm 113|psalm 113]]
+    * [[#Week 3#SUNDAY MORNING PRAYER I. |SUNDAY MORNING PRAYER I. ]]
+        * [[#Week 3#SUNDAY MORNING PRAYER I. #Psalm 93|Psalm 93]]
+        * [[#Week 3#SUNDAY MORNING PRAYER I. #Palm 148|Palm 148]]
+    * [[#Week 3#Evening prayer 2 |Evening prayer 2 ]]
+        * [[#Week 3#Evening prayer 2 #Psalm 110|Psalm 110]]
+        * [[#Week 3#Evening prayer 2 #Psalm 111|Psalm 111]]
+    * [[#Week 3#Monday morning prayer|Monday morning prayer]]
+        * [[#Week 3#Monday morning prayer#Psalm 84|Psalm 84]]
+    * [[#Week 3#Evening prayer |Evening prayer ]]
+        * [[#Week 3#Evening prayer #psalm 123|psalm 123]]
+    * [[#Week 3#Tuesday morning prayer|Tuesday morning prayer]]
+        * [[#Week 3#Tuesday morning prayer#Psalm 85|Psalm 85]]
+        * [[#Week 3#Tuesday morning prayer#Psalm 67|Psalm 67]]
+    * [[#Week 3#Tuesday evening prayer|Tuesday evening prayer]]
+        * [[#Week 3#Tuesday evening prayer#Psalm 125|Psalm 125]]
+        * [[#Week 3#Tuesday evening prayer#Psalm 131|Psalm 131]]
+
 # Week 3
 
 ## SUNDAY EVENING PRAYER I 

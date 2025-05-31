@@ -1,3 +1,25 @@
+---
+id: Psalms-4
+aliases: []
+tags: []
+---
+
+*Contents*
+* [[#Week 4-2]]
+    * [[#Week 4-2#Tuesday morning prayer|Tuesday morning prayer]]
+        * [[#Week 4-2#Tuesday morning prayer#Psalm 101|Psalm 101]]
+        * [[#Week 4-2#Tuesday morning prayer#Psalm 144|Psalm 144]]
+    * [[#Week 4-2#Tuesday evening prayer|Tuesday evening prayer]]
+        * [[#Week 4-2#Tuesday evening prayer#Psalm 137|Psalm 137]]
+        * [[#Week 4-2#Tuesday evening prayer#Psalm 138|Psalm 138]]
+    * [[#Week 4-2#Wednesday Morning Prayer|Wednesday Morning Prayer]]
+        * [[#Week 4-2#Wednesday Morning Prayer#Psalm 108|Psalm 108]]
+        * [[#Week 4-2#Wednesday Morning Prayer#Psalm 146|Psalm 146]]
+    * [[#Week 4-2#Wednesday evening prayer|Wednesday evening prayer]]
+        * [[#Week 4-2#Wednesday evening prayer#Psalm 139:1-12|Psalm 139:1-12]]
+        * [[#Week 4-2#Wednesday evening prayer#Psalm 139:13-24|Psalm 139:13-24]]
+
+# Week 4-2
 ## Tuesday morning prayer
 
 ### Psalm 101

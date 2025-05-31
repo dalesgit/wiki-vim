@@ -4,6 +4,25 @@ author: Dale
 date: LTS
 ---
 
+*Contents*
+* [[#Week 4-3]]
+    * [[#Week 4-3#Thursday morning prayer|Thursday morning prayer]]
+        * [[#Week 4-3#Thursday morning prayer#Psalm 143|Psalm 143]]
+        * [[#Week 4-3#Thursday morning prayer#Psalm 147:1-11|Psalm 147:1-11]]
+        * [[#Week 4-3#Thursday morning prayer#Psalm 144:1-8|Psalm 144:1-8]]
+        * [[#Week 4-3#Thursday morning prayer#Psalm 144:1-15|Psalm 144:1-15]]
+    * [[#Week 4-3#Friday Morning Prayer|Friday Morning Prayer]]
+        * [[#Week 4-3#Friday Morning Prayer#Psalm 51|Psalm 51]]
+        * [[#Week 4-3#Friday Morning Prayer#Psalm 147:12-20|Psalm 147:12-20]]
+    * [[#Week 4-3#Friday evening prayer|Friday evening prayer]]
+        * [[#Week 4-3#Friday evening prayer#Psalm 145:1-13b|Psalm 145:1-13b]]
+        * [[#Week 4-3#Friday evening prayer#Psalm 145:13c-21|Psalm 145:13c-21]]
+    * [[#Week 4-3#Saturday Morning Prayer|Saturday Morning Prayer]]
+        * [[#Week 4-3#Saturday Morning Prayer#Psalm 92|Psalm 92]]
+        * [[#Week 4-3#Saturday Morning Prayer#Psalm 8|Psalm 8]]
+
+# Week 4-3
+
 ## Thursday morning prayer
 
 ### Psalm 143

@@ -3,6 +3,31 @@ id: Psalms2
 aliases: []
 tags: []
 ---
+*Contents*
+* [Week 3-2](#Week 3-2)
+  * [Wednesday morning prayer ](#Week 3-2#Wednesday morning prayer )
+    * [Psalm 86](#Week 3-2#Wednesday morning prayer #Psalm 86)
+    * [Psalm 98](#Week 3-2#Wednesday morning prayer #Psalm 98)
+  * [Wednesday Evening prayer](#Week 3-2#Wednesday Evening prayer)
+  * [Psalm 126](#Week 3-2#Psalm 126)
+  * [Thursday Morning Prayer](#Week 3-2#Thursday Morning Prayer)
+    * [Psalm 87](#Week 3-2#Thursday Morning Prayer#Psalm 87)
+    * [Psalm 99](#Week 3-2#Thursday Morning Prayer#Psalm 99)
+  * [Thursday evening prayer](#Week 3-2#Thursday evening prayer)
+    * [Psalm 132:1-9](#Week 3-2#Thursday evening prayer#Psalm 132:1-9)
+    * [132:10-18](#Week 3-2#Thursday evening prayer#132:10-18)
+  * [Friday morning prayer](#Week 3-2#Friday morning prayer)
+    * [Psalm 51](#Week 3-2#Friday morning prayer#Psalm 51)
+    * [Psalm 100](#Week 3-2#Friday morning prayer#Psalm 100)
+  * [Friday evening prayer](#Week 3-2#Friday evening prayer)
+    * [Psalm 135:1-12](#Week 3-2#Friday evening prayer#Psalm 135:1-12)
+    * [135:13-21](#Week 3-2#Friday evening prayer#135:13-21)
+  * [Saturday morning prayer](#Week 3-2#Saturday morning prayer)
+    * [Psalm 119 145 to 152](#Week 3-2#Saturday morning prayer#Psalm 119 145 to 152)
+    * [Psalm 117](#Week 3-2#Saturday morning prayer#Psalm 117)
+
+# Week 3-2
+
 ## Wednesday morning prayer 
 
 ### Psalm 86
