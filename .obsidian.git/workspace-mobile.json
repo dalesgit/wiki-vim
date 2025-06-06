@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-05-23.md",
+                "file": "On inequality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-23"
+              "title": "On inequality"
             }
           }
         ]
@@ -96,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "On inequality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,8 +158,16 @@
   },
   "active": "665a217b23b702c6",
   "lastOpenFiles": [
-    "Psalms-6.md",
+    "Pasted image 20250606070351.png",
+    "Pasted image 20250606070002.png",
+    "Pasted image 20250606065834.png",
+    "Pasted image 20250606065723.png",
+    "Pasted image 20250606065626.png",
+    "Pasted image 20250606065558.png",
+    "journal/2025-06-06.md",
+    "On inequality.md",
     "journal/2025-05-23.md",
+    "Psalms-6.md",
     "psalms-project.md",
     "Psalms-10.md",
     "Psalms-9.md",
@@ -180,9 +189,6 @@
     "Prayer list.md",
     "Mothers-day-prayer.md",
     "journal/2025-05-08.md",
-    "psalms 1.md",
-    "journal/2025-05-06.md",
-    "journal/2025-05-07.md",
     "Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
     "Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
     "rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
@@ -197,11 +203,6 @@
     "assets/winners-losers/Screenshot 2024-10-27 6.54.31 AM.png",
     "assets/winners-losers/Screenshot 2024-10-27 6.54.39 AM.png",
     "assets/winners-losers/Screenshot 2024-10-27 6.54.06 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.14 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.24 AM.png",
-    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf",
-    "assets/Screen Shot 2024-09-26 at 1.09.15 PM.png",
-    "assets/Paris Agent.jpg",
-    "assets/Screen Shot 2024-09-26 at 12.46.19 PM.png"
+    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf"
   ]
 }
