@@ -12,7 +12,7 @@ title: Easter 6 Homily
 
 ### We've been gone
 
-We've been away for a while. I know some of you noticed -- thank you. Others of you no doubt saw my facial hair and didn't recognize me. I forgive you. Of all my siblings and children, I'm the only one who doesn't readily grow facial hair. I keep trying, though, even at my age. Once when my oldest was about 3, late at night after he'd gone to bed, I shaved off the mustache and goatee I had grown. When he got up the next morning, he walked in the kitchen where I was probably drinking coffee. His face totally collapsed, and he said, "No, Daddy, put it back."
+[@thompsonSeaPeoplePuzzle2019] We've been away for a while. I know some of you noticed -- thank you. Others of you no doubt saw my facial hair and didn't recognize me. I forgive you. Of all my siblings and children, I'm the only one who doesn't readily grow facial hair. I keep trying, though, even at my age. Once when my oldest was about 3, late at night after he'd gone to bed, I shaved off the mustache and goatee I had grown. When he got up the next morning, he walked in the kitchen where I was probably drinking coffee. His face totally collapsed, and he said, "No, Daddy, put it back."
 
 I imagine Paul feeling something like my son. "Maybe I should just go back and start over." I'm thinking that as he was dealing with the dramatic twists in his life, from Pharisee to a mute thrown off his horse, healed and called to preach what he once persecuted, there had to be a time he thought enough is enough. But over and over again a voice from within and without would speak to him: "leave behind what you are comfortable with. Come over to Macedonia and help us." And he listened and took another step. 
 
