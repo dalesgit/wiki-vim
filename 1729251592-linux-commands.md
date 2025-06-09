@@ -2,11 +2,17 @@
 id: 1729251592-linux-commands
 aliases:
   - Linux-commands
-tags: [tech,terminal,command,du,Linux]
+tags:
+  - tech
+  - terminal
+  - command
+  - du
+  - Linux
 ---
 
 # Linux-commands
 
+cf. also https://search.brave.com/search?q=replacement+for+du+linux&source=android&summary=1&conversation=c7c34d98113bdf11f1c6bd -- replacements for du
 ## [[2024-10-18-Friday]]
 
 created: 2024-10-18T07:43:55 (UTC -04:00)
