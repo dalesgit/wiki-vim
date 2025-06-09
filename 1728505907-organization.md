@@ -2,7 +2,7 @@
 id: 1728505907-organization
 aliases:
   - organization
-tags: []
+tags: [organization,tech,memory,sticks,cards,storage]
 ---
 
 # organization

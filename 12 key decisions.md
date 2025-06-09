@@ -1,7 +1,7 @@
 ---
 id: 12 key decisions
 aliases: []
-tags: []
+tags: [discernment,life,choices]
 author: Bill Murphy Jr.
 created: 2024-08-27T13:49:51 (UTC -04:00)
 source: https://www.inc.com/bill-murphy-jr/warren-buffett-says-success-in-life-comes-down-to-just-12-really-good-decisions-heres-your-checklist.html
