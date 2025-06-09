@@ -2,7 +2,7 @@
 id: American Government
 aliases:
   - american-government
-tags: []
+tags: [government,principles]
 ---
 
 # american-government

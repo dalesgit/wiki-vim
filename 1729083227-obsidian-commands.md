@@ -2,7 +2,7 @@
 id: 1729083227-obsidian-commands
 aliases:
   - Obsidian commands
-tags: []
+tags: [tech,Obsidian,commands,nvim]
 ---
 
 # Obsidian commands

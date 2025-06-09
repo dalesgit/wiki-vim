@@ -2,7 +2,7 @@
 id: 1729251592-linux-commands
 aliases:
   - Linux-commands
-tags: []
+tags: [tech,terminal,command,du,Linux]
 ---
 
 # Linux-commands
