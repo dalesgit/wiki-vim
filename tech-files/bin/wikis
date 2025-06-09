@@ -1,1 +1,97 @@
-/home/dale/Repositories/vim-config/bin/wikis
+#!/bin/bash
+# https://askubuntu.com/questions/1146166/bash-how-to-create-a-menu-with-submenu
+# submenu
+# gio launch ~/bin/Obsidian.desktop
+File="/home/dale/Repositories/vim-config/bin/wikis"
+Repo="${menu[$option]}"
+vimrc="/home/dale/.vimrc"
+lua="/home/dale/.config/nvim/lua/config/options.lua"
+luaPost="/home/dale/Repositories/vim-config/options-wiki-post-cruise.lua"
+luaLog="/home/dale/Repositories/vim-config/options-logseq.lua"
+luaVim="/home/dale/Repositories/vim-config/options-wiki-vim.lua"
+luaCruise="/home/dale/Repositories/vim-config/options-wiki-cruise.lua"
+zettelnotes="/mnt/chromeos/PlayFiles/Documents/zettel-git"
+#
+#
+function doZettelnotes (){
+
+cd /mnt/chromeos/PlayFiles/Documents/zettel-git
+exec bash
+
+}
+
+function doCruise (){
+cp $luaCruise $lua
+cp "/home/dale/.vimrc-cruise" $vimrc
+
+cd /home/dale/Repositories/wiki-cruise
+exec bash
+
+~/Repositories/wiki-cruise
+}
+function doPostcruise (){
+cp $luaPost $lua
+cp "/home/dale/.vimrc-post" $vimrc
+
+cd /home/dale/Repositories/wiki-post-cruise
+exec bash
+
+~/Repositories/wiki-post-cruise
+}
+function doWiki (){
+cp $luaVim $lua
+cp "/home/dale/.vimrc-wiki" $vimrc
+cd /home/dale/Repositories/wiki-vim
+exec bash 
+
+~/Repositories/wiki-vim
+}
+function doLogseq (){
+cp $luaLog $lua
+cp "/home/dale/.vimrc-logseq" $vimrc 
+cd "/home/dale/Repositories/logseq"
+exec bash
+
+~/Repositories/logseq
+}
+
+function doSpDir (){
+cp "/home/dale/.vimrc-sd" $vimrc
+cd "/home/dale/Repositories/logseq-sd"
+exec bash
+
+~/Repositories/logseq-sd
+}
+
+# main menu
+PS3='Please enter main option: '
+options=("WikiVim" "Logseq-wiki" "Wiki-cruise" "Spiritual Direction wiki" "Post-cruise" "Zettelnotes" "Main menu quit")
+clear
+select opt in "${options[@]}"
+do
+    case $opt in
+        "WikiVim")
+        doWiki 
+            ;;
+         "Logseq-wiki")
+         doLogseq 
+            ;;
+          "Wiki-cruise")
+          doCruise
+          ;;
+         "Spiritual Direction wiki")
+            doSpDir
+            ;;
+          "Post-cruise")
+          doPostcruise
+          ;; 
+        "Zettelnotes")
+        doZettelnotes
+        ;;
+          "Main menu quit")
+            exit
+            ;;
+        *) echo "invalid option $REPLY";;
+    esac
+ #   clear
+done
