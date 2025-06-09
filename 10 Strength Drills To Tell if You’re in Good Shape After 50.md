@@ -1,7 +1,7 @@
 ---
 title: 10 Strength Drills To Tell if You’re in Good Shape After 50
 date: 2024-07-10
-tags: :health:
+tags: health, strength, exercise 
 ---
 # 10 Strength Drills To Tell if You’re in Good Shape After 50
 ---

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [shamanism,indigenous]
 parent: 'Shamanism in Siberia: Russian records of indigenous spirituality'
 collections:
     - indigenous-spirituality
