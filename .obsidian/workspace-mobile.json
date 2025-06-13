@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7226f71700cc2e3",
+        "id": "d355c2de1dbb3406",
         "type": "tabs",
         "children": [
           {
-            "id": "06e7e88cafa2754d",
+            "id": "3babafd88205cbaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "only-whole-wheat-bread.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "only-whole-wheat-bread"
-            }
-          },
-          {
-            "id": "c4b0a3161f83e81d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table Bread recipes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Table Bread recipes"
+              "title": "New tab"
             }
           }
         ]
@@ -211,10 +173,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06e7e88cafa2754d",
+  "active": "3babafd88205cbaf",
   "lastOpenFiles": [
-    "Table Bread recipes.md",
     "only-whole-wheat-bread.md",
-    "simple-whole-wheat-seedy-bread.md"
+    "simple-whole-wheat-seedy-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "pages/Homemade Bread Recipe - Tastes Better from Scratch.md",
+    "Pasted image 20250606070351.png",
+    "Pasted image 20250606070002.png",
+    "Pasted image 20250606065834.png",
+    "Pasted image 20250606065723.png",
+    "Pasted image 20250606065626.png",
+    "Pasted image 20250606065558.png",
+    "On inequality.md",
+    "/journal/2025-06-06.md",
+    "journal/2025-06-06.md",
+    "/journal",
+    "/Pasted image 20250606070351.png",
+    "/Pasted image 20250606070002.png",
+    "/Pasted image 20250606065834.png",
+    "/Pasted image 20250606065723.png",
+    "/On inequality.md",
+    "Table Bread recipes.md"
   ]
 }
