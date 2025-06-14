@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "50b45e2dfc20d67e",
         "type": "tabs",
         "children": [
           {
             "id": "3952af1189989d13",
+=======
+        "id": "d355c2de1dbb3406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3babafd88205cbaf",
+>>>>>>> fa6900a4a0739c2cfc0153b69f7762588bb5dada
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,10 +190,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
+<<<<<<< HEAD
   "active": "3952af1189989d13",
   "lastOpenFiles": [
     "only-whole-wheat-bread.md",
     "Table Bread recipes.md",
     "simple-whole-wheat-seedy-bread.md"
+=======
+  "active": "3babafd88205cbaf",
+  "lastOpenFiles": [
+    "only-whole-wheat-bread.md",
+    "simple-whole-wheat-seedy-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "pages/Homemade Bread Recipe - Tastes Better from Scratch.md",
+    "Pasted image 20250606070351.png",
+    "Pasted image 20250606070002.png",
+    "Pasted image 20250606065834.png",
+    "Pasted image 20250606065723.png",
+    "Pasted image 20250606065626.png",
+    "Pasted image 20250606065558.png",
+    "On inequality.md",
+    "/journal/2025-06-06.md",
+    "journal/2025-06-06.md",
+    "/journal",
+    "/Pasted image 20250606070351.png",
+    "/Pasted image 20250606070002.png",
+    "/Pasted image 20250606065834.png",
+    "/Pasted image 20250606065723.png",
+    "/On inequality.md",
+    "Table Bread recipes.md"
+>>>>>>> fa6900a4a0739c2cfc0153b69f7762588bb5dada
   ]
 }
