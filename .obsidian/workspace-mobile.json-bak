@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "8608d1f8200ff2a5",
+    "id": "267aed842b6a5870",
     "type": "split",
     "children": [
       {
-        "id": "50b45e2dfc20d67e",
+        "id": "222e1e50381ab3c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3952af1189989d13",
+            "id": "68f2cf81753230a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,29 +23,29 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a9ef325c573f84b4",
+    "id": "0cc56127527683b3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a5c6cb96e91ad3fc",
+        "id": "ca31cead804945cb",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "cba6988a77f7c3fb",
+        "id": "bb8b3a05e38b59d7",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -56,22 +56,20 @@
         }
       },
       {
-        "id": "49ac6d1ca32b350b",
+        "id": "96052bd3b7a973bb",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
+            "useHierarchy": true
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "d98ef57999def473",
+        "id": "72ba2321aadb329e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -84,16 +82,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "8e8bcd4bbff5414e",
+    "id": "c6bd4b6edab0f4b6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "954ea49cb03ceb86",
+        "id": "ee9a97034f421dd8",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "only-whole-wheat-bread.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,12 +104,11 @@
         }
       },
       {
-        "id": "04b538fb04532ae1",
+        "id": "bd30eaf96d4daa97",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "only-whole-wheat-bread.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,22 +117,17 @@
         }
       },
       {
-        "id": "94cd51c4cb1df631",
+        "id": "e954385ffa65f7da",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "only-whole-wheat-bread.md",
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
+          "state": {},
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "971bce7d2c776681",
+        "id": "19d948932675fc26",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -146,27 +137,17 @@
         }
       },
       {
-        "id": "c8714a0c3e91f428",
+        "id": "279280f65608c0ee",
         "type": "leaf",
         "state": {
-          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "type": "advanced-tables-toolbar",
           "state": {},
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
-      },
-      {
-        "id": "cb619d876f76188e",
-        "type": "leaf",
-        "state": {
-          "type": "online.larslockefeer.obsidian-plugin-todo",
-          "state": {},
-          "icon": "checkmark",
-          "title": "Todo"
-        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,17 +156,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "janitor:Janitor: scan vault": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3952af1189989d13",
+  "active": "68f2cf81753230a8",
   "lastOpenFiles": [
-    "only-whole-wheat-bread.md",
-    "Table Bread recipes.md",
-    "simple-whole-wheat-seedy-bread.md"
+    "Lectio.md",
+    "Sacred Fire discussion.md",
+    "facilitating adult relationship - notes.md",
+    "journal/2024-09-22.md",
+    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined_1726666962404_0.pdf",
+    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
+    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
+    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
+    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr_1726694560219_0.pdf",
+    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
+    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr_1726694506203_0.pdf",
+    "Sacred Fire discussio.md",
+    "Sacred.md",
+    "journal/2024-09-19.md",
+    "SD Session Sept 19.md",
+    "art-spiritual-direction-review.md",
+    "listening skills.md",
+    "review-art-spiritual-direction.md",
+    "art-of-spiritual-direction.md",
+    "grounded-conclusion.md",
+    "grounded-commons.md",
+    "journal/2024-09-01.md",
+    "grounded-ch-neighborhood.md",
+    "Grounded.md",
+    "journal/2024-08-31.md",
+    "Guenther-notes.md",
+    "Spiritual Direction Training.md",
+    "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
+    "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
+    "Spiritual directors meet spiritually curious people where they are.md",
+    "journal/2024-08-26.md",
+    "journal/2024-08-27.md",
+    "Spiritual.md",
+    "the-paris-agent.md",
+    "journal/2024-08-22.md",
+    "assets/Paris Agent.jpg"
   ]
 }

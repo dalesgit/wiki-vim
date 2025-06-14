@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "current-lenovo-vimrc.md",
-            "mode": "preview",
+            "file": "journal/2024-07-26.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "current-lenovo-vimrc.md",
+            "file": "journal/2024-07-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "current-lenovo-vimrc.md",
+            "file": "journal/2024-07-26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "current-lenovo-vimrc.md"
+            "file": "journal/2024-07-26.md"
           }
         }
       },
@@ -115,6 +115,7 @@
   },
   "active": "ae014e4c7706403f",
   "lastOpenFiles": [
+    "current-lenovo-vimrc.md",
     "issues with wiki.md",
     "journal.md",
     "keyboard with alt key.md",
@@ -123,7 +124,6 @@
     "technical.md",
     "surgery call list.md",
     "vim tabular.md",
-    "vim.md",
-    "journal/2024-07-21.md"
+    "vim.md"
   ]
 }
