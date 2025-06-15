@@ -1,20 +1,34 @@
 {
   "main": {
-    "id": "267aed842b6a5870",
+    "id": "8608d1f8200ff2a5",
     "type": "split",
     "children": [
       {
-        "id": "222e1e50381ab3c8",
+        "id": "629608a3ed561235",
         "type": "tabs",
         "children": [
           {
-            "id": "68f2cf81753230a8",
+            "id": "2c0c0e9e547a934d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prayers"
             }
           }
         ]
@@ -23,29 +37,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0cc56127527683b3",
+    "id": "a9ef325c573f84b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ca31cead804945cb",
+        "id": "a5c6cb96e91ad3fc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "bb8b3a05e38b59d7",
+        "id": "cba6988a77f7c3fb",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": true,
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -56,20 +71,22 @@
         }
       },
       {
-        "id": "96052bd3b7a973bb",
+        "id": "49ac6d1ca32b350b",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "72ba2321aadb329e",
+        "id": "d98ef57999def473",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,15 +99,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c6bd4b6edab0f4b6",
+    "id": "8e8bcd4bbff5414e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ee9a97034f421dd8",
+        "id": "954ea49cb03ceb86",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "only-whole-wheat-bread.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,11 +122,12 @@
         }
       },
       {
-        "id": "bd30eaf96d4daa97",
+        "id": "04b538fb04532ae1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "only-whole-wheat-bread.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -117,37 +136,42 @@
         }
       },
       {
-        "id": "e954385ffa65f7da",
+        "id": "94cd51c4cb1df631",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "only-whole-wheat-bread.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "19d948932675fc26",
+        "id": "971bce7d2c776681",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
-        "id": "279280f65608c0ee",
+        "id": "c8714a0c3e91f428",
         "type": "leaf",
         "state": {
-          "type": "advanced-tables-toolbar",
+          "type": "online.larslockefeer.obsidian-plugin-todo",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "checkmark",
+          "title": "Todo"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,46 +180,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "68f2cf81753230a8",
+  "active": "2c0c0e9e547a934d",
   "lastOpenFiles": [
-    "Lectio.md",
-    "Sacred Fire discussion.md",
-    "facilitating adult relationship - notes.md",
-    "journal/2024-09-22.md",
-    "assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined_1726666962404_0.pdf",
-    "assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.pdf",
-    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr.pdf",
-    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf",
-    "assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr_1726694560219_0.pdf",
-    "assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf",
-    "assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr_1726694506203_0.pdf",
-    "Sacred Fire discussio.md",
-    "Sacred.md",
-    "journal/2024-09-19.md",
-    "SD Session Sept 19.md",
-    "art-spiritual-direction-review.md",
-    "listening skills.md",
-    "review-art-spiritual-direction.md",
-    "art-of-spiritual-direction.md",
-    "grounded-conclusion.md",
-    "grounded-commons.md",
-    "journal/2024-09-01.md",
-    "grounded-ch-neighborhood.md",
-    "Grounded.md",
-    "journal/2024-08-31.md",
-    "Guenther-notes.md",
-    "Spiritual Direction Training.md",
-    "assets/Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf",
-    "assets/Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf",
-    "Spiritual directors meet spiritually curious people where they are.md",
-    "journal/2024-08-26.md",
-    "journal/2024-08-27.md",
-    "Spiritual.md",
-    "the-paris-agent.md",
-    "journal/2024-08-22.md",
-    "assets/Paris Agent.jpg"
+    "pages/Prayers.md",
+    "pages/Prayer list.md",
+    "only-whole-wheat-bread.md",
+    "simple-whole-wheat-seedy-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "pages/Homemade Bread Recipe - Tastes Better from Scratch.md",
+    "Pasted image 20250606070351.png",
+    "Pasted image 20250606070002.png",
+    "Pasted image 20250606065834.png",
+    "Pasted image 20250606065723.png",
+    "Pasted image 20250606065626.png",
+    "Pasted image 20250606065558.png",
+    "On inequality.md",
+    "/journal/2025-06-06.md",
+    "journal/2025-06-06.md",
+    "/journal",
+    "/Pasted image 20250606070351.png",
+    "/Pasted image 20250606070002.png",
+    "/Pasted image 20250606065834.png",
+    "/Pasted image 20250606065723.png",
+    "/On inequality.md",
+    "Table Bread recipes.md"
   ]
 }
