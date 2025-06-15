@@ -1,3 +1,10 @@
+---
+id: psalms-project
+aliases: []
+tags: []
+---
+
+# [[Psalms index]]
 ## week 1
 
 [[Psalms-6]]
