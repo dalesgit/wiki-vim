@@ -26,5 +26,9 @@ tags: []
 [[/Psalms-3]]
 [[/Psalms-4]]
 [[/Psalms-5]]
+# Midday prayer
+[[Psalms-add1]]
+# Nighttime prayer
+[[Psalms-add2]]
 
 
