@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psalms index.md",
+                "file": "Psalms-index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Psalms index"
+              "title": "Psalms-index"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -313,6 +312,7 @@
   },
   "active": "a11fc74f84dc9411",
   "lastOpenFiles": [
+    "Psalms-index.html",
     "Psalms index.html",
     "DIY.md",
     "Psalms index.md",
@@ -354,7 +354,6 @@
     "assets/pacific-cruise-itinerary-temperature.pdf",
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
-    "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]

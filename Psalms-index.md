@@ -5,9 +5,9 @@ tags: []
 ---
 # Week 1
 *Contents*
-- [SUNDAY EVENING PRAYER I](#Week 1#SUNDAY EVENING PRAYER I)
-   - [Psalm 141](#Week 1#SUNDAY EVENING PRAYER I#Psalm 141)
-   - [Psalm 142](#Week 1#SUNDAY EVENING PRAYER I#Psalm 142)
+- [[#Week 1#SUNDAY EVENING PRAYER I|SUNDAY EVENING PRAYER I]]
+   - [[#Week 1#SUNDAY EVENING PRAYER I#Psalm 141|Psalm 141]]
+   - [[#Week 1#SUNDAY EVENING PRAYER I#Psalm 142|Psalm 142]]
 - [Sunday morning prayer](#Week 1#Sunday morning prayer)
    - [Psalm 63](#Week 1#Sunday morning prayer#Psalm 63)
    - [Psalm 149](#Week 1#Sunday morning prayer#Psalm 149)
