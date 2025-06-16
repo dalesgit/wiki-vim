@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "26fa10a527c4d68d",
+        "id": "4f5e03e2015dc647",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae6862f20dd46ee",
+            "id": "a11fc74f84dc9411",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Psalms index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Psalms index"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -296,8 +311,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0ae6862f20dd46ee",
+  "active": "a11fc74f84dc9411",
   "lastOpenFiles": [
+    "Psalms index.html",
+    "DIY.md",
+    "Psalms index.md",
+    "Psalms index.odt",
     "index.md",
     "journal/2024-12-09.md",
     "pages/Health.md",
@@ -305,7 +324,6 @@
     "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
     "only-whole-wheat-bread.md",
     "simple-multigrain-bread.md",
-    "DIY.md",
     "pages/whole-wheat-bread-simple.md",
     "simple-whole-wheat-seedy-bread.md",
     "rsync syntax backup.md",
@@ -322,8 +340,6 @@
     "journal/2025-03-05.md",
     "journal/2025-03-03.md",
     "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
-    "pages/'Packing.md",
-    "journal/2025-03-01.md",
     "assets/neil-degrasse-tyson-map.jpg",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
@@ -339,7 +355,6 @@
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
     "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
-    "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]
