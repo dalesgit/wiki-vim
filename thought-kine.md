@@ -14,4 +14,5 @@ tags: []
 - [[Trump's appeal.md]]
 - [[The lie democrats are telling themselves.md]]
 - [[Democrats and economic populism]]
+- [[the tyrant test]]
 
