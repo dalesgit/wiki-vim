@@ -1,3 +1,9 @@
+---
+id: thought-kine
+aliases: []
+tags: []
+---
+
 - [[Equal Justice Initiative.md]]
 - [[David Brooks.md]]
 - [[No Contact America - The New York Times.md]]
@@ -7,3 +13,5 @@
 - [[Wisdom theme.md]]
 - [[Trump's appeal.md]]
 - [[The lie democrats are telling themselves.md]]
+- [[Democrats and economic populism]]
+
