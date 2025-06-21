@@ -1,3 +1,10 @@
+---
+id: psalms-project
+aliases: []
+tags: []
+---
+
+# [[Psalms index]]
 ## week 1
 
 [[Psalms-6]]
@@ -19,5 +26,9 @@
 [[/Psalms-3]]
 [[/Psalms-4]]
 [[/Psalms-5]]
+# Midday prayer
+[[Psalms-add1]]
+# Nighttime prayer
+[[Psalms-add2]]
 
 

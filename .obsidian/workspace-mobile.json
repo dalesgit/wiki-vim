@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "psalm-summer"
             }
+          },
+          {
+            "id": "05cb4e428690c854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +236,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8d9cf98fb0a2e30b",
+  "active": "05cb4e428690c854",
   "lastOpenFiles": [
+    "psalm-summer.md",
+    "conflict-files-obsidian-git.md",
     "pages/Prayers.md",
     "pages/Prayer list.md",
     "only-whole-wheat-bread.md",
