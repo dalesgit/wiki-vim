@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Prayers"
             }
+          },
+          {
+            "id": "8d9cf98fb0a2e30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psalm-summer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "psalm-summer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "only-whole-wheat-bread.md",
+            "file": "psalm-summer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +212,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2c0c0e9e547a934d",
+  "active": "8d9cf98fb0a2e30b",
   "lastOpenFiles": [
     "pages/Prayers.md",
     "pages/Prayer list.md",
