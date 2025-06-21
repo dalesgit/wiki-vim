@@ -3,33 +3,29 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-### Psalm 37:1-12, 41-42
+### Psalm 22:18-27
 
-*Noli aemulari*
+*Deus, Deus meus*
 
-1 Do not fret yourself because of **evildoers**; *  
-do not be jealous of those who do **wrong**.
+18 Be not far away, O **Lord**; *  
+you are my strength; hasten to **help me**.
 
-2 For they shall soon wither like the **grass**, *  
-and like the green grass fade a**way**.
+19 Save me from the **sword**, *  
+my life from the power of the **dog**.
 
-3 Put your trust in the Lord and do **good**; *  
-dwell in the land and feed on its **riches**.
+20 Save me from the **lion's mouth**, *  
+my wretched body from the horns of wild **bulls**.
 
-4 Take delight in the **Lord**, *  
-and he shall give you your heart's de**sire**.
+21 I will declare your Name to my **brethren**; *  
+in the midst of the congregation I will **praise you**.
 
-5 Commit your way to the Lord and put your **trust in him**, *  
-and he will bring it to **pass**.
+22 Praise the Lord, you that **fear him**; *  
+stand in awe of him, O offspring of Israel;  
+all you of Jacob's line, give **glory**.
 
-6 He will make your righteousness as clear as the **light** *  
-and your just dealing as the **noonday**.
-
-7 Be still before the **Lord** *  
-and wait patiently **for him**.
-
-8 Do not fret yourself over the one who **prospers**, *  
-the one who succeeds in evil **schemes**.
+23 For he does not despise nor abhor the poor in their poverty;  
+neither does he hide his **face from them**; *  
+but when they cry to him he **hears them**.
 ```music-abc
 X: 1
 T: Chant
@@ -41,21 +37,15 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-9 Refrain from anger, leave rage a**lone**; *  
-do not fret yourself; it leads only to **evil**.
+24 My praise is of him in the great as**sembly**; *  
+I will perform my vows in the presence of those who **worship him**.
 
-10 For evildoers shall be cut **off**, *  
-but those who wait upon the Lord shall possess the **land**.
+25 The poor shall eat and be satisfied,  
+and those who seek the Lord shall **praise him**: *  
+"May your heart live for **ever**!"
 
-11 In a little while the wicked shall be no **more**; *  
-you shall search out their place, but they will not **be there**.
+26 All the ends of the earth shall remember and turn to the **Lord**, *  
+and all the families of the nations shall bow be**fore him**.
 
-12 But the lowly shall possess the **land**; *  
-they will delight in abundance of **peace**.
-
-41 But the deliverance of the righteous comes from the **Lord**; *  
-he is their stronghold in time of **trouble**.
-
-42 The Lord will help them and **rescue them**; *  
-he will rescue them from the wicked and deliver them,  
-because they seek refuge in **him**.
+27 For kingship belongs to the **Lord**; *  
+he rules over the **nations**.

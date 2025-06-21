@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psalms-index-sort.md",
+                "file": "psalm-summer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Psalms-index-sort"
+              "title": "psalm-summer"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -312,6 +313,7 @@
   },
   "active": "a11fc74f84dc9411",
   "lastOpenFiles": [
+    "Psalms-index-sort.md",
     "Psalms-index.md",
     "Psalms-index.pdf",
     "Psalms-index.html",
@@ -341,7 +343,6 @@
     "journal/2025-03-07.md",
     "journal/2025-03-05.md",
     "journal/2025-03-03.md",
-    "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
     "assets/neil-degrasse-tyson-map.jpg",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
