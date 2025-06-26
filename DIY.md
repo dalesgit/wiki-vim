@@ -1,7 +1,7 @@
 ---
 id: DIY
 aliases: []
-tags: []
+tags: [:recipes:]
 ---
 
 - [[/blog/blog braiding hair.md|/blog/braiding hair]]
@@ -11,6 +11,6 @@ tags: []
 - [[1729104076-some-new-link|Some new link]]
 - [[Search for Oven.md]]
 - [[Soup recipes.md]]
-- #bread [[whole-wheat-bread-simple]]  --  [[simple-multigrain-bread]]
-- #bread [[only-whole-wheat-bread]]
+- #bread [[whole-wheat-bread-simple]]  --  [[simple-multigrain-bread]] :bread:
+- #bread [[only-whole-wheat-bread]]  :bread:
 - #bread [[simple-multigrain-bread]]
