@@ -7,7 +7,7 @@ tags: []
 # Index
 
 - [kushner on peace.md](kushner on peace.md)
-- Manuskript help [[manuskript-notes]]
+- [Manuskript](Manuskript.md) help [[manuskript-notes]]
 - [[productivity-tips-for-chromebook]]
 - [[psalm-project]]
 - [[Mothers-day-prayer]]
