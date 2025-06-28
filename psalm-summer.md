@@ -3,29 +3,25 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-### Psalm 22:18-27
+### Psalm 16
 
-*Deus, Deus meus*
+*Conserva me, Domine*
 
-18 Be not far away, O **Lord**; *  
-you are my strength; hasten to **help me**.
+1 Protect me, O God, for I take **refuge in you**; *  
+I have said to the Lord, "You are my Lord,  
+my good above all **other**."
 
-19 Save me from the **sword**, *  
-my life from the power of the **dog**.
+2 All my delight is upon the godly that are in the **land**, *  
+upon those who are noble among the **people**.
 
-20 Save me from the **lion's mouth**, *  
-my wretched body from the horns of wild **bulls**.
+3 But those who run after **other gods** *  
+shall have their troubles **multiplied**.
 
-21 I will declare your Name to my **brethren**; *  
-in the midst of the congregation I will **praise you**.
+4 Their libations of blood I will not **offer**, *  
+nor take the names of their gods upon my **lips**.
 
-22 Praise the Lord, you that **fear him**; *  
-stand in awe of him, O offspring of Israel;  
-all you of Jacob's line, give **glory**.
-
-23 For he does not despise nor abhor the poor in their poverty;  
-neither does he hide his **face from them**; *  
-but when they cry to him he **hears them**.
+5 O Lord, you are my portion and my **cup**; *  
+it is you who uphold my **lot**.
 ```music-abc
 X: 1
 T: Chant
@@ -37,15 +33,21 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-24 My praise is of him in the great as**sembly**; *  
-I will perform my vows in the presence of those who **worship him**.
+6 My boundaries enclose a **pleasant land**; *  
+indeed, I have a goodly **heritage**.
 
-25 The poor shall eat and be satisfied,  
-and those who seek the Lord shall **praise him**: *  
-"May your heart live for **ever**!"
+7 I will bless the Lord who gives me **counsel**; *  
+my heart teaches me, night after **night**.
 
-26 All the ends of the earth shall remember and turn to the **Lord**, *  
-and all the families of the nations shall bow be**fore him**.
+8 I have set the Lord always be**fore me**; *  
+because he is at my right hand I shall not **fall**.
 
-27 For kingship belongs to the **Lord**; *  
-he rules over the **nations**.
+9 My heart, therefore, is glad, and my spirit re**joices**; *  
+my body also shall rest in **hope**.
+
+10 For you will not abandon me to the **grave**, *  
+nor let your holy one see the **Pit**.
+
+11 You will show me the path of **life**; *  
+in your presence there is fullness of joy,  
+and in your right hand are pleasures for ever**more**.
