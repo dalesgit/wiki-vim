@@ -70,7 +70,7 @@ REM Jul 22 +2 MSG Saint Mary Magdalene %b%
 REM Jul 23 +2 MSG John Cassian, Monastic and Theologian, 435 %b%
 REM Jul 24 +2 MSG Thomas a Kempis; Priest; 1471 %b%
 REM Jul 25 +2 MSG Saint James the Apostle %b%
-REM Jul 26 +2 MSG The Parents of the Blessed Virgin %b%
+;REM Jul 26 +2 MSG The Parents of the Blessed Virgin %b%
 REM Jul 27 +2 MSG William Reed Huntington; Priest; 1909 %b%
 REM Jul 28 +2 MSG Johann Sebastian Bach, Composer, 1750 %b%
 REM Jul 29 +2 MSG Mary and Martha of Bethany (or the Philadelphia 11) %b%
