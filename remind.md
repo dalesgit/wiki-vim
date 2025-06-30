@@ -69,3 +69,16 @@ REM Feb 19 +2 AT 18:00 Meet Mike Martha for dinner %b%
 REM Feb 19 +2 AT 15:00 MSG Shop at Countryside %b%
 REM Feb 19 AT 12:30 MSG meet with clergy re. dialogue meeting %b%
 REM Feb 24 AT 13:15 MSG MP to orthopedist %b%
+REM Jun 30 +2 AT 02:00 PM Dr. Basil (crown) %b%
+REM Jul 01 +2 AT 10:30 AM LA Fitness %b%
+REM Jul 02 +2 AT 01:30 PM Finish Product selection Bathmasters %b%
+REM Jul 03 +2 AT 01:00 PM Lunch with clergy %b%
+REM Jul 04 +2 AT 03:00 PM Meet Zack %b%
+REM Jul 05 +2 AT 05:00 PM DH to celebrate %b%
+REM Jul 06 +2 AT 10:00 AM DH to celebrate %b%
+REM Jul 07 +2 AT 08:00 AM Dermatology follow-up %b%
+REM Jul 25 +2 AT 11:00 AM Linda for DH %b%
+REM Jul 25 +2 AT 05:00 PM DH to preach %b%
+REM Jul 26 +2 AT 10:00 AM DH to preach %b%
+REM Jul 19 +2 AT 05:00 PM DH to celebrate %b%
+REM Jul 20 +2 AT 10:00 AM DH to celebrate %b%
