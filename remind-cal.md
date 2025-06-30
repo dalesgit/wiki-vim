@@ -37,31 +37,43 @@ REM May 04 +2 MSG Monnica; Mother of Augustine of Hippo; %b%
 REM May 08 +2 MSG Dame Julian of Norwich; c. 1417 %b%
 REM May 09 +2 MSG Gregory of Nazianzus; Bishop of Constantinople; %b%
 REM Jun 01 +2 MSG Justin; Martyr at Rome; c. 167 %b%
-REM Jun 10 +2 MSG Ephrem of Edessa; Syria; Deacon; 373 %b%
-REM Jun 11 +2 MSG Saint Barnabas the Apostle %b%
-REM Jun 12 +2 MSG Enmegahbowh; Priest and Missionary; 1902 %b%
-REM Jun 14 +2 MSG Basil the Great; Bishop of Caesarea; %b%
-REM Jun 15 +2 MSG Evelyn Underhill; 1941 %b%
-REM Jun 16 +2 MSG Joseph Butler; Bishop of Durham; 1752 %b%
-REM Jun 18 +2 MSG Bernard Mizeki; Catechist and Martyr in %b%
-REM Jun 02 +2 MSG The Martyrs of Lyons; 177 %b%
-REM Jun 22 +2 MSG Alban; First Martyr of Britain; c. %b%
-REM Jun 24 +2 MSG The Nativity of Saint John the %b%
-REM Jun 28 +2 MSG Irenaeus; Bishop of Lyons; c. 202 %b%
-REM Jun 29 +2 MSG Saint Peter and Saint Paul; Apostles %b%
+REM Jun 03 +2 MSG The Martyrs of Lyons; 177 %b%
 REM Jun 03 +2 MSG The Martyrs of Uganda; 1886 %b%
 REM Jun 05 +2 MSG Boniface; Archbishop of Mainz; Missionary to %b%
 REM Jun 09 +2 MSG Columba; Abbot of Iona; 597 %b%
+REM Jun 10 +2 MSG Ephrem of Edessa; Syria; Deacon; 373 %b%
+REM Jun 11 +2 MSG Saint Barnabas the Apostle %b%
+REM Jun 12 +2 MSG Enmegahbowh; Priest and Missionary; 1902 %b%
+REM Jun 13 +2 MSG The First Book of Common Prayer, 1549 %b%
+REM Jun 14 +2 MSG Basil of Caesarea, Bishop and Theologian, 379 %b%
+REM Jun 15 +2 MSG Evelyn Underhill; 1941 %b%
+REM Jun 16 +2 MSG Joseph Butler; Bishop of Durham; 1752 %b%
+REM Jun 17 +2 MSG Marina the Monk, Monastic, fifth century %b%
+REM Jun 18 +2 MSG Bernard Mizeki; Catechist and Martyr in %b%
+REM Jun 19 +2 MSG Adelaide Teague Case, Educator, 1948; %b%
+REM Jun 22 +2 MSG Alban; First Martyr of Britain; c. %b%
+REM Jun 26 +2 MSG Isabel Florence Hapgood, Ecumenist, 1928 %b%
+REM Jun 14 +2 MSG Basil the Great; Bishop of Caesarea; %b%
+REM Jun 28 +2 MSG Irenaeus; Bishop of Lyons; c. 202 %b%
+REM Jun 29 +2 MSG Saint Peter and Saint Paul; Apostles %b%
+REM Jul 01 +2 MSG Pauli Murray, Priest, 1985 %b%
+REM Jul 02 +2 MSG Moses the Black, Monastic and Martyr, c.400 %b%
+REM Jul 06 +2 MSG Eva Lee Matthews, Monastic, 1928 %b%
+REM Jul 08 +2 MSG Priscilla and Aquila, Coworkers of the Apostle Paul %b%
 REM Jul 11 +2 MSG Benedict of Nursia; Abbot of Monte %b%
+REM Jul 14 +2 MSG Argula von Grumbach, Scholar and Church Reformer, c.1554 %b%
 REM Jul 17 +2 MSG William White; Bishop of Pennsylvania; 1836 %b%
 REM Jul 19 +2 MSG Macrina; 379 %b%
 REM Jul 20 +2 MSG Elizabeth Cady Stanton; Amelia Bloomer; Sojourner Truth  %b%
+REM Jul 21 +2 MSG Maria Skobtsova, Monastic and Martyr, 1945 %b%
 REM Jul 22 +2 MSG Saint Mary Magdalene %b%
+REM Jul 23 +2 MSG John Cassian, Monastic and Theologian, 435 %b%
 REM Jul 24 +2 MSG Thomas a Kempis; Priest; 1471 %b%
 REM Jul 25 +2 MSG Saint James the Apostle %b%
 REM Jul 26 +2 MSG The Parents of the Blessed Virgin %b%
 REM Jul 27 +2 MSG William Reed Huntington; Priest; 1909 %b%
-REM Jul 29 +2 MSG Mary and Martha of Bethany %b%
+REM Jul 28 +2 MSG Johann Sebastian Bach, Composer, 1750 %b%
+REM Jul 29 +2 MSG Mary and Martha of Bethany (or the Philadelphia 11) %b%
 REM Jul 30 +2 MSG William Wilberforce; 1833 %b%
 REM Jul 31 +2 MSG Ignatius of Loyola; 1556 %b%
 REM Aug 1 +2 MSG Joseph of Arimathaea %b%
