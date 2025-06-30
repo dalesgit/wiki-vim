@@ -76,9 +76,9 @@ REM Apr 25 +2 MSG Saint Mark the Evangelist %b%
 REM May 1 +2 MSG Saint Philip and Saint James, Apostles %b%
 REM May 31 +2 MSG The Visitation of the Virgin Mary %b%
 REM Jun 11 +2 MSG Saint Barnabas the Apostle %b%
-REM Jun 24 +2 MSG The Nativity of Saint John the Baptist %b%
+;REM Jun 24 +2 MSG The Nativity of Saint John the Baptist %b%
 REM Jun 29 +2 MSG Saint Peter and Saint Paul, Apostles %b%
-REM July 25 +2 MSG Saint James the Apostle %b%
+;REM July 25 +2 MSG Saint James the Apostle %b%
 REM July 26 +2 MSG The Parents of the Blessed Virgin Mary %b%
 REM Aug 6 +2 MSG The Transfiguration of Our Lord Jesus Christ %b%
 REM Aug 15 +2 MSG Saint Mary the Virgin, Mother of Our Lord Jesus Christ %b%
