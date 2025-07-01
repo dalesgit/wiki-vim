@@ -78,8 +78,8 @@ REM Jul 05 +2 AT 05:00 PM DH to celebrate %b%
 REM Jul 06 +2 AT 10:00 AM DH to celebrate %b%
 REM Jul 07 +2 AT 08:00 AM Dermatology follow-up %b%
 REM Jul 25 +2 AT 11:00 AM Linda for DH %b%
-REM Jul 25 +2 AT 05:00 PM DH to preach %b%
-REM Jul 26 +2 AT 10:00 AM DH to preach %b%
+REM Jul 26 +2 AT 05:00 PM DH to preach %b%
+REM Jul 27 +2 AT 10:00 AM DH to preach %b%
 REM Jul 19 +2 AT 05:00 PM DH to celebrate %b%
 REM Jul 20 +2 AT 10:00 AM DH to celebrate %b%
 REM Jul 12 2025 *1 UNTIL Jul 19 2025 with Bud/Bertha in Orlando %b% 
