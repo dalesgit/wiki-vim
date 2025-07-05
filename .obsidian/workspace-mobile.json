@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "629608a3ed561235",
+        "id": "7083a7755a8373f9",
         "type": "tabs",
         "children": [
           {
-            "id": "2c0c0e9e547a934d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prayers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Prayers"
-            }
-          },
-          {
-            "id": "8d9cf98fb0a2e30b",
+            "id": "02939e1e201e1bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +30,8 @@
               "icon": "lucide-file",
               "title": "psalm-summer"
             }
-          },
-          {
-            "id": "05cb4e428690c854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,11 +187,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "05cb4e428690c854",
+  "active": "02939e1e201e1bcf",
   "lastOpenFiles": [
-    "psalm-summer.md",
-    "conflict-files-obsidian-git.md",
     "pages/Prayers.md",
+    "psalm-summer.md",
+    "/psalm-summer.md",
+    "/index.md",
+    "/DIY.md",
+    "conflict-files-obsidian-git.md",
     "pages/Prayer list.md",
     "only-whole-wheat-bread.md",
     "simple-whole-wheat-seedy-bread.md",
