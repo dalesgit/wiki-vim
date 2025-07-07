@@ -83,4 +83,5 @@ REM Jul 27 +2 AT 10:00 AM DH to preach %b%
 REM Jul 19 +2 AT 05:00 PM DH to celebrate %b%
 REM Jul 20 +2 AT 10:00 AM DH to celebrate %b%
 REM Jul 12 2025 *1 UNTIL Jul 19 2025 with Bud/Bertha in Orlando %b% 
+REM Jul 04 AT 10:00 AM call Gardner, church re key %b%
 
