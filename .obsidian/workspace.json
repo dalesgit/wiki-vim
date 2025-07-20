@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-02-16.md",
+                "file": "psalm-summer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-16"
+              "title": "psalm-summer"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -304,7 +305,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 415.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,6 +324,7 @@
   },
   "active": "91b641695de1ca55",
   "lastOpenFiles": [
+    "journal/2025-02-16.md",
     "wiki.md",
     "psalm-summer.md",
     "Psalms-index-sort.md",
@@ -351,7 +354,6 @@
     "journal/2025-03-24.md",
     "journal/2025-03-23.md",
     "journal/2025-03-08.md",
-    "journal/2025-03-07.md",
     "assets/neil-degrasse-tyson-map.jpg",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
