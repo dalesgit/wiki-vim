@@ -3,26 +3,30 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-### Psalm 66:1-8
+## Psalm 15
+*Domine, quis habitabit?*
 
-*Jubilate Deo*
+1 Lord, who may dwell in your tabernacle? *
+who may abide upon your holy hill?
 
-1 Be joyful in God, all you **lands**; *  
-sing the glory of his Name;  
-sing the glory of his **praise**.
+2 Whoever leads a blameless life and does what is right, *
+who speaks the truth from his heart.
 
-2 Say to God, "How awesome are your **deeds**! *  
-because of your great strength your enemies cringe be**fore you**.
+3 There is no guile upon his tongue;
+he does no evil to his friend; *
+he does not heap contempt upon his neighbor.
 
-3 All the earth bows down be**fore you**, *  
-sings to you, sings out your **Name**."
+4 In his sight the wicked is rejected, *
+but he honors those who fear the Lord.
 
-4 Come now and see the works of **God**, *  
-how wonderful he is in his doing toward all **people**.
+5 He has sworn to do no wrong *
+and does not take back his word.
 
-5 He turned the sea into dry land,  
-so that they went through the water on **foot**, *  
-and there we re**joiced in him**.
+6 He does not give his money in hope of gain, *
+nor does he take a bribe against the innocent.
+
+7 Whoever does these things *
+shall never be overthrown.
 ```music-abc
 X: 1
 T: Chant
@@ -34,12 +38,6 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-6 In his might he rules for ever;  
-his eyes keep watch over the **nations**; *  
-let no rebel rise up a**gainst him**.
 
-7 Bless our God, you **peoples**; *  
-make the voice of his praise to be **heard**;
 
-8 Who holds our souls in **life**, *  
-and will not allow our feet to **slip**.
+
