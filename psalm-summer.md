@@ -3,18 +3,22 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-## Psalm 15
-*Domine, quis habitabit?*
+**Psalm 138**
+_Confitebor tibi_
 
-1 Lord, who may dwell in your **tabernacle**? *
-who may abide upon your holy **hill**?
+1 I will give thanks to you, O Lord, with my **whole heart**; *
+before the gods I will sing your **praise**.
 
-2 Whoever leads a blameless life and does what is **right**, *
-who speaks the truth from his **heart**.
+2 I will bow down toward your holy temple
+and praise your **Name**, *
+because of your love and **faithfulness**;
 
-3 There is no guile upon his tongue;
-he does no evil to his **friend**; *
-he does not heap contempt upon his **neighbor**.
+3 For you have glorified your **Name** *
+and your word above **all things**.
+
+4 When I called, you **answered me**; *
+you increased my strength with**in me**.
+
 
 ```music-abc
 X: 1
@@ -28,15 +32,19 @@ V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
 
-4 In his sight the wicked is re**jected**, *
-but he honors those who fear the **Lord**.
+5 All the kings of the earth will praise you, O **Lord**, *
+when they have heard the words of your **mouth**.
 
-5 He has sworn to do no **wrong** *
-and does not take back his **word**.
+6 They will sing of the ways of the **Lord**, *
+that great is the glory of the **Lord**.
 
-6 He does not give his money in hope of **gain**, *
-nor does he take a bribe against the **innocent**.
+7 Though the Lord be high, he cares for the **lowly**; *
+he perceives the haughty from a**far**.
 
-7 Whoever does **these things** *
-shall never be over**thrown**.
+8 Though I walk in the midst of trouble, you keep me **safe**; *
+you stretch forth your hand against the fury of my enemies;
+your right hand shall **save me**.
 
+9 The Lord will make good his **purpose for me**; *
+O Lord, your love endures for ever;
+do not abandon the works of your **hands**.
