@@ -1,0 +1,418 @@
+{
+  "main": {
+    "id": "686d185f2b581838",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fa10a527c4d68d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae6862f20dd46ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60da1b8f499cd143",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaae10be199a1bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ae18fa3a903e00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22aac598cc30dd66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#centering-prayer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf746ff395b7642a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "25832c232d0f7697",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cacdc45ae2a7549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800bb0a7543ae4bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "table memory sticks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for table memory sticks"
+            }
+          },
+          {
+            "id": "1ec1b6717d9cf1be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "spiritual-direction/Sd session Oct 17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sd session Oct 17"
+            }
+          },
+          {
+            "id": "2f0a0bcf8a36508e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26a90369e14fdbc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "spiritual-direction/Sd session Oct 17.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sd session Oct 17"
+            }
+          },
+          {
+            "id": "b8550b277f5022f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8b0503e624e57e55",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b420b903f66b495d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2466d403cd5999f8",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ccfa3471b04f320e",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3f2f9e881763e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "efbe6363f9a1cb6f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5ee8b5803c5b10b5",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7d83ae5dc33da5cf",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "96d01b6890c2ccac",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "111ba1e3078e67b2",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ff31e2d37d7e0703",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6176cb0c30319387",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+<<<<<<< HEAD
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cccd07cd99bfaa38",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "20dd0301dfd089c7",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5d8de790be8467f8",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "afd92b97e20449bd",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+=======
+>>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
+              "icon": "checkmark",
+              "title": "Todo"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0ae6862f20dd46ee",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "journal/2025-04-30.md",
+    "journal/2025-04-29.md",
+    "journal/2025-04-27.md",
+    "journal/2025-04-22.md",
+    "journal/2025-04-06.md",
+    "journal/2025-03-24.md",
+    "journal/2025-03-23.md",
+    "journal/2025-03-08.md",
+    "journal/2025-03-01.md",
+    "journal/2025-03-03.md",
+    "pages/'Packing.md",
+    "pages/Packing.md",
+    "pages/Pacific Cruise Packing list.md",
+=======
+>>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
+    "index.md",
+    "journal/2024-12-09.md",
+    "pages/Health.md",
+    "pages/Tai-chi.md",
+    "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
+    "only-whole-wheat-bread.md",
+    "simple-multigrain-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "simple-whole-wheat-seedy-bread.md",
+    "rsync syntax backup.md",
+    "journal/2025-04-30.md",
+    "journal/2025-04-29.md",
+    "journal/2025-04-27.md",
+    "journal/2025-04-22.md",
+    "journal/2025-04-06.md",
+    "journal/2025-04-03.md",
+    "journal/2025-03-24.md",
+    "journal/2025-03-23.md",
+    "journal/2025-03-08.md",
+    "journal/2025-03-07.md",
+    "journal/2025-03-05.md",
+    "journal/2025-03-03.md",
+    "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
+    "pages/'Packing.md",
+    "journal/2025-03-01.md",
+    "assets/neil-degrasse-tyson-map.jpg",
+<<<<<<< HEAD
+    "journal/2025-02-20.md",
+    "journal/2025-02-19.md",
+    "journal/2025-02-18.md",
+    "Verbatim notes.md",
+    "DH-verbatim-module-2.md",
+    "pages/verbatim-draft-2.md",
+    "GKChesterton-notes.md",
+    "Epiphany 7 draft 1.md",
+    "pages/Epiphany 7 draft 2.md",
+    "travel.md",
+=======
+>>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
+    "pages/pacific-cruise-itinerary-with-graphic.docx",
+    "pacific-cruise-graphic.png",
+    "Pasted image 20241105080105.png",
+    "assets/ge-oven.pdf",
+    "assets/ge-oven-use-care.pdf",
+    "assets/ge-oven-specs.pdf",
+    "assets/bishops-province8-mokuleia-full-moon.jpg",
+    "assets/20250122--l7wfti.pdf",
+    "assets/20250122--fab1f.pdf",
+    "calendar.pdf",
+    "assets/pacific-cruise-itinerary-temperature.pdf",
+    "assets/Pasted image 20250119183242.png",
+    "assets/Pasted image 20250119182937.png",
+    "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
+    "assets/Minimalist Baker Instant Pot Guide.pdf",
+    "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
+    "assets/Paris Agent.jpg"
+  ]
+}

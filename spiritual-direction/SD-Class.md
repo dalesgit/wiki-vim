@@ -1,0 +1,60 @@
+---
+id: 1729094929-spiritual-direction
+aliases:
+  - spiritual-direction
+tags: []
+---
+
+# spiritual-direction
+## Assets
+- [[assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf]]
+- [[Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr_1726694560219_0.pdf]]
+- [[Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr.pdf]]
+- [[rough-Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf]]
+- [[assets/rough-Art Of Spiritual Direction - Aug 15 2024 - 9-42 PM.pdf]]
+- [[assets/Practice-Of-Contemplation-As-Witness--Resistance---Oct-3-202-53hs3_ocr.pdf]]
+- [[Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined_1726666962404_0.pdf]]
+- [[assets/Transformation-Of-Consciousness---Oct-3-2024---1-46-PM-73pkc_ocr.pdf]]
+- [[assets/Experiencing-God---Sep-8-2024---4-28-PM-nq3m0_ocr.pdf]]
+- [[assets/2020_2021_The_Art_of_Spiritual_Direction.pdf]]
+-  [[2020_2021_The_Art_of_Spiritual_Direction.pdf]]
+- [[assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf]]
+- [[Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr.pdf]]
+- [[assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf]]
+- [[Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr_1726694506203_0.pdf]]
+- [[Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr.pdf]]
+- [[rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf]]
+- [[assets/rough-Defining Spiritual Direction - Aug 25 2024 - 5-30 PM.pdf]]
+-  [[Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.pdf]]
+- [[Verbatim Rev Jean - Jun 29 2020 - 6-13 PM.pdf]]
+- [[assets/Spiritual Formation VS Spiritual Direction.pptx]]
+- [[Spiritual Formation VS Spiritual Direction.pptx]]
+- [[assets/Levels-of-Faith-RR---Oct-2-2024---8-57-PM-rotate-rotated-j1tcn_ocr.pdf]]
+- [[Levels-of-Faith-RR---Oct-2-2024---8-57-PM-rotate-rotated-j1tcn_ocr.pdf]]
+- [[assets/Screen Shot 2024-09-26 at 1.09.15 PM.png]]
+- [[Screen Shot 2024-09-26 at 1.09.15 PM.png]]
+- [[sample_engagement_agreement.pdf]]
+- [[assets/Screen Shot 2024-09-26 at 12.53.32 PM.png]]
+- [[Screen Shot 2024-09-26 at 12.53.32 PM.png]]
+- [[assets/Screen Shot 2024-09-26 at 12.46.19 PM.png]]
+- [[Screen Shot 2024-09-26 at 12.46.19 PM.png]]
+- [[assets/Screen Shot 2024-09-26 at 1.01.21 PM.png]]
+- [[Screen Shot 2024-09-26 at 1.01.21 PM.png]]
+- [[assets/Mission+and+the+Art+of+Spiritual+Direction.pdf]]
+- [[Mission+and+the+Art+of+Spiritual+Direction.pdf]]
+- [[assets/Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.edn]]
+- [[Facilitating-an-Adult-Relationship-with-God---Sep-8-2024---4-z2kpz_ocr_1726956043782_0.edn]]
+
+## personal
+- [[assets/Dale Hathaway Acceptance letter.docx.pdf]]
+- [[application-essay-spiritual-direction.pdf]]
+- [[assets/Dale Hathaway Acceptance letter.docx]]
+- [[Dale Hathaway Acceptance letter.docx]]
+
+- [[apply spiritual direction-2.md]]
+- [[apply spiritual direction.md]]
+- [[Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr_1726694560219_0.edn]]
+- [[assets/Art-Of-Spiritual-Direction---Aug-15-2024---9-42-PM-gc8dx_ocr_1726694560219_0.edn]]
+- [[assets/Contemplative-and-Evocative-Presence-Skills---Sep-13-2024----pwxi7_ocr_1726666647710_0.edn]]
+- [[assets/Defining-Spiritual-Direction---Aug-25-2024---5-30-PM-o4qoj_ocr_1726694506203_0.edn]]
+- [[assets/Fostering-the-Contemplative-Attitude---Sep-8-2024---4-19-PM--feqbp_ocr-combined_1726666962404_0.edn]]

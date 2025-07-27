@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "name": "Geany",
+      "code": "geany",
+      "arguments": "",
+      "showInMenu": true
+    },
+    {
+      "name": "Codium",
+      "code": "codium",
+      "arguments": "",
+      "showInMenu": false
+    }
+  ],
+  "sysexpInFileMenu": true
+}

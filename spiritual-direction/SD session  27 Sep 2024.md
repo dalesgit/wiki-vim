@@ -1,0 +1,45 @@
+---
+id: SD session  27 Sep 2024
+aliases: []
+tags: []
+---
+
+- [[Linda]]
+  - Diary
+    - [[2024_w35.md]]
+    - [[2024_w36.md]]
+    - [[2024_w37.md]]
+    - [[2024_w38.md]]
+    - [[2024_w39.md]]
+  - Training
+    - Reading the texts
+      - still trying to anticipate how the sessions are going
+    - Envy and satisfaction with hearing Anne's story about blogging.
+    - Carol and [[Enneagram-DH]]
+  - Personal
+    - Wanting to "be heard" by MP
+    - Preparing Mary Jean's Commital, travel to Colorado
+      - Nostalgia
+  - Plot
+    - Trying to learn names of parishioners -- more contact
+      - [[MP]]'s conflict with Zandy and Peter
+    - Health issues
+      - Dissatisfaction with Patel. Changing doctors.
+      - Colonoscopy: sense of mortality
+    - Tree came down
+      - the whole meditation about **trees**
+    - Cooking / Baking -- tension inner with MP returning to the kitchen
+  - Gratitudes
+  - Journals prompts
+  - This session
+    - What has this session been? LS asked.
+    - Title: Rather than finding God in all things, instead Finding all things in God. i.e. Panentheism.
+    - I found tension and growth in the lectio question: "Having heard what God is saying in ..., What does God want you to do or be?" LS: doesn't have to be an action or a decision but something to be. e.g. Gratitude.
+    - Where I had seen **conversion** e.g. with Walt Wade -- given my wrestling with conservative Evangelicalism -- I could see the privilege of witnessing God's loving action, Redemptive healing.
+    - **Witnessing** as one of the metaphors for what SD is.
+    - She asked me what is God doing in the "nostalgia", retrospective, larger perspective all the things of my life seem to showing?
+      - I thought maybe getting to a kind of peacefulness, resting, in the whole trajectory of my life.
+      - St. Augustine: "We are restless ..." seen in the context not of death, but of the life we are living.
+    - She affirmed that in the act of my nostalgia, memory-driven thoughts, I seek to find **meaning** -- not just **facts**.
+    - When I told her that the tree experience led me to _The Giving Tree_, she said that it was the 2<sup>nd</sup> time she had heard reference to it. She smiled a big smile.
+    - I thought at another time that a pregnant experience I thought of for blogging was the tenderness, generosity, intimacy, … the nurse at my colonoscopy who volunteered to braid my hair. Blog it?

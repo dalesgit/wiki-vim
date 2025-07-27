@@ -1,0 +1,77 @@
+---
+id: cpg-health-insurance-2025
+aliases: []
+tags: []
+---
+
+- [ ] Register for "SmileWay" for added benefits for cleaning periodontal
+- If I selected general health rather than premium, The difference would pay for the dental add-on
+- Delta Dental best savings is with PPO inside network
+  - deltadentalins.com
+  - pre-treatment estimates (ask for) if over $300
+  - access card through website. print out for self. -- download phone app.
+  - "SmileWay" enhanced benefits gives 4 periodontal cleaning -- but I have to pro-actively register for it
+  - 888-894-7059
+  - 3 plans.
+- **This webinar will be posted online.**
+- GMA
+  - opening
+    - national ppo -- customized, it is not available on open market
+    - comprehensive coverage, tests, etc.
+    - no need for referral
+    - non-differential ppo. Benefits in or out of their network. Call to check on.
+    - Prescription drug. OptumRX. 67,000 pharmacies across country.
+    - 866-519-5401 open 8-8
+    - changes because of inflation reduction act
+      - 4 stages collapses to 3. The "donut hole" disappears
+      - true out of pocket: 2024 = $8,000. 2025 - $2,000
+      - If you hit $2,000 pay $0
+    - **Medicare Prescription Payment Plan** (M3P) have to sign up for it: via paper, online, or call on phone. Do it **before** going to pharmacy. You would not pay pharmacy, the GMA cover rest -- best for those taking very expensive drugs.
+  - Group medicare advantage
+    - annual physical wellness visit $0 copay
+    - old medicare wellness @365 days + one. CPG 1 wellness per calendar year.
+    - annual physical. Wellness may be something where the physician doesn't need to examine you. See list of items on website.
+    - Virtual visits -- Virtual Behavioral Health visit (depression, trauma, loss, stress, anxiety)
+    - HouseCalls. Annual visit by licensed practitioner. **Please put me on your no call list.**
+    - Post-discharge bundle. discharge from skilled nursing facility or in-patient hospital stay. They refresh every 30 days.
+      - meal delivery 28 meals
+      - 12 rides
+      - 6 hours of personal care
+      - 8 hours of personal care per month **not** dependent on a facility discharge. (2 hour increments) Not for medical care but for personal care.
+    - Hearing aid. Comprehensive $3,000 Premium $4,000.
+      - 855-523-9355
+    - Renew active (fitness)
+      - their own brand
+      - one of the largest
+    - Global assistance (travel) intended for true emergencies. In general Medicare doesn't cover health care overseas. cap $25,000.
+  - Website: retiree.uhc.com/ECMT
+    - lots of resources
+    - login
+      - member id on card
+      - setup username etc.
+  - On the website "Virtual Education Center (VEC)"
+  - 866-519-5401 -- 8-8 local time
+- **Quantum Health**:
+  - Kathleen Stephens
+  - help retirees: understand, schedule, costs, facilitate pre-authorizations, ...
+  - 8:30-10pm EST M-F
+  - web access
+  - eligibiity stuff call cpg
+- Annual enrollment: Sean Scheller
+  - 10/23-11/22 enrollment
+  - if no changes, don't need to do anything.
+  - cpg.org/annualenrollment
+- cost of plan goes up this year.
+  - Duke, Mayo, Health Partners in MN -- have sent out notices of negotiation and perhaps not in network
+  - But Mayo Jacksonville (cancer) selective may be available, but special calls ...
+  - upstate Albany doctors have notified of problems. "Micro-site"
+  - prior authorizations: e.g. PT. "With PT need case notes from Provider." Most denials come from no case notes.
+  - Are we getting new cards.
+    - Yes. Medicare requires it.
+    - Dental will not send out cards. Phone app shows it. On the web you can print it out. Don't need it for approval.
+    - Will receive card from Quantum
+  - PT generally no limit.
+  - Chiropractic: no limits if medically necessary
+  - Acupuncture limit 10
+  - CIGNA behavioral for all family members. EAP.
+

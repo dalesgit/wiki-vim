@@ -1,0 +1,7 @@
+<dc:title id="title">Book Title: Book Subtitle</dc:title> 
+<meta refines="#title" property="title-type">main</meta>
+<dc:language>en-us</dc:language> 
+<dc:creator id="metadata_id_creator">Author Name</dc:creator> 
+<dc:publisher>Publisher Name</dc:publisher>
+<dc:date>2020-08-05</dc:date>
+<dc:rights>Copyright © 2020 by Author Name</dc:rights>

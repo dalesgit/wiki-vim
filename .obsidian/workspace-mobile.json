@@ -19,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Untitled"
+    "id": "8608d1f8200ff2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "da61a2ef2683b565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9bd6be357682b98",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -32,6 +46,11 @@
     "children": [
       {
         "id": "e474bfdc6a31b395",
+    "id": "a9ef325c573f84b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5c6cb96e91ad3fc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -45,6 +64,7 @@
       },
       {
         "id": "9f51c10930399c9e",
+        "id": "cba6988a77f7c3fb",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -62,6 +82,7 @@
       },
       {
         "id": "0bdd8ee7fa2e8c2d",
+        "id": "49ac6d1ca32b350b",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,6 +98,7 @@
       },
       {
         "id": "529dcd079de65a14",
+        "id": "d98ef57999def473",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -94,10 +116,16 @@
     "children": [
       {
         "id": "47cb33daa6ac9426",
+    "id": "8e8bcd4bbff5414e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "954ea49cb03ceb86",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "journal/2025-05-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,10 +140,12 @@
       },
       {
         "id": "1f1cad7256ac50d6",
+        "id": "04b538fb04532ae1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "only-whole-wheat-bread.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,10 +155,12 @@
       },
       {
         "id": "a43d4d3f43648719",
+        "id": "94cd51c4cb1df631",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "only-whole-wheat-bread.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -139,6 +171,29 @@
       }
     ],
     "currentTab": 0
+      },
+      {
+        "id": "971bce7d2c776681",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "c8714a0c3e91f428",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo"
+        }
+      }
+    ],
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,5 +208,44 @@
   "active": "72b54d44eed55451",
   "lastOpenFiles": [
     "Untitled.md"
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "f9bd6be357682b98",
+  "lastOpenFiles": [
+    "psalm-summer.md",
+    "journal/2025-05-16.md",
+    "journal/2025-06-06.md",
+    "journal/2025-05-23.md",
+    "pages/Prayers.md",
+    "/psalm-summer.md",
+    "/index.md",
+    "/DIY.md",
+    "conflict-files-obsidian-git.md",
+    "pages/Prayer list.md",
+    "only-whole-wheat-bread.md",
+    "simple-whole-wheat-seedy-bread.md",
+    "DIY.md",
+    "pages/whole-wheat-bread-simple.md",
+    "pages/Homemade Bread Recipe - Tastes Better from Scratch.md",
+    "Pasted image 20250606070351.png",
+    "Pasted image 20250606070002.png",
+    "Pasted image 20250606065834.png",
+    "Pasted image 20250606065723.png",
+    "Pasted image 20250606065626.png",
+    "Pasted image 20250606065558.png",
+    "On inequality.md",
+    "/journal/2025-06-06.md",
+    "/journal",
+    "/Pasted image 20250606070351.png",
+    "/Pasted image 20250606070002.png",
+    "/Pasted image 20250606065834.png",
+    "/Pasted image 20250606065723.png",
+    "/On inequality.md",
+    "Table Bread recipes.md"
   ]
 }
