@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5e03e2015dc647",
+        "id": "016b826475c9827e",
         "type": "tabs",
         "children": [
           {
-            "id": "a11fc74f84dc9411",
+            "id": "91b641695de1ca55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#centering-prayer",
+                "query": "tag:#names",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -164,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -299,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -320,8 +322,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a11fc74f84dc9411",
+  "active": "91b641695de1ca55",
   "lastOpenFiles": [
+    "journal/2025-02-16.md",
+    "wiki.md",
+    "psalm-summer.md",
     "Psalms-index-sort.md",
     "Psalms-index.md",
     "Psalms-index.pdf",
@@ -349,9 +354,6 @@
     "journal/2025-03-24.md",
     "journal/2025-03-23.md",
     "journal/2025-03-08.md",
-    "journal/2025-03-07.md",
-    "journal/2025-03-05.md",
-    "journal/2025-03-03.md",
     "assets/neil-degrasse-tyson-map.jpg",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",

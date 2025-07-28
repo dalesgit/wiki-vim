@@ -3,26 +3,23 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-### Psalm 66:1-8
+**Psalm 138**
+_Confitebor tibi_
 
-*Jubilate Deo*
+1 I will give thanks to you, O Lord, with my **whole heart**; *
+before the gods I will sing your **praise**.
 
-1 Be joyful in God, all you **lands**; *  
-sing the glory of his Name;  
-sing the glory of his **praise**.
+2 I will bow down toward your holy temple
+and praise your **Name**, *
+because of your love and **faithfulness**;
 
-2 Say to God, "How awesome are your **deeds**! *  
-because of your great strength your enemies cringe be**fore you**.
+3 For you have glorified your **Name** *
+and your word above **all things**.
 
-3 All the earth bows down be**fore you**, *  
-sings to you, sings out your **Name**."
+4 When I called, you **answered me**; *
+you increased my strength with**in me**.
 
-4 Come now and see the works of **God**, *  
-how wonderful he is in his doing toward all **people**.
 
-5 He turned the sea into dry land,  
-so that they went through the water on **foot**, *  
-and there we re**joiced in him**.
 ```music-abc
 X: 1
 T: Chant
@@ -34,12 +31,20 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-6 In his might he rules for ever;  
-his eyes keep watch over the **nations**; *  
-let no rebel rise up a**gainst him**.
 
-7 Bless our God, you **peoples**; *  
-make the voice of his praise to be **heard**;
+5 All the kings of the earth will praise you, O **Lord**, *
+when they have heard the words of your **mouth**.
 
-8 Who holds our souls in **life**, *  
-and will not allow our feet to **slip**.
+6 They will sing of the ways of the **Lord**, *
+that great is the glory of the **Lord**.
+
+7 Though the Lord be high, he cares for the **lowly**; *
+he perceives the haughty from a**far**.
+
+8 Though I walk in the midst of trouble, you keep me **safe**; *
+you stretch forth your hand against the fury of my enemies;
+your right hand shall **save me**.
+
+9 The Lord will make good his **purpose for me**; *
+O Lord, your love endures for ever;
+do not abandon the works of your **hands**.
