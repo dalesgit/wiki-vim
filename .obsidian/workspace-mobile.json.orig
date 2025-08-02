@@ -13,9 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+<<<<<<< HEAD
                 "file": "psalm-summer.md",
+=======
                 "file": "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
+>>>>>>> 8cb4601655f1aecc1135d4465cc955859cdcfdb9
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,9 +32,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+<<<<<<< HEAD
               "title": "psalm-summer"
+=======
               "title": "()(Fleming-and-Ledogar,-2008)-7C2X794Z"
+>>>>>>> 8cb4601655f1aecc1135d4465cc955859cdcfdb9
             }
           }
         ]
@@ -112,7 +116,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,22 +161,12 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
         "id": "fc674d0b6a84570f",
-        "type": "leaf",
-        "state": {
-          "type": "online.larslockefeer.obsidian-plugin-todo",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "ce0cf01a5df084df",
         "type": "leaf",
         "state": {
           "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -192,16 +185,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "janitor:Janitor: scan vault": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "72b54d44eed55451",
   "lastOpenFiles": [
-    "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
     "Untitled.md",
     "Gratitude Journal.md",
     "range won't start.md",
@@ -229,6 +217,7 @@
     "compare psalm 42.md",
     "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level  The New Republic.md",
     "Instant Pot White Beans (Great Northern, No Soaking!) - Minimalist Baker.md",
+    "Psalms-add1.md",
     "pages/epiphany-7-final.html",
     "pages/easter-6-homily-final-v5.epub",
     "pages/sample-manu.msk",
