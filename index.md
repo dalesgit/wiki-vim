@@ -6,6 +6,7 @@ tags: []
 
 # Index
 
+-  [[sample6]]  
 - [kushner on peace.md](kushner on peace.md)
 - [Manuskript](Manuskript.md) help [[manuskript-notes]]
 - [[productivity-tips-for-chromebook]]
