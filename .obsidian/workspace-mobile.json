@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "71e5031354e72914",
+    "id": "7d78f32b52376d20",
     "type": "split",
     "children": [
       {
-        "id": "075e89dbfc94dc16",
+        "id": "9933967c79a5c383",
         "type": "tabs",
         "children": [
           {
-            "id": "72b54d44eed55451",
+            "id": "57b4327b817fcf1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
                 "file": "psalm-summer.md",
-                "file": "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,22 +28,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
               "title": "psalm-summer"
-              "title": "()(Fleming-and-Ledogar,-2008)-7C2X794Z"
+            }
+          },
+          {
+            "id": "7c59866997e7c391",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c5ee35359a4a0d33",
+    "id": "dc45e7ce89572d24",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e474bfdc6a31b395",
+        "id": "77fe43ff5836a92e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -58,7 +64,7 @@
         }
       },
       {
-        "id": "9f51c10930399c9e",
+        "id": "d4b3d2839ddff165",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -75,7 +81,7 @@
         }
       },
       {
-        "id": "0bdd8ee7fa2e8c2d",
+        "id": "024bd326c8d2168d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -90,7 +96,7 @@
         }
       },
       {
-        "id": "529dcd079de65a14",
+        "id": "5e92aa0bbff2a8ed",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,16 +109,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "b2f2786650691ef7",
+    "id": "f45548acbce2c4b1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "47cb33daa6ac9426",
+        "id": "7f7f66979da64b3b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +131,7 @@
         }
       },
       {
-        "id": "1f1cad7256ac50d6",
+        "id": "36b15bfcd2ae5bd7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -139,7 +144,7 @@
         }
       },
       {
-        "id": "a43d4d3f43648719",
+        "id": "2b1ef3ccf91a1134",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -153,27 +158,17 @@
         }
       },
       {
-        "id": "e89ad65daca4f09b",
+        "id": "19bf6fa7b43f8c14",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
-        "id": "fc674d0b6a84570f",
-        "type": "leaf",
-        "state": {
-          "type": "online.larslockefeer.obsidian-plugin-todo",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "ce0cf01a5df084df",
+        "id": "783541cf168b65a3",
         "type": "leaf",
         "state": {
           "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -199,53 +194,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "72b54d44eed55451",
+  "active": "7c59866997e7c391",
   "lastOpenFiles": [
-    "()(Fleming-and-Ledogar,-2008)-7C2X794Z.md",
-    "Untitled.md",
-    "Gratitude Journal.md",
-    "range won't start.md",
-    "Description-based-on-publisher-supplied-metadata-and-other-sources-6Q7ETU3J.md",
-    "Epilogue.md",
-    "Psalms-index-sort.pdf",
-    "table memory sticks.md",
-    "1728830920-journal-2024-10-13-sun.md",
-    "Saturday Mass.md",
-    "GKChesterton-notes-new.md",
-    "Mary Pat.md",
-    "Install apk on Chromebook without developer mode.md",
-    "rsync syntax backup.md",
-    "Order of the Ascension.md",
-    "D Brooks compares populism and progressive.md",
-    "broken links output.md",
-    "remind-cruise.md",
-    "Journal-index.md",
-    "productivity-tips-for-chromebook.md",
-    "Hooper.md",
-    "reminders",
-    "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
-    "cd-rippers.md",
-    "Epiphany-7-draft-1.md",
-    "compare psalm 42.md",
-    "Steve Bannon Just Took His War With Elon Musk to a Ridiculous Level  The New Republic.md",
-    "Instant Pot White Beans (Great Northern, No Soaking!) - Minimalist Baker.md",
-    "pages/epiphany-7-final.html",
-    "pages/easter-6-homily-final-v5.epub",
-    "pages/sample-manu.msk",
-    "pages/vimrc-beelink-9-2024",
-    "pages/easter-6.msk",
-    "pages/easter-6-homily.md_",
-    "pages/easter-6-homily-final-v2.epub",
-    "pages/epiphany-7.docx",
-    "assets/winners-losers/Screenshot 2024-10-27 6.53.35 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.53.56 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.31 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.39 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.06 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.14 AM.png",
-    "assets/winners-losers/Screenshot 2024-10-27 6.54.24 AM.png",
-    "assets/imgs/Wiki image.png",
-    "assets/imgs/lydia-wiki.png",
-    "assets/Paris Agent.jpg"
+    "psalm-summer.md",
+    "preaching.md",
+    "pages/preaching.md"
   ]
 }

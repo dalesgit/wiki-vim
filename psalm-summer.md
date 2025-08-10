@@ -3,23 +3,24 @@ id: psalm-summer
 aliases: []
 tags: []
 ---
-**Psalm 138**
-_Confitebor tibi_
+### Psalm 33:12-22
 
-1 I will give thanks to you, O Lord, with my **whole heart**; *
-before the gods I will sing your **praise**.
+Exultate, justi
 
-2 I will bow down toward your holy temple
-and praise your **Name**, *
-because of your love and **faithfulness**;
+12 Happy is the nation whose God is the **Lord**! *  
+happy the people he has chosen to be his **own**!
 
-3 For you have glorified your **Name** *
-and your word above **all things**.
+13 The Lord looks down from **heaven**, *  
+and beholds all the people in the **world**.
 
-4 When I called, you **answered me**; *
-you increased my strength with**in me**.
+14 From where he sits enthroned he turns his **gaze** *  
+on all who dwell on the **earth**.
 
+15 He fashions all the hearts of **them** *  
+and understands all their **works**.
 
+16 There is no king that can be saved by a mighty **army**; *  
+a strong man is not delivered by his great **strength**.
 ```music-abc
 X: 1
 T: Chant
@@ -32,19 +33,20 @@ V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
 
-5 All the kings of the earth will praise you, O **Lord**, *
-when they have heard the words of your **mouth**.
+17 The horse is a vain hope for de**liverance**; *  
+for all its strength it cannot **save**.
 
-6 They will sing of the ways of the **Lord**, *
-that great is the glory of the **Lord**.
+18 Behold, the eye of the Lord is upon those who **fear him**, *  
+on those who wait upon his **love**,
 
-7 Though the Lord be high, he cares for the **lowly**; *
-he perceives the haughty from a**far**.
+19 To pluck their lives from **death**, *  
+and to feed them in time of **famine**.
 
-8 Though I walk in the midst of trouble, you keep me **safe**; *
-you stretch forth your hand against the fury of my enemies;
-your right hand shall **save me**.
+20 Our soul waits for the **Lord**; *  
+he is our help and our **shield**.
 
-9 The Lord will make good his **purpose for me**; *
-O Lord, your love endures for ever;
-do not abandon the works of your **hands**.
+21 Indeed, our heart rejoices in **him**, *  
+for in his holy Name we put our **trust**.
+
+22 Let your loving-kindness, O Lord, be up**on us**, *  
+as we have put our trust in **you**.
