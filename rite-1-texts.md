@@ -11,7 +11,7 @@ tags: []
 |   |   |
 |---|---|
 ||Blessed be God: Father, Son, and Holy Spirit.|
-|People|And blessed be his kingdom, now and for ever.  Amen.|
+|People|And blessed be his kingdom, now and for ever. Amen.|
 
 *In place of the above, from Easter Day through the Day of Pentecost*
 
