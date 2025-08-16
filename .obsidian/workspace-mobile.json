@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9933967c79a5c383",
+        "id": "6ff2804ae33eaf59",
         "type": "tabs",
         "children": [
           {
-            "id": "57b4327b817fcf1a",
+            "id": "9a3b05a99f7d56a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psalm-summer.md",
+                "file": "rite 1 collect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "psalm-summer"
+              "title": "rite 1 collect"
             }
           },
           {
-            "id": "7c59866997e7c391",
+            "id": "5ec53eec5e7cebec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "simplified-chant-2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "simplified-chant-2"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ],
@@ -209,8 +194,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7c59866997e7c391",
+  "active": "5ec53eec5e7cebec",
   "lastOpenFiles": [
+    "rite 1 collect.md",
     "psalm-summer.md",
     "preaching.md",
     "pages/preaching.md"
