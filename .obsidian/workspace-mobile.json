@@ -11,9 +11,24 @@
             "id": "67d85a0e5fc40762",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "rite-one-texts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "rite-one-texts"
             }
           }
         ]
@@ -93,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "rite-one-texts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
