@@ -6,6 +6,10 @@ tags: []
 
 ## Salutation
 ## Gloria
+
+## Readings
+
+[[psalm-summer]]
 ## Prayers
 ### The Collect at the Prayers
 
@@ -39,12 +43,10 @@ and grant that  we thy servants, who now live by faith, may with joy behold  thy
 
 ### 8 Almighty God, by your Holy Spirit you have made us one  
 with your saints in heaven and on earth: Grant that in our  earthly pilgrimage we may always be supported by this  fellowship of love and prayer, and know ourselves to be  surrounded by their witness to your power and mercy. We  ask this for the sake of Jesus Christ, in whom all our  intercessions are acceptable through the Spirit, and who lives  and reigns for ever and ever. _Amen._
-
 ## Confession
 *The Bishop, when present, or the Priest, stands and says*
 
 Almighty God have mercy on you, forgive you all your sins  through our Lord Jesus Christ, strengthen you in all  goodness, and by the power of the Holy Spirit keep you in  eternal life. _Amen._
-
 ## Offertory
 ### Offertory Sentences
 

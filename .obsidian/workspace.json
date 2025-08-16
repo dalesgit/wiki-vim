@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca532170b7d0200b",
+        "id": "af60caa17d596921",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9c847603aa6d7f",
+            "id": "7e7c4bd197a8d824",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rite 2 texts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "rite 2 texts"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "25832c232d0f7697",
@@ -320,9 +306,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc9c847603aa6d7f",
+  "active": "7e7c4bd197a8d824",
   "lastOpenFiles": [
     "rite 2 texts.md",
+    "psalm-summer-old.md",
     "psalm-summer.md",
     "journal/2025-02-16.md",
     "wiki.md",
@@ -351,7 +338,6 @@
     "journal/2025-04-06.md",
     "journal/2025-04-03.md",
     "journal/2025-03-24.md",
-    "journal/2025-03-23.md",
     "assets/neil-degrasse-tyson-map.jpg",
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
