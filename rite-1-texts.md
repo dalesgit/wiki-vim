@@ -31,7 +31,7 @@ tags: []
 
 Almighty God, unto whom all hearts are open, all desires  known, and from whom no secrets are hid: Cleanse the  thoughts of our hearts by the inspiration of thy Holy Spirit,  that we may perfectly love thee, and worthily magnify thy  holy Name; through Christ our Lord. _Amen._
 
-*Then the Ten Commandments (page [317](https://www.bcponline.org/HE/decaloguet.html)) may be said, or the following*
+*Then the Ten Commandments (page 317) may be said, or the following*
 
 Hear what our Lord Jesus Christ saith:  Thou shalt love the Lord thy God with all thy heart, and with  all thy soul, and with all thy mind. This is the first and great  commandment. And the second is like unto it: Thou shalt  love thy neighbor as thyself. On these two commandments  hang all the Law and the Prophets.
 
