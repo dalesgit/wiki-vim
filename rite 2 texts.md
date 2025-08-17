@@ -77,4 +77,16 @@ Let us with gladness present the offerings and oblations of our life and  labor 
 ![[Rite 2  08-16-25-pages-images-0.jpg]]
 ![[Rite 2  08-16-25-pages-images-1.jpg]]
 ## Blessing
+
+The Lord bless you and keep you. _Amen._  
+The Lord make his face to shine upon you  
+   and be gracious to you. _Amen._  
+The Lord lift up his countenance upon you  
+   and give you peace. _Amen._
+
+Forget not that you are members of God's holy family. Carry out the ministry of love which Christ has given you. Remember the poor, accept the outcast, heal the wounded and afflicted, comfort the broken hearted. Love your  neighbor as yourself. And the blessing of God Almighty ...
+
+May the peace of the Lord Christ go with you : wherever he may send you; may he guide you through the wilderness : protect you through the storm; may he bring you home rejoicing : at the wonders he has shown you; may he bring you home rejoicing : once again into our doors.
+
+The world now is too dangerous and too beautiful for anything but love. May your eyes be so blessed you see God in everyone. Your ears, so you hear the cry of the poor. May your hands be so blessed that everything you touch is a sacrament. Your lips, so you speak nothing but the truth with love. May our feet be so blessed you run to those who need  you. And may your heartbe so opened, so set on fire, that your love changes everything. And the blessing of God Almighty ...
 ## Closing

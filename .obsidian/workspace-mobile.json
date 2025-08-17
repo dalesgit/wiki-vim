@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23569543f208b710",
+        "id": "510a587205ac9aeb",
         "type": "tabs",
         "children": [
           {
-            "id": "67d85a0e5fc40762",
+            "id": "69385cab22e9a50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rite-one-texts.md",
+                "file": "rite 2 texts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rite-one-texts"
+              "title": "rite 2 texts"
             }
           }
         ]
@@ -185,7 +185,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "67d85a0e5fc40762",
+  "active": "69385cab22e9a50c",
   "lastOpenFiles": [
     "rite-one-texts.md",
     "rite 2 texts.md",
