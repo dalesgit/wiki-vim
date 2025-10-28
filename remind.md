@@ -87,9 +87,9 @@ REM Jul 04 AT 10:00 AM call Gardner, church re key %b%
 REM Oct 29 AT 12:00 PM lunch at Metro Diner with Bob %b%
 REM Oct 30 AT 13:30 PM lunch with clergy %b%
 REM Fri FROM Oct 01 2025 UNTIL Nov 29 2025 +2 AT 15:00 MSG Meet with Zack  %b%
-|REM Oct 31 +2 AT 11:30 AM MPH to LA Fitness %b%|
-|REM Nov 02 +2 AT 12:00 PM MPH to Vestry %b%|
-|REM Nov 03 +2 AT 11:30 AM MPH to dermatologist %b%|
-|REM Nov 04 +2 AT 01:00 PM DH to Kalani Ultrasound %b%|
-|REM Nov 05 +2 AT 01:00 PM Lunch with Priscilla - Steve %b%|
-|REM Nov 08 +2 FROM 09:00 AM TO 12:30 CP intro workshop %b%|
+REM Oct 31 +2 AT 11:30 AM MPH to LA Fitness %b%
+REM Nov 02 +2 AT 12:00 PM MPH to Vestry %b%
+REM Nov 03 +2 AT 11:30 AM MPH to dermatologist %b%
+REM Nov 04 +2 AT 01:00 PM DH to Kalani Ultrasound %b%
+REM Nov 05 +2 AT 01:00 PM Lunch with Priscilla - Steve %b%
+REM Nov 08 +2 FROM 09:00 AM TO 12:30 CP intro workshop %b%
