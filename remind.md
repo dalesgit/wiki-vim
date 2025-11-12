@@ -93,4 +93,5 @@ REM Nov 03 +2 AT 11:30 AM MPH to dermatologist %b%
 REM Nov 04 +2 AT 01:00 PM DH to Kalani Ultrasound %b%
 REM Nov 05 +2 AT 01:00 PM Lunch with Priscilla - Steve %b%
 REM Nov 08 +2 FROM 09:00 AM TO 12:30 CP intro workshop %b%
-REM Nov 13 +2 AT 03:30 PM DH Kalani followup %b%
+REM Nov 13 +2 AT 15:30 PM DH Kalani followup %b%
+REM FROM Nov 16 2025 UNTIL Nov 22 2025 Hilton Head with Kids %b% 
