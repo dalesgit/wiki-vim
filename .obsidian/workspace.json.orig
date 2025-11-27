@@ -4,17 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "26fa10a527c4d68d",
+        "id": "af60caa17d596921",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae6862f20dd46ee",
+            "id": "7e7c4bd197a8d824",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remind.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "remind"
+            }
+          },
+          {
+            "id": "4726dfd364feb127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-10-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-28"
             }
           }
         ]
@@ -49,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#centering-prayer",
+                "query": "tag:#names",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -160,8 +198,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -170,8 +208,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -180,8 +218,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -190,8 +228,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -200,8 +238,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -210,8 +248,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -220,8 +258,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -230,8 +268,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -240,8 +278,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -250,8 +288,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -260,8 +298,8 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
             }
           },
           {
@@ -270,55 +308,45 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
+            }
+          },
+          {
+            "id": "95ac35865dd907b1",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
+            }
+          },
+          {
+            "id": "6661b45de6c4d05d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
 <<<<<<< HEAD
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "cccd07cd99bfaa38",
+            "id": "9c927cbbd35bada1",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "20dd0301dfd089c7",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5d8de790be8467f8",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "afd92b97e20449bd",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {},
-=======
->>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
               "icon": "checkmark",
               "title": "Todo"
+=======
+>>>>>>> 0283e264b143941681f9331bb0f4cbc28e4ca375
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -327,36 +355,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+<<<<<<< HEAD
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
+=======
+      "command-palette:Open command palette": false
+>>>>>>> 0283e264b143941681f9331bb0f4cbc28e4ca375
     }
   },
-  "active": "0ae6862f20dd46ee",
+  "active": "7e7c4bd197a8d824",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "journal/2025-04-30.md",
-    "journal/2025-04-29.md",
-    "journal/2025-04-27.md",
-    "journal/2025-04-22.md",
-    "journal/2025-04-06.md",
-    "journal/2025-03-24.md",
-    "journal/2025-03-23.md",
-    "journal/2025-03-08.md",
-    "journal/2025-03-01.md",
-    "journal/2025-03-03.md",
-    "pages/'Packing.md",
-    "pages/Packing.md",
-    "pages/Pacific Cruise Packing list.md",
-=======
->>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
+    "remind.md~",
+    "journal/2025-10-28.md",
+    "remind.md",
+    "rite 2 texts.md",
+    "psalm-summer-old.md",
+    "psalm-summer.md",
+    "journal/2025-02-16.md",
+    "wiki.md",
+    "Psalms-index-sort.md",
+    "Psalms-index.md",
+    "Psalms-index.pdf",
+    "Psalms-index.html",
+    "Psalms index.html",
+    "DIY.md",
+    "Psalms index.md",
+    "Psalms index.odt",
     "index.md",
     "journal/2024-12-09.md",
     "pages/Health.md",
@@ -364,7 +396,6 @@
     "logseq/bak/index/2024-11-05T14_37_46.502Z.Desktop.md",
     "only-whole-wheat-bread.md",
     "simple-multigrain-bread.md",
-    "DIY.md",
     "pages/whole-wheat-bread-simple.md",
     "simple-whole-wheat-seedy-bread.md",
     "rsync syntax backup.md",
@@ -372,31 +403,7 @@
     "journal/2025-04-29.md",
     "journal/2025-04-27.md",
     "journal/2025-04-22.md",
-    "journal/2025-04-06.md",
-    "journal/2025-04-03.md",
-    "journal/2025-03-24.md",
-    "journal/2025-03-23.md",
-    "journal/2025-03-08.md",
-    "journal/2025-03-07.md",
-    "journal/2025-03-05.md",
-    "journal/2025-03-03.md",
-    "Hegseth-Has-All-the-Wrong-Enemies---The-Atlantic.md",
-    "pages/'Packing.md",
-    "journal/2025-03-01.md",
     "assets/neil-degrasse-tyson-map.jpg",
-<<<<<<< HEAD
-    "journal/2025-02-20.md",
-    "journal/2025-02-19.md",
-    "journal/2025-02-18.md",
-    "Verbatim notes.md",
-    "DH-verbatim-module-2.md",
-    "pages/verbatim-draft-2.md",
-    "GKChesterton-notes.md",
-    "Epiphany 7 draft 1.md",
-    "pages/Epiphany 7 draft 2.md",
-    "travel.md",
-=======
->>>>>>> 5ef2d56a63825ed2530f8fba93a6cb5e21d8a800
     "pages/pacific-cruise-itinerary-with-graphic.docx",
     "pacific-cruise-graphic.png",
     "Pasted image 20241105080105.png",
@@ -406,12 +413,8 @@
     "assets/bishops-province8-mokuleia-full-moon.jpg",
     "assets/20250122--l7wfti.pdf",
     "assets/20250122--fab1f.pdf",
-    "calendar.pdf",
-    "assets/pacific-cruise-itinerary-temperature.pdf",
     "assets/Pasted image 20250119183242.png",
     "assets/Pasted image 20250119182937.png",
-    "Nov-13,-2024-Trump-wants-to-get-rid-of-the-Department-of-Education.-What-would-that-do---The-Washington-Post.md.crswap",
-    "assets/Minimalist Baker Instant Pot Guide.pdf",
     "assets/Screen Shot 2024-09-26 at 12.53.32 PM.png",
     "assets/Paris Agent.jpg"
   ]
