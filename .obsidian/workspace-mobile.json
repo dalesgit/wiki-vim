@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "510a587205ac9aeb",
+        "id": "30db06ff7a4cd015",
         "type": "tabs",
         "children": [
           {
-            "id": "69385cab22e9a50c",
+            "id": "fc786a44155384d0",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -27,6 +27,9 @@
               },
               "icon": "lucide-trello",
               "title": "Pacific-Cruise-Packing-list"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -184,9 +187,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "69385cab22e9a50c",
+  "active": "fc786a44155384d0",
   "lastOpenFiles": [
     "rite 2 texts.md",
+    "Pacific-itinerary-edited.md",
+    "/remind.md",
+    "/pages/easter-6.msk",
+    "/pages",
+    "/journal/2025-10-28.md",
+    "journal/2025-10-28.md",
+    "/journal",
+    "/Pacific-itinerary-edited.md",
     "rite-one-texts.md",
     "rite 1 collect.md",
     "rite-1-texts.md",
@@ -195,7 +206,6 @@
     "rite-1-texts.epub_",
     "/pages/rite-one-texts.md",
     "pages/rite-one-texts.md",
-    "/pages",
     "/rite-1-texts.epub_",
     "rite-1-texts.epub",
     "psalm-summer.md",
