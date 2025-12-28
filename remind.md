@@ -60,38 +60,38 @@ REM Feb 27 2025 +2 AT 15:30 MSG Victoria dermatology for DH %b%
 REM [easterdate()] MSG Easter
 REM Feb 27 2025 +10 AT 11:30 MSG DH verbatim %b%
 REM Feb 25 2025 AT 12:30 +2 MSG Clergy lunch loc. tba %b%
-REM Feb 17 +2 AT 15:00  Lou for SD %b%
-REM Feb 17 +2 AT 11:50  Lunch with Shiflet's %b%
-REM Feb 18 +2 AT 12:30  MP lunch with Kathy %b%
-REM Feb 20 +2 AT 18:00  dinner with Hoopers %b%
-REM Mar 03 +2 AT 12:00  DOK meeting %b%
-REM Feb 19 +2 AT 18:00 Meet Mike Martha for dinner %b%
+REM Feb 17 +2 AT 15:00  MSG Lou for SD %b%
+REM Feb 17 +2 AT 11:50  MSG Lunch with Shiflet's %b%
+REM Feb 18 +2 AT 12:30  MSG MP lunch with Kathy %b%
+REM Feb 20 +2 AT 18:00  MSG dinner with Hoopers %b%
+REM Mar 03 +2 AT 12:00  MSG DOK meeting %b%
+REM Feb 19 +2 AT 18:00 MSG Meet Mike Martha for dinner %b%
 REM Feb 19 +2 AT 15:00 MSG Shop at Countryside %b%
 REM Feb 19 AT 12:30 MSG meet with clergy re. dialogue meeting %b%
 REM Feb 24 AT 13:15 MSG MP to orthopedist %b%
-REM Jun 30 +2 AT 02:00 PM Dr. Basil (crown) %b%
-REM Jul 01 +2 AT 10:30 AM LA Fitness %b%
-REM Jul 02 +2 AT 01:30 PM Finish Product selection Bathmasters %b%
-REM Jul 03 +2 AT 01:00 PM Lunch with clergy %b%
-REM Jul 04 +2 AT 03:00 PM Meet Zack %b%
-REM Jul 05 +2 AT 05:00 PM DH to celebrate %b%
-REM Jul 06 +2 AT 10:00 AM DH to celebrate %b%
-REM Jul 07 +2 AT 08:00 AM Dermatology follow-up %b%
-REM Jul 25 +2 AT 11:00 AM Linda for DH %b%
-REM Jul 26 +2 AT 05:00 PM DH to preach %b%
-REM Jul 27 +2 AT 10:00 AM DH to preach %b%
-REM Jul 19 +2 AT 05:00 PM DH to celebrate %b%
-REM Jul 20 +2 AT 10:00 AM DH to celebrate %b%
-REM Jul 12 2025 *1 UNTIL Jul 19 2025 with Bud/Bertha in Orlando %b% 
-REM Jul 04 AT 10:00 AM call Gardner, church re key %b%
-REM Oct 29 AT 12:00 PM lunch at Metro Diner with Bob %b%
-REM Oct 30 AT 13:30 PM lunch with clergy %b%
+REM Jun 30 +2 AT 14:00 MSG Dr. Basil (crown) %b%
+REM Jul 01 +2 AT 10:30 MSG LA Fitness %b%
+REM Jul 02 +2 AT 13:30 MSG Finish Product selection Bathmasters %b%
+REM Jul 03 +2 AT 13:00 MSG Lunch with clergy %b%
+REM Jul 04 +2 AT 15:00 MSG Meet Zack %b%
+REM Jul 05 +2 AT 17:00 MSG DH to celebrate %b%
+REM Jul 06 +2 AT 10:00 MSG DH to celebrate %b%
+REM Jul 07 +2 AT 08:00 MSG Dermatology follow-up %b%
+REM Jul 25 +2 AT 11:00 MSG Linda for DH %b%
+REM Jul 26 +2 AT 17:00 MSG DH to preach %b%
+REM Jul 27 +2 AT 10:00 MSG DH to preach %b%
+REM Jul 19 +2 AT 17:00 MSG DH to celebrate %b%
+REM Jul 20 +2 AT 10:00 MSG DH to celebrate %b%
+REM Jul 12 2025 *1 UNTIL Jul 19 2025 MSG with Bud/Bertha in Orlando %b% 
+REM Jul 04 AT 10:00 MSG call Gardner, church re key %b%
+REM Oct 29 AT 12:00 MSG lunch at Metro Diner with Bob %b%
+REM Oct 30 AT 13:30 MSG lunch with clergy %b%
 REM Fri FROM Oct 01 2025 UNTIL Nov 29 2025 +2 AT 15:00 MSG Meet with Zack  %b%
-REM Oct 31 +2 AT 11:30 AM MPH to LA Fitness %b%
-REM Nov 02 +2 AT 12:00 PM MPH to Vestry %b%
-REM Nov 03 +2 AT 11:30 AM MPH to dermatologist %b%
-REM Nov 04 +2 AT 01:00 PM DH to Kalani Ultrasound %b%
-REM Nov 05 +2 AT 01:00 PM Lunch with Priscilla - Steve %b%
-REM Nov 08 +2 FROM 09:00 AM TO 12:30 CP intro workshop %b%
-REM Nov 13 +2 AT 15:30 PM DH Kalani followup %b%
-REM FROM Nov 16 2025 UNTIL Nov 22 2025 Hilton Head with Kids %b% 
+REM Oct 31 +2 AT 11:30 MSG MPH to LA Fitness %b%
+REM Nov 02 +2 AT 12:00 MSG MPH to Vestry %b%
+REM Nov 03 +2 AT 11:30 MSG MPH to dermatologist %b%
+REM Nov 04 +2 AT 13:00 MSG DH to Kalani Ultrasound %b%
+REM Nov 05 +2 AT 13:00 MSG Lunch with Priscilla - Steve %b%
+REM Nov 08 +2 AT 09:00 MSG CP intro workshop 3.5 hours %b%
+REM Nov 13 +2 AT 15:30 MSG DH Kalarni followup %b%
+REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b% 
