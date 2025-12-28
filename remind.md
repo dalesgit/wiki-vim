@@ -95,3 +95,4 @@ REM Nov 05 +2 AT 13:00 MSG Lunch with Priscilla - Steve %b%
 REM Nov 08 +2 AT 09:00 MSG CP intro workshop 3.5 hours %b%
 REM Nov 13 +2 AT 15:30 MSG DH Kalarni followup %b%
 REM FROM Nov 16 2025 UNTIL Nov 22 2025 MSG Hilton Head with Kids %b% 
+REM FROM Jan 06 2026 UNTIL Jan 13 2026 MSG DH to Colorado with Julian %b% 
